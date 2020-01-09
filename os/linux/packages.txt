@@ -1,4 +1,4 @@
-Last metadata expiration check: 0:03:07 ago on Thu 09 Jan 2020 11:03:33 AM JST.
+Last metadata expiration check: 10:35:55 ago on Thu 09 Jan 2020 11:03:33 AM JST.
 Installed Packages
 NetworkManager.x86_64                                1:1.20.0-3.el8                                          @anaconda        
 NetworkManager-libnm.x86_64                          1:1.20.0-3.el8                                          @anaconda        
@@ -16,7 +16,7 @@ biosdevname.x86_64                                   0.7.3-2.el8                
 brotli.x86_64                                        1.0.6-1.el8                                             @anaconda        
 bzip2-libs.x86_64                                    1.0.6-26.el8                                            @anaconda        
 c-ares.x86_64                                        1.13.0-5.el8                                            @anaconda        
-ca-certificates.noarch                               2018.2.24-6.el8                                         @anaconda        
+ca-certificates.noarch                               2019.2.32-80.0.el8_1                                    @Stream-BaseOS   
 centos-gpg-keys.noarch                               8.1-1.1911.0.7.el8                                      @anaconda        
 centos-release.x86_64                                8.1-1.1911.0.7.el8                                      @anaconda        
 centos-release-stream.x86_64                         8.1-1.1911.0.7.el8                                      @anaconda        
@@ -41,21 +41,21 @@ dbus-daemon.x86_64                                   1:1.12.8-9.el8             
 dbus-glib.x86_64                                     0.110-2.el8                                             @anaconda        
 dbus-libs.x86_64                                     1:1.12.8-9.el8                                          @anaconda        
 dbus-tools.x86_64                                    1:1.12.8-9.el8                                          @anaconda        
-device-mapper.x86_64                                 8:1.02.163-5.el8                                        @anaconda        
-device-mapper-libs.x86_64                            8:1.02.163-5.el8                                        @anaconda        
+device-mapper.x86_64                                 8:1.02.163-5.el8.0.1                                    @Stream-BaseOS   
+device-mapper-libs.x86_64                            8:1.02.163-5.el8.0.1                                    @Stream-BaseOS   
 dhcp-client.x86_64                                   12:4.3.6-34.el8                                         @anaconda        
 dhcp-common.noarch                                   12:4.3.6-34.el8                                         @anaconda        
 dhcp-libs.x86_64                                     12:4.3.6-34.el8                                         @anaconda        
 diffutils.x86_64                                     3.6-5.el8                                               @anaconda        
 dmidecode.x86_64                                     1:3.2-3.el8                                             @anaconda        
-dnf.noarch                                           4.2.7-6.el8                                             @anaconda        
-dnf-data.noarch                                      4.2.7-6.el8                                             @anaconda        
+dnf.noarch                                           4.2.7-7.el8_1                                           @Stream-BaseOS   
+dnf-data.noarch                                      4.2.7-7.el8_1                                           @Stream-BaseOS   
 dnf-plugin-spacewalk.noarch                          2.8.5-11.module_el8.1.0+211+ad6c0bc7                    @AppStream       
 dnf-plugins-core.noarch                              4.0.8-3.el8                                             @anaconda        
-dracut.x86_64                                        049-27.git20190906.el8                                  @anaconda        
-dracut-config-rescue.x86_64                          049-27.git20190906.el8                                  @anaconda        
-dracut-network.x86_64                                049-27.git20190906.el8                                  @anaconda        
-dracut-squash.x86_64                                 049-27.git20190906.el8                                  @anaconda        
+dracut.x86_64                                        049-27.git20190906.el8_1.1                              @Stream-BaseOS   
+dracut-config-rescue.x86_64                          049-27.git20190906.el8_1.1                              @Stream-BaseOS   
+dracut-network.x86_64                                049-27.git20190906.el8_1.1                              @Stream-BaseOS   
+dracut-squash.x86_64                                 049-27.git20190906.el8_1.1                              @Stream-BaseOS   
 e2fsprogs.x86_64                                     1.44.6-3.el8                                            @anaconda        
 e2fsprogs-libs.x86_64                                1.44.6-3.el8                                            @anaconda        
 elfutils-default-yama-scope.noarch                   0.176-5.el8                                             @anaconda        
@@ -83,9 +83,9 @@ geolite2-city.noarch                                 20180605-1.el8             
 geolite2-country.noarch                              20180605-1.el8                                          @AppStream       
 gettext.x86_64                                       0.19.8.1-17.el8                                         @anaconda        
 gettext-libs.x86_64                                  0.19.8.1-17.el8                                         @anaconda        
-git.x86_64                                           2.18.1-4.el8                                            @Stream-AppStream
-git-core.x86_64                                      2.18.1-4.el8                                            @Stream-AppStream
-git-core-doc.noarch                                  2.18.1-4.el8                                            @Stream-AppStream
+git.x86_64                                           2.18.2-1.el8_1                                          @Stream-AppStream
+git-core.x86_64                                      2.18.2-1.el8_1                                          @Stream-AppStream
+git-core-doc.noarch                                  2.18.2-1.el8_1                                          @Stream-AppStream
 glib2.x86_64                                         2.56.4-7.el8                                            @anaconda        
 glibc.x86_64                                         2.28-72.el8                                             @anaconda        
 glibc-common.x86_64                                  2.28-72.el8                                             @anaconda        
@@ -109,7 +109,7 @@ gzip.x86_64                                          1.9-9.el8                  
 hardlink.x86_64                                      1:1.3-6.el8                                             @anaconda        
 hdparm.x86_64                                        9.54-2.el8                                              @anaconda        
 hostname.x86_64                                      3.20-6.el8                                              @anaconda        
-hwdata.noarch                                        0.314-8.1.el8                                           @anaconda        
+hwdata.noarch                                        0.314-8.2.el8_1                                         @Stream-BaseOS   
 ima-evm-utils.x86_64                                 1.1-5.el8                                               @anaconda        
 info.x86_64                                          6.5-4.el8                                               @anaconda        
 initscripts.x86_64                                   10.00.4-1.el8                                           @anaconda        
@@ -148,7 +148,7 @@ kernel-core.x86_64                                   4.18.0-151.el8             
 kernel-modules.x86_64                                4.18.0-151.el8                                          @anaconda        
 kernel-tools.x86_64                                  4.18.0-151.el8                                          @anaconda        
 kernel-tools-libs.x86_64                             4.18.0-151.el8                                          @anaconda        
-kexec-tools.x86_64                                   2.0.19-12.el8                                           @anaconda        
+kexec-tools.x86_64                                   2.0.19-12.el8_1.1                                       @Stream-BaseOS   
 keyutils-libs.x86_64                                 1.5.10-6.el8                                            @anaconda        
 kmod.x86_64                                          25-13.el8                                               @anaconda        
 kmod-libs.x86_64                                     25-13.el8                                               @anaconda        
@@ -174,7 +174,7 @@ libdb.x86_64                                         5.3.28-37.el8              
 libdb-utils.x86_64                                   5.3.28-37.el8                                           @anaconda        
 libdhash.x86_64                                      0.5.0-39.el8                                            @anaconda        
 libdnet.x86_64                                       1.12-26.el8                                             @AppStream       
-libdnf.x86_64                                        0.35.1-8.el8                                            @anaconda        
+libdnf.x86_64                                        0.35.1-9.el8_1                                          @Stream-BaseOS   
 libdrm.x86_64                                        2.4.98-2.el8                                            @AppStream       
 libedit.x86_64                                       3.1-23.20170329cvs.el8                                  @anaconda        
 libestr.x86_64                                       0.1.10-1.el8                                            @AppStream       
@@ -197,7 +197,7 @@ libldb.x86_64                                        1.5.4-2.el8                
 libmaxminddb.x86_64                                  1.2.0-6.el8                                             @AppStream       
 libmetalink.x86_64                                   0.1.3-7.el8                                             @anaconda        
 libmnl.x86_64                                        1.0.4-6.el8                                             @anaconda        
-libmodulemd1.x86_64                                  1.8.0-5.el8                                             @anaconda        
+libmodulemd1.x86_64                                  1.8.11-4.el8_1                                          @Stream-BaseOS   
 libmount.x86_64                                      2.32.1-17.el8                                           @anaconda        
 libmspack.x86_64                                     0.7-0.1.alpha.el8.3                                     @AppStream       
 libndp.x86_64                                        1.7-1.el8                                               @anaconda        
@@ -264,7 +264,7 @@ lua-libs.x86_64                                      5.3.4-11.el8               
 lz4-libs.x86_64                                      1.8.1.2-4.el8                                           @anaconda        
 lzo.x86_64                                           2.08-14.el8                                             @anaconda        
 man-db.x86_64                                        2.7.6.1-17.el8                                          @anaconda        
-microcode_ctl.x86_64                                 4:20180807a-2.20190618.1.el8_0                          @anaconda        
+microcode_ctl.x86_64                                 4:20190618-1.20191115.3.el8_1                           @Stream-BaseOS   
 mozjs60.x86_64                                       60.9.0-3.el8                                            @anaconda        
 mpfr.x86_64                                          3.1.6-1.el8                                             @anaconda        
 ncurses.x86_64                                       6.1-7.20180224.el8                                      @anaconda        
@@ -275,7 +275,7 @@ newt.x86_64                                          0.52.20-9.el8              
 nftables.x86_64                                      1:0.9.0-14.el8                                          @anaconda        
 npth.x86_64                                          1.5-4.el8                                               @anaconda        
 numactl-libs.x86_64                                  2.0.12-7.el8                                            @anaconda        
-open-vm-tools.x86_64                                 10.3.10-3.el8                                           @AppStream       
+open-vm-tools.x86_64                                 10.3.10-3.el8_1.1                                       @Stream-AppStream
 openldap.x86_64                                      2.4.46-10.el8                                           @anaconda        
 openssh.x86_64                                       8.0p1-3.el8                                             @anaconda        
 openssh-clients.x86_64                               8.0p1-3.el8                                             @anaconda        
@@ -304,7 +304,7 @@ perl-Exporter.noarch                                 5.72-396.el8               
 perl-File-Path.noarch                                2.15-2.el8                                              @BaseOS          
 perl-File-Temp.noarch                                0.230.600-1.el8                                         @BaseOS          
 perl-Getopt-Long.noarch                              1:2.50-4.el8                                            @BaseOS          
-perl-Git.noarch                                      2.18.1-4.el8                                            @Stream-AppStream
+perl-Git.noarch                                      2.18.2-1.el8_1                                          @Stream-AppStream
 perl-HTTP-Tiny.noarch                                0.074-1.el8                                             @BaseOS          
 perl-IO.x86_64                                       1.38-416.el8                                            @BaseOS          
 perl-IO-Socket-IP.noarch                             0.39-5.el8                                              @AppStream       
@@ -361,17 +361,17 @@ python3-dateutil.noarch                              1:2.6.1-6.el8              
 python3-dbus.x86_64                                  1.2.4-15.el8                                            @anaconda        
 python3-decorator.noarch                             4.2.1-2.el8                                             @anaconda        
 python3-dmidecode.x86_64                             3.12.2-15.el8                                           @anaconda        
-python3-dnf.noarch                                   4.2.7-6.el8                                             @anaconda        
+python3-dnf.noarch                                   4.2.7-7.el8_1                                           @Stream-BaseOS   
 python3-dnf-plugin-spacewalk.noarch                  2.8.5-11.module_el8.1.0+211+ad6c0bc7                    @AppStream       
 python3-dnf-plugins-core.noarch                      4.0.8-3.el8                                             @anaconda        
 python3-firewall.noarch                              0.7.0-5.el8                                             @anaconda        
 python3-gobject-base.x86_64                          3.28.3-1.el8                                            @anaconda        
 python3-gpg.x86_64                                   1.10.0-6.el8.0.1                                        @anaconda        
-python3-hawkey.x86_64                                0.35.1-8.el8                                            @anaconda        
+python3-hawkey.x86_64                                0.35.1-9.el8_1                                          @Stream-BaseOS   
 python3-hwdata.noarch                                2.3.6-3.el8                                             @AppStream       
 python3-idna.noarch                                  2.5-5.el8                                               @anaconda        
 python3-libcomps.x86_64                              0.1.11-2.el8                                            @anaconda        
-python3-libdnf.x86_64                                0.35.1-8.el8                                            @anaconda        
+python3-libdnf.x86_64                                0.35.1-9.el8_1                                          @Stream-BaseOS   
 python3-librepo.x86_64                               1.10.3-3.el8                                            @anaconda        
 python3-libs.x86_64                                  3.6.8-15.1.el8                                          @anaconda        
 python3-libselinux.x86_64                            2.9-2.1.el8                                             @anaconda        
@@ -408,7 +408,7 @@ rsyslog.x86_64                                       8.37.0-13.el8              
 sed.x86_64                                           4.5-1.el8                                               @anaconda        
 selinux-policy.noarch                                3.14.3-20.el8                                           @anaconda        
 selinux-policy-targeted.noarch                       3.14.3-20.el8                                           @anaconda        
-setup.noarch                                         2.12.2-2.el8                                            @anaconda        
+setup.noarch                                         2.12.2-2.el8_1.1                                        @Stream-BaseOS   
 sg3_utils.x86_64                                     1.44-3.el8                                              @anaconda        
 sg3_utils-libs.x86_64                                1.44-3.el8                                              @anaconda        
 shadow-utils.x86_64                                  2:4.6-8.el8                                             @anaconda        
@@ -421,11 +421,11 @@ sssd-client.x86_64                                   2.2.0-19.el8               
 sssd-common.x86_64                                   2.2.0-19.el8                                            @anaconda        
 sssd-kcm.x86_64                                      2.2.0-19.el8                                            @anaconda        
 sssd-nfs-idmap.x86_64                                2.2.0-19.el8                                            @anaconda        
-sudo.x86_64                                          1.8.25p1-7.el8                                          @anaconda        
-systemd.x86_64                                       239-18.el8                                              @anaconda        
-systemd-libs.x86_64                                  239-18.el8                                              @anaconda        
-systemd-pam.x86_64                                   239-18.el8                                              @anaconda        
-systemd-udev.x86_64                                  239-18.el8                                              @anaconda        
+sudo.x86_64                                          1.8.25p1-8.el8_1                                        @Stream-BaseOS   
+systemd.x86_64                                       239-18.el8_1.1                                          @Stream-BaseOS   
+systemd-libs.x86_64                                  239-18.el8_1.1                                          @Stream-BaseOS   
+systemd-pam.x86_64                                   239-18.el8_1.1                                          @Stream-BaseOS   
+systemd-udev.x86_64                                  239-18.el8_1.1                                          @Stream-BaseOS   
 tar.x86_64                                           2:1.30-4.el8                                            @anaconda        
 teamd.x86_64                                         1.28-4.el8                                              @anaconda        
 timedatex.x86_64                                     0.5-3.el8                                               @anaconda        
@@ -444,7 +444,7 @@ xmlsec1.x86_64                                       1.2.25-4.el8               
 xmlsec1-openssl.x86_64                               1.2.25-4.el8                                            @AppStream       
 xz.x86_64                                            5.2.4-3.el8                                             @anaconda        
 xz-libs.x86_64                                       5.2.4-3.el8                                             @anaconda        
-yum.noarch                                           4.2.7-6.el8                                             @anaconda        
+yum.noarch                                           4.2.7-7.el8_1                                           @Stream-BaseOS   
 zlib.x86_64                                          1.2.11-10.el8                                           @anaconda        
 Available Packages
 CUnit.i686                                           2.1.3-17.el8                                            AppStream        
@@ -1174,7 +1174,6 @@ c-ares-devel.x86_64                                  1.13.0-5.el8               
 c-ares-devel.x86_64                                  1.13.0-5.el8                                            Stream-BaseOS    
 c2esp.x86_64                                         2.7-14.el8                                              AppStream        
 c2esp.x86_64                                         2.7-14.el8                                              Stream-AppStream 
-ca-certificates.noarch                               2019.2.32-80.0.el8_1                                    Stream-BaseOS    
 cachefilesd.i686                                     0.10.10-4.el8                                           BaseOS           
 cachefilesd.i686                                     0.10.10-4.el8                                           Stream-BaseOS    
 cachefilesd.x86_64                                   0.10.10-4.el8                                           BaseOS           
@@ -1560,13 +1559,11 @@ devhelp-libs.i686                                    1:3.28.1-5.el8             
 devhelp-libs.x86_64                                  1:3.28.1-5.el8                                          AppStream        
 devhelp-libs.x86_64                                  1:3.28.1-5.el8                                          Stream-AppStream 
 device-mapper.i686                                   8:1.02.163-5.el8                                        Stream-BaseOS    
-device-mapper.x86_64                                 8:1.02.163-5.el8.0.1                                    Stream-BaseOS    
 device-mapper-event.i686                             8:1.02.163-5.el8                                        Stream-BaseOS    
 device-mapper-event.x86_64                           8:1.02.163-5.el8.0.1                                    Stream-BaseOS    
 device-mapper-event-libs.i686                        8:1.02.163-5.el8.0.1                                    Stream-BaseOS    
 device-mapper-event-libs.x86_64                      8:1.02.163-5.el8.0.1                                    Stream-BaseOS    
 device-mapper-libs.i686                              8:1.02.163-5.el8.0.1                                    Stream-BaseOS    
-device-mapper-libs.x86_64                            8:1.02.163-5.el8.0.1                                    Stream-BaseOS    
 device-mapper-multipath.i686                         0.8.0-5.el8                                             Stream-BaseOS    
 device-mapper-multipath.x86_64                       0.8.0-5.el8                                             Stream-BaseOS    
 device-mapper-multipath-libs.i686                    0.8.0-5.el8                                             Stream-BaseOS    
@@ -1601,9 +1598,7 @@ dleyna-server.x86_64                                 0.6.0-2.el8                
 dlm-lib.i686                                         4.0.9-3.el8                                             Stream-BaseOS    
 dlm-lib.x86_64                                       4.0.9-3.el8                                             Stream-BaseOS    
 dmidecode.i686                                       1:3.2-3.el8                                             Stream-BaseOS    
-dnf.noarch                                           4.2.7-7.el8_1                                           Stream-BaseOS    
 dnf-automatic.noarch                                 4.2.7-7.el8_1                                           Stream-BaseOS    
-dnf-data.noarch                                      4.2.7-7.el8_1                                           Stream-BaseOS    
 dnf-plugin-subscription-manager.i686                 1.25.17-1.el8                                           Stream-BaseOS    
 dnf-plugin-subscription-manager.x86_64               1.25.17-1.el8                                           Stream-BaseOS    
 dnf-utils.noarch                                     4.0.2.2-3.el8                                           BaseOS           
@@ -1644,17 +1639,13 @@ dpdk-devel.x86_64                                    18.11.2-3.el8              
 dpdk-doc.noarch                                      18.11.2-3.el8                                           Stream-AppStream 
 dpdk-tools.x86_64                                    18.11.2-3.el8                                           Stream-AppStream 
 dracut.i686                                          049-27.git20190906.el8                                  Stream-BaseOS    
-dracut.x86_64                                        049-27.git20190906.el8_1.1                              Stream-BaseOS    
 dracut-caps.x86_64                                   049-27.git20190906.el8_1.1                              Stream-BaseOS    
 dracut-config-generic.i686                           049-27.git20190906.el8                                  Stream-BaseOS    
 dracut-config-generic.x86_64                         049-27.git20190906.el8_1.1                              Stream-BaseOS    
 dracut-config-rescue.i686                            049-27.git20190906.el8                                  Stream-BaseOS    
-dracut-config-rescue.x86_64                          049-27.git20190906.el8_1.1                              Stream-BaseOS    
 dracut-live.x86_64                                   049-27.git20190906.el8_1.1                              Stream-BaseOS    
 dracut-network.i686                                  049-27.git20190906.el8                                  Stream-BaseOS    
-dracut-network.x86_64                                049-27.git20190906.el8_1.1                              Stream-BaseOS    
 dracut-squash.i686                                   049-27.git20190906.el8                                  Stream-BaseOS    
-dracut-squash.x86_64                                 049-27.git20190906.el8_1.1                              Stream-BaseOS    
 dracut-tools.x86_64                                  049-27.git20190906.el8_1.1                              Stream-BaseOS    
 driverctl.noarch                                     0.101-1.el8                                             AppStream        
 driverctl.noarch                                     0.101-1.el8                                             Stream-AppStream 
@@ -2184,12 +2175,9 @@ gimp-devel-tools.x86_64                              2:2.8.22-15.module_el8.0.0+
 gimp-devel-tools.x86_64                              2:2.8.22-15.module_el8.0.0+36+bb6a76a2                  Stream-AppStream 
 gimp-libs.x86_64                                     2:2.8.22-15.module_el8.0.0+36+bb6a76a2                  AppStream        
 gimp-libs.x86_64                                     2:2.8.22-15.module_el8.0.0+36+bb6a76a2                  Stream-AppStream 
-git.x86_64                                           2.18.2-1.el8_1                                          Stream-AppStream 
 git-all.noarch                                       2.18.2-1.el8_1                                          Stream-AppStream 
 git-clang-format.i686                                8.0.1-1.module_el8.1.0+215+a01033fb                     Stream-AppStream 
 git-clang-format.x86_64                              8.0.1-1.module_el8.1.0+215+a01033fb                     Stream-AppStream 
-git-core.x86_64                                      2.18.2-1.el8_1                                          Stream-AppStream 
-git-core-doc.noarch                                  2.18.2-1.el8_1                                          Stream-AppStream 
 git-daemon.x86_64                                    2.18.2-1.el8_1                                          Stream-AppStream 
 git-email.noarch                                     2.18.2-1.el8_1                                          Stream-AppStream 
 git-gui.noarch                                       2.18.2-1.el8_1                                          Stream-AppStream 
@@ -3746,7 +3734,6 @@ hunspell-yi.noarch                                   1.1-15.el8                 
 hunspell-yi.noarch                                   1.1-15.el8                                              Stream-AppStream 
 hunspell-zu.noarch                                   0.20100126-16.el8                                       AppStream        
 hunspell-zu.noarch                                   0.20100126-16.el8                                       Stream-AppStream 
-hwdata.noarch                                        0.314-8.2.el8_1                                         Stream-BaseOS    
 hwloc.i686                                           1.11.9-3.el8                                            Stream-BaseOS    
 hwloc.x86_64                                         1.11.9-3.el8                                            Stream-BaseOS    
 hwloc-gui.x86_64                                     1.11.9-3.el8                                            Stream-AppStream 
@@ -4226,7 +4213,6 @@ kernel-modules-extra.x86_64                          4.18.0-151.el8             
 kernel-rpm-macros.noarch                             120-1.el8                                               Stream-AppStream 
 kernelshark.x86_64                                   2.7-8.el8                                               Stream-AppStream 
 kexec-tools.i686                                     2.0.19-12.el8                                           Stream-BaseOS    
-kexec-tools.x86_64                                   2.0.19-12.el8_1.1                                       Stream-BaseOS    
 keybinder3.i686                                      0.3.2-4.el8                                             AppStream        
 keybinder3.i686                                      0.3.2-4.el8                                             Stream-AppStream 
 keybinder3.x86_64                                    0.3.2-4.el8                                             AppStream        
@@ -5002,7 +4988,6 @@ libdmx.x86_64                                        1.1.4-3.el8                
 libdnet.i686                                         1.12-26.el8                                             AppStream        
 libdnet.i686                                         1.12-26.el8                                             Stream-AppStream 
 libdnf.i686                                          0.35.1-9.el8_1                                          Stream-BaseOS    
-libdnf.x86_64                                        0.35.1-9.el8_1                                          Stream-BaseOS    
 libdrm.i686                                          2.4.98-2.el8                                            Stream-AppStream 
 libdrm-devel.i686                                    2.4.98-2.el8                                            Stream-AppStream 
 libdrm-devel.x86_64                                  2.4.98-2.el8                                            Stream-AppStream 
@@ -5490,7 +5475,6 @@ libmodman.x86_64                                     2.0.1-17.el8               
 libmodulemd.i686                                     2.5.0-4.el8_1                                           Stream-BaseOS    
 libmodulemd.x86_64                                   2.5.0-4.el8_1                                           Stream-BaseOS    
 libmodulemd1.i686                                    1.8.11-4.el8_1                                          Stream-BaseOS    
-libmodulemd1.x86_64                                  1.8.11-4.el8_1                                          Stream-BaseOS    
 libmount.i686                                        2.32.1-17.el8                                           Stream-BaseOS    
 libmpc.i686                                          1.0.2-9.el8                                             AppStream        
 libmpc.i686                                          1.0.2-9.el8                                             Stream-AppStream 
@@ -6736,7 +6720,6 @@ metacity.x86_64                                      3.28.0-1.el8               
 metacity.x86_64                                      3.28.0-1.el8                                            Stream-AppStream 
 microcode_ctl.i686                                   4:20180807a-2.20190618.1.el8_0                          BaseOS           
 microcode_ctl.i686                                   4:20180807a-2.20190618.1.el8_0                          Stream-BaseOS    
-microcode_ctl.x86_64                                 4:20190618-1.20191115.3.el8_1                           Stream-BaseOS    
 microdnf.x86_64                                      3.0.1-3.el8                                             Stream-BaseOS    
 minicom.i686                                         2.7.1-9.el8                                             BaseOS           
 minicom.i686                                         2.7.1-9.el8                                             Stream-BaseOS    
@@ -7163,7 +7146,6 @@ open-sans-fonts.noarch                               1.10-6.el8                 
 open-sans-fonts.noarch                               1.10-6.el8                                              BaseOS           
 open-sans-fonts.noarch                               1.10-6.el8                                              Stream-AppStream 
 open-sans-fonts.noarch                               1.10-6.el8                                              Stream-BaseOS    
-open-vm-tools.x86_64                                 10.3.10-3.el8_1.1                                       Stream-AppStream 
 open-vm-tools-desktop.x86_64                         10.3.10-3.el8_1.1                                       Stream-AppStream 
 openal-soft.i686                                     1.18.2-7.el8                                            AppStream        
 openal-soft.i686                                     1.18.2-7.el8                                            Stream-AppStream 
@@ -7691,7 +7673,6 @@ perl-Filter-Simple.noarch                            0.94-2.el8                 
 perl-Filter-Simple.noarch                            0.94-2.el8                                              Stream-AppStream 
 perl-GSSAPI.x86_64                                   0.28-23.el8                                             AppStream        
 perl-GSSAPI.x86_64                                   0.28-23.el8                                             Stream-AppStream 
-perl-Git.noarch                                      2.18.2-1.el8_1                                          Stream-AppStream 
 perl-Git-SVN.noarch                                  2.18.2-1.el8_1                                          Stream-AppStream 
 perl-HTML-Parser.x86_64                              3.72-14.el8                                             AppStream        
 perl-HTML-Parser.x86_64                              3.72-14.el8                                             Stream-AppStream 
@@ -8366,7 +8347,6 @@ python3-dbus-python-client-gen.noarch                0.6-2.el8                  
 python3-dbus-signature-pyparsing.noarch              0.03-2.el8                                              AppStream        
 python3-dbus-signature-pyparsing.noarch              0.03-2.el8                                              Stream-AppStream 
 python3-distro.noarch                                1.4.0-2.module_el8.1.0+245+c39af44f                     Stream-AppStream 
-python3-dnf.noarch                                   4.2.7-7.el8_1                                           Stream-BaseOS    
 python3-dnf-plugin-versionlock.noarch                4.0.8-3.el8                                             Stream-BaseOS    
 python3-dns.noarch                                   1.15.0-8.el8                                            BaseOS           
 python3-dns.noarch                                   1.15.0-8.el8                                            Stream-BaseOS    
@@ -8397,7 +8377,6 @@ python3-greenlet.x86_64                              0.4.13-3.el8               
 python3-greenlet.x86_64                              0.4.13-3.el8                                            Stream-AppStream 
 python3-gssapi.x86_64                                1.5.1-5.el8                                             Stream-AppStream 
 python3-hawkey.i686                                  0.35.1-8.el8                                            Stream-BaseOS    
-python3-hawkey.x86_64                                0.35.1-9.el8_1                                          Stream-BaseOS    
 python3-hivex.x86_64                                 1.3.15-7.module_el8.1.0+248+298dec18                    Stream-AppStream 
 python3-html5lib.noarch                              1:0.999999999-6.el8                                     AppStream        
 python3-html5lib.noarch                              1:0.999999999-6.el8                                     Stream-AppStream 
@@ -8449,7 +8428,6 @@ python3-ldb.i686                                     1.5.4-2.el8                
 python3-ldb.x86_64                                   1.5.4-2.el8                                             Stream-BaseOS    
 python3-libcomps.i686                                0.1.11-2.el8                                            Stream-BaseOS    
 python3-libdnf.i686                                  0.35.1-8.el8                                            Stream-BaseOS    
-python3-libdnf.x86_64                                0.35.1-9.el8_1                                          Stream-BaseOS    
 python3-libguestfs.x86_64                            1:1.38.4-14.module_el8.1.0+248+298dec18                 Stream-AppStream 
 python3-libipa_hbac.x86_64                           2.2.0-19.el8                                            Stream-BaseOS    
 python3-libnl3.x86_64                                3.4.0-5.el8                                             Stream-BaseOS    
@@ -9294,7 +9272,6 @@ setserial.i686                                       2.17-45.el8                
 setserial.i686                                       2.17-45.el8                                             Stream-BaseOS    
 setserial.x86_64                                     2.17-45.el8                                             BaseOS           
 setserial.x86_64                                     2.17-45.el8                                             Stream-BaseOS    
-setup.noarch                                         2.12.2-2.el8_1.1                                        Stream-BaseOS    
 sg3_utils.i686                                       1.44-3.el8                                              Stream-BaseOS    
 sg3_utils-libs.i686                                  1.44-3.el8                                              Stream-BaseOS    
 sgabios.x86_64                                       1:0.20170427git-3.module_el8.1.0+248+298dec18           Stream-AppStream 
@@ -9519,7 +9496,6 @@ subversion-perl.x86_64                               1.10.2-1.module_el8.0.0+45+
 subversion-tools.x86_64                              1.10.2-1.module_el8.0.0+45+75bba4f4                     AppStream        
 subversion-tools.x86_64                              1.10.2-1.module_el8.0.0+45+75bba4f4                     Stream-AppStream 
 sudo.i686                                            1.8.25p1-7.el8                                          Stream-BaseOS    
-sudo.x86_64                                          1.8.25p1-8.el8_1                                        Stream-BaseOS    
 suitesparse.i686                                     4.4.6-11.el8                                            AppStream        
 suitesparse.i686                                     4.4.6-11.el8                                            Stream-AppStream 
 suitesparse.x86_64                                   4.4.6-11.el8                                            AppStream        
@@ -9557,19 +9533,15 @@ system-config-printer-udev.x86_64                    1.5.11-13.el8              
 system-config-printer-udev.x86_64                    1.5.11-13.el8                                           Stream-AppStream 
 system-storage-manager.noarch                        1.4-1.el8                                               Stream-BaseOS    
 systemd.i686                                         239-18.el8_1.1                                          Stream-BaseOS    
-systemd.x86_64                                       239-18.el8_1.1                                          Stream-BaseOS    
 systemd-container.i686                               239-18.el8_1.1                                          Stream-BaseOS    
 systemd-container.x86_64                             239-18.el8_1.1                                          Stream-BaseOS    
 systemd-devel.i686                                   239-18.el8_1.1                                          Stream-BaseOS    
 systemd-devel.x86_64                                 239-18.el8_1.1                                          Stream-BaseOS    
 systemd-journal-remote.x86_64                        239-18.el8_1.1                                          Stream-BaseOS    
 systemd-libs.i686                                    239-18.el8_1.1                                          Stream-BaseOS    
-systemd-libs.x86_64                                  239-18.el8_1.1                                          Stream-BaseOS    
 systemd-pam.i686                                     239-18.el8                                              Stream-BaseOS    
-systemd-pam.x86_64                                   239-18.el8_1.1                                          Stream-BaseOS    
 systemd-tests.x86_64                                 239-18.el8_1.1                                          Stream-BaseOS    
 systemd-udev.i686                                    239-18.el8                                              Stream-BaseOS    
-systemd-udev.x86_64                                  239-18.el8_1.1                                          Stream-BaseOS    
 systemtap.x86_64                                     4.1-6.el8                                               Stream-AppStream 
 systemtap-client.x86_64                              4.1-6.el8                                               Stream-AppStream 
 systemtap-devel.i686                                 4.1-6.el8                                               Stream-AppStream 
@@ -10619,7 +10591,6 @@ ypbind.x86_64                                        3:2.5-2.el8                
 ypbind.x86_64                                        3:2.5-2.el8                                             Stream-AppStream 
 ypserv.x86_64                                        4.0-6.20170331git5bfba76.el8                            AppStream        
 ypserv.x86_64                                        4.0-6.20170331git5bfba76.el8                            Stream-AppStream 
-yum.noarch                                           4.2.7-7.el8_1                                           Stream-BaseOS    
 yum-utils.noarch                                     4.0.8-3.el8                                             Stream-BaseOS    
 zenity.x86_64                                        3.28.1-1.el8                                            AppStream        
 zenity.x86_64                                        3.28.1-1.el8                                            Stream-AppStream 
