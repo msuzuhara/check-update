@@ -1,4 +1,4 @@
-Last metadata expiration check: 7:43:48 ago on Thu 09 Jan 2020 02:03:38 PM JST.
+Last metadata expiration check: 23:59:49 ago on Thu 09 Jan 2020 02:03:38 PM JST.
 Installed Packages
 NetworkManager.x86_64                                1:1.14.0-14.el8                                         @anaconda 
 NetworkManager-config-server.noarch                  1:1.14.0-14.el8                                         @anaconda 
