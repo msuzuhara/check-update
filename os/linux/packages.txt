@@ -1,9 +1,3 @@
-Loaded plugins: fastestmirror
-Loading mirror speeds from cached hostfile
- * base: ftp.tsukuba.wide.ad.jp
- * extras: ftp.tsukuba.wide.ad.jp
- * updates: ftp.tsukuba.wide.ad.jp
-Available Packages
 389-ds-base.x86_64                         1.2.11.15-97.el6_10           updates
 389-ds-base-devel.i686                     1.2.11.15-97.el6_10           updates
 389-ds-base-devel.x86_64                   1.2.11.15-97.el6_10           updates
