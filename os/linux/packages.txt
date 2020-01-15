@@ -307,7 +307,7 @@ bind-sdb.x86_64                                      32:9.11.4-26.P2.el8        
 bind-sdb-chroot.x86_64                               32:9.11.4-26.P2.el8                                     Stream-AppStream
 bind-utils.x86_64                                    32:9.11.4-26.P2.el8                                     Stream-AppStream
 binutils.i686                                        2.30-58.el8                                             Stream-BaseOS   
-binutils.x86_64                                      2.30-58.el8                                             Stream-BaseOS   
+binutils.x86_64                                      2.30-58.el8.0.1                                         Stream-BaseOS   
 binutils-devel.i686                                  2.30-58.el8                                             Stream-AppStream
 binutils-devel.x86_64                                2.30-58.el8                                             Stream-AppStream
 biosdevname.i686                                     0.7.3-2.el8                                             BaseOS          
@@ -483,6 +483,7 @@ centos-indexhtml.noarch                              8.0-0.el8                  
 centos-logos.x86_64                                  80.5-2.el8                                              AppStream       
 centos-logos-httpd.noarch                            80.5-2.el8                                              AppStream       
 centos-logos-ipa.noarch                              80.5-2.el8                                              AppStream       
+centos-obsolete-packages.noarch                      8-2                                                     Stream-BaseOS   
 centos-release.i686                                  8.1-1.1911.0.7.el8                                      Stream-BaseOS   
 centos-release-stream.i686                           8.1-1.1911.0.7.el8                                      Stream-BaseOS   
 centos-repos.i686                                    8.1-1.1911.0.7.el8                                      Stream-BaseOS   
