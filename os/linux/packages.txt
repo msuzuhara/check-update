@@ -471,17 +471,14 @@ cdrdao.x86_64                                        1.2.3-32.el8               
 celt051.i686                                         0.5.1.3-15.el8                                    AppStream       
 celt051.x86_64                                       0.5.1.3-15.el8                                    AppStream       
 centos-backgrounds.noarch                            80.5-2.el8                                        AppStream       
-centos-gpg-keys.noarch                               8.1-1.1911.0.8.el8                                BaseOS          
 centos-indexhtml.noarch                              8.0-0.el8                                         AppStream       
 centos-logos.x86_64                                  80.5-2.el8                                        AppStream       
 centos-logos-httpd.noarch                            80.5-2.el8                                        AppStream       
 centos-logos-ipa.noarch                              80.5-2.el8                                        AppStream       
 centos-obsolete-packages.noarch                      8-2                                               BaseOS          
 centos-release.i686                                  8.1-1.1911.0.7.el8                                Stream-BaseOS   
-centos-release.x86_64                                8.1-1.1911.0.8.el8                                BaseOS          
 centos-release-stream.i686                           8.1-1.1911.0.7.el8                                Stream-BaseOS   
 centos-repos.i686                                    8.1-1.1911.0.7.el8                                Stream-BaseOS   
-centos-repos.x86_64                                  8.1-1.1911.0.8.el8                                BaseOS          
 certmonger.x86_64                                    0.79.7-3.el8                                      AppStream       
 cgdcbxd.x86_64                                       1.0.2-9.el8                                       AppStream       
 check.i686                                           0.12.0-2.el8                                      AppStream       
