@@ -11402,7 +11402,7 @@ irssi-plugin-xmpp-dbg/xenial-updates 0.52+git20160118-2~ubuntu16.04.1 amd64
 irssi-scripts/xenial,xenial 20160301 all
 irstlm/xenial 5.80.03-2 amd64
 irussian/xenial,xenial 0.99g5-20 all
-isag/xenial-updates,xenial-updates 11.2.0-1ubuntu0.2 all
+isag/xenial-updates,xenial-updates,xenial-security,xenial-security 11.2.0-1ubuntu0.3 all
 isakmpd/xenial 20041012-7.2ubuntu2 amd64
 isatapd/xenial 0.9.7-2 amd64
 isc-dhcp-client/xenial-updates,now 4.3.3-5ubuntu12.10 amd64 [installed]
@@ -14919,9 +14919,9 @@ libbrowserlauncher-java/xenial 1.3+dfsg-1 amd64
 libbs2b-dev/xenial 3.1.0+dfsg-2.2 amd64
 libbs2b0/xenial 3.1.0+dfsg-2.2 amd64
 libbsd-arc4random-perl/xenial 1.50-6build2 amd64
-libbsd-dev/xenial 0.8.2-1 amd64
+libbsd-dev/xenial-updates,xenial-security 0.8.2-1ubuntu0.1 amd64
 libbsd-resource-perl/xenial 1.2909-1build1 amd64
-libbsd0/xenial,now 0.8.2-1 amd64 [installed]
+libbsd0/xenial-updates,xenial-security 0.8.2-1ubuntu0.1 amd64 [upgradable from: 0.8.2-1]
 libbsf-java/xenial,xenial 1:2.4.0-5build1 all
 libbsf-java-doc/xenial,xenial 1:2.4.0-5build1 all
 libbsh-java/xenial,xenial 2.0b4-17ubuntu1 all
@@ -54971,7 +54971,7 @@ sysnews/xenial 0.9-17 amd64
 sysprof/xenial 1.2.0-3 amd64
 sysprofile/xenial,xenial 0.3.9 all
 sysrqd/xenial 14-1 amd64
-sysstat/xenial-updates 11.2.0-1ubuntu0.2 amd64
+sysstat/xenial-updates,xenial-security 11.2.0-1ubuntu0.3 amd64
 system-config-kickstart/xenial,xenial 2.5.20-0ubuntu25 all
 system-config-lvm/xenial,xenial 1.1.18-2ubuntu1 all
 system-config-printer-common/xenial,xenial 1.5.7+20160212-0ubuntu2 all
