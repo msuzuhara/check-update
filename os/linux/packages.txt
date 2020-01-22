@@ -3639,7 +3639,7 @@ csvkit-doc/bionic 1.0.2-1 all
 csvtool/bionic 1.5-1build2 amd64
 csync2/bionic 2.0-8-g175a01c-4ubuntu1 amd64
 ctapi-dev/bionic 1.1 all
-ctdb/bionic-updates,bionic-security 2:4.7.6+dfsg~ubuntu-0ubuntu2.14 amd64
+ctdb/bionic-updates,bionic-security 2:4.7.6+dfsg~ubuntu-0ubuntu2.15 amd64
 ctdconverter/bionic 2.0-4 all
 ctfutils/bionic 10.3~svn297264-2 amd64
 cthumb/bionic 4.2-3.1 all
@@ -31153,7 +31153,7 @@ libnss-rsbac2/bionic 1.4.0-repack-0ubuntu6 amd64
 libnss-securepass/bionic 0.5-1 amd64
 libnss-sss/bionic-updates 1.16.1-1ubuntu1.4 amd64
 libnss-systemd/bionic-updates,now 237-3ubuntu10.33 amd64 [installed,automatic]
-libnss-winbind/bionic-updates,bionic-security 2:4.7.6+dfsg~ubuntu-0ubuntu2.14 amd64
+libnss-winbind/bionic-updates,bionic-security 2:4.7.6+dfsg~ubuntu-0ubuntu2.15 amd64
 libnss-wrapper/bionic 1.1.3-1 amd64
 libnss3/bionic-updates,bionic-security 2:3.35-2ubuntu2.7 amd64
 libnss3-dbg/bionic-updates,bionic-security 2:3.35-2ubuntu2.7 amd64
@@ -32166,7 +32166,7 @@ libpam-tacplus/bionic 1.3.8-2 amd64
 libpam-tmpdir/bionic 0.09build1 amd64
 libpam-u2f/bionic 1.0.4-2 amd64
 libpam-ufpidentity/bionic 1.0-1 amd64
-libpam-winbind/bionic-updates,bionic-security 2:4.7.6+dfsg~ubuntu-0ubuntu2.14 amd64
+libpam-winbind/bionic-updates,bionic-security 2:4.7.6+dfsg~ubuntu-0ubuntu2.15 amd64
 libpam-wrapper/bionic 1.0.6-1 amd64
 libpam-x2go/bionic 0.0.1.1-2 amd64
 libpam-yubico/bionic 2.23-1 amd64
@@ -32258,7 +32258,7 @@ libparse-method-signatures-perl/bionic 1.003019-1 all
 libparse-mime-perl/bionic 1.003-1 all
 libparse-nessus-nbe-perl/bionic 1.1-1 all
 libparse-netstat-perl/bionic 0.14-1 all
-libparse-pidl-perl/bionic-updates,bionic-security 2:4.7.6+dfsg~ubuntu-0ubuntu2.14 amd64
+libparse-pidl-perl/bionic-updates,bionic-security 2:4.7.6+dfsg~ubuntu-0ubuntu2.15 amd64
 libparse-plainconfig-perl/bionic 3.05-1 all
 libparse-pmfile-perl/bionic 0.41-1 all
 libparse-recdescent-perl/bionic 1.967015+dfsg-2 all
@@ -34919,8 +34919,8 @@ libsmartcardpp1/bionic 0.3.0-0ubuntu8 amd64
 libsmartcardpp1-dbg/bionic 0.3.0-0ubuntu8 amd64
 libsmartcols-dev/bionic-updates 2.31.1-0.4ubuntu3.4 amd64
 libsmartcols1/bionic-updates,now 2.31.1-0.4ubuntu3.4 amd64 [installed,automatic]
-libsmbclient/bionic-updates,bionic-security 2:4.7.6+dfsg~ubuntu-0ubuntu2.14 amd64
-libsmbclient-dev/bionic-updates,bionic-security 2:4.7.6+dfsg~ubuntu-0ubuntu2.14 amd64
+libsmbclient/bionic-updates,bionic-security 2:4.7.6+dfsg~ubuntu-0ubuntu2.15 amd64
+libsmbclient-dev/bionic-updates,bionic-security 2:4.7.6+dfsg~ubuntu-0ubuntu2.15 amd64
 libsmbios-c2/bionic 2.4.1-1 amd64
 libsmbios-dev/bionic 2.4.1-1 amd64
 libsmbios-doc/bionic 2.4.1-1 all
@@ -37659,10 +37659,10 @@ libwayland-egl-backend-dev/bionic-updates 1.16.0-1ubuntu1.1~18.04.1 amd64
 libwayland-egl1/bionic-updates 1.16.0-1ubuntu1.1~18.04.1 amd64
 libwayland-egl1-mesa/bionic-updates 19.2.1-1ubuntu1~18.04.1 amd64
 libwayland-server0/bionic-updates 1.16.0-1ubuntu1.1~18.04.1 amd64
-libwbclient-dev/bionic-updates,bionic-security 2:4.7.6+dfsg~ubuntu-0ubuntu2.14 amd64
+libwbclient-dev/bionic-updates,bionic-security 2:4.7.6+dfsg~ubuntu-0ubuntu2.15 amd64
 libwbclient-sssd/bionic-updates 1.16.1-1ubuntu1.4 amd64
 libwbclient-sssd-dev/bionic-updates 1.16.1-1ubuntu1.4 amd64
-libwbclient0/bionic-updates,bionic-security 2:4.7.6+dfsg~ubuntu-0ubuntu2.14 amd64
+libwbclient0/bionic-updates,bionic-security 2:4.7.6+dfsg~ubuntu-0ubuntu2.15 amd64
 libwbxml2-0/bionic 0.10.7-1build1 amd64
 libwbxml2-0-dbg/bionic 0.10.7-1build1 amd64
 libwbxml2-dev/bionic 0.10.7-1build1 amd64
@@ -52624,8 +52624,8 @@ python-pyruntest/bionic 0.1+13.10.20130702-0ubuntu3 all
 python-pysal/bionic 1.14.3-1 all
 python-pysam/bionic 0.14+ds-2 amd64
 python-pysam-tests/bionic 0.14+ds-2 all
-python-pysaml2/bionic 4.0.2-0ubuntu3 all
-python-pysaml2-doc/bionic 4.0.2-0ubuntu3 all
+python-pysaml2/bionic-updates,bionic-security 4.0.2-0ubuntu3.1 all
+python-pysaml2-doc/bionic-updates,bionic-security 4.0.2-0ubuntu3.1 all
 python-pyscard/bionic 1.9.6-2 amd64
 python-pyscript/bionic 0.6.1-4 all
 python-pyscript-doc/bionic 0.6.1-4 all
@@ -52939,7 +52939,7 @@ python-sahara/bionic 1:8.0.0-0ubuntu1 all
 python-sahara-dashboard/bionic 8.0.0-0ubuntu1.1 all
 python-saharaclient/bionic 1.5.0-0ubuntu1 all
 python-saharaclient-doc/bionic 1.5.0-0ubuntu1 all
-python-samba/bionic-updates,bionic-security 2:4.7.6+dfsg~ubuntu-0ubuntu2.14 amd64
+python-samba/bionic-updates,bionic-security 2:4.7.6+dfsg~ubuntu-0ubuntu2.15 amd64
 python-sane/bionic 2.8.3-1build3 amd64
 python-sane-dbg/bionic 2.8.3-1build3 amd64
 python-sanlock/bionic 3.6.0-2 amd64
@@ -55470,7 +55470,7 @@ python3-pyroute2/bionic 0.4.21-0.1ubuntu2 all
 python3-pyrss2gen/bionic 1.1-1 all
 python3-pysal/bionic 1.14.3-1 all
 python3-pysam/bionic 0.14+ds-2 amd64
-python3-pysaml2/bionic 4.0.2-0ubuntu3 all
+python3-pysaml2/bionic-updates,bionic-security 4.0.2-0ubuntu3.1 all
 python3-pyscard/bionic 1.9.6-2 amd64
 python3-pyscss/bionic 1.3.5-2build2 amd64
 python3-pysha3/bionic 1.0.2-2ubuntu2 amd64
@@ -57468,7 +57468,7 @@ regina-normal-mpi/bionic 5.1-2build1 amd64
 regina-rexx/bionic 3.6-2.1 amd64
 regionset/bionic 0.1-3.1 amd64
 registration-agent/bionic 1.3.4-1 amd64
-registry-tools/bionic-updates,bionic-security 2:4.7.6+dfsg~ubuntu-0ubuntu2.14 amd64
+registry-tools/bionic-updates,bionic-security 2:4.7.6+dfsg~ubuntu-0ubuntu2.15 amd64
 reglookup/bionic 1.0.1+svn287-6 amd64
 reglookup-doc/bionic 1.0.1+svn287-6 all
 reinteract/bionic 0.5.0-6 all
@@ -59114,14 +59114,14 @@ salt-pepper/bionic 0.5.2-1 all
 salt-proxy/bionic-updates 2017.7.4+dfsg1-1ubuntu18.04.1 all
 salt-ssh/bionic-updates 2017.7.4+dfsg1-1ubuntu18.04.1 all
 salt-syndic/bionic-updates 2017.7.4+dfsg1-1ubuntu18.04.1 all
-samba/bionic-updates,bionic-security 2:4.7.6+dfsg~ubuntu-0ubuntu2.14 amd64
-samba-common/bionic-updates,bionic-security 2:4.7.6+dfsg~ubuntu-0ubuntu2.14 all
-samba-common-bin/bionic-updates,bionic-security 2:4.7.6+dfsg~ubuntu-0ubuntu2.14 amd64
-samba-dev/bionic-updates,bionic-security 2:4.7.6+dfsg~ubuntu-0ubuntu2.14 amd64
-samba-dsdb-modules/bionic-updates,bionic-security 2:4.7.6+dfsg~ubuntu-0ubuntu2.14 amd64
-samba-libs/bionic-updates,bionic-security 2:4.7.6+dfsg~ubuntu-0ubuntu2.14 amd64
-samba-testsuite/bionic-updates,bionic-security 2:4.7.6+dfsg~ubuntu-0ubuntu2.14 amd64
-samba-vfs-modules/bionic-updates,bionic-security 2:4.7.6+dfsg~ubuntu-0ubuntu2.14 amd64
+samba/bionic-updates,bionic-security 2:4.7.6+dfsg~ubuntu-0ubuntu2.15 amd64
+samba-common/bionic-updates,bionic-security 2:4.7.6+dfsg~ubuntu-0ubuntu2.15 all
+samba-common-bin/bionic-updates,bionic-security 2:4.7.6+dfsg~ubuntu-0ubuntu2.15 amd64
+samba-dev/bionic-updates,bionic-security 2:4.7.6+dfsg~ubuntu-0ubuntu2.15 amd64
+samba-dsdb-modules/bionic-updates,bionic-security 2:4.7.6+dfsg~ubuntu-0ubuntu2.15 amd64
+samba-libs/bionic-updates,bionic-security 2:4.7.6+dfsg~ubuntu-0ubuntu2.15 amd64
+samba-testsuite/bionic-updates,bionic-security 2:4.7.6+dfsg~ubuntu-0ubuntu2.15 amd64
+samba-vfs-modules/bionic-updates,bionic-security 2:4.7.6+dfsg~ubuntu-0ubuntu2.15 amd64
 sambamba/bionic 0.6.7-2 amd64
 samdump2/bionic 3.0.0-6build1 amd64
 samhain/bionic 4.1.4-2build1 amd64
@@ -59868,7 +59868,7 @@ smb-nat/bionic 1:1.0-6ubuntu2 amd64
 smb2www/bionic 980804-41 all
 smb4k/bionic 2.1.0-1 amd64
 smbc/bionic 1.2.2-4build2 amd64
-smbclient/bionic-updates,bionic-security 2:4.7.6+dfsg~ubuntu-0ubuntu2.14 amd64
+smbclient/bionic-updates,bionic-security 2:4.7.6+dfsg~ubuntu-0ubuntu2.15 amd64
 smbios-utils/bionic 2.4.1-1 amd64
 smbldap-tools/bionic 0.9.9-1ubuntu3 all
 smbnetfs/bionic 0.6.1-1 amd64
@@ -63395,7 +63395,7 @@ wims-modules/bionic 1:4.15b~dfsg1-2ubuntu1 all
 wims-moodle/bionic 4.0-18 all
 wimtools/bionic 1.12.0-1build1 amd64
 win-iconv-mingw-w64-dev/bionic 0.0.8-2 all
-winbind/bionic-updates,bionic-security 2:4.7.6+dfsg~ubuntu-0ubuntu2.14 amd64
+winbind/bionic-updates,bionic-security 2:4.7.6+dfsg~ubuntu-0ubuntu2.15 amd64
 window-size/bionic 0.2.0-1 all
 windowlab/bionic 1.40-3 amd64
 windows-el/bionic 2.48-3 all
