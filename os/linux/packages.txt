@@ -1932,7 +1932,6 @@ gimp-help-sv.noarch                       2.8.2-1.el7                    base
 gimp-help-zh_CN.noarch                    2.8.2-1.el7                    base   
 gimp-libs.i686                            2:2.8.22-1.el7                 base   
 gimp-libs.x86_64                          2:2.8.22-1.el7                 base   
-git.x86_64                                1.8.3.1-21.el7_7               updates
 git-all.noarch                            1.8.3.1-21.el7_7               updates
 git-bzr.noarch                            1.8.3.1-21.el7_7               updates
 git-cvs.noarch                            1.8.3.1-21.el7_7               updates
@@ -7071,7 +7070,6 @@ perl-FreezeThaw.noarch                    0.5001-10.el7                  base
 perl-GD.x86_64                            2.49-3.el7                     base   
 perl-GD-Barcode.noarch                    1.15-15.el7                    base   
 perl-GSSAPI.x86_64                        0.28-9.el7                     base   
-perl-Git.noarch                           1.8.3.1-21.el7_7               updates
 perl-Git-SVN.noarch                       1.8.3.1-21.el7_7               updates
 perl-HTML-Format.noarch                   2.10-7.el7                     base   
 perl-HTML-FormatText-WithLinks.noarch     0.14-8.el7                     base   
