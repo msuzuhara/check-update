@@ -3475,7 +3475,7 @@ csvtool/xenial 1.4.2-1 amd64
 csync-owncloud/xenial 0.50.8-0ubuntu2 amd64
 csync2/xenial 2.0+73d3293-2build2 amd64
 ctapi-dev/xenial,xenial 1.1 all
-ctdb/xenial-updates,xenial-security 2:4.3.11+dfsg-0ubuntu0.16.04.24 amd64
+ctdb/xenial-updates,xenial-security 2:4.3.11+dfsg-0ubuntu0.16.04.25 amd64
 ctfutils/xenial 9.2-5.1 amd64
 cthumb/xenial,xenial 4.2-3 all
 ctioga2/xenial,xenial 0.14.1-1 all
@@ -27222,7 +27222,7 @@ libnss-resolve/xenial-updates 229-4ubuntu21.23 amd64
 libnss-rsbac2/xenial 1.4.0-repack-0ubuntu5 amd64
 libnss-securepass/xenial 0.4-2 amd64
 libnss-sss/xenial-updates 1.13.4-1ubuntu1.15 amd64
-libnss-winbind/xenial-updates,xenial-security 2:4.3.11+dfsg-0ubuntu0.16.04.24 amd64
+libnss-winbind/xenial-updates,xenial-security 2:4.3.11+dfsg-0ubuntu0.16.04.25 amd64
 libnss-wrapper/xenial 1.1.2-1 amd64
 libnss3/xenial-updates,xenial-security 2:3.28.4-0ubuntu0.16.04.10 amd64
 libnss3-1d/xenial-updates,xenial-security 2:3.28.4-0ubuntu0.16.04.10 amd64
@@ -28082,7 +28082,7 @@ libpam-tmpdir/xenial 0.09 amd64
 libpam-u2f/xenial 1.0.3-1 amd64
 libpam-ufpidentity/xenial 1.0-1 amd64
 libpam-unix2/xenial 1:2.6-2 amd64
-libpam-winbind/xenial-updates,xenial-security 2:4.3.11+dfsg-0ubuntu0.16.04.24 amd64
+libpam-winbind/xenial-updates,xenial-security 2:4.3.11+dfsg-0ubuntu0.16.04.25 amd64
 libpam-yubico/xenial 2.20-1 amd64
 libpam0g/xenial-updates,now 1.1.8-3.2ubuntu2.1 amd64 [installed]
 libpam0g-dev/xenial-updates 1.1.8-3.2ubuntu2.1 amd64
@@ -28171,7 +28171,7 @@ libparse-mediawikidump-perl/xenial,xenial 1.0.6-1 all
 libparse-method-signatures-perl/xenial,xenial 1.003016-1 all
 libparse-nessus-nbe-perl/xenial,xenial 1.1-1 all
 libparse-netstat-perl/xenial,xenial 0.12-1 all
-libparse-pidl-perl/xenial-updates,xenial-security 2:4.3.11+dfsg-0ubuntu0.16.04.24 amd64
+libparse-pidl-perl/xenial-updates,xenial-security 2:4.3.11+dfsg-0ubuntu0.16.04.25 amd64
 libparse-plainconfig-perl/xenial,xenial 2.06-1 all
 libparse-pmfile-perl/xenial,xenial 0.39-1 all
 libparse-recdescent-perl/xenial,xenial 1.967013+dfsg-1 all
@@ -30795,8 +30795,8 @@ libsmartcardpp1/xenial 0.3.0-0ubuntu7 amd64
 libsmartcardpp1-dbg/xenial 0.3.0-0ubuntu7 amd64
 libsmartcols-dev/xenial-updates 2.27.1-6ubuntu3.9 amd64
 libsmartcols1/xenial-updates,now 2.27.1-6ubuntu3.9 amd64 [installed]
-libsmbclient/xenial-updates,xenial-security 2:4.3.11+dfsg-0ubuntu0.16.04.24 amd64
-libsmbclient-dev/xenial-updates,xenial-security 2:4.3.11+dfsg-0ubuntu0.16.04.24 amd64
+libsmbclient/xenial-updates,xenial-security 2:4.3.11+dfsg-0ubuntu0.16.04.25 amd64
+libsmbclient-dev/xenial-updates,xenial-security 2:4.3.11+dfsg-0ubuntu0.16.04.25 amd64
 libsmbios-dev/xenial-updates 2.3.0-0ubuntu1.1 amd64
 libsmbios-doc/xenial-updates,xenial-updates 2.3.0-0ubuntu1.1 all
 libsmbios2v5/xenial-updates 2.3.0-0ubuntu1.1 amd64
@@ -33317,10 +33317,10 @@ libwayland-egl1-mesa-lts-wily-dbg/xenial-updates 3:13 amd64
 libwayland-egl1-mesa-lts-xenial/xenial-updates 3:13 amd64
 libwayland-server0/xenial-updates,xenial-security 1.12.0-1~ubuntu16.04.3 amd64
 libwayland-server0-dbg/xenial 1.9.0-1 amd64
-libwbclient-dev/xenial-updates,xenial-security 2:4.3.11+dfsg-0ubuntu0.16.04.24 amd64
+libwbclient-dev/xenial-updates,xenial-security 2:4.3.11+dfsg-0ubuntu0.16.04.25 amd64
 libwbclient-sssd/xenial-updates 1.13.4-1ubuntu1.15 amd64
 libwbclient-sssd-dev/xenial-updates 1.13.4-1ubuntu1.15 amd64
-libwbclient0/xenial-updates,xenial-security 2:4.3.11+dfsg-0ubuntu0.16.04.24 amd64
+libwbclient0/xenial-updates,xenial-security 2:4.3.11+dfsg-0ubuntu0.16.04.25 amd64
 libwbxml2-0/xenial 0.10.7-1 amd64
 libwbxml2-0-dbg/xenial 0.10.7-1 amd64
 libwbxml2-dev/xenial 0.10.7-1 amd64
@@ -48030,8 +48030,8 @@ python-pyrss2gen/xenial,xenial 1.1-1 all
 python-pyruntest/xenial,xenial 0.1+13.10.20130702-0ubuntu3 all
 python-pysam/xenial 0.7.7-1ubuntu1 amd64
 python-pysam-tests/xenial,xenial 0.7.7-1ubuntu1 all
-python-pysaml2/xenial-updates,xenial-updates,xenial-security,xenial-security 3.0.0-3ubuntu1.16.04.3 all
-python-pysaml2-doc/xenial-updates,xenial-updates,xenial-security,xenial-security 3.0.0-3ubuntu1.16.04.3 all
+python-pysaml2/xenial-updates,xenial-updates,xenial-security,xenial-security 3.0.0-3ubuntu1.16.04.4 all
+python-pysaml2-doc/xenial-updates,xenial-updates,xenial-security,xenial-security 3.0.0-3ubuntu1.16.04.4 all
 python-pyscard/xenial 1.9.2-2 amd64
 python-pyscript/xenial,xenial 0.6.1-4 all
 python-pyscript-doc/xenial,xenial 0.6.1-4 all
@@ -48315,7 +48315,7 @@ python-sahara/xenial-updates,xenial-updates 1:4.1.0-0ubuntu1 all
 python-sahara-dashboard/xenial-updates,xenial-updates 4.0.0-1ubuntu1.1 all
 python-saharaclient/xenial,xenial 0.14.0-2 all
 python-saharaclient-doc/xenial,xenial 0.14.0-2 all
-python-samba/xenial-updates,xenial-security 2:4.3.11+dfsg-0ubuntu0.16.04.24 amd64
+python-samba/xenial-updates,xenial-security 2:4.3.11+dfsg-0ubuntu0.16.04.25 amd64
 python-sane/xenial 2.8.2-1build1 amd64
 python-sane-dbg/xenial 2.8.2-1build1 amd64
 python-sardana/xenial,xenial 1.6.1-1 all
@@ -50176,7 +50176,7 @@ python3-pyro4/xenial,xenial 4.23-2 all
 python3-pyroma/xenial,xenial 2.0.0b2-1 all
 python3-pyroute2/xenial,xenial 0.3.5-1 all
 python3-pyrss2gen/xenial,xenial 1.1-1 all
-python3-pysaml2/xenial-updates,xenial-updates,xenial-security,xenial-security 3.0.0-3ubuntu1.16.04.3 all
+python3-pysaml2/xenial-updates,xenial-updates,xenial-security,xenial-security 3.0.0-3ubuntu1.16.04.4 all
 python3-pyscard/xenial 1.9.2-2 amd64
 python3-pyscss/xenial 1.3.4-5 amd64
 python3-pysha3/xenial-updates 1.0.0-0ubuntu1~ubuntu16.04.1 amd64
@@ -51795,7 +51795,7 @@ regina-normal-doc/xenial,xenial 4.96-2.1build2 all
 regina-normal-mpi/xenial 4.96-2.1build2 amd64
 regina-rexx/xenial 3.6-2 amd64
 regionset/xenial 0.1-3 amd64
-registry-tools/xenial-updates,xenial-security 2:4.3.11+dfsg-0ubuntu0.16.04.24 amd64
+registry-tools/xenial-updates,xenial-security 2:4.3.11+dfsg-0ubuntu0.16.04.25 amd64
 reglookup/xenial 0.12.0-3 amd64
 reinteract/xenial,xenial 0.5.0-6 all
 reiser4progs/xenial 1.1.0-1.1 amd64
@@ -53309,15 +53309,15 @@ salt-proxy/xenial,xenial 2015.8.8+ds-1 all
 salt-ssh/xenial,xenial 2015.8.8+ds-1 all
 salt-syndic/xenial,xenial 2015.8.8+ds-1 all
 sam2p/xenial-updates,xenial-security 0.49.2-3+deb8u3build0.16.04.1 amd64
-samba/xenial-updates,xenial-security 2:4.3.11+dfsg-0ubuntu0.16.04.24 amd64
-samba-common/xenial-updates,xenial-updates,xenial-security,xenial-security 2:4.3.11+dfsg-0ubuntu0.16.04.24 all
-samba-common-bin/xenial-updates,xenial-security 2:4.3.11+dfsg-0ubuntu0.16.04.24 amd64
-samba-dbg/xenial-updates,xenial-security 2:4.3.11+dfsg-0ubuntu0.16.04.24 amd64
-samba-dev/xenial-updates,xenial-security 2:4.3.11+dfsg-0ubuntu0.16.04.24 amd64
-samba-dsdb-modules/xenial-updates,xenial-security 2:4.3.11+dfsg-0ubuntu0.16.04.24 amd64
-samba-libs/xenial-updates,xenial-security 2:4.3.11+dfsg-0ubuntu0.16.04.24 amd64
-samba-testsuite/xenial-updates,xenial-security 2:4.3.11+dfsg-0ubuntu0.16.04.24 amd64
-samba-vfs-modules/xenial-updates,xenial-security 2:4.3.11+dfsg-0ubuntu0.16.04.24 amd64
+samba/xenial-updates,xenial-security 2:4.3.11+dfsg-0ubuntu0.16.04.25 amd64
+samba-common/xenial-updates,xenial-updates,xenial-security,xenial-security 2:4.3.11+dfsg-0ubuntu0.16.04.25 all
+samba-common-bin/xenial-updates,xenial-security 2:4.3.11+dfsg-0ubuntu0.16.04.25 amd64
+samba-dbg/xenial-updates,xenial-security 2:4.3.11+dfsg-0ubuntu0.16.04.25 amd64
+samba-dev/xenial-updates,xenial-security 2:4.3.11+dfsg-0ubuntu0.16.04.25 amd64
+samba-dsdb-modules/xenial-updates,xenial-security 2:4.3.11+dfsg-0ubuntu0.16.04.25 amd64
+samba-libs/xenial-updates,xenial-security 2:4.3.11+dfsg-0ubuntu0.16.04.25 amd64
+samba-testsuite/xenial-updates,xenial-security 2:4.3.11+dfsg-0ubuntu0.16.04.25 amd64
+samba-vfs-modules/xenial-updates,xenial-security 2:4.3.11+dfsg-0ubuntu0.16.04.25 amd64
 samdump2/xenial 3.0.0-3 amd64
 samhain/xenial 3.1.0-7build1 amd64
 samizdat/xenial,xenial 0.7.0-2 all
@@ -54071,7 +54071,7 @@ smb-nat/xenial 1:1.0-6ubuntu1 amd64
 smb2www/xenial,xenial 980804-41 all
 smb4k/xenial 1.1.2-1 amd64
 smbc/xenial 1.2.2-4build1 amd64
-smbclient/xenial-updates,xenial-security 2:4.3.11+dfsg-0ubuntu0.16.04.24 amd64
+smbclient/xenial-updates,xenial-security 2:4.3.11+dfsg-0ubuntu0.16.04.25 amd64
 smbios-utils/xenial-updates 2.3.0-0ubuntu1.1 amd64
 smbldap-tools/xenial-updates,xenial-updates 0.9.9-1ubuntu1.16.04.2 all
 smbnetfs/xenial 0.6.0-1 amd64
@@ -57646,7 +57646,7 @@ wims-java-applets/xenial 1:4.07d~dfsg1-1ubuntu2 amd64
 wims-modules/xenial,xenial 1:4.07d~dfsg1-1ubuntu2 all
 wims-moodle/xenial,xenial 4.0-17 all
 wimtools/xenial 1.9.0-2 amd64
-winbind/xenial-updates,xenial-security 2:4.3.11+dfsg-0ubuntu0.16.04.24 amd64
+winbind/xenial-updates,xenial-security 2:4.3.11+dfsg-0ubuntu0.16.04.25 amd64
 windowlab/xenial 1.40-2 amd64
 windows-el/xenial,xenial 2.48-3 all
 wine/xenial-updates 1:1.6.2-0ubuntu14.2 amd64
