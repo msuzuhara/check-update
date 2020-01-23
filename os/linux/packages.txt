@@ -690,8 +690,8 @@ apt-transport-tor/xenial 0.2.1-1build4 amd64
 apt-utils/xenial-updates,now 1.2.32 amd64 [installed]
 apt-venv/xenial,xenial 1.0.0-1build1 all
 apt-xapian-index/xenial-updates,xenial-updates 0.47ubuntu8.4 all
-aptdaemon/xenial-updates,xenial-updates 1.1.1+bzr982-0ubuntu14.1 all
-aptdaemon-data/xenial-updates,xenial-updates 1.1.1+bzr982-0ubuntu14.1 all
+aptdaemon/xenial-updates,xenial-updates,xenial-security,xenial-security 1.1.1+bzr982-0ubuntu14.2 all
+aptdaemon-data/xenial-updates,xenial-updates,xenial-security,xenial-security 1.1.1+bzr982-0ubuntu14.2 all
 aptfs/xenial,xenial 2:0.8-1 all
 apticron/xenial,xenial 1.1.58ubuntu1 all
 aptitude/xenial 0.7.4-2ubuntu2 amd64
@@ -9907,10 +9907,10 @@ granule-docs/xenial,xenial 1.1.0+dfsg-2 all
 grap/xenial 1.44-1 amd64
 graph-includes/xenial,xenial 0.13-1.1 all
 graphdefang/xenial-updates 2.78-1ubuntu1.1 amd64
-graphicsmagick/xenial-updates,xenial-security 1.3.23-1ubuntu0.4 amd64
-graphicsmagick-dbg/xenial-updates,xenial-security 1.3.23-1ubuntu0.4 amd64
-graphicsmagick-imagemagick-compat/xenial-updates,xenial-updates,xenial-security,xenial-security 1.3.23-1ubuntu0.4 all
-graphicsmagick-libmagick-dev-compat/xenial-updates,xenial-updates,xenial-security,xenial-security 1.3.23-1ubuntu0.4 all
+graphicsmagick/xenial-updates,xenial-security 1.3.23-1ubuntu0.5 amd64
+graphicsmagick-dbg/xenial-updates,xenial-security 1.3.23-1ubuntu0.5 amd64
+graphicsmagick-imagemagick-compat/xenial-updates,xenial-updates,xenial-security,xenial-security 1.3.23-1ubuntu0.5 all
+graphicsmagick-libmagick-dev-compat/xenial-updates,xenial-updates,xenial-security,xenial-security 1.3.23-1ubuntu0.5 all
 graphite-api/xenial,xenial 1.1.2-1 all
 graphite-carbon/xenial,xenial 0.9.15-1 all
 graphite-web/xenial,xenial 0.9.15+debian-1 all
@@ -13436,8 +13436,8 @@ lib32ubsan0/xenial-updates,xenial-security 5.4.0-6ubuntu1~16.04.12 amd64
 lib32ubsan0-dbg/xenial-updates,xenial-security 5.4.0-6ubuntu1~16.04.12 amd64
 lib32ubsan0-dbg-ppc64-cross/xenial-updates,xenial-updates,xenial-security,xenial-security 5.4.0-6ubuntu1~16.04.9cross1 all
 lib32ubsan0-ppc64-cross/xenial-updates,xenial-updates,xenial-security,xenial-security 5.4.0-6ubuntu1~16.04.9cross1 all
-lib32z1/xenial-updates 1:1.2.8.dfsg-2ubuntu4.1 amd64
-lib32z1-dev/xenial-updates 1:1.2.8.dfsg-2ubuntu4.1 amd64
+lib32z1/xenial-updates,xenial-security 1:1.2.8.dfsg-2ubuntu4.3 amd64
+lib32z1-dev/xenial-updates,xenial-security 1:1.2.8.dfsg-2ubuntu4.3 amd64
 lib3ds-1-3/xenial 1.3.0-8 amd64
 lib3ds-dev/xenial 1.3.0-8 amd64
 lib4store-dev/xenial 1.1.6+20151109-2 amd64
@@ -13583,8 +13583,8 @@ lib64ubsan0/xenial-updates,xenial-security 5.4.0-6ubuntu1~16.04.12 i386
 lib64ubsan0-dbg/xenial-updates,xenial-security 5.4.0-6ubuntu1~16.04.12 i386
 lib64ubsan0-dbg-powerpc-cross/xenial-updates,xenial-updates,xenial-security,xenial-security 5.4.0-6ubuntu1~16.04.9cross1 all
 lib64ubsan0-powerpc-cross/xenial-updates,xenial-updates,xenial-security,xenial-security 5.4.0-6ubuntu1~16.04.9cross1 all
-lib64z1/xenial-updates 1:1.2.8.dfsg-2ubuntu4.1 i386
-lib64z1-dev/xenial-updates 1:1.2.8.dfsg-2ubuntu4.1 i386
+lib64z1/xenial-updates,xenial-security 1:1.2.8.dfsg-2ubuntu4.3 i386
+lib64z1-dev/xenial-updates,xenial-security 1:1.2.8.dfsg-2ubuntu4.3 i386
 liba11y-profile-manager-0.1-0/xenial 0.1.10-0ubuntu3 amd64
 liba11y-profile-manager-0.1-dev/xenial 0.1.10-0ubuntu3 amd64
 liba11y-profile-manager-data/xenial,xenial 0.1.10-0ubuntu3 all
@@ -22018,13 +22018,13 @@ libgraphics-colornames-www-perl/xenial,xenial 1.13-2 all
 libgraphics-colorobject-perl/xenial,xenial 0.5.0-7 all
 libgraphics-gnuplotif-perl/xenial,xenial 1.7-1 all
 libgraphics-libplot-perl/xenial 2.2.2-6build2 amd64
-libgraphics-magick-perl/xenial-updates,xenial-security 1.3.23-1ubuntu0.4 amd64
+libgraphics-magick-perl/xenial-updates,xenial-security 1.3.23-1ubuntu0.5 amd64
 libgraphics-primitive-driver-cairo-perl/xenial,xenial 0.46-1 all
 libgraphics-primitive-perl/xenial,xenial 0.67-1 all
-libgraphicsmagick++-q16-12/xenial-updates,xenial-security 1.3.23-1ubuntu0.4 amd64
-libgraphicsmagick++1-dev/xenial-updates,xenial-security 1.3.23-1ubuntu0.4 amd64
-libgraphicsmagick-q16-3/xenial-updates,xenial-security 1.3.23-1ubuntu0.4 amd64
-libgraphicsmagick1-dev/xenial-updates,xenial-security 1.3.23-1ubuntu0.4 amd64
+libgraphicsmagick++-q16-12/xenial-updates,xenial-security 1.3.23-1ubuntu0.5 amd64
+libgraphicsmagick++1-dev/xenial-updates,xenial-security 1.3.23-1ubuntu0.5 amd64
+libgraphicsmagick-q16-3/xenial-updates,xenial-security 1.3.23-1ubuntu0.5 amd64
+libgraphicsmagick1-dev/xenial-updates,xenial-security 1.3.23-1ubuntu0.5 amd64
 libgraphite-php/xenial,xenial 1.5-1ubuntu1 all
 libgraphite2-3/xenial-updates,xenial-security 1.3.10-0ubuntu0.16.04.1 amd64
 libgraphite2-dev/xenial-updates,xenial-security 1.3.10-0ubuntu0.16.04.1 amd64
@@ -33713,8 +33713,8 @@ libx32tinfo-dev/xenial 6.0+20160213-1ubuntu1 amd64
 libx32tinfo5/xenial 6.0+20160213-1ubuntu1 amd64
 libx32ubsan0/xenial-updates,xenial-security 5.4.0-6ubuntu1~16.04.12 amd64
 libx32ubsan0-dbg/xenial-updates,xenial-security 5.4.0-6ubuntu1~16.04.12 amd64
-libx32z1/xenial-updates 1:1.2.8.dfsg-2ubuntu4.1 amd64
-libx32z1-dev/xenial-updates 1:1.2.8.dfsg-2ubuntu4.1 amd64
+libx32z1/xenial-updates,xenial-security 1:1.2.8.dfsg-2ubuntu4.3 amd64
+libx32z1-dev/xenial-updates,xenial-security 1:1.2.8.dfsg-2ubuntu4.3 amd64
 libx500-dn-perl/xenial,xenial 0.29-4 all
 libx52pro-dev/xenial 0.1.1-2.3 amd64
 libx52pro0/xenial 0.1.1-2.3 amd64
@@ -45865,13 +45865,13 @@ python-apscheduler/xenial,xenial 2.1.2-2 all
 python-apsw/xenial 3.8.11.1-r1-1build1 amd64
 python-apsw-dbg/xenial 3.8.11.1-r1-1build1 amd64
 python-apsw-doc/xenial,xenial 3.8.11.1-r1-1build1 all
-python-apt/xenial-updates 1.1.0~beta1ubuntu0.16.04.5 amd64
-python-apt-common/xenial-updates,xenial-updates,now 1.1.0~beta1ubuntu0.16.04.5 all [installed]
-python-apt-dbg/xenial-updates 1.1.0~beta1ubuntu0.16.04.5 amd64
-python-apt-dev/xenial-updates,xenial-updates 1.1.0~beta1ubuntu0.16.04.5 all
-python-apt-doc/xenial-updates,xenial-updates 1.1.0~beta1ubuntu0.16.04.5 all
-python-aptdaemon/xenial-updates,xenial-updates 1.1.1+bzr982-0ubuntu14.1 all
-python-aptdaemon.gtk3widgets/xenial-updates,xenial-updates 1.1.1+bzr982-0ubuntu14.1 all
+python-apt/xenial-updates,xenial-security 1.1.0~beta1ubuntu0.16.04.8 amd64
+python-apt-common/xenial-updates,xenial-updates,xenial-security,xenial-security 1.1.0~beta1ubuntu0.16.04.8 all [upgradable from: 1.1.0~beta1ubuntu0.16.04.5]
+python-apt-dbg/xenial-updates,xenial-security 1.1.0~beta1ubuntu0.16.04.8 amd64
+python-apt-dev/xenial-updates,xenial-updates,xenial-security,xenial-security 1.1.0~beta1ubuntu0.16.04.8 all
+python-apt-doc/xenial-updates,xenial-updates,xenial-security,xenial-security 1.1.0~beta1ubuntu0.16.04.8 all
+python-aptdaemon/xenial-updates,xenial-updates,xenial-security,xenial-security 1.1.1+bzr982-0ubuntu14.2 all
+python-aptdaemon.gtk3widgets/xenial-updates,xenial-updates,xenial-security,xenial-security 1.1.1+bzr982-0ubuntu14.2 all
 python-argcomplete/xenial,xenial 0.8.1-1ubuntu2 all
 python-argh/xenial,xenial 0.26.1-1 all
 python-args/xenial,xenial 0.1.0-2 all
@@ -49181,12 +49181,12 @@ python3-appdirs/xenial,xenial 1.4.0-2 all
 python3-apport/xenial-updates,xenial-updates,xenial-security,xenial-security,now 2.20.1-0ubuntu2.21 all [installed]
 python3-apsw/xenial 3.8.11.1-r1-1build1 amd64
 python3-apsw-dbg/xenial 3.8.11.1-r1-1build1 amd64
-python3-apt/xenial-updates,now 1.1.0~beta1ubuntu0.16.04.5 amd64 [installed]
-python3-apt-dbg/xenial-updates 1.1.0~beta1ubuntu0.16.04.5 amd64
-python3-aptdaemon/xenial-updates,xenial-updates 1.1.1+bzr982-0ubuntu14.1 all
-python3-aptdaemon.gtk3widgets/xenial-updates,xenial-updates 1.1.1+bzr982-0ubuntu14.1 all
-python3-aptdaemon.pkcompat/xenial-updates,xenial-updates 1.1.1+bzr982-0ubuntu14.1 all
-python3-aptdaemon.test/xenial-updates,xenial-updates 1.1.1+bzr982-0ubuntu14.1 all
+python3-apt/xenial-updates,xenial-security 1.1.0~beta1ubuntu0.16.04.8 amd64 [upgradable from: 1.1.0~beta1ubuntu0.16.04.5]
+python3-apt-dbg/xenial-updates,xenial-security 1.1.0~beta1ubuntu0.16.04.8 amd64
+python3-aptdaemon/xenial-updates,xenial-updates,xenial-security,xenial-security 1.1.1+bzr982-0ubuntu14.2 all
+python3-aptdaemon.gtk3widgets/xenial-updates,xenial-updates,xenial-security,xenial-security 1.1.1+bzr982-0ubuntu14.2 all
+python3-aptdaemon.pkcompat/xenial-updates,xenial-updates,xenial-security,xenial-security 1.1.1+bzr982-0ubuntu14.2 all
+python3-aptdaemon.test/xenial-updates,xenial-updates,xenial-security,xenial-security 1.1.1+bzr982-0ubuntu14.2 all
 python3-argcomplete/xenial,xenial 0.8.1-1ubuntu2 all
 python3-argh/xenial,xenial 0.26.1-1 all
 python3-args/xenial,xenial 0.1.0-2 all
@@ -59212,9 +59212,9 @@ zita-resampler-dbg/xenial 1.3.0-2 amd64
 zita-rev1/xenial 0.2.1-3build1 amd64
 zivot/xenial 20013101-3build2 amd64
 zlib-gst/xenial 3.2.5-1build2 amd64
-zlib1g/xenial-updates,now 1:1.2.8.dfsg-2ubuntu4.1 amd64 [installed]
-zlib1g-dbg/xenial-updates 1:1.2.8.dfsg-2ubuntu4.1 amd64
-zlib1g-dev/xenial-updates 1:1.2.8.dfsg-2ubuntu4.1 amd64
+zlib1g/xenial-updates,xenial-security 1:1.2.8.dfsg-2ubuntu4.3 amd64 [upgradable from: 1:1.2.8.dfsg-2ubuntu4.1]
+zlib1g-dbg/xenial-updates,xenial-security 1:1.2.8.dfsg-2ubuntu4.3 amd64
+zlib1g-dev/xenial-updates,xenial-security 1:1.2.8.dfsg-2ubuntu4.3 amd64
 zlibc/xenial 0.9k-4.3 amd64
 zmakebas/xenial 1.2-1.1 amd64
 zmap/xenial 2.1.1-2 amd64
