@@ -724,8 +724,8 @@ apt-transport-tor/bionic 0.4 all
 apt-utils/bionic-updates,now 1.6.12 amd64 [installed,automatic]
 apt-venv/bionic 1.0.0-2 all
 apt-xapian-index/bionic 0.47ubuntu13 all
-aptdaemon/bionic-updates 1.1.1+bzr982-0ubuntu19.1 all
-aptdaemon-data/bionic-updates 1.1.1+bzr982-0ubuntu19.1 all
+aptdaemon/bionic-updates,bionic-security 1.1.1+bzr982-0ubuntu19.2 all
+aptdaemon-data/bionic-updates,bionic-security 1.1.1+bzr982-0ubuntu19.2 all
 aptfs/bionic 2:0.11.0-1 all
 apticron/bionic 1.2.0 all
 apticron-systemd/bionic 1.2.0 all
@@ -50065,13 +50065,13 @@ python-apscheduler/bionic 3.4.0-2ubuntu1 all
 python-apsw/bionic 3.16.2-r1-2build2 amd64
 python-apsw-dbg/bionic 3.16.2-r1-2build2 amd64
 python-apsw-doc/bionic 3.16.2-r1-2build2 all
-python-apt/bionic-updates 1.6.4 amd64
-python-apt-common/bionic-updates,now 1.6.4 all [installed,automatic]
-python-apt-dbg/bionic-updates 1.6.4 amd64
-python-apt-dev/bionic-updates 1.6.4 all
-python-apt-doc/bionic-updates 1.6.4 all
-python-aptdaemon/bionic-updates 1.1.1+bzr982-0ubuntu19.1 all
-python-aptdaemon.gtk3widgets/bionic-updates 1.1.1+bzr982-0ubuntu19.1 all
+python-apt/bionic-updates,bionic-security 1.6.5ubuntu0.2 amd64
+python-apt-common/bionic-updates,bionic-security 1.6.5ubuntu0.2 all [upgradable from: 1.6.4]
+python-apt-dbg/bionic-updates,bionic-security 1.6.5ubuntu0.2 amd64
+python-apt-dev/bionic-updates,bionic-security 1.6.5ubuntu0.2 all
+python-apt-doc/bionic-updates,bionic-security 1.6.5ubuntu0.2 all
+python-aptdaemon/bionic-updates,bionic-security 1.1.1+bzr982-0ubuntu19.2 all
+python-aptdaemon.gtk3widgets/bionic-updates,bionic-security 1.1.1+bzr982-0ubuntu19.2 all
 python-aptly/bionic 0.12.10-1 all
 python-argcomplete/bionic 1.8.1-1ubuntu1 all
 python-argh/bionic 0.26.2-1 all
@@ -53879,11 +53879,11 @@ python3-apport/bionic-updates,bionic-security,now 2.20.9-0ubuntu7.9 all [install
 python3-apscheduler/bionic 3.4.0-2ubuntu1 all
 python3-apsw/bionic 3.16.2-r1-2build2 amd64
 python3-apsw-dbg/bionic 3.16.2-r1-2build2 amd64
-python3-apt/bionic-updates,now 1.6.4 amd64 [installed,automatic]
-python3-apt-dbg/bionic-updates 1.6.4 amd64
-python3-aptdaemon/bionic-updates 1.1.1+bzr982-0ubuntu19.1 all
-python3-aptdaemon.gtk3widgets/bionic-updates 1.1.1+bzr982-0ubuntu19.1 all
-python3-aptdaemon.test/bionic-updates 1.1.1+bzr982-0ubuntu19.1 all
+python3-apt/bionic-updates,bionic-security 1.6.5ubuntu0.2 amd64 [upgradable from: 1.6.4]
+python3-apt-dbg/bionic-updates,bionic-security 1.6.5ubuntu0.2 amd64
+python3-aptdaemon/bionic-updates,bionic-security 1.1.1+bzr982-0ubuntu19.2 all
+python3-aptdaemon.gtk3widgets/bionic-updates,bionic-security 1.1.1+bzr982-0ubuntu19.2 all
+python3-aptdaemon.test/bionic-updates,bionic-security 1.1.1+bzr982-0ubuntu19.2 all
 python3-aptly/bionic 0.12.10-1 all
 python3-arcus/bionic 3.1.0-1ubuntu1 amd64
 python3-argcomplete/bionic 1.8.1-1ubuntu1 all
