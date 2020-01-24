@@ -42511,11 +42511,11 @@ python-apscheduler/stable 3.5.3-1 all
 python-apsw-dbg/stable 3.24.0-r1-1 amd64
 python-apsw-doc/stable 3.24.0-r1-1 all
 python-apsw/stable 3.24.0-r1-1 amd64
-python-apt-common/stable,now 1.8.4 all [installed,automatic]
-python-apt-dbg/stable 1.8.4 amd64
-python-apt-dev/stable 1.8.4 all
-python-apt-doc/stable 1.8.4 all
-python-apt/stable 1.8.4 amd64
+python-apt-common/stable 1.8.4.1 all [upgradable from: 1.8.4]
+python-apt-dbg/stable 1.8.4.1 amd64
+python-apt-dev/stable 1.8.4.1 all
+python-apt-doc/stable 1.8.4.1 all
+python-apt/stable 1.8.4.1 amd64
 python-aptly/stable 0.12.10-1 all
 python-argcomplete/stable 1.8.1-1 all
 python-argh/stable 0.26.2-1 all
@@ -45919,8 +45919,8 @@ python3-apptools/stable 4.4.0-3 all
 python3-apscheduler/stable 3.5.3-1 all
 python3-apsw-dbg/stable 3.24.0-r1-1 amd64
 python3-apsw/stable 3.24.0-r1-1 amd64
-python3-apt-dbg/stable 1.8.4 amd64
-python3-apt/stable,now 1.8.4 amd64 [installed,automatic]
+python3-apt-dbg/stable 1.8.4.1 amd64
+python3-apt/stable 1.8.4.1 amd64 [upgradable from: 1.8.4]
 python3-aptly/stable 0.12.10-1 all
 python3-arcus/stable 3.3.0-2 amd64
 python3-argcomplete/stable 1.8.1-1 all
