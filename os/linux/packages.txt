@@ -3798,7 +3798,6 @@ libzip-tools.x86_64                                  1.5.1-2.module_el8.1.0+209+
 libzmf.i686                                          0.0.2-3.el8                                       AppStream       
 libzmf.x86_64                                        0.0.2-3.el8                                       AppStream       
 libzstd.i686                                         1.4.2-2.el8                                       Stream-BaseOS   
-libzstd.x86_64                                       1.4.2-2.el8                                       Stream-BaseOS   
 libzstd-devel.i686                                   1.4.2-2.el8                                       Stream-BaseOS   
 libzstd-devel.x86_64                                 1.4.2-2.el8                                       Stream-BaseOS   
 linuxconsoletools.x86_64                             1.6.0-4.el8                                       AppStream       
@@ -5214,7 +5213,6 @@ python3-rhncfg-client.noarch                         5.10.120-10.module_el8.1.0+
 python3-rhncfg-management.noarch                     5.10.120-10.module_el8.1.0+210+a3d63f21           AppStream       
 python3-rhnpush.noarch                               5.5.110-6.module_el8.1.0+210+a3d63f21             AppStream       
 python3-rpm.i686                                     4.14.2-25.el8                                     Stream-BaseOS   
-python3-rpm.x86_64                                   4.14.2-36.el8                                     Stream-BaseOS   
 python3-rpm-generators.noarch                        5-4.el8                                           AppStream       
 python3-rpm-macros.noarch                            3-37.el8                                          AppStream       
 python3-rpmfluff.noarch                              0.5.7.1-2.el8                                     AppStream       
@@ -5494,16 +5492,13 @@ rng-tools.i686                                       6.6-2.el8                  
 rpcbind.i686                                         1.2.5-4.el8                                       Stream-BaseOS   
 rpcbind.x86_64                                       1.2.5-4.el8                                       BaseOS          
 rpm.i686                                             4.14.2-25.el8                                     Stream-BaseOS   
-rpm.x86_64                                           4.14.2-36.el8                                     Stream-BaseOS   
 rpm-apidocs.noarch                                   4.14.2-36.el8                                     Stream-BaseOS   
 rpm-build.x86_64                                     4.14.2-36.el8                                     Stream-AppStream
 rpm-build-libs.i686                                  4.14.2-36.el8                                     Stream-BaseOS   
-rpm-build-libs.x86_64                                4.14.2-36.el8                                     Stream-BaseOS   
 rpm-cron.noarch                                      4.14.2-36.el8                                     Stream-BaseOS   
 rpm-devel.i686                                       4.14.2-36.el8                                     Stream-BaseOS   
 rpm-devel.x86_64                                     4.14.2-36.el8                                     Stream-BaseOS   
 rpm-libs.i686                                        4.14.2-36.el8                                     Stream-BaseOS   
-rpm-libs.x86_64                                      4.14.2-36.el8                                     Stream-BaseOS   
 rpm-mpi-hooks.noarch                                 5-4.el8                                           AppStream       
 rpm-ostree.x86_64                                    2019.3-3.el8                                      AppStream       
 rpm-ostree-libs.i686                                 2019.3-3.el8                                      AppStream       
@@ -5511,9 +5506,7 @@ rpm-ostree-libs.x86_64                               2019.3-3.el8               
 rpm-plugin-ima.x86_64                                4.14.2-36.el8                                     Stream-BaseOS   
 rpm-plugin-prioreset.x86_64                          4.14.2-36.el8                                     Stream-BaseOS   
 rpm-plugin-selinux.i686                              4.14.2-25.el8                                     Stream-BaseOS   
-rpm-plugin-selinux.x86_64                            4.14.2-36.el8                                     Stream-BaseOS   
 rpm-plugin-syslog.x86_64                             4.14.2-36.el8                                     Stream-BaseOS   
-rpm-plugin-systemd-inhibit.x86_64                    4.14.2-36.el8                                     Stream-BaseOS   
 rpm-sign.i686                                        4.14.2-25.el8                                     Stream-BaseOS   
 rpm-sign.x86_64                                      4.14.2-36.el8                                     Stream-BaseOS   
 rpmdevtools.noarch                                   8.10-7.el8                                        AppStream       
