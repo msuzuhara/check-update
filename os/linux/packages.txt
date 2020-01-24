@@ -38134,11 +38134,11 @@ python-apscheduler/oldstable 3.3.1-1 all
 python-apsw/oldstable 3.13.0-r1-1 amd64
 python-apsw-dbg/oldstable 3.13.0-r1-1 amd64
 python-apsw-doc/oldstable 3.13.0-r1-1 all
-python-apt/oldstable 1.4.0~beta3 amd64
-python-apt-common/oldstable,now 1.4.0~beta3 all [installed,automatic]
-python-apt-dbg/oldstable 1.4.0~beta3 amd64
-python-apt-dev/oldstable 1.4.0~beta3 all
-python-apt-doc/oldstable 1.4.0~beta3 all
+python-apt/oldstable 1.4.1 amd64
+python-apt-common/oldstable 1.4.1 all [upgradable from: 1.4.0~beta3]
+python-apt-dbg/oldstable 1.4.1 amd64
+python-apt-dev/oldstable 1.4.1 all
+python-apt-doc/oldstable 1.4.1 all
 python-aptly/oldstable 0.8.1-1 all
 python-argcomplete/oldstable 1.8.1-1 all
 python-argh/oldstable 0.26.2-1 all
@@ -41447,8 +41447,8 @@ python3-applicationinsights/oldstable 0.10.0-2 all
 python3-apscheduler/oldstable 3.3.1-1 all
 python3-apsw/oldstable 3.13.0-r1-1 amd64
 python3-apsw-dbg/oldstable 3.13.0-r1-1 amd64
-python3-apt/oldstable,now 1.4.0~beta3 amd64 [installed,automatic]
-python3-apt-dbg/oldstable 1.4.0~beta3 amd64
+python3-apt/oldstable 1.4.1 amd64 [upgradable from: 1.4.0~beta3]
+python3-apt-dbg/oldstable 1.4.1 amd64
 python3-aptly/oldstable 0.8.1-1 all
 python3-argcomplete/oldstable 1.8.1-1 all
 python3-argh/oldstable 0.26.2-1 all
