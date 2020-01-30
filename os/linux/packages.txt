@@ -11,7 +11,6 @@ ModemManager.x86_64                                  1.10.4-1.el8               
 ModemManager-glib.i686                               1.10.4-1.el8                                      BaseOS          
 ModemManager-glib.x86_64                             1.10.4-1.el8                                      BaseOS          
 NetworkManager.i686                                  1:1.20.0-3.el8                                    Stream-BaseOS   
-NetworkManager.x86_64                                1:1.22.0-2.el8                                    Stream-BaseOS   
 NetworkManager-adsl.i686                             1:1.20.0-3.el8                                    Stream-BaseOS   
 NetworkManager-adsl.x86_64                           1:1.22.0-2.el8                                    Stream-BaseOS   
 NetworkManager-bluetooth.i686                        1:1.20.0-3.el8                                    Stream-BaseOS   
@@ -20,15 +19,12 @@ NetworkManager-config-connectivity-redhat.noarch     1:1.22.0-2.el8             
 NetworkManager-config-server.noarch                  1:1.22.0-2.el8                                    Stream-BaseOS   
 NetworkManager-dispatcher-routing-rules.noarch       1:1.22.0-2.el8                                    Stream-BaseOS   
 NetworkManager-libnm.i686                            1:1.22.0-2.el8                                    Stream-BaseOS   
-NetworkManager-libnm.x86_64                          1:1.22.0-2.el8                                    Stream-BaseOS   
 NetworkManager-libreswan.x86_64                      1.2.10-4.el8                                      AppStream       
 NetworkManager-libreswan-gnome.x86_64                1.2.10-4.el8                                      AppStream       
 NetworkManager-ovs.x86_64                            1:1.22.0-2.el8                                    Stream-BaseOS   
 NetworkManager-ppp.x86_64                            1:1.22.0-2.el8                                    Stream-BaseOS   
 NetworkManager-team.i686                             1:1.20.0-3.el8                                    Stream-BaseOS   
-NetworkManager-team.x86_64                           1:1.22.0-2.el8                                    Stream-BaseOS   
 NetworkManager-tui.i686                              1:1.20.0-3.el8                                    Stream-BaseOS   
-NetworkManager-tui.x86_64                            1:1.22.0-2.el8                                    Stream-BaseOS   
 NetworkManager-wifi.i686                             1:1.20.0-3.el8                                    Stream-BaseOS   
 NetworkManager-wifi.x86_64                           1:1.22.0-2.el8                                    Stream-BaseOS   
 NetworkManager-wwan.i686                             1:1.20.0-3.el8                                    Stream-BaseOS   
