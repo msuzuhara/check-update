@@ -2450,14 +2450,12 @@ kdewebdev-libs.i686                        6:3.5.10-14.el6               base
 kdewebdev-libs.x86_64                      6:3.5.10-14.el6               base   
 kdm.x86_64                                 4.3.4-37.el6                  base   
 keepalived.x86_64                          1.2.13-5.el6_6                base   
-kernel.x86_64                              2.6.32-754.27.1.el6           updates
 kernel-abi-whitelists.noarch               2.6.32-754.27.1.el6           updates
 kernel-debug.x86_64                        2.6.32-754.27.1.el6           updates
 kernel-debug-devel.i686                    2.6.32-754.27.1.el6           updates
 kernel-debug-devel.x86_64                  2.6.32-754.27.1.el6           updates
 kernel-devel.x86_64                        2.6.32-754.27.1.el6           updates
 kernel-doc.noarch                          2.6.32-754.27.1.el6           updates
-kernel-firmware.noarch                     2.6.32-754.27.1.el6           updates
 kernel-headers.x86_64                      2.6.32-754.27.1.el6           updates
 kexec-tools.x86_64                         2.0.0-310.el6                 base   
 kexec-tools-eppic.x86_64                   2.0.0-310.el6                 base   
