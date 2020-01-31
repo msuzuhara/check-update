@@ -3606,6 +3606,10 @@ kmod-devel.x86_64                         20-25.el7                      base
 kmod-kvdo.x86_64                          6.1.2.41-5.el7                 base   
 kmod-libs.i686                            20-25.el7                      base   
 kmod-oracleasm.x86_64                     2.0.8-26.el7                   base   
+kmod-redhat-qla2xxx.x86_64                10.01.00.20.07.8_k_dup7.7-2.el7_7
+                                                                         updates
+kmod-redhat-qla2xxx-devel.x86_64          10.01.00.20.07.8_k_dup7.7-2.el7_7
+                                                                         updates
 koji.noarch                               1.15.1-1.el7.centos            extras 
 koji-builder.noarch                       1.15.1-1.el7.centos            extras 
 koji-hub.noarch                           1.15.1-1.el7.centos            extras 
@@ -8666,7 +8670,6 @@ spice-streaming-agent-devel.x86_64        0.2-4.el7                      base
 spice-vdagent.x86_64                      0.14.0-18.el7                  base   
 spice-xpi.x86_64                          2.8-8.el7                      base   
 sqlite.i686                               3.7.17-8.el7_7.1               updates
-sqlite.x86_64                             3.7.17-8.el7_7.1               updates
 sqlite-devel.i686                         3.7.17-8.el7_7.1               updates
 sqlite-devel.x86_64                       3.7.17-8.el7_7.1               updates
 sqlite-doc.noarch                         3.7.17-8.el7_7.1               updates
