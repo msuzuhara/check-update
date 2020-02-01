@@ -11597,7 +11597,7 @@ idle3-tools/stable 0.9.1-2 amd64
 idle3/stable 3.7.3-1 all
 idle/stable 3.7.3-1 all
 idlestat/stable 0.8-2 amd64
-idn2/stable 2.0.5-1 amd64
+idn2/stable 2.0.5-1+deb10u1 amd64
 idn/stable 1.33-2.2 amd64
 idutch/stable 1:2.10-6 all
 idzebra-2.0-common/stable 2.0.59-1 all
@@ -23266,10 +23266,10 @@ libidm-console-framework-java/stable 1.2.0-1 all
 libidn11-dev/stable 1.33-2.2 amd64
 libidn11-java/stable 1.33-2.2 all
 libidn11/stable,now 1.33-2.2 amd64 [installed]
-libidn2-0-dev/stable 2.0.5-1 amd64
-libidn2-0/stable,now 2.0.5-1 amd64 [installed]
-libidn2-dev/stable 2.0.5-1 amd64
-libidn2-doc/stable 2.0.5-1 all
+libidn2-0-dev/stable 2.0.5-1+deb10u1 amd64
+libidn2-0/stable 2.0.5-1+deb10u1 amd64 [upgradable from: 2.0.5-1]
+libidn2-dev/stable 2.0.5-1+deb10u1 amd64
+libidn2-doc/stable 2.0.5-1+deb10u1 all
 libidna-punycode-perl/stable 1.100+dfsg-3 all
 libidw-java-doc/stable 1.6.1-1 all
 libidw-java/stable 1.6.1-1 all
@@ -42018,7 +42018,7 @@ prometheus/stable 2.7.1+ds-3+b11 amd64
 proot/stable 5.1.0-1.3 amd64
 propaganda-debian/stable 13.5.10 all
 propellor/stable 5.6.0-1 amd64
-prosody-modules/stable 0.0~hg20190203.b54e98d5c4a1+dfsg-1 all
+prosody-modules/stable 0.0~hg20190203.b54e98d5c4a1+dfsg-1+deb10u1 all
 prosody/stable 0.11.2-1 amd64
 prosper/stable 2018.20190227-2 all
 proteinortho/stable 5.16.b+dfsg-1 amd64
