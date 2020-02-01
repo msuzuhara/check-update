@@ -1394,7 +1394,7 @@ barrage/bionic 1.0.4-2build1 amd64
 barrnap/bionic 0.8+dfsg-2 all
 bart/bionic 0.4.02-2 amd64
 bart-view/bionic 0.1.00-1 amd64
-base-files/bionic-updates,now 10.1ubuntu2.7 amd64 [installed,automatic]
+base-files/bionic-updates 10.1ubuntu2.8 amd64 [upgradable from: 10.1ubuntu2.7]
 base-passwd/bionic,now 3.5.44 amd64 [installed,automatic]
 basex/bionic 8.5.1-1 all
 basez/bionic 1.6-3 amd64
@@ -18320,10 +18320,10 @@ libclaws-mail-dev/bionic 3.16.0-1 amd64
 libclblas-dev/bionic 2.12-1build1 amd64
 libclblas-doc/bionic 2.12-1build1 all
 libclblas2/bionic 2.12-1build1 amd64
-libclc-amdgcn/bionic-updates 0.2.0+git20190827-1~ubuntu18.04.1 all
-libclc-dev/bionic-updates 0.2.0+git20190827-1~ubuntu18.04.1 all
-libclc-ptx/bionic-updates 0.2.0+git20190827-1~ubuntu18.04.1 all
-libclc-r600/bionic-updates 0.2.0+git20190827-1~ubuntu18.04.1 all
+libclc-amdgcn/bionic-updates 0.2.0+git20190827-1ubuntu0.18.04.1 all
+libclc-dev/bionic-updates 0.2.0+git20190827-1ubuntu0.18.04.1 all
+libclc-ptx/bionic-updates 0.2.0+git20190827-1ubuntu0.18.04.1 all
+libclc-r600/bionic-updates 0.2.0+git20190827-1ubuntu0.18.04.1 all
 libcld2-0/bionic 0.0.0-git20150806-6 amd64
 libcld2-dev/bionic 0.0.0-git20150806-6 amd64
 libclearsilver-perl/bionic 0.10.5-3 amd64
@@ -19039,8 +19039,8 @@ libcypher-parser8/bionic 0.6.0-1 amd64
 libcyrus-imap-perl/bionic 2.5.10-3ubuntu1 amd64
 libczmq-dev/bionic 4.1.0-2 amd64
 libczmq4/bionic 4.1.0-2 amd64
-libd3dadapter9-mesa/bionic-updates 19.2.1-1ubuntu1~18.04.1 amd64
-libd3dadapter9-mesa-dev/bionic-updates 19.2.1-1ubuntu1~18.04.1 amd64
+libd3dadapter9-mesa/bionic-updates 19.2.8-0ubuntu0~18.04.1 amd64
+libd3dadapter9-mesa-dev/bionic-updates 19.2.8-0ubuntu0~18.04.1 amd64
 libdacs-dev/bionic 1.4.38a-2build1 amd64
 libdacs1/bionic 1.4.38a-2build1 amd64
 libdaemon-control-perl/bionic 0.001008-1 all
@@ -20038,10 +20038,10 @@ libefreet-bin/bionic 1.8.6-2.5build1 amd64
 libefreet-dev/bionic 1.8.6-2.5build1 amd64
 libefreet1/bionic 1.8.6-2.5build1 all
 libefreet1a/bionic 1.8.6-2.5build1 amd64
-libegl-mesa0/bionic-updates 19.2.1-1ubuntu1~18.04.1 amd64
+libegl-mesa0/bionic-updates 19.2.8-0ubuntu0~18.04.1 amd64
 libegl1/bionic-updates 1.0.0-2ubuntu2.3 amd64
-libegl1-mesa/bionic-updates 19.2.1-1ubuntu1~18.04.1 amd64
-libegl1-mesa-dev/bionic-updates 19.2.1-1ubuntu1~18.04.1 amd64
+libegl1-mesa/bionic-updates 19.2.8-0ubuntu0~18.04.1 amd64
+libegl1-mesa-dev/bionic-updates 19.2.8-0ubuntu0~18.04.1 amd64
 libehcache-java/bionic 2.6.11-3 all
 libeigen-stl-containers-dev/bionic 0.1.8-1 all
 libeigen3-dev/bionic 3.3.4-4 all
@@ -21117,8 +21117,8 @@ libgavl-ocaml-dev/bionic 0.1.5-2build4 amd64
 libgavl1/bionic 1.4.0-5 amd64
 libgazebo9/bionic 9.0.0+dfsg5-3ubuntu1 amd64
 libgazebo9-dev/bionic 9.0.0+dfsg5-3ubuntu1 amd64
-libgbm-dev/bionic-updates 19.2.1-1ubuntu1~18.04.1 amd64
-libgbm1/bionic-updates 19.2.1-1ubuntu1~18.04.1 amd64
+libgbm-dev/bionic-updates 19.2.8-0ubuntu0~18.04.1 amd64
+libgbm1/bionic-updates 19.2.8-0ubuntu0~18.04.1 amd64
 libgbtools-dev/bionic 4.44.1+dfsg-2build1 amd64
 libgbtools0/bionic 4.44.1+dfsg-2build1 amd64
 libgc-dev/bionic 1:7.4.2-8ubuntu1 amd64
@@ -24530,9 +24530,9 @@ libgkeyfile-cil-dev/bionic 0.1-5 all
 libgkeyfile1.0-cil/bionic 0.1-5 all
 libgl-gst/bionic 3.2.5-1.1 amd64
 libgl1/bionic-updates 1.0.0-2ubuntu2.3 amd64
-libgl1-mesa-dev/bionic-updates 19.2.1-1ubuntu1~18.04.1 amd64
-libgl1-mesa-dri/bionic-updates 19.2.1-1ubuntu1~18.04.1 amd64
-libgl1-mesa-glx/bionic-updates 19.2.1-1ubuntu1~18.04.1 amd64
+libgl1-mesa-dev/bionic-updates 19.2.8-0ubuntu0~18.04.1 amd64
+libgl1-mesa-dri/bionic-updates 19.2.8-0ubuntu0~18.04.1 amd64
+libgl1-mesa-glx/bionic-updates 19.2.8-0ubuntu0~18.04.1 amd64
 libgl2ps-dev/bionic 1.4.0+dfsg1-1 amd64
 libgl2ps-doc/bionic 1.4.0+dfsg1-1 all
 libgl2ps1.4/bionic 1.4.0+dfsg1-1 amd64
@@ -24548,7 +24548,7 @@ libgladeui-2-6/bionic 3.22.1-1 amd64
 libgladeui-common/bionic 3.22.1-1 all
 libgladeui-dev/bionic 3.22.1-1 amd64
 libgladeui-doc/bionic 3.22.1-1 all
-libglapi-mesa/bionic-updates 19.2.1-1ubuntu1~18.04.1 amd64
+libglapi-mesa/bionic-updates 19.2.8-0ubuntu0~18.04.1 amd64
 libglazedlists-java/bionic 1.9.1-2 all
 libglazedlists-java-doc/bionic 1.9.1-2 all
 libglbinding-dev/bionic 2.1.1-1 amd64
@@ -24563,8 +24563,8 @@ libglee0d1/bionic 5.4.0-2 amd64
 libglee0d1-dbg/bionic 5.4.0-2 amd64
 libgles1/bionic-updates 1.0.0-2ubuntu2.3 amd64
 libgles2/bionic-updates 1.0.0-2ubuntu2.3 amd64
-libgles2-mesa/bionic-updates 19.2.1-1ubuntu1~18.04.1 amd64
-libgles2-mesa-dev/bionic-updates 19.2.1-1ubuntu1~18.04.1 amd64
+libgles2-mesa/bionic-updates 19.2.8-0ubuntu0~18.04.1 amd64
+libgles2-mesa-dev/bionic-updates 19.2.8-0ubuntu0~18.04.1 amd64
 libglew-dev/bionic 2.0.0-5 amd64
 libglew2.0/bionic 2.0.0-5 amd64
 libglewmx-dev/bionic-updates 1.13.0-4ubuntu0.18.04.1 amd64
@@ -24734,7 +24734,7 @@ libglvnd-dev/bionic-updates 1.0.0-2ubuntu2.3 amd64
 libglvnd0/bionic-updates 1.0.0-2ubuntu2.3 amd64
 libglw1-mesa/bionic 8.0.0-1.1 amd64
 libglw1-mesa-dev/bionic 8.0.0-1.1 amd64
-libglx-mesa0/bionic-updates 19.2.1-1ubuntu1~18.04.1 amd64
+libglx-mesa0/bionic-updates 19.2.8-0ubuntu0~18.04.1 amd64
 libglx0/bionic-updates 1.0.0-2ubuntu2.3 amd64
 libglyr-dev/bionic 1.0.9-1 amd64
 libglyr-doc/bionic 1.0.9-1 all
@@ -31907,8 +31907,8 @@ libosl-doc/bionic 0.8.0-1.4 all
 libosl1v5/bionic 0.8.0-1.4 amd64
 libosm-gary68-perl/bionic 0.0~svn26727-2 all
 libosmcomp3/bionic 3.3.20-2 amd64
-libosmesa6/bionic-updates 19.2.1-1ubuntu1~18.04.1 amd64
-libosmesa6-dev/bionic-updates 19.2.1-1ubuntu1~18.04.1 amd64
+libosmesa6/bionic-updates 19.2.8-0ubuntu0~18.04.1 amd64
+libosmesa6-dev/bionic-updates 19.2.8-0ubuntu0~18.04.1 amd64
 libosmgpsmap-1.0-1/bionic 1.1.0-2 amd64
 libosmgpsmap-1.0-dbg/bionic 1.1.0-2 amd64
 libosmgpsmap-1.0-dev/bionic 1.1.0-2 amd64
@@ -37657,7 +37657,7 @@ libwayland-dev/bionic-updates 1.16.0-1ubuntu1.1~18.04.1 amd64
 libwayland-doc/bionic-updates 1.16.0-1ubuntu1.1~18.04.1 all
 libwayland-egl-backend-dev/bionic-updates 1.16.0-1ubuntu1.1~18.04.1 amd64
 libwayland-egl1/bionic-updates 1.16.0-1ubuntu1.1~18.04.1 amd64
-libwayland-egl1-mesa/bionic-updates 19.2.1-1ubuntu1~18.04.1 amd64
+libwayland-egl1-mesa/bionic-updates 19.2.8-0ubuntu0~18.04.1 amd64
 libwayland-server0/bionic-updates 1.16.0-1ubuntu1.1~18.04.1 amd64
 libwbclient-dev/bionic-updates,bionic-security 2:4.7.6+dfsg~ubuntu-0ubuntu2.15 amd64
 libwbclient-sssd/bionic-updates 1.16.1-1ubuntu1.4 amd64
@@ -38219,8 +38219,8 @@ libxapian-jni/bionic 1.4.5-1ubuntu3 amd64
 libxapian30/bionic-updates,bionic-security 1.4.5-1ubuntu0.1 amd64
 libxapp-dev/bionic 1.0.4-2fakesync1 amd64
 libxapp1/bionic 1.0.4-2fakesync1 amd64
-libxatracker-dev/bionic-updates 19.2.1-1ubuntu1~18.04.1 amd64
-libxatracker2/bionic-updates 19.2.1-1ubuntu1~18.04.1 amd64
+libxatracker-dev/bionic-updates 19.2.8-0ubuntu0~18.04.1 amd64
+libxatracker2/bionic-updates 19.2.8-0ubuntu0~18.04.1 amd64
 libxau-dev/bionic 1:1.0.8-1 amd64
 libxau6/bionic,now 1:1.0.8-1 amd64 [installed,automatic]
 libxau6-dbg/bionic 1:1.0.8-1 amd64
@@ -39522,7 +39522,7 @@ linux-buildinfo-5.0.0-1029-gcp/bionic-updates,bionic-security 5.0.0-1029.30~18.0
 linux-buildinfo-5.0.0-1029-gke/bionic-updates,bionic-security 5.0.0-1029.30~18.04.1 amd64
 linux-buildinfo-5.0.0-1030-oem-osp1/bionic-updates,bionic-security 5.0.0-1030.34 amd64
 linux-buildinfo-5.0.0-1033-oem-osp1/bionic-updates 5.0.0-1033.38 amd64
-linux-buildinfo-5.0.0-1037-oem-osp1/bionic-updates 5.0.0-1037.42 amd64
+linux-buildinfo-5.0.0-1037-oem-osp1/bionic-updates,bionic-security 5.0.0-1037.42 amd64
 linux-buildinfo-5.0.0-15-generic/bionic-updates,bionic-security 5.0.0-15.16~18.04.1 amd64
 linux-buildinfo-5.0.0-15-lowlatency/bionic-updates,bionic-security 5.0.0-15.16~18.04.1 amd64
 linux-buildinfo-5.0.0-16-generic/bionic-updates,bionic-security 5.0.0-16.17~18.04.1 amd64
@@ -40355,7 +40355,7 @@ linux-headers-5.0.0-1029-gcp/bionic-updates,bionic-security 5.0.0-1029.30~18.04.
 linux-headers-5.0.0-1029-gke/bionic-updates,bionic-security 5.0.0-1029.30~18.04.1 amd64
 linux-headers-5.0.0-1030-oem-osp1/bionic-updates,bionic-security 5.0.0-1030.34 amd64
 linux-headers-5.0.0-1033-oem-osp1/bionic-updates 5.0.0-1033.38 amd64
-linux-headers-5.0.0-1037-oem-osp1/bionic-updates 5.0.0-1037.42 amd64
+linux-headers-5.0.0-1037-oem-osp1/bionic-updates,bionic-security 5.0.0-1037.42 amd64
 linux-headers-5.0.0-15/bionic-updates,bionic-security 5.0.0-15.16~18.04.1 all
 linux-headers-5.0.0-15-generic/bionic-updates,bionic-security 5.0.0-15.16~18.04.1 amd64
 linux-headers-5.0.0-15-lowlatency/bionic-updates,bionic-security 5.0.0-15.16~18.04.1 amd64
@@ -40446,7 +40446,7 @@ linux-headers-lowlatency-hwe-16.04-edge/bionic-updates,bionic-security 4.15.0.76
 linux-headers-lowlatency-hwe-18.04/bionic-updates,bionic-security 5.3.0.28.96 amd64
 linux-headers-lowlatency-hwe-18.04-edge/bionic-updates,bionic-security 5.3.0.28.96 amd64
 linux-headers-oem/bionic-updates,bionic-security 4.15.0.1067.71 amd64
-linux-headers-oem-osp1/bionic-updates 5.0.0.1037.41 amd64
+linux-headers-oem-osp1/bionic-updates,bionic-security 5.0.0.1037.41 amd64
 linux-headers-oracle/bionic-updates,bionic-security 4.15.0.1031.36 amd64
 linux-headers-oracle-edge/bionic-updates,bionic-security 5.0.0.1010.9 amd64
 linux-headers-oracle-lts-18.04/bionic-updates,bionic-security 4.15.0.1031.36 amd64
@@ -40870,7 +40870,7 @@ linux-image-5.0.0-1029-gcp/bionic-updates,bionic-security 5.0.0-1029.30~18.04.1 
 linux-image-5.0.0-1029-gke/bionic-updates,bionic-security 5.0.0-1029.30~18.04.1 amd64
 linux-image-5.0.0-1030-oem-osp1/bionic-updates,bionic-security 5.0.0-1030.34 amd64
 linux-image-5.0.0-1033-oem-osp1/bionic-updates 5.0.0-1033.38 amd64
-linux-image-5.0.0-1037-oem-osp1/bionic-updates 5.0.0-1037.42 amd64
+linux-image-5.0.0-1037-oem-osp1/bionic-updates,bionic-security 5.0.0-1037.42 amd64
 linux-image-5.0.0-15-generic/bionic-updates 5.0.0-15.16~18.04.1+signed1 amd64
 linux-image-5.0.0-15-lowlatency/bionic-updates 5.0.0-15.16~18.04.1+signed1 amd64
 linux-image-5.0.0-16-generic/bionic-updates,bionic-security 5.0.0-16.17~18.04.1 amd64
@@ -40946,7 +40946,7 @@ linux-image-lowlatency-hwe-16.04-edge/bionic-updates,bionic-security 4.15.0.76.7
 linux-image-lowlatency-hwe-18.04/bionic-updates,bionic-security 5.3.0.28.96 amd64
 linux-image-lowlatency-hwe-18.04-edge/bionic-updates,bionic-security 5.3.0.28.96 amd64
 linux-image-oem/bionic-updates,bionic-security 4.15.0.1067.71 amd64
-linux-image-oem-osp1/bionic-updates 5.0.0.1037.41 amd64
+linux-image-oem-osp1/bionic-updates,bionic-security 5.0.0.1037.41 amd64
 linux-image-oracle/bionic-updates,bionic-security 4.15.0.1031.36 amd64
 linux-image-oracle-edge/bionic-updates,bionic-security 5.0.0.1010.9 amd64
 linux-image-oracle-lts-18.04/bionic-updates,bionic-security 4.15.0.1031.36 amd64
@@ -41209,7 +41209,7 @@ linux-image-unsigned-5.0.0-1029-gcp/bionic-updates,bionic-security 5.0.0-1029.30
 linux-image-unsigned-5.0.0-1029-gke/bionic-updates,bionic-security 5.0.0-1029.30~18.04.1 amd64
 linux-image-unsigned-5.0.0-1030-oem-osp1/bionic-updates,bionic-security 5.0.0-1030.34 amd64
 linux-image-unsigned-5.0.0-1033-oem-osp1/bionic-updates 5.0.0-1033.38 amd64
-linux-image-unsigned-5.0.0-1037-oem-osp1/bionic-updates 5.0.0-1037.42 amd64
+linux-image-unsigned-5.0.0-1037-oem-osp1/bionic-updates,bionic-security 5.0.0-1037.42 amd64
 linux-image-unsigned-5.0.0-15-generic/bionic-updates,bionic-security 5.0.0-15.16~18.04.1 amd64
 linux-image-unsigned-5.0.0-15-lowlatency/bionic-updates,bionic-security 5.0.0-15.16~18.04.1 amd64
 linux-image-unsigned-5.0.0-16-generic/bionic-updates,bionic-security 5.0.0-16.17~18.04.1 amd64
@@ -41714,7 +41714,7 @@ linux-modules-5.0.0-1029-gcp/bionic-updates,bionic-security 5.0.0-1029.30~18.04.
 linux-modules-5.0.0-1029-gke/bionic-updates,bionic-security 5.0.0-1029.30~18.04.1 amd64
 linux-modules-5.0.0-1030-oem-osp1/bionic-updates,bionic-security 5.0.0-1030.34 amd64
 linux-modules-5.0.0-1033-oem-osp1/bionic-updates 5.0.0-1033.38 amd64
-linux-modules-5.0.0-1037-oem-osp1/bionic-updates 5.0.0-1037.42 amd64
+linux-modules-5.0.0-1037-oem-osp1/bionic-updates,bionic-security 5.0.0-1037.42 amd64
 linux-modules-5.0.0-15-generic/bionic-updates,bionic-security 5.0.0-15.16~18.04.1 amd64
 linux-modules-5.0.0-15-lowlatency/bionic-updates,bionic-security 5.0.0-15.16~18.04.1 amd64
 linux-modules-5.0.0-16-generic/bionic-updates,bionic-security 5.0.0-16.17~18.04.1 amd64
@@ -42072,7 +42072,7 @@ linux-modules-nvidia-390-5.0.0-1028-oem-osp1/bionic-updates,bionic-security 5.0.
 linux-modules-nvidia-390-5.0.0-1029-gcp/bionic-updates,bionic-security 5.0.0-1029.30~18.04.1 amd64
 linux-modules-nvidia-390-5.0.0-1030-oem-osp1/bionic-updates,bionic-security 5.0.0-1030.34 amd64
 linux-modules-nvidia-390-5.0.0-1033-oem-osp1/bionic-updates 5.0.0-1033.38 amd64
-linux-modules-nvidia-390-5.0.0-1037-oem-osp1/bionic-updates 5.0.0-1037.42 amd64
+linux-modules-nvidia-390-5.0.0-1037-oem-osp1/bionic-updates,bionic-security 5.0.0-1037.42 amd64
 linux-modules-nvidia-390-5.3.0-1007-azure/bionic-updates,bionic-security 5.3.0-1007.8~18.04.1 amd64
 linux-modules-nvidia-390-5.3.0-1008-azure/bionic-updates,bionic-security 5.3.0-1008.9~18.04.1 amd64
 linux-modules-nvidia-390-5.3.0-1008-gcp/bionic-updates,bionic-security 5.3.0-1008.9~18.04.1 amd64
@@ -42094,7 +42094,7 @@ linux-modules-nvidia-390-generic-hwe-18.04/bionic-updates,bionic-security 5.3.0-
 linux-modules-nvidia-390-lowlatency/bionic-updates,bionic-security 4.15.0-76.86 amd64
 linux-modules-nvidia-390-lowlatency-hwe-18.04/bionic-updates,bionic-security 5.3.0-28.30~18.04.1 amd64
 linux-modules-nvidia-390-oem/bionic-updates,bionic-security 4.15.0-1067.77 amd64
-linux-modules-nvidia-390-oem-osp1/bionic-updates 5.0.0-1037.42 amd64
+linux-modules-nvidia-390-oem-osp1/bionic-updates,bionic-security 5.0.0-1037.42 amd64
 linux-modules-nvidia-390-oracle/bionic-updates,bionic-security 4.15.0-1031.34 amd64
 linux-modules-nvidia-390-oracle-edge/bionic-updates,bionic-security 5.0.0-1010.15~18.04.1 amd64
 linux-modules-nvidia-418-5.0.0-1007-oracle/bionic-updates,bionic-security 5.0.0-1007.12~18.04.1 amd64
@@ -42126,11 +42126,11 @@ linux-modules-nvidia-418-5.0.0-1028-oem-osp1/bionic-updates,bionic-security 5.0.
 linux-modules-nvidia-418-5.0.0-1029-gcp/bionic-updates,bionic-security 5.0.0-1029.30~18.04.1 amd64
 linux-modules-nvidia-418-5.0.0-1030-oem-osp1/bionic-updates,bionic-security 5.0.0-1030.34 amd64
 linux-modules-nvidia-418-5.0.0-1033-oem-osp1/bionic-updates 5.0.0-1033.38 amd64
-linux-modules-nvidia-418-5.0.0-1037-oem-osp1/bionic-updates 5.0.0-1037.42 amd64
+linux-modules-nvidia-418-5.0.0-1037-oem-osp1/bionic-updates,bionic-security 5.0.0-1037.42 amd64
 linux-modules-nvidia-418-aws-edge/bionic-updates,bionic-security 5.0.0-1024.27~18.04.1 amd64
 linux-modules-nvidia-418-azure/bionic-updates,bionic-security 5.0.0-1028.30~18.04.1 amd64
 linux-modules-nvidia-418-gcp/bionic-updates,bionic-security 5.0.0-1029.30~18.04.1 amd64
-linux-modules-nvidia-418-oem-osp1/bionic-updates 5.0.0-1037.42 amd64
+linux-modules-nvidia-418-oem-osp1/bionic-updates,bionic-security 5.0.0-1037.42 amd64
 linux-modules-nvidia-418-oracle-edge/bionic-updates,bionic-security 5.0.0-1010.15~18.04.1 amd64
 linux-modules-nvidia-430-5.3.0-1007-azure/bionic-updates,bionic-security 5.3.0-1007.8~18.04.1 amd64
 linux-modules-nvidia-430-5.3.0-1008-azure/bionic-updates,bionic-security 5.3.0-1008.9~18.04.1 amd64
@@ -42184,7 +42184,7 @@ linux-oem-headers-4.15.0-1064/bionic-updates,bionic-security 4.15.0-1064.73 all
 linux-oem-headers-4.15.0-1065/bionic-updates,bionic-security 4.15.0-1065.75 all
 linux-oem-headers-4.15.0-1066/bionic-updates,bionic-security 4.15.0-1066.76 all
 linux-oem-headers-4.15.0-1067/bionic-updates,bionic-security 4.15.0-1067.77 all
-linux-oem-osp1/bionic-updates 5.0.0.1037.41 amd64
+linux-oem-osp1/bionic-updates,bionic-security 5.0.0.1037.41 amd64
 linux-oem-osp1-headers-5.0.0-1010/bionic-updates 5.0.0-1010.11 all
 linux-oem-osp1-headers-5.0.0-1012/bionic-updates 5.0.0-1012.13 all
 linux-oem-osp1-headers-5.0.0-1015/bionic-updates 5.0.0-1015.16 all
@@ -42197,7 +42197,7 @@ linux-oem-osp1-headers-5.0.0-1027/bionic-updates,bionic-security 5.0.0-1027.31 a
 linux-oem-osp1-headers-5.0.0-1028/bionic-updates,bionic-security 5.0.0-1028.32 all
 linux-oem-osp1-headers-5.0.0-1030/bionic-updates,bionic-security 5.0.0-1030.34 all
 linux-oem-osp1-headers-5.0.0-1033/bionic-updates 5.0.0-1033.38 all
-linux-oem-osp1-headers-5.0.0-1037/bionic-updates 5.0.0-1037.42 all
+linux-oem-osp1-headers-5.0.0-1037/bionic-updates,bionic-security 5.0.0-1037.42 all
 linux-oem-osp1-tools-5.0.0-1010/bionic-updates 5.0.0-1010.11 amd64
 linux-oem-osp1-tools-5.0.0-1012/bionic-updates 5.0.0-1012.13 amd64
 linux-oem-osp1-tools-5.0.0-1015/bionic-updates 5.0.0-1015.16 amd64
@@ -42210,8 +42210,8 @@ linux-oem-osp1-tools-5.0.0-1027/bionic-updates,bionic-security 5.0.0-1027.31 amd
 linux-oem-osp1-tools-5.0.0-1028/bionic-updates,bionic-security 5.0.0-1028.32 amd64
 linux-oem-osp1-tools-5.0.0-1030/bionic-updates,bionic-security 5.0.0-1030.34 amd64
 linux-oem-osp1-tools-5.0.0-1033/bionic-updates 5.0.0-1033.38 amd64
-linux-oem-osp1-tools-5.0.0-1037/bionic-updates 5.0.0-1037.42 amd64
-linux-oem-osp1-tools-host/bionic-updates 5.0.0-1037.42 all
+linux-oem-osp1-tools-5.0.0-1037/bionic-updates,bionic-security 5.0.0-1037.42 amd64
+linux-oem-osp1-tools-host/bionic-updates,bionic-security 5.0.0-1037.42 all
 linux-oem-tools-4.15.0-1004/bionic 4.15.0-1004.5 amd64
 linux-oem-tools-4.15.0-1006/bionic-updates,bionic-security 4.15.0-1006.9 amd64
 linux-oem-tools-4.15.0-1008/bionic-updates,bionic-security 4.15.0-1008.11 amd64
@@ -42720,7 +42720,7 @@ linux-tools-5.0.0-1029-gcp/bionic-updates,bionic-security 5.0.0-1029.30~18.04.1 
 linux-tools-5.0.0-1029-gke/bionic-updates,bionic-security 5.0.0-1029.30~18.04.1 amd64
 linux-tools-5.0.0-1030-oem-osp1/bionic-updates,bionic-security 5.0.0-1030.34 amd64
 linux-tools-5.0.0-1033-oem-osp1/bionic-updates 5.0.0-1033.38 amd64
-linux-tools-5.0.0-1037-oem-osp1/bionic-updates 5.0.0-1037.42 amd64
+linux-tools-5.0.0-1037-oem-osp1/bionic-updates,bionic-security 5.0.0-1037.42 amd64
 linux-tools-5.0.0-15-generic/bionic-updates,bionic-security 5.0.0-15.16~18.04.1 amd64
 linux-tools-5.0.0-15-lowlatency/bionic-updates,bionic-security 5.0.0-15.16~18.04.1 amd64
 linux-tools-5.0.0-16-generic/bionic-updates,bionic-security 5.0.0-16.17~18.04.1 amd64
@@ -42793,7 +42793,7 @@ linux-tools-lowlatency-hwe-16.04-edge/bionic-updates,bionic-security 4.15.0.76.7
 linux-tools-lowlatency-hwe-18.04/bionic-updates,bionic-security 5.3.0.28.96 amd64
 linux-tools-lowlatency-hwe-18.04-edge/bionic-updates,bionic-security 5.3.0.28.96 amd64
 linux-tools-oem/bionic-updates,bionic-security 4.15.0.1067.71 amd64
-linux-tools-oem-osp1/bionic-updates 5.0.0.1037.41 amd64
+linux-tools-oem-osp1/bionic-updates,bionic-security 5.0.0.1037.41 amd64
 linux-tools-oracle/bionic-updates,bionic-security 4.15.0.1031.36 amd64
 linux-tools-oracle-edge/bionic-updates,bionic-security 5.0.0.1010.9 amd64
 linux-tools-oracle-lts-18.04/bionic-updates,bionic-security 4.15.0.1031.36 amd64
@@ -44079,13 +44079,13 @@ meritous-dbg/bionic 1.4-1build1 amd64
 merkaartor/bionic 0.18.3+ds-3 amd64
 merkleeyes/bionic 0.0~git20170130.0.549dd01-1 amd64
 meryl/bionic 0~20150903+r2013-3 amd64
-mesa-common-dev/bionic-updates 19.2.1-1ubuntu1~18.04.1 amd64
-mesa-opencl-icd/bionic-updates 19.2.1-1ubuntu1~18.04.1 amd64
+mesa-common-dev/bionic-updates 19.2.8-0ubuntu0~18.04.1 amd64
+mesa-opencl-icd/bionic-updates 19.2.8-0ubuntu0~18.04.1 amd64
 mesa-utils/bionic 8.4.0-1 amd64
 mesa-utils-extra/bionic 8.4.0-1 amd64
-mesa-va-drivers/bionic-updates 19.2.1-1ubuntu1~18.04.1 amd64
-mesa-vdpau-drivers/bionic-updates 19.2.1-1ubuntu1~18.04.1 amd64
-mesa-vulkan-drivers/bionic-updates 19.2.1-1ubuntu1~18.04.1 amd64
+mesa-va-drivers/bionic-updates 19.2.8-0ubuntu0~18.04.1 amd64
+mesa-vdpau-drivers/bionic-updates 19.2.8-0ubuntu0~18.04.1 amd64
+mesa-vulkan-drivers/bionic-updates 19.2.8-0ubuntu0~18.04.1 amd64
 meshio-tools/bionic 1.11.7-1 all
 meshlab/bionic 1.3.2+dfsg1-4 amd64
 meshs3d/bionic 0.2.2-14build1 amd64
