@@ -3536,7 +3536,7 @@ debian-reference-ja/oldstable 2.68 all
 debian-reference-pt/oldstable 2.68 all
 debian-reference-zh-cn/oldstable 2.68 all
 debian-reference-zh-tw/oldstable 2.68 all
-debian-security-support/oldstable 2019.02.02~deb9u1 all
+debian-security-support/oldstable 2019.12.12~deb9u2 all
 debian-timeline/oldstable 38 all
 debian-xcontrol/oldstable 0.0.4-1.1+b6 amd64
 debian-zh-faq-s/oldstable 1.13 all
@@ -37700,7 +37700,7 @@ proot/oldstable 5.1.0-1.2 amd64
 propaganda-debian/oldstable 13.5.10 all
 propellor/oldstable 3.2.3-1+b1 amd64
 prosody/oldstable,oldstable 0.9.12-2+deb9u2 amd64
-prosody-modules/oldstable 0.0~hg20170123.3ed504b944e5+dfsg-1 all
+prosody-modules/oldstable 0.0~hg20170123.3ed504b944e5+dfsg-1+deb9u1 all
 prospector/oldstable 0.12.4-2 all
 prosper/oldstable 1.00.4+cvs.2007.05.01-4.1 all
 proteinortho/oldstable 5.15+dfsg-1 amd64
