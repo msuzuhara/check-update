@@ -23267,7 +23267,7 @@ libidn11-dev/stable 1.33-2.2 amd64
 libidn11-java/stable 1.33-2.2 all
 libidn11/stable,now 1.33-2.2 amd64 [installed]
 libidn2-0-dev/stable 2.0.5-1+deb10u1 amd64
-libidn2-0/stable 2.0.5-1+deb10u1 amd64 [upgradable from: 2.0.5-1]
+libidn2-0/stable,now 2.0.5-1+deb10u1 amd64 [installed]
 libidn2-dev/stable 2.0.5-1+deb10u1 amd64
 libidn2-doc/stable 2.0.5-1+deb10u1 all
 libidna-punycode-perl/stable 1.100+dfsg-3 all
@@ -51596,7 +51596,7 @@ s51dude/stable 0.3.1-1.1+b1 amd64
 s5/stable 1.1.dfsg.2-8 all
 s6-doc/stable 2.7.2.2-3 all
 s6/stable 2.7.2.2-3 amd64
-sa-compile/stable 3.4.2-1+deb10u1 all
+sa-compile/stable 3.4.2-1+deb10u2 all
 sa-exim/stable 4.2.1-17 amd64
 sablecc/stable 3.7-1 all
 sac2mseed/stable 1.12+ds1-3 amd64
@@ -52553,9 +52553,9 @@ spacezero/stable 0.80.06-1+b2 amd64
 spades/stable 3.13.0+dfsg2-2 amd64
 spamass-milter/stable 0.4.0-1+b1 amd64
 spamassassin-heatu/stable 3.02+20101108-2 all
-spamassassin/stable 3.4.2-1+deb10u1 all
+spamassassin/stable 3.4.2-1+deb10u2 all
 spambayes/stable 1.1b1+git20190201.1335ca8-1 all
-spamc/stable 3.4.2-1+deb10u1 amd64
+spamc/stable 3.4.2-1+deb10u2 amd64
 spamoracle/stable 1.4-15+b1 amd64
 spampd/stable 2.53-1 all
 spamprobe/stable 1.4d-14+b2 amd64
