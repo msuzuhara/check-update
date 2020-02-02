@@ -45759,7 +45759,7 @@ s3ql-dbg/oldstable 2.21+dfsg-3 amd64
 s4cmd/oldstable 2.0.1+ds-1 all
 s5/oldstable 1.1.dfsg.2-6 all
 s51dude/oldstable 0.3.1-1.1+b1 amd64
-sa-compile/oldstable 3.4.2-1~deb9u2 all
+sa-compile/oldstable 3.4.2-1~deb9u3 all
 sa-exim/oldstable 4.2.1-16 amd64
 sablecc/oldstable 3.7-1 all
 sac/oldstable 1.9b5-3+b2 amd64
@@ -46693,10 +46693,10 @@ spacenavd/oldstable 0.6-1 amd64
 spacezero/oldstable 0.80.06-1+b2 amd64
 spades/oldstable 3.9.1+dfsg-1 amd64
 spamass-milter/oldstable 0.4.0-1+b1 amd64
-spamassassin/oldstable 3.4.2-1~deb9u2 all
+spamassassin/oldstable 3.4.2-1~deb9u3 all
 spamassassin-heatu/oldstable 3.02+20101108-2 all
 spambayes/oldstable 1.1b1-1.1 all
-spamc/oldstable 3.4.2-1~deb9u2 amd64
+spamc/oldstable 3.4.2-1~deb9u3 amd64
 spamoracle/oldstable 1.4-14+b6 amd64
 spampd/oldstable 2.30-23 all
 spamprobe/oldstable 1.4d-14+b2 amd64
@@ -47032,8 +47032,8 @@ suck/oldstable 4.3.2-15+b2 amd64
 suckless-tools/oldstable 42-2 amd64
 sucrack/oldstable 1.2.3-4 amd64
 sucrose/oldstable 0.110.0-3 all
-sudo/oldstable 1.8.19p1-2.1+deb9u1 amd64
-sudo-ldap/oldstable 1.8.19p1-2.1+deb9u1 amd64
+sudo/oldstable 1.8.19p1-2.1+deb9u2 amd64
+sudo-ldap/oldstable 1.8.19p1-2.1+deb9u2 amd64
 sudoku/oldstable 1.0.5-2+b2 amd64
 sugar-artwork-0.88/oldstable 0.88.1-4 amd64
 sugar-browse-activity/oldstable 200+20170502-1 all
