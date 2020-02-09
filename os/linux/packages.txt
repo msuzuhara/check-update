@@ -1205,11 +1205,9 @@ glib2-devel.x86_64                                   2.56.4-7.el8               
 glib2-fam.x86_64                                     2.56.4-7.el8                                      BaseOS          
 glib2-tests.x86_64                                   2.56.4-7.el8                                      BaseOS          
 glibc.i686                                           2.28-72.el8_1.1                                   BaseOS          
-glibc.x86_64                                         2.28-72.el8_1.1                                   BaseOS          
 glibc-all-langpacks.i686                             2.28-72.el8                                       Stream-BaseOS   
 glibc-all-langpacks.x86_64                           2.28-72.el8_1.1                                   BaseOS          
 glibc-common.i686                                    2.28-72.el8                                       Stream-BaseOS   
-glibc-common.x86_64                                  2.28-72.el8_1.1                                   BaseOS          
 glibc-devel.i686                                     2.28-72.el8_1.1                                   BaseOS          
 glibc-devel.x86_64                                   2.28-72.el8_1.1                                   BaseOS          
 glibc-headers.i686                                   2.28-72.el8_1.1                                   BaseOS          
@@ -1297,7 +1295,6 @@ glibc-langpack-dz.x86_64                             2.28-72.el8_1.1            
 glibc-langpack-el.i686                               2.28-72.el8                                       Stream-BaseOS   
 glibc-langpack-el.x86_64                             2.28-72.el8_1.1                                   BaseOS          
 glibc-langpack-en.i686                               2.28-72.el8                                       Stream-BaseOS   
-glibc-langpack-en.x86_64                             2.28-72.el8_1.1                                   BaseOS          
 glibc-langpack-eo.i686                               2.28-72.el8                                       Stream-BaseOS   
 glibc-langpack-eo.x86_64                             2.28-72.el8_1.1                                   BaseOS          
 glibc-langpack-es.i686                               2.28-72.el8                                       Stream-BaseOS   
@@ -1925,7 +1922,6 @@ grilo.i686                                           0.3.6-2.el8                
 grilo.x86_64                                         0.3.6-2.el8                                       AppStream       
 grilo-plugins.x86_64                                 0.3.8-1.el8                                       AppStream       
 groff-base.i686                                      1.22.3-18.el8                                     Stream-BaseOS   
-grub2-common.noarch                                  1:2.02-78.el8_1.1                                 BaseOS          
 grub2-efi-aa64-modules.noarch                        1:2.02-78.el8_1.1                                 BaseOS          
 grub2-efi-ia32.x86_64                                1:2.02-78.el8_1.1                                 BaseOS          
 grub2-efi-ia32-cdboot.x86_64                         1:2.02-78.el8_1.1                                 BaseOS          
@@ -1934,16 +1930,10 @@ grub2-efi-x64.x86_64                                 1:2.02-78.el8_1.1          
 grub2-efi-x64-cdboot.x86_64                          1:2.02-78.el8_1.1                                 BaseOS          
 grub2-efi-x64-modules.noarch                         1:2.02-78.el8_1.1                                 BaseOS          
 grub2-pc.i686                                        1:2.02-78.el8                                     Stream-BaseOS   
-grub2-pc.x86_64                                      1:2.02-78.el8_1.1                                 BaseOS          
-grub2-pc-modules.noarch                              1:2.02-78.el8_1.1                                 BaseOS          
 grub2-ppc64le-modules.noarch                         1:2.02-78.el8_1.1                                 BaseOS          
 grub2-tools.i686                                     1:2.02-78.el8                                     Stream-BaseOS   
-grub2-tools.x86_64                                   1:2.02-78.el8_1.1                                 BaseOS          
-grub2-tools-efi.x86_64                               1:2.02-78.el8_1.1                                 BaseOS          
 grub2-tools-extra.i686                               1:2.02-78.el8                                     Stream-BaseOS   
-grub2-tools-extra.x86_64                             1:2.02-78.el8_1.1                                 BaseOS          
 grub2-tools-minimal.i686                             1:2.02-78.el8                                     Stream-BaseOS   
-grub2-tools-minimal.x86_64                           1:2.02-78.el8_1.1                                 BaseOS          
 grubby.i686                                          8.40-37.el8                                       Stream-BaseOS   
 gsettings-desktop-schemas.i686                       3.32.0-3.el8                                      AppStream       
 gsettings-desktop-schemas.x86_64                     3.32.0-3.el8                                      BaseOS          
@@ -2787,7 +2777,6 @@ libappindicator-gtk3.x86_64                          12.10.0-19.el8             
 libappstream-glib.i686                               0.7.14-3.el8                                      BaseOS          
 libappstream-glib.x86_64                             0.7.14-3.el8                                      BaseOS          
 libarchive.i686                                      3.3.2-8.el8_1                                     BaseOS          
-libarchive.x86_64                                    3.3.2-8.el8_1                                     BaseOS          
 libasan.i686                                         8.3.1-4.5.el8                                     BaseOS          
 libasan.x86_64                                       8.3.1-4.5.el8                                     BaseOS          
 libassuan.i686                                       2.5.1-3.el8                                       BaseOS          
@@ -4346,7 +4335,6 @@ openjpeg2.x86_64                                     2.3.1-2.el8_1              
 openjpeg2-devel-docs.noarch                          2.3.1-2.el8_1                                     AppStream       
 openjpeg2-tools.x86_64                               2.3.1-2.el8_1                                     AppStream       
 openldap.i686                                        2.4.46-11.el8_1                                   BaseOS          
-openldap.x86_64                                      2.4.46-11.el8_1                                   BaseOS          
 openldap-clients.i686                                2.4.46-10.el8                                     Stream-BaseOS   
 openldap-clients.x86_64                              2.4.46-11.el8_1                                   BaseOS          
 openldap-devel.i686                                  2.4.46-11.el8_1                                   BaseOS          
@@ -4373,15 +4361,12 @@ opensm.x86_64                                        3.3.22-2.el8               
 opensm-libs.i686                                     3.3.22-2.el8                                      BaseOS          
 opensm-libs.x86_64                                   3.3.22-2.el8                                      BaseOS          
 openssh.i686                                         8.0p1-3.el8                                       Stream-BaseOS   
-openssh.x86_64                                       8.0p1-4.el8_1                                     BaseOS          
 openssh-askpass.x86_64                               8.0p1-4.el8_1                                     AppStream       
 openssh-cavs.x86_64                                  8.0p1-4.el8_1                                     BaseOS          
 openssh-clients.i686                                 8.0p1-3.el8                                       Stream-BaseOS   
-openssh-clients.x86_64                               8.0p1-4.el8_1                                     BaseOS          
 openssh-keycat.x86_64                                8.0p1-4.el8_1                                     BaseOS          
 openssh-ldap.x86_64                                  8.0p1-4.el8_1                                     BaseOS          
 openssh-server.i686                                  8.0p1-3.el8                                       Stream-BaseOS   
-openssh-server.x86_64                                8.0p1-4.el8_1                                     BaseOS          
 openssl.i686                                         1:1.1.1c-2.el8                                    Stream-BaseOS   
 openssl-devel.i686                                   1:1.1.1c-2.el8                                    BaseOS          
 openssl-devel.x86_64                                 1:1.1.1c-2.el8                                    BaseOS          
@@ -4895,7 +4880,6 @@ podman-manpages.noarch                               1.6.4-2.module_el8.1.0+272+
 podman-remote.x86_64                                 1.6.4-2.module_el8.1.0+272+3e64ee36               AppStream       
 podman-tests.x86_64                                  1.6.4-2.module_el8.1.0+272+3e64ee36               AppStream       
 policycoreutils.i686                                 2.9-3.el8                                         Stream-BaseOS   
-policycoreutils.x86_64                               2.9-3.el8_1.1                                     BaseOS          
 policycoreutils-dbus.noarch                          2.9-3.el8_1.1                                     BaseOS          
 policycoreutils-devel.i686                           2.9-3.el8_1.1                                     BaseOS          
 policycoreutils-devel.x86_64                         2.9-3.el8_1.1                                     BaseOS          
@@ -5807,7 +5791,6 @@ sqlite-devel.i686                                    3.26.0-4.el8_1             
 sqlite-devel.x86_64                                  3.26.0-4.el8_1                                    BaseOS          
 sqlite-doc.noarch                                    3.26.0-4.el8_1                                    BaseOS          
 sqlite-libs.i686                                     3.26.0-4.el8_1                                    BaseOS          
-sqlite-libs.x86_64                                   3.26.0-4.el8_1                                    BaseOS          
 squashfs-tools.i686                                  4.3-19.el8                                        Stream-BaseOS   
 squid.x86_64                                         7:4.4-8.module_el8.1.0+197+0c39cdc8               AppStream       
 srp_daemon.i686                                      22.3-1.el8                                        Stream-BaseOS   
@@ -6340,7 +6323,6 @@ trousers.i686                                        0.3.14-4.el8               
 trousers-lib.i686                                    0.3.14-4.el8                                      BaseOS          
 ttmkfdir.x86_64                                      3.0.9-54.el8                                      AppStream       
 tuna.noarch                                          0.14-4.el8                                        BaseOS          
-tuned.noarch                                         2.12.0-3.el8_1.1                                  BaseOS          
 tuned-gtk.noarch                                     2.12.0-3.el8_1.1                                  AppStream       
 tuned-profiles-atomic.noarch                         2.12.0-3.el8_1.1                                  BaseOS          
 tuned-profiles-compat.noarch                         2.12.0-3.el8_1.1                                  BaseOS          
