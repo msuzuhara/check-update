@@ -1262,7 +1262,7 @@ barrier/stable 2.1.2+dfsg-1 amd64
 barrnap/stable 0.9+dfsg-1 all
 bart-view/stable 0.1.00-2 amd64
 bart/stable 0.4.04-2 amd64
-base-files/stable 10.3+deb10u3 amd64 [upgradable from: 10.3+deb10u2]
+base-files/stable,now 10.3+deb10u3 amd64 [installed]
 base-passwd/stable,now 3.5.46 amd64 [installed]
 base58/stable 1.0.3-1 all
 basex/stable 9.0.1+ds-1 all
@@ -4557,7 +4557,7 @@ e2fsck-static/stable 1.44.5-1+deb10u3 amd64
 e2fslibs-dev/stable 1.44.5-1+deb10u3 all
 e2fslibs/stable 1.44.5-1+deb10u3 amd64
 e2fsprogs-l10n/stable 1.44.5-1+deb10u3 all
-e2fsprogs/stable 1.44.5-1+deb10u3 amd64 [upgradable from: 1.44.5-1+deb10u2]
+e2fsprogs/stable,now 1.44.5-1+deb10u3 amd64 [installed]
 e2guardian/stable 5.3.1-1 amd64
 e2ps/stable 4.34-5 amd64
 e2tools/stable 0.0.16-6.1+b2 amd64
@@ -15973,7 +15973,7 @@ libcolpack-dev/stable 1.0.10-4 amd64
 libcolpack0v5/stable 1.0.10-4 amd64
 libcolt-free-java-doc/stable 1.2.0+dfsg-7 all
 libcolt-free-java/stable 1.2.0+dfsg-7 all
-libcom-err2/stable 1.44.5-1+deb10u3 amd64 [upgradable from: 1.44.5-1+deb10u2]
+libcom-err2/stable,now 1.44.5-1+deb10u3 amd64 [installed]
 libcom-hypirion-io-clojure/stable 0.3.1-3 all
 libcombblas-dev/stable 1.6.2-3 amd64
 libcombblas-docs/stable 1.6.2-3 all
@@ -17828,7 +17828,7 @@ libexporter-renaming-perl/stable 1.19-2 all
 libexporter-tidy-perl/stable 0.08-1 all
 libexporter-tiny-perl/stable 1.002001-1 all
 libext2fs-dev/stable 1.44.5-1+deb10u3 amd64
-libext2fs2/stable 1.44.5-1+deb10u3 amd64 [upgradable from: 1.44.5-1+deb10u2]
+libext2fs2/stable,now 1.44.5-1+deb10u3 amd64 [installed]
 libexternalsortinginjava-java-doc/stable 0.2.5-1 all
 libexternalsortinginjava-java/stable 0.2.5-1 all
 libextlib-ocaml-dev/stable 1.7.0-3+b1 amd64
@@ -22266,7 +22266,7 @@ libgnustep-gui0.27/stable 0.27.0-5 amd64
 libgnutls-dane0/stable 3.6.7-4+deb10u2 amd64
 libgnutls-openssl27/stable 3.6.7-4+deb10u2 amd64
 libgnutls28-dev/stable 3.6.7-4+deb10u2 amd64
-libgnutls30/stable 3.6.7-4+deb10u2 amd64 [upgradable from: 3.6.7-4]
+libgnutls30/stable,now 3.6.7-4+deb10u2 amd64 [installed]
 libgnutlsxx28/stable 3.6.7-4+deb10u2 amd64
 libgo-perl/stable 0.15-7 all
 libgo11-dbg/stable 7.4.0-6 amd64
@@ -27580,7 +27580,7 @@ libnss-pgsql2/stable 1.4.0debian-8 amd64
 libnss-rainbow2/stable 0.8.7-2 amd64
 libnss-resolve/stable 241-7~deb10u3 amd64
 libnss-sss/stable 1.16.3-3.1 amd64
-libnss-systemd/stable 241-7~deb10u3 amd64 [upgradable from: 241-7~deb10u2]
+libnss-systemd/stable,now 241-7~deb10u3 amd64 [installed]
 libnss-unknown/stable 0.0.2-2 amd64
 libnss-winbind/stable 2:4.9.5+dfsg-5+deb10u1 amd64
 libnss-wrapper/stable 1.1.3-1 amd64
@@ -28476,7 +28476,7 @@ libpam-snapper/stable 0.8.2-1 amd64
 libpam-ssh-agent-auth/stable 0.10.3-3 amd64
 libpam-ssh/stable 2.3+ds-1 amd64
 libpam-sss/stable 1.16.3-3.1 amd64
-libpam-systemd/stable 241-7~deb10u3 amd64 [upgradable from: 241-7~deb10u2]
+libpam-systemd/stable,now 241-7~deb10u3 amd64 [installed]
 libpam-tacplus/stable 1.3.8-2 amd64
 libpam-tmpdir/stable 0.09+b2 amd64
 libpam-u2f/stable 1.0.7-1+deb10u1 amd64
@@ -29472,8 +29472,8 @@ libpython3-dev/stable 3.7.3-1 amd64
 libpython3-stdlib/stable,now 3.7.3-1 amd64 [installed,automatic]
 libpython3.7-dbg/stable 3.7.3-2+deb10u1 amd64
 libpython3.7-dev/stable 3.7.3-2+deb10u1 amd64
-libpython3.7-minimal/stable 3.7.3-2+deb10u1 amd64 [upgradable from: 3.7.3-2]
-libpython3.7-stdlib/stable 3.7.3-2+deb10u1 amd64 [upgradable from: 3.7.3-2]
+libpython3.7-minimal/stable,now 3.7.3-2+deb10u1 amd64 [installed,automatic]
+libpython3.7-stdlib/stable,now 3.7.3-2+deb10u1 amd64 [installed,automatic]
 libpython3.7-testsuite/stable 3.7.3-2+deb10u1 all
 libpython3.7/stable 3.7.3-2+deb10u1 amd64
 libpyzy-1.0-0v5/stable 1.0.1-6 amd64
@@ -32395,7 +32395,7 @@ libsrtp2-1/stable 2.2.0-1 amd64
 libsrtp2-dev/stable 2.2.0-1 amd64
 libsrtp2-docs/stable 2.2.0-1 all
 libsru-perl/stable 1.01-2 all
-libss2/stable 1.44.5-1+deb10u3 amd64 [upgradable from: 1.44.5-1+deb10u2]
+libss2/stable,now 1.44.5-1+deb10u3 amd64 [installed]
 libss7-2.0/stable 2.0.0-2 amd64
 libss7-dev/stable 2.0.0-2 amd64
 libsscm-dev/stable 0.9.0-1 amd64
@@ -32828,7 +32828,7 @@ libsystemc-dev/stable 2.3.3-2 amd64
 libsystemc-doc/stable 2.3.3-2 all
 libsystemc/stable 2.3.3-2 amd64
 libsystemd-dev/stable 241-7~deb10u3 amd64
-libsystemd0/stable 241-7~deb10u3 amd64 [upgradable from: 241-7~deb10u2]
+libsystemd0/stable,now 241-7~deb10u3 amd64 [installed]
 libsz2/stable 1.0.2-1 amd64
 libt3config-dev/stable 0.2.11-1 amd64
 libt3config0/stable 0.2.11-1 amd64
@@ -33837,7 +33837,7 @@ libucpp-dev/stable 1.3.2-2+b1 amd64
 libucto-dev/stable 0.14-2 amd64
 libucto3/stable 0.14-2 amd64
 libudev-dev/stable 241-7~deb10u3 amd64
-libudev1/stable 241-7~deb10u3 amd64 [upgradable from: 241-7~deb10u2]
+libudev1/stable,now 241-7~deb10u3 amd64 [installed]
 libudf-dev/stable 2.0.0-2 amd64
 libudf0/stable 2.0.0-2 amd64
 libudisks2-0/stable 2.8.1-4 amd64
@@ -35694,7 +35694,7 @@ linux-image-4.19.0-6-rt-amd64-unsigned/stable 4.19.67-2+deb10u2 amd64
 linux-image-4.19.0-6-rt-amd64/stable 4.19.67-2+deb10u2 amd64
 linux-image-4.19.0-8-amd64-dbg/stable 4.19.98-1 amd64
 linux-image-4.19.0-8-amd64-unsigned/stable 4.19.98-1 amd64
-linux-image-4.19.0-8-amd64/stable 4.19.98-1 amd64
+linux-image-4.19.0-8-amd64/stable,now 4.19.98-1 amd64 [installed,automatic]
 linux-image-4.19.0-8-cloud-amd64-dbg/stable 4.19.98-1 amd64
 linux-image-4.19.0-8-cloud-amd64-unsigned/stable 4.19.98-1 amd64
 linux-image-4.19.0-8-cloud-amd64/stable 4.19.98-1 amd64
@@ -35703,7 +35703,7 @@ linux-image-4.19.0-8-rt-amd64-unsigned/stable 4.19.98-1 amd64
 linux-image-4.19.0-8-rt-amd64/stable 4.19.98-1 amd64
 linux-image-amd64-dbg/stable 4.19+105+deb10u3 amd64
 linux-image-amd64-signed-template/stable 4.19.98-1 amd64
-linux-image-amd64/stable 4.19+105+deb10u3 amd64 [upgradable from: 4.19+105+deb10u1]
+linux-image-amd64/stable,now 4.19+105+deb10u3 amd64 [installed]
 linux-image-cloud-amd64-dbg/stable 4.19+105+deb10u3 amd64
 linux-image-cloud-amd64/stable 4.19+105+deb10u3 amd64
 linux-image-rt-amd64-dbg/stable 4.19+105+deb10u3 amd64
@@ -40121,10 +40121,10 @@ opensmtpd-extras/stable 5.7.1-4+b2 amd64
 opensmtpd/stable,stable 6.0.3p1-5+deb10u3 amd64
 opensp/stable 1.5.2-13+b1 amd64
 openssh-client-ssh1/stable 1:7.5p1-11 amd64
-openssh-client/stable 1:7.9p1-10+deb10u2 amd64 [upgradable from: 1:7.9p1-10+deb10u1]
+openssh-client/stable,now 1:7.9p1-10+deb10u2 amd64 [installed]
 openssh-known-hosts/stable 0.6.2-1 all
-openssh-server/stable 1:7.9p1-10+deb10u2 amd64 [upgradable from: 1:7.9p1-10+deb10u1]
-openssh-sftp-server/stable 1:7.9p1-10+deb10u2 amd64 [upgradable from: 1:7.9p1-10+deb10u1]
+openssh-server/stable,now 1:7.9p1-10+deb10u2 amd64 [installed,automatic]
+openssh-sftp-server/stable,now 1:7.9p1-10+deb10u2 amd64 [installed,automatic]
 openssh-tests/stable 1:7.9p1-10+deb10u2 amd64
 openssl/stable,stable,now 1.1.1d-0+deb10u2 amd64 [installed,automatic]
 openssn-data/stable 1.4-3 all
@@ -48642,9 +48642,9 @@ python3.7-dbg/stable 3.7.3-2+deb10u1 amd64
 python3.7-dev/stable 3.7.3-2+deb10u1 amd64
 python3.7-doc/stable 3.7.3-2+deb10u1 all
 python3.7-examples/stable 3.7.3-2+deb10u1 all
-python3.7-minimal/stable 3.7.3-2+deb10u1 amd64 [upgradable from: 3.7.3-2]
+python3.7-minimal/stable,now 3.7.3-2+deb10u1 amd64 [installed,automatic]
 python3.7-venv/stable 3.7.3-2+deb10u1 amd64
-python3.7/stable 3.7.3-2+deb10u1 amd64 [upgradable from: 3.7.3-2]
+python3.7/stable,now 3.7.3-2+deb10u1 amd64 [installed,automatic]
 python3/stable,now 3.7.3-1 amd64 [installed,automatic]
 python/stable,now 2.7.16-1 amd64 [installed]
 pythoncad/stable 0.1.37.0-3 all
@@ -53204,9 +53204,9 @@ systemd-container/stable 241-7~deb10u3 amd64
 systemd-coredump/stable 241-7~deb10u3 amd64
 systemd-cron/stable 1.5.14-2 amd64
 systemd-journal-remote/stable 241-7~deb10u3 amd64
-systemd-sysv/stable 241-7~deb10u3 amd64 [upgradable from: 241-7~deb10u2]
+systemd-sysv/stable,now 241-7~deb10u3 amd64 [installed]
 systemd-tests/stable 241-7~deb10u3 amd64
-systemd/stable 241-7~deb10u3 amd64 [upgradable from: 241-7~deb10u2]
+systemd/stable,now 241-7~deb10u3 amd64 [installed]
 systempreferences.app-dbg/stable 1.2.0-2+b5 amd64
 systempreferences.app/stable 1.2.0-2+b5 amd64
 systemsettings/stable 4:5.14.5-1.1 amd64
@@ -54716,7 +54716,7 @@ ucspi-unix/stable 1.0-1 amd64
 ucto/stable 0.14-2 amd64
 uctodata/stable 0.8-2 all
 udav/stable 2.4.2.1-5 amd64
-udev/stable 241-7~deb10u3 amd64 [upgradable from: 241-7~deb10u2]
+udev/stable,now 241-7~deb10u3 amd64 [installed]
 udevil/stable 0.4.4-2 amd64
 udfclient/stable 0.8.9-1 amd64
 udftools/stable 2.1-1 amd64
