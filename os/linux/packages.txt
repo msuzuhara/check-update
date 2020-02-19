@@ -1192,8 +1192,8 @@ finger-server.x86_64                       0.17-40.el6                   base
 fipscheck-devel.i686                       1.2.0-7.el6                   base   
 fipscheck-devel.x86_64                     1.2.0-7.el6                   base   
 fipscheck-lib.i686                         1.2.0-7.el6                   base   
-firefox.i686                               68.4.1-1.el6.centos           updates
-firefox.x86_64                             68.4.1-1.el6.centos           updates
+firefox.i686                               68.5.0-2.el6.centos           updates
+firefox.x86_64                             68.5.0-2.el6.centos           updates
 firstaidkit.x86_64                         0.3.2-2.el6                   base   
 firstaidkit-devel.noarch                   0.3.2-2.el6                   base   
 firstaidkit-engine.noarch                  0.3.2-2.el6                   base   
@@ -2501,7 +2501,7 @@ krb5-server-ldap.x86_64                    1.10.3-65.el6                 base
 krb5-workstation.x86_64                    1.10.3-65.el6                 base   
 kross-python.x86_64                        4.3.4-5.el6                   base   
 ksc.noarch                                 1:0.9.18-1.el6                base   
-ksh.x86_64                                 20120801-37.el6_9             base   
+ksh.x86_64                                 20120801-38.el6_10            updates
 ksig.x86_64                                1.1-0.10.20080213.el6         base   
 ksig-doc.noarch                            1.1-0.10.20080213.el6         base   
 ksm_preload.i686                           0.10-3.el6                    base   
