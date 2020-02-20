@@ -38587,7 +38587,7 @@ python-distorm3/oldstable 3.3.4-2 all
 python-distro/oldstable 1.0.1-2 all
 python-distro-info/oldstable 0.14 all
 python-distutils-extra/oldstable 2.40 all
-python-django/oldstable,oldstable 1:1.10.7-2+deb9u7 all
+python-django/oldstable 1:1.10.7-2+deb9u8 all
 python-django-adminsortable/oldstable 2.0.10-2 all
 python-django-appconf/oldstable 1.0.1-5 all
 python-django-appconf-doc/oldstable 1.0.1-5 all
@@ -38609,7 +38609,7 @@ python-django-celery-haystack/oldstable 0.10-1 all
 python-django-celery-transactions/oldstable 0.3.6-2 all
 python-django-classy-tags/oldstable 0.8.0-1 all
 python-django-classy-tags-doc/oldstable 0.8.0-1 all
-python-django-common/oldstable,oldstable 1:1.10.7-2+deb9u7 all
+python-django-common/oldstable 1:1.10.7-2+deb9u8 all
 python-django-compat/oldstable 1.0.13-1 all
 python-django-compressor/oldstable 2.1-1 all
 python-django-contact-form/oldstable 1.3-1 all
@@ -38621,7 +38621,7 @@ python-django-crispy-forms-doc/oldstable 1.6.1-1 all
 python-django-debug-toolbar/oldstable 1:1.6-1 all
 python-django-debug-toolbar-doc/oldstable 1:1.6-1 all
 python-django-discover-runner/oldstable 1.0-2 all
-python-django-doc/oldstable,oldstable 1:1.10.7-2+deb9u7 all
+python-django-doc/oldstable 1:1.10.7-2+deb9u8 all
 python-django-downloadview/oldstable 1.9-1 all
 python-django-environ/oldstable 0.4.0-2 all
 python-django-etcd-settings/oldstable 0.1.13+dfsg-1 all
@@ -41705,7 +41705,7 @@ python3-distlib/oldstable 0.2.4-1 all
 python3-distro/oldstable 1.0.1-2 all
 python3-distro-info/oldstable 0.14 all
 python3-distutils-extra/oldstable 2.40 all
-python3-django/oldstable,oldstable 1:1.10.7-2+deb9u7 all
+python3-django/oldstable 1:1.10.7-2+deb9u8 all
 python3-django-adminsortable/oldstable 2.0.10-2 all
 python3-django-appconf/oldstable 1.0.1-5 all
 python3-django-assets/oldstable 0.12-2 all
