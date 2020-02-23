@@ -41839,9 +41839,9 @@ poxml/stable 4:17.08.3-1 amd64
 pp-popularity-contest/stable 1.0.6-4+b1 amd64
 ppdfilt/stable 2:0.10-7.3 amd64
 ppl-dev/stable 1:1.2-7 amd64
-ppp-dev/stable 2.4.7-2+4.1 all
+ppp-dev/stable 2.4.7-2+4.1+deb10u1 all
 ppp-gatekeeper/stable 0.1.0-201406111015-1 all
-ppp/stable 2.4.7-2+4.1 amd64
+ppp/stable 2.4.7-2+4.1+deb10u1 amd64
 pppconfig/stable 2.3.23 all
 pppdcapiplugin/stable 1:3.25+dfsg1-10 amd64
 pppoe/stable 3.12-1.2 amd64
