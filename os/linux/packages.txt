@@ -28064,7 +28064,7 @@ libpam-pwdfile/xenial 1.0-1 amd64
 libpam-pwquality/xenial 1.3.0-0ubuntu1 amd64
 libpam-python/xenial 1.0.4-1 amd64
 libpam-python-doc/xenial,xenial 1.0.4-1 all
-libpam-radius-auth/xenial 1.3.17-0ubuntu4 amd64
+libpam-radius-auth/xenial-updates,xenial-security 1.3.17-0ubuntu4.1 amd64
 libpam-rsbac/xenial 1.4.0-repack-0ubuntu5 amd64
 libpam-runtime/xenial-updates,xenial-updates,now 1.1.8-3.2ubuntu2.1 all [installed]
 libpam-script/xenial 1.1.7-1 amd64
@@ -52317,7 +52317,7 @@ rsstail/xenial 1.8-1 amd64
 rst2pdf/xenial,xenial 0.93-4 all
 rstat-client/xenial 4.0.1-8 amd64
 rstatd/xenial 4.0.1-8 amd64
-rsync/xenial-updates,xenial-security,now 3.1.1-3ubuntu1.2 amd64 [installed]
+rsync/xenial-updates,xenial-security 3.1.1-3ubuntu1.3 amd64 [upgradable from: 3.1.1-3ubuntu1.2]
 rsyncrypto/xenial 1.12-1build1 amd64
 rsyslog/xenial-updates,now 8.16.0-1ubuntu3.1 amd64 [installed]
 rsyslog-doc/xenial,xenial 8.16.0-1 all
