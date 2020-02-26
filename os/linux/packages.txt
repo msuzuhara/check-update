@@ -6003,7 +6003,7 @@ thai-scalable-tlwgtypo-fonts.noarch        0.4.12-2.1.el6                base
 thai-scalable-umpush-fonts.noarch          0.4.12-2.1.el6                base   
 thai-scalable-waree-fonts.noarch           0.4.12-2.1.el6                base   
 theora-tools.x86_64                        1:1.1.0-2.el6                 base   
-thunderbird.x86_64                         68.4.1-2.el6.centos           updates
+thunderbird.x86_64                         68.5.0-1.el6.centos           updates
 tibetan-machine-uni-fonts.noarch           1.901-5.el6                   base   
 tidy.x86_64                                0.99.0-19.20070615.1.el6      base   
 tigervnc.x86_64                            1.1.0-24.el6                  base   
