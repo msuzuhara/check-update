@@ -16418,7 +16418,7 @@ libcurator-recipes-java/stable 2.7.1-2 all
 libcurator-test-java/stable 2.7.1-2 all
 libcurl-ocaml-dev/stable 0.8.1-1 amd64
 libcurl-ocaml/stable 0.8.1-1 amd64
-libcurl3-gnutls/stable 7.64.0-4+deb10u1 amd64 [upgradable from: 7.64.0-4]
+libcurl3-gnutls/stable,now 7.64.0-4+deb10u1 amd64 [installed,automatic]
 libcurl3-nss/stable 7.64.0-4+deb10u1 amd64
 libcurl4-doc/stable 7.64.0-4+deb10u1 all
 libcurl4-gnutls-dev/stable 7.64.0-4+deb10u1 amd64
