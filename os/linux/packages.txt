@@ -58192,7 +58192,7 @@ rsstail/bionic 1.8-1 amd64
 rst2pdf/bionic 0.93-6 all
 rstat-client/bionic 4.0.1-9 amd64
 rstatd/bionic 4.0.1-9 amd64
-rsync/bionic-updates,bionic-security 3.1.2-2.1ubuntu1.1 amd64 [upgradable from: 3.1.2-2.1ubuntu1]
+rsync/bionic-updates,bionic-security,now 3.1.2-2.1ubuntu1.1 amd64 [installed,automatic]
 rsyncrypto/bionic 1.14-1 amd64
 rsyslog/bionic,now 8.32.0-1ubuntu4 amd64 [installed,automatic]
 rsyslog-czmq/bionic 8.32.0-1ubuntu4 amd64
