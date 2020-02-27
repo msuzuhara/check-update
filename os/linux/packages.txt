@@ -3199,7 +3199,6 @@ libmodman.x86_64                                     2.0.1-17.el8               
 libmodulemd.i686                                     2.8.2-1.el8                                       Stream-BaseOS   
 libmodulemd.x86_64                                   2.8.2-1.el8                                       Stream-BaseOS   
 libmodulemd1.i686                                    1.8.16-0.2.8.2.1                                  Stream-BaseOS   
-libmodulemd1.x86_64                                  1.8.16-0.2.8.2.1                                  Stream-BaseOS   
 libmount.i686                                        2.32.1-17.el8                                     BaseOS          
 libmpc.i686                                          1.0.2-9.el8                                       AppStream       
 libmpc.x86_64                                        1.0.2-9.el8                                       AppStream       
