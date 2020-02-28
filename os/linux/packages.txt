@@ -7526,9 +7526,9 @@ postgresql-test.x86_64                    9.2.24-2.el7_7                 updates
 postgresql-upgrade.x86_64                 9.2.24-2.el7_7                 updates
 pothana2000-fonts.noarch                  1.3.3-6.el7                    base   
 powertop.x86_64                           2.9-1.el7                      base   
-ppp.x86_64                                2.4.5-33.el7                   base   
-ppp-devel.i686                            2.4.5-33.el7                   base   
-ppp-devel.x86_64                          2.4.5-33.el7                   base   
+ppp.x86_64                                2.4.5-34.el7_7                 updates
+ppp-devel.i686                            2.4.5-34.el7_7                 updates
+ppp-devel.x86_64                          2.4.5-34.el7_7                 updates
 pprof.noarch                              2.6.1-1.el7                    base   
 pps-tools.x86_64                          0-0.9.20120407git0deb9c.el7    base   
 pps-tools-devel.i686                      0-0.9.20120407git0deb9c.el7    base   
