@@ -42636,8 +42636,8 @@ python-bitstruct/stable 3.7.0-1 all
 python-bittorrent/stable 3.4.2-12 all
 python-bjsonrpc/stable 0.2.0-2 all
 python-black-doc/stable 18.9b0-1-6 all
-python-bleach-doc/stable 3.1.0-1 all
-python-bleach/stable 3.1.0-1 all
+python-bleach-doc/stable 3.1.1-0+deb10u1 all
+python-bleach/stable 3.1.1-0+deb10u1 all
 python-blessed/stable 1.15.0-1 all
 python-blessings/stable 1.6-2 all
 python-blinker-doc/stable 1.4+dfsg1-0.2 all
@@ -46037,7 +46037,7 @@ python3-bitcoinlib/stable 0.10.1-1 all
 python3-bitstring/stable 3.1.5-1 all
 python3-bitstruct/stable 3.7.0-1 all
 python3-blazarclient/stable 2.0.0-2 all
-python3-bleach/stable 3.1.0-1 all
+python3-bleach/stable 3.1.1-0+deb10u1 all
 python3-blends/stable 0.7.2 all
 python3-blessed/stable 1.15.0-1 all
 python3-blessings/stable 1.6-2 all
