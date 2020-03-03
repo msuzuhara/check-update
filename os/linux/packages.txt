@@ -1858,13 +1858,13 @@ bs1770gain/xenial 0.4.8-2 amd64
 bs1770gain-dbg/xenial 0.4.8-2 amd64
 bs2b-ladspa/xenial 0.9.1-3ubuntu1 amd64
 bsd-mailx/xenial 8.1.2-0.20160123cvs-2 amd64
-bsdcpio/xenial-updates,xenial-security 3.1.2-11ubuntu0.16.04.7 amd64
+bsdcpio/xenial-updates,xenial-security 3.1.2-11ubuntu0.16.04.8 amd64
 bsdgames/xenial 2.17-23 amd64
 bsdgames-nonfree/xenial 2.17-6build1 amd64
 bsdiff/xenial 4.3-15 amd64
 bsdmainutils/xenial,now 9.0.6ubuntu3 amd64 [installed]
 bsdowl/xenial,xenial 2.2.2-1 all
-bsdtar/xenial-updates,xenial-security 3.1.2-11ubuntu0.16.04.7 amd64
+bsdtar/xenial-updates,xenial-security 3.1.2-11ubuntu0.16.04.8 amd64
 bsdutils/xenial-updates 1:2.27.1-6ubuntu3.10 amd64 [upgradable from: 1:2.27.1-6ubuntu3.9]
 bsfilter/xenial,xenial 1:1.0.19-2 all
 bsh/xenial,xenial 2.0b4-17ubuntu1 all
@@ -14040,8 +14040,8 @@ libapache2-mod-watchcat/xenial 1.1.2-1 amd64
 libapache2-mod-webauth/xenial 4.7.0-3build1 amd64
 libapache2-mod-webauthldap/xenial 4.7.0-3build1 amd64
 libapache2-mod-webkdc/xenial 4.7.0-3build1 amd64
-libapache2-mod-wsgi/xenial 4.3.0-1.1build1 amd64
-libapache2-mod-wsgi-py3/xenial 4.3.0-1.1build1 amd64
+libapache2-mod-wsgi/xenial-updates 4.3.0-1.1ubuntu1 amd64
+libapache2-mod-wsgi-py3/xenial-updates 4.3.0-1.1ubuntu1 amd64
 libapache2-mod-xforward/xenial 0.6-1 amd64
 libapache2-mod-xsendfile/xenial 0.12-2 amd64
 libapache2-modsecurity/xenial,xenial 2.9.0-1 all
@@ -14150,13 +14150,13 @@ libarchive-any-create-perl/xenial,xenial 0.3-2 all
 libarchive-any-lite-perl/xenial,xenial 0.10-2 all
 libarchive-any-perl/xenial,xenial 0.0942-2 all
 libarchive-ar-perl/xenial,xenial 2.02-2 all
-libarchive-dev/xenial-updates,xenial-security 3.1.2-11ubuntu0.16.04.7 amd64
+libarchive-dev/xenial-updates,xenial-security 3.1.2-11ubuntu0.16.04.8 amd64
 libarchive-extract-perl/xenial,xenial 0.76-1 all
 libarchive-peek-perl/xenial,xenial 0.35-2 all
 libarchive-tar-wrapper-perl/xenial,xenial 0.23-1 all
 libarchive-tools/xenial-backports 3.2.1-2~ubuntu16.04.1 amd64
 libarchive-zip-perl/xenial-updates,xenial-updates,xenial-security,xenial-security 1.56-2ubuntu0.1 all
-libarchive13/xenial-updates,xenial-security 3.1.2-11ubuntu0.16.04.7 amd64
+libarchive13/xenial-updates,xenial-security 3.1.2-11ubuntu0.16.04.8 amd64
 libargparse4j-java/xenial,xenial 0.4.4-1 all
 libargparse4j-java-doc/xenial,xenial 0.4.4-1 all
 libargs4j-java/xenial,xenial 2.33-1 all
@@ -53476,7 +53476,7 @@ s3ql-dbg/xenial 2.15+dfsg-1 amd64
 s3switch/xenial 0.1-1 i386
 s5/xenial,xenial 1.1.dfsg.2-5 all
 s51dude/xenial 0.3.1-1.1 amd64
-sa-compile/xenial-updates,xenial-updates,xenial-security,xenial-security 3.4.2-0ubuntu0.16.04.3 all
+sa-compile/xenial-updates,xenial-updates 3.4.2-0ubuntu0.16.04.4 all
 sa-exim/xenial 4.2.1-14build1 amd64
 sa-learn-cyrus/xenial,xenial 0.3.5-1.1 all
 sabily-gdm-themes/xenial,xenial 1.4 all
@@ -54467,11 +54467,11 @@ spacefm-gtk3/xenial 1.0.5-1 amd64
 spacenavd/xenial 0.6-1 amd64
 spacezero/xenial 0.80.06-1 amd64
 spamass-milter/xenial 0.3.2-1 amd64
-spamassassin/xenial-updates,xenial-updates,xenial-security,xenial-security 3.4.2-0ubuntu0.16.04.3 all
+spamassassin/xenial-updates,xenial-updates 3.4.2-0ubuntu0.16.04.4 all
 spamassassin-heatu/xenial,xenial 3.02+20101108-2 all
 spamassassin-rules-ja/xenial,xenial 9ubuntu1 all
 spambayes/xenial,xenial 1.1b1-1 all
-spamc/xenial-updates,xenial-security 3.4.2-0ubuntu0.16.04.3 amd64
+spamc/xenial-updates 3.4.2-0ubuntu0.16.04.4 amd64
 spamoracle/xenial 1.4-14build4 amd64
 spampd/xenial,xenial 2.30-22.2 all
 spamprobe/xenial 1.4d-14 amd64
