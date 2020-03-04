@@ -51840,7 +51840,7 @@ raincat/xenial 1.1.1.2-2 amd64
 raincat-data/xenial,xenial 1.1.1.2-2 all
 raintpl/xenial,xenial 2.7.2-1 all
 rakarrack/xenial 0.6.1-4build1 amd64
-rake/xenial,xenial 10.5.0-2 all
+rake/xenial-updates,xenial-updates,xenial-security,xenial-security 10.5.0-2ubuntu0.1 all
 rake-compiler/xenial,xenial 0.9.5-2 all
 rakudo/xenial,xenial 2015.11-2build1 all
 rakudo-lib/xenial 2015.11-2build1 amd64
