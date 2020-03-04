@@ -57711,7 +57711,7 @@ raincat/bionic 1.1.1.2-3 amd64
 raincat-data/bionic 1.1.1.2-3 all
 raintpl/bionic 2.7.2-1 all
 rakarrack/bionic 0.6.1-4build2 amd64
-rake/bionic 12.3.1-1 all
+rake/bionic-updates,bionic-security 12.3.1-1ubuntu0.1 all
 rake-compiler/bionic 1.0.4-1 all
 rakudo/bionic 2018.03-1 amd64
 rally/bionic 0.9.1-0ubuntu2 all
