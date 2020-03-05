@@ -106,7 +106,7 @@ SDL-devel.x86_64                          1.2.15-15.el7_7                updates
 SDL-static.i686                           1.2.15-15.el7_7                updates
 SDL-static.x86_64                         1.2.15-15.el7_7                updates
 SOAPpy.noarch                             0.11.6-17.el7                  base   
-WALinuxAgent.noarch                       2.2.32-1.el7                   extras 
+WALinuxAgent.noarch                       2.2.38-2.el7_7                 extras 
 a2ps.i686                                 4.14-23.el7                    base   
 a2ps.x86_64                               4.14-23.el7                    base   
 abattis-cantarell-fonts.noarch            0.0.25-1.el7                   base   
@@ -1057,7 +1057,7 @@ conntrack-tools.x86_64                    1.4.4-5.el7_7.2                updates
 console-setup.noarch                      1.111-1.el7                    base   
 container-selinux.noarch                  2:2.107-3.el7                  extras 
 container-storage-setup.noarch            0.11.0-2.git5eaf76c.el7        extras 
-containernetworking-plugins.x86_64        0.8.1-2.el7.centos             extras 
+containernetworking-plugins.x86_64        0.8.1-4.el7.centos             extras 
 containers-common.x86_64                  1:0.1.37-3.el7.centos          extras 
 control-center.i686                       1:3.28.1-4.el7                 base   
 control-center.x86_64                     1:3.28.1-4.el7                 base   
@@ -1301,13 +1301,13 @@ docbook-utils-pdf.noarch                  0.6.14-36.el7                  base
 docbook5-schemas.noarch                   5.0-10.el7                     base   
 docbook5-style-xsl.noarch                 1.78.1-4.el7                   base   
 docbook5-style-xsl-extensions.noarch      1.78.1-4.el7                   base   
-docker.x86_64                             2:1.13.1-108.git4ef4b30.el7.centos
+docker.x86_64                             2:1.13.1-109.gitcccb291.el7.centos
                                                                          extras 
-docker-client.x86_64                      2:1.13.1-108.git4ef4b30.el7.centos
+docker-client.x86_64                      2:1.13.1-109.gitcccb291.el7.centos
                                                                          extras 
 docker-client-latest.x86_64               1.13.1-58.git87f2fab.el7.centos
                                                                          extras 
-docker-common.x86_64                      2:1.13.1-108.git4ef4b30.el7.centos
+docker-common.x86_64                      2:1.13.1-109.gitcccb291.el7.centos
                                                                          extras 
 docker-distribution.x86_64                2.6.2-2.git48294d9.el7         extras 
 docker-latest.x86_64                      1.13.1-58.git87f2fab.el7.centos
@@ -1316,14 +1316,14 @@ docker-latest-logrotate.x86_64            1.13.1-58.git87f2fab.el7.centos
                                                                          extras 
 docker-latest-v1.10-migrator.x86_64       1.13.1-58.git87f2fab.el7.centos
                                                                          extras 
-docker-logrotate.x86_64                   2:1.13.1-108.git4ef4b30.el7.centos
+docker-logrotate.x86_64                   2:1.13.1-109.gitcccb291.el7.centos
                                                                          extras 
-docker-lvm-plugin.x86_64                  2:1.13.1-108.git4ef4b30.el7.centos
+docker-lvm-plugin.x86_64                  2:1.13.1-109.gitcccb291.el7.centos
                                                                          extras 
-docker-novolume-plugin.x86_64             2:1.13.1-108.git4ef4b30.el7.centos
+docker-novolume-plugin.x86_64             2:1.13.1-109.gitcccb291.el7.centos
                                                                          extras 
 docker-registry.x86_64                    0.9.1-7.el7                    extras 
-docker-v1.10-migrator.x86_64              2:1.13.1-108.git4ef4b30.el7.centos
+docker-v1.10-migrator.x86_64              2:1.13.1-109.gitcccb291.el7.centos
                                                                          extras 
 dom4j.noarch                              1.6.1-20.el7                   base   
 dom4j-demo.noarch                         1.6.1-20.el7                   base   
@@ -2643,10 +2643,10 @@ hsqldb-demo.noarch                        1:1.8.1.3-14.el7               base
 hsqldb-javadoc.noarch                     1:1.8.1.3-14.el7               base   
 hsqldb-manual.noarch                      1:1.8.1.3-14.el7               base   
 html2ps.noarch                            1.0-0.14.b7.el7                base   
-http-parser.i686                          2.7.1-8.el7                    base   
-http-parser.x86_64                        2.7.1-8.el7                    base   
-http-parser-devel.i686                    2.7.1-8.el7                    base   
-http-parser-devel.x86_64                  2.7.1-8.el7                    base   
+http-parser.i686                          2.7.1-8.el7_7.2                updates
+http-parser.x86_64                        2.7.1-8.el7_7.2                updates
+http-parser-devel.i686                    2.7.1-8.el7_7.2                updates
+http-parser-devel.x86_64                  2.7.1-8.el7_7.2                updates
 httpcomponents-client.noarch              4.2.5-5.el7_0                  base   
 httpcomponents-client-javadoc.noarch      4.2.5-5.el7_0                  base   
 httpcomponents-core.noarch                4.2.4-6.el7                    base   
@@ -7682,8 +7682,8 @@ python-di.noarch                          0.3-2.el7                      base
 python-dmidecode.x86_64                   3.12.2-3.el7                   base   
 python-dns.noarch                         1.12.0-4.20150617git465785f.el7
                                                                          base   
-python-docker-py.noarch                   1:1.10.6-9.el7_6               extras 
-python-docker-pycreds.noarch              1:0.3.0-9.el7_6                extras 
+python-docker-py.noarch                   1:1.10.6-11.el7                extras 
+python-docker-pycreds.noarch              1:0.3.0-11.el7                 extras 
 python-docs.noarch                        2.7.5-3.el7_6                  base   
 python-docutils.noarch                    0.11-0.3.20130715svn7687.el7   base   
 python-dtopt.noarch                       0.1-13.el7                     base   
@@ -8250,7 +8250,7 @@ resteasy-base-resteasy-pom.noarch         3.0.6-4.el7                    base
 resteasy-base-tjws.noarch                 3.0.6-4.el7                    base   
 rfkill.x86_64                             0.4-10.el7                     base   
 rhdb-utils.x86_64                         9.2.0-5.el7                    base   
-rhel-system-roles.noarch                  1.0-8.el7                      extras 
+rhel-system-roles.noarch                  1.0-10.el7_7                   extras 
 rhel-system-roles-techpreview.noarch      1.0-2.el7                      extras 
 rhino.noarch                              1.7R5-1.el7                    base   
 rhino-demo.noarch                         1.7R5-1.el7                    base   
@@ -9909,11 +9909,11 @@ xdg-desktop-portal-gtk.x86_64             1.0.2-1.el7                    base
 xdg-user-dirs.x86_64                      0.15-5.el7                     base   
 xdg-user-dirs-gtk.x86_64                  0.10-4.el7                     base   
 xdg-utils.noarch                          1.1.0-0.17.20120809git.el7     base   
-xerces-c.i686                             3.1.1-9.el7                    base   
-xerces-c.x86_64                           3.1.1-9.el7                    base   
-xerces-c-devel.i686                       3.1.1-9.el7                    base   
-xerces-c-devel.x86_64                     3.1.1-9.el7                    base   
-xerces-c-doc.noarch                       3.1.1-9.el7                    base   
+xerces-c.i686                             3.1.1-10.el7_7                 updates
+xerces-c.x86_64                           3.1.1-10.el7_7                 updates
+xerces-c-devel.i686                       3.1.1-10.el7_7                 updates
+xerces-c-devel.x86_64                     3.1.1-10.el7_7                 updates
+xerces-c-doc.noarch                       3.1.1-10.el7_7                 updates
 xerces-j2.noarch                          2.11.0-17.el7_0                base   
 xerces-j2-demo.noarch                     2.11.0-17.el7_0                base   
 xerces-j2-javadoc.noarch                  2.11.0-17.el7_0                base   
