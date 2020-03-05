@@ -6299,11 +6299,11 @@ xdoclet.noarch                             1.2.3-11.6.el6                base
 xdoclet-javadoc.noarch                     1.2.3-11.6.el6                base   
 xdoclet-manual.noarch                      1.2.3-11.6.el6                base   
 xdvipdfmx.x86_64                           0.4-5.1.el6                   base   
-xerces-c.i686                              3.0.1-20.el6                  base   
-xerces-c.x86_64                            3.0.1-20.el6                  base   
-xerces-c-devel.i686                        3.0.1-20.el6                  base   
-xerces-c-devel.x86_64                      3.0.1-20.el6                  base   
-xerces-c-doc.noarch                        3.0.1-20.el6                  base   
+xerces-c.i686                              3.0.1-21.el6_10               updates
+xerces-c.x86_64                            3.0.1-21.el6_10               updates
+xerces-c-devel.i686                        3.0.1-21.el6_10               updates
+xerces-c-devel.x86_64                      3.0.1-21.el6_10               updates
+xerces-c-doc.noarch                        3.0.1-21.el6_10               updates
 xerces-j2.x86_64                           2.7.1-12.7.el6_5              base   
 xerces-j2-demo.x86_64                      2.7.1-12.7.el6_5              base   
 xerces-j2-javadoc-apis.x86_64              2.7.1-12.7.el6_5              base   
