@@ -46480,7 +46480,7 @@ python-distlib/xenial,xenial 0.2.2-1 all
 python-distorm3/xenial,xenial 3.3.0-3 all
 python-distro-info/xenial-updates,xenial-updates 0.14ubuntu0.1 all
 python-distutils-extra/xenial,xenial 2.39-1 all
-python-django/xenial-updates,xenial-updates,xenial-security,xenial-security 1.8.7-1ubuntu5.11 all
+python-django/xenial-updates,xenial-updates,xenial-security,xenial-security 1.8.7-1ubuntu5.12 all
 python-django-adminaudit/xenial,xenial 0.3.3-1 all
 python-django-app-plugins/xenial,xenial 0.1.1-2 all
 python-django-appconf/xenial,xenial 1.0.1-4 all
@@ -46503,7 +46503,7 @@ python-django-celery-haystack/xenial,xenial 0.10-1 all
 python-django-celery-transactions/xenial,xenial 0.3.6-1 all
 python-django-classy-tags/xenial,xenial 0.7.1-1 all
 python-django-classy-tags-doc/xenial,xenial 0.7.1-1 all
-python-django-common/xenial-updates,xenial-updates,xenial-security,xenial-security 1.8.7-1ubuntu5.11 all
+python-django-common/xenial-updates,xenial-updates,xenial-security,xenial-security 1.8.7-1ubuntu5.12 all
 python-django-compat/xenial,xenial 1.0.8-1ubuntu2 all
 python-django-compressor/xenial,xenial 2.0-1ubuntu1 all
 python-django-configglue/xenial,xenial 0.7.1-0ubuntu1 all
@@ -46516,7 +46516,7 @@ python-django-crispy-forms-doc/xenial,xenial 1.6.0-1 all
 python-django-debug-toolbar/xenial,xenial 1:1.4-1 all
 python-django-debug-toolbar-doc/xenial,xenial 1:1.4-1 all
 python-django-discover-runner/xenial,xenial 1.0-2 all
-python-django-doc/xenial-updates,xenial-updates,xenial-security,xenial-security 1.8.7-1ubuntu5.11 all
+python-django-doc/xenial-updates,xenial-updates,xenial-security,xenial-security 1.8.7-1ubuntu5.12 all
 python-django-downloadview/xenial,xenial 1.8-1 all
 python-django-environ/xenial,xenial 0.4.0-1 all
 python-django-evolution/xenial,xenial 0.6.7-1 all
@@ -49607,7 +49607,7 @@ python3-distlib/xenial,xenial 0.2.2-1 all
 python3-distro-info/xenial-updates,xenial-updates 0.14ubuntu0.1 all
 python3-distupgrade/xenial-updates,xenial-updates,now 1:16.04.29 all [installed]
 python3-distutils-extra/xenial,xenial 2.39-1 all
-python3-django/xenial-updates,xenial-updates,xenial-security,xenial-security 1.8.7-1ubuntu5.11 all
+python3-django/xenial-updates,xenial-updates,xenial-security,xenial-security 1.8.7-1ubuntu5.12 all
 python3-django-appconf/xenial,xenial 1.0.1-4 all
 python3-django-assets/xenial,xenial 0.11-1 all
 python3-django-babel/xenial,xenial 0.4.0-1 all
