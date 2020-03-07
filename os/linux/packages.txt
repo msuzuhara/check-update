@@ -1677,8 +1677,8 @@ hplip-libs.i686                                      3.18.4-9.el8               
 hplip-libs.x86_64                                    3.18.4-9.el8                                     AppStream
 hspell.i686                                          1.4-6.el8                                        AppStream
 hspell.x86_64                                        1.4-6.el8                                        AppStream
-http-parser.i686                                     2.8.0-5.el8                                      AppStream
-http-parser.x86_64                                   2.8.0-5.el8                                      AppStream
+http-parser.i686                                     2.8.0-5.el8_1.2                                  AppStream
+http-parser.x86_64                                   2.8.0-5.el8_1.2                                  AppStream
 httpcomponents-client.noarch                         4.5.5-4.module_el8.0.0+39+6a9b6e22               AppStream
 httpcomponents-core.noarch                           4.4.10-3.module_el8.0.0+39+6a9b6e22              AppStream
 httpd.x86_64                                         2.4.37-16.module_el8.1.0+256+ae790463            AppStream
