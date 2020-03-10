@@ -34348,8 +34348,8 @@ network-manager-openvpn/oldstable 1.2.8-2 amd64
 network-manager-openvpn-gnome/oldstable 1.2.8-2 amd64
 network-manager-pptp/oldstable 1.2.4-2 amd64
 network-manager-pptp-gnome/oldstable 1.2.4-2 amd64
-network-manager-ssh/oldstable 1.2.1-1 amd64
-network-manager-ssh-gnome/oldstable 1.2.1-1 amd64
+network-manager-ssh/oldstable 1.2.1-1+deb9u1 amd64
+network-manager-ssh-gnome/oldstable 1.2.1-1+deb9u1 amd64
 network-manager-strongswan/oldstable 1.4.1-1 amd64
 network-manager-vpnc/oldstable,oldstable 1.2.4-4+deb9u1 amd64
 network-manager-vpnc-gnome/oldstable,oldstable 1.2.4-4+deb9u1 amd64
