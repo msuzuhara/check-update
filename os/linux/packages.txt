@@ -37872,8 +37872,8 @@ network-manager-openvpn-gnome/stable 1.8.10-1 amd64
 network-manager-openvpn/stable 1.8.10-1 amd64
 network-manager-pptp-gnome/stable 1.2.8-2 amd64
 network-manager-pptp/stable 1.2.8-2 amd64
-network-manager-ssh-gnome/stable 1.2.10-1 amd64
-network-manager-ssh/stable 1.2.10-1 amd64
+network-manager-ssh-gnome/stable 1.2.10-1+deb10u1 amd64
+network-manager-ssh/stable 1.2.10-1+deb10u1 amd64
 network-manager-strongswan/stable 1.4.4-2 amd64
 network-manager-vpnc-gnome/stable 1.2.6-2 amd64
 network-manager-vpnc/stable 1.2.6-2 amd64
