@@ -4177,7 +4177,7 @@ newt.i686                                  0.52.11-4.el6                 base
 newt-devel.i686                            0.52.11-4.el6                 base   
 newt-devel.x86_64                          0.52.11-4.el6                 base   
 newt-static.x86_64                         0.52.11-4.el6                 base   
-nfs-utils.x86_64                           1:1.2.3-78.el6_10.1           updates
+nfs-utils.x86_64                           1:1.2.3-78.el6_10.2           updates
 nfs-utils-lib.i686                         1.1.5-13.el6                  base   
 nfs-utils-lib.x86_64                       1.1.5-13.el6                  base   
 nfs-utils-lib-devel.i686                   1.1.5-13.el6                  base   
@@ -5325,10 +5325,10 @@ qca2-devel.i686                            2.0.2-2.1.el6                 base
 qca2-devel.x86_64                          2.0.2-2.1.el6                 base   
 qdox.noarch                                1.9.2-2.el6                   base   
 qdox-javadoc.noarch                        1.9.2-2.el6                   base   
-qemu-guest-agent.x86_64                    2:0.12.1.2-2.506.el6_10.5     updates
-qemu-img.x86_64                            2:0.12.1.2-2.506.el6_10.5     updates
-qemu-kvm.x86_64                            2:0.12.1.2-2.506.el6_10.5     updates
-qemu-kvm-tools.x86_64                      2:0.12.1.2-2.506.el6_10.5     updates
+qemu-guest-agent.x86_64                    2:0.12.1.2-2.506.el6_10.6     updates
+qemu-img.x86_64                            2:0.12.1.2-2.506.el6_10.6     updates
+qemu-kvm.x86_64                            2:0.12.1.2-2.506.el6_10.6     updates
+qemu-kvm-tools.x86_64                      2:0.12.1.2-2.506.el6_10.6     updates
 qimageblitz.i686                           0.0.4-1.el6                   base   
 qimageblitz.x86_64                         0.0.4-1.el6                   base   
 qimageblitz-devel.i686                     0.0.4-1.el6                   base   
@@ -5844,8 +5844,9 @@ subversion-perl.x86_64                     1.6.11-15.el6_7               base
 subversion-ruby.i686                       1.6.11-15.el6_7               base   
 subversion-ruby.x86_64                     1.6.11-15.el6_7               base   
 subversion-svn2cl.noarch                   1.6.11-15.el6_7               base   
-sudo-devel.i686                            1.8.6p3-29.el6_10.2           updates
-sudo-devel.x86_64                          1.8.6p3-29.el6_10.2           updates
+sudo.x86_64                                1.8.6p3-29.el6_10.3           updates
+sudo-devel.i686                            1.8.6p3-29.el6_10.3           updates
+sudo-devel.x86_64                          1.8.6p3-29.el6_10.3           updates
 suitesparse.i686                           3.4.0-9.el6                   base   
 suitesparse.x86_64                         3.4.0-9.el6                   base   
 suitesparse-devel.i686                     3.4.0-9.el6                   base   
