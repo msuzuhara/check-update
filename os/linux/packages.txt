@@ -48343,9 +48343,6 @@ tracker/oldstable 1.10.5-1 amd64
 tracker-extract/oldstable 1.10.5-1 amd64
 tracker-gui/oldstable 1.10.5-1 amd64
 tracker-miner-fs/oldstable 1.10.5-1 amd64
-trafficserver/oldstable 7.0.0-6+deb9u2 amd64
-trafficserver-dev/oldstable 7.0.0-6+deb9u2 amd64
-trafficserver-experimental-plugins/oldstable 7.0.0-6+deb9u2 amd64
 tralics/oldstable 2.14.4-2+b2 amd64
 tran/oldstable 2-1 all
 trang/oldstable 20131210+dfsg+1-6 all
