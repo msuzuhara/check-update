@@ -6279,7 +6279,7 @@ flare-engine/bionic 0.19-3 amd64
 flare-game/bionic 0.19-2 all
 flashbake/bionic 0.27.1-0.1 all
 flashbench/bionic 62-1build1 amd64
-flashplugin-installer/bionic-updates,bionic-security 32.0.0.330ubuntu0.18.04.1 amd64
+flashplugin-installer/bionic-updates,bionic-security 32.0.0.344ubuntu0.18.04.1 amd64
 flashproxy-client/bionic 1.7-4 all
 flashproxy-common/bionic 1.7-4 all
 flashproxy-facilitator/bionic 1.7-4 all
