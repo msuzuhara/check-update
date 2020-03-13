@@ -5889,8 +5889,8 @@ flashbake/xenial,xenial 0.26.2-5.1 all
 flashbench/xenial 62-1 amd64
 flashcache-dkms/xenial-updates,xenial-updates 3.1.3+git20150701-2ubuntu3 all
 flashcache-utils/xenial-updates 3.1.3+git20150701-2ubuntu3 amd64
-flashplugin-downloader/xenial-updates,xenial-security 32.0.0.330ubuntu0.16.04.1 i386
-flashplugin-installer/xenial-updates,xenial-security 32.0.0.330ubuntu0.16.04.1 amd64
+flashplugin-downloader/xenial-updates,xenial-security 32.0.0.344ubuntu0.16.04.1 i386
+flashplugin-installer/xenial-updates,xenial-security 32.0.0.344ubuntu0.16.04.1 amd64
 flashplugin-nonfree-extrasound/xenial 0.0.svn2431-5ubuntu1 amd64
 flashproxy-client/xenial,xenial 1.7-4 all
 flashproxy-common/xenial,xenial 1.7-4 all
