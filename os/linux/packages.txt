@@ -50795,7 +50795,7 @@ python3-txtftp/xenial,xenial 0.1~bzr42-0ubuntu2 all
 python3-typogrify/xenial,xenial 1:2.0.7-1 all
 python3-tz/xenial,xenial 2014.10~dfsg1-0ubuntu2 all
 python3-tzlocal/xenial,xenial 1.2-2 all
-python3-ubuntu-image/xenial-updates,xenial-updates 1.8+16.04ubuntu1 all
+python3-ubuntu-image/xenial-updates,xenial-updates 1.9+16.04ubuntu1 all
 python3-ubuntutools/xenial-updates,xenial-updates 0.155ubuntu2 all
 python3-udiskie/xenial,xenial 1.4.9-1 all
 python3-ujson/xenial 1.33-1build1 amd64
@@ -56666,7 +56666,7 @@ ubuntu-html5-ui-toolkit/xenial,xenial 0.1.2+16.04.20160203-0ubuntu1 all
 ubuntu-html5-ui-toolkit-autopilot/xenial,xenial 0.1.2+16.04.20160203-0ubuntu1 all
 ubuntu-html5-ui-toolkit-doc/xenial,xenial 0.1.2+16.04.20160203-0ubuntu1 all
 ubuntu-html5-ui-toolkit-examples/xenial,xenial 0.1.2+16.04.20160203-0ubuntu1 all
-ubuntu-image/xenial-updates,xenial-updates 1.8+16.04ubuntu1 all
+ubuntu-image/xenial-updates,xenial-updates 1.9+16.04ubuntu1 all
 ubuntu-keyboard/xenial 0.99.trunk.phablet2+16.04.20160226.1-0ubuntu1 amd64
 ubuntu-keyboard-arabic/xenial 0.99.trunk.phablet2+16.04.20160226.1-0ubuntu1 amd64
 ubuntu-keyboard-autopilot/xenial,xenial 0.99.trunk.phablet2+16.04.20160226.1-0ubuntu1 all
