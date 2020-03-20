@@ -1,4 +1,3 @@
-Waiting for process with pid 10930 to finish.
 Available Packages
 CUnit.i686                                           2.1.3-17.el8                                      AppStream       
 CUnit.x86_64                                         2.1.3-17.el8                                      AppStream       
@@ -478,18 +477,19 @@ cdrdao.x86_64                                        1.2.3-32.el8               
 celt051.i686                                         0.5.1.3-15.el8                                    AppStream       
 celt051.x86_64                                       0.5.1.3-15.el8                                    AppStream       
 centos-backgrounds.noarch                            80.5-2.el8                                        AppStream       
-centos-gpg-keys.noarch                               8.1-1.1911.0.9.el8                                BaseOS          
 centos-indexhtml.noarch                              8.0-0.el8                                         AppStream       
 centos-logos.x86_64                                  80.5-2.el8                                        AppStream       
 centos-logos-httpd.noarch                            80.5-2.el8                                        AppStream       
 centos-logos-ipa.noarch                              80.5-2.el8                                        AppStream       
 centos-obsolete-packages.noarch                      8-2                                               BaseOS          
 centos-release.i686                                  8.1-1.1911.0.7.el8                                Stream-BaseOS   
-centos-release.x86_64                                8.1-1.1911.0.9.el8                                BaseOS          
+centos-release-gluster6.noarch                       1.0-1.el8                                         extras          
+centos-release-gluster7.noarch                       1.0-1.el8                                         extras          
+centos-release-nfs-ganesha28.noarch                  1.0-2.el8                                         extras          
+centos-release-nfs-ganesha30.noarch                  1.0-1.el8                                         extras          
+centos-release-storage-common.noarch                 2-2.el8                                           extras          
 centos-release-stream.i686                           8.1-1.1911.0.7.el8                                Stream-BaseOS   
-centos-release-stream.x86_64                         8.1-1.1911.0.9.el8                                Stream-BaseOS   
 centos-repos.i686                                    8.1-1.1911.0.7.el8                                Stream-BaseOS   
-centos-repos.x86_64                                  8.1-1.1911.0.9.el8                                BaseOS          
 certmonger.x86_64                                    0.79.7-3.el8                                      AppStream       
 cgdcbxd.x86_64                                       1.0.2-9.el8                                       AppStream       
 check.i686                                           0.12.0-2.el8                                      AppStream       
@@ -597,6 +597,7 @@ coreutils-single.i686                                8.30-6.el8                 
 coreutils-single.x86_64                              8.30-6.el8                                        BaseOS          
 corosynclib.i686                                     3.0.2-3.el8_1.1                                   AppStream       
 corosynclib.x86_64                                   3.0.2-3.el8_1.1                                   AppStream       
+cpaste.x86_64                                        1.0.0-3.el8                                       extras          
 cpio.i686                                            2.12-8.el8                                        Stream-BaseOS   
 cpp.x86_64                                           8.3.1-4.5.el8                                     AppStream       
 cracklib.i686                                        2.9.6-15.el8                                      BaseOS          
@@ -843,7 +844,7 @@ enscript.x86_64                                      1.6.6-17.el8               
 environment-modules.i686                             4.1.4-4.el8                                       Stream-BaseOS   
 environment-modules.x86_64                           4.1.4-4.el8                                       BaseOS          
 eog.x86_64                                           3.28.4-1.el8                                      AppStream       
-epel-release.noarch                                  8-5.el8                                           extras          
+epel-release.noarch                                  8-8.el8                                           extras          
 esc.x86_64                                           1.1.2-7.el8                                       AppStream       
 espeak-ng.i686                                       1.49.2-4.el8                                      AppStream       
 espeak-ng.x86_64                                     1.49.2-4.el8                                      AppStream       
@@ -2498,9 +2499,7 @@ kacst-titlel-fonts.noarch                            2.0-19.el8                 
 kbd.i686                                             2.0.4-8.el8                                       Stream-BaseOS   
 kdump-anaconda-addon.noarch                          003-2.20181107git443d7ed.el8                      AppStream       
 keepalived.x86_64                                    2.0.10-4.el8_0.2                                  AppStream       
-kernel.x86_64                                        4.18.0-187.el8                                    Stream-BaseOS   
 kernel-abi-whitelists.noarch                         4.18.0-187.el8                                    Stream-BaseOS   
-kernel-core.x86_64                                   4.18.0-187.el8                                    Stream-BaseOS   
 kernel-cross-headers.x86_64                          4.18.0-187.el8                                    Stream-BaseOS   
 kernel-debug.x86_64                                  4.18.0-187.el8                                    Stream-BaseOS   
 kernel-debug-core.x86_64                             4.18.0-187.el8                                    Stream-BaseOS   
@@ -2511,11 +2510,8 @@ kernel-devel.x86_64                                  4.18.0-187.el8             
 kernel-doc.noarch                                    4.18.0-187.el8                                    Stream-BaseOS   
 kernel-headers.i686                                  4.18.0-151.el8                                    Stream-BaseOS   
 kernel-headers.x86_64                                4.18.0-187.el8                                    Stream-BaseOS   
-kernel-modules.x86_64                                4.18.0-187.el8                                    Stream-BaseOS   
 kernel-modules-extra.x86_64                          4.18.0-187.el8                                    Stream-BaseOS   
 kernel-rpm-macros.noarch                             120-1.el8                                         AppStream       
-kernel-tools.x86_64                                  4.18.0-187.el8                                    Stream-BaseOS   
-kernel-tools-libs.x86_64                             4.18.0-187.el8                                    Stream-BaseOS   
 kernelshark.x86_64                                   2.7-8.el8                                         AppStream       
 kexec-tools.i686                                     2.0.19-12.el8                                     Stream-BaseOS   
 keybinder3.i686                                      0.3.2-4.el8                                       AppStream       
@@ -5186,7 +5182,6 @@ python3-ordered-set.noarch                           2.0.2-4.el8                
 python3-osa-common.noarch                            5.11.99-8.module_el8.1.0+210+a3d63f21             AppStream       
 python3-osad.noarch                                  5.11.99-8.module_el8.1.0+210+a3d63f21             AppStream       
 python3-pcp.x86_64                                   4.3.2-2.el8                                       AppStream       
-python3-perf.x86_64                                  4.18.0-187.el8                                    Stream-BaseOS   
 python3-pexpect.noarch                               4.3.1-3.el8                                       AppStream       
 python3-pid.noarch                                   2.1.1-7.el8                                       AppStream       
 python3-pillow.x86_64                                5.1.1-10.el8_1                                    AppStream       
