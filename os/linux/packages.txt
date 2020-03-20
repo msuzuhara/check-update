@@ -11788,43 +11788,43 @@ grr-client-templates-installer/bionic 3.1.0.2+dfsg-4 all
 grr-server/bionic 3.1.0.2+dfsg-4 amd64
 grr.app/bionic 1.0-1build3 amd64
 grsync/bionic 1.2.6-1 amd64
-grub-common/bionic-updates,now 2.02-2ubuntu8.14 amd64 [installed,automatic]
-grub-coreboot/bionic-updates 2.02-2ubuntu8.14 amd64
-grub-coreboot-bin/bionic-updates 2.02-2ubuntu8.14 amd64
-grub-coreboot-dbg/bionic-updates 2.02-2ubuntu8.14 amd64
-grub-efi/bionic-updates 2.02-2ubuntu8.14 amd64
-grub-efi-amd64/bionic-updates 2.02-2ubuntu8.14 amd64
-grub-efi-amd64-bin/bionic-updates 2.02-2ubuntu8.14 amd64
-grub-efi-amd64-dbg/bionic-updates 2.02-2ubuntu8.14 amd64
-grub-efi-amd64-signed/bionic-updates 1.93.15+2.02-2ubuntu8.14 amd64
-grub-efi-ia32/bionic-updates 2.02-2ubuntu8.14 amd64
-grub-efi-ia32-bin/bionic-updates 2.02-2ubuntu8.14 amd64
-grub-efi-ia32-dbg/bionic-updates 2.02-2ubuntu8.14 amd64
-grub-emu/bionic-updates 2.02-2ubuntu8.14 amd64
-grub-emu-dbg/bionic-updates 2.02-2ubuntu8.14 amd64
-grub-firmware-qemu/bionic-updates 2.02-2ubuntu8.14 amd64
+grub-common/bionic-updates 2.02-2ubuntu8.15 amd64 [upgradable from: 2.02-2ubuntu8.14]
+grub-coreboot/bionic-updates 2.02-2ubuntu8.15 amd64
+grub-coreboot-bin/bionic-updates 2.02-2ubuntu8.15 amd64
+grub-coreboot-dbg/bionic-updates 2.02-2ubuntu8.15 amd64
+grub-efi/bionic-updates 2.02-2ubuntu8.15 amd64
+grub-efi-amd64/bionic-updates 2.02-2ubuntu8.15 amd64
+grub-efi-amd64-bin/bionic-updates 2.02-2ubuntu8.15 amd64
+grub-efi-amd64-dbg/bionic-updates 2.02-2ubuntu8.15 amd64
+grub-efi-amd64-signed/bionic-updates 1.93.16+2.02-2ubuntu8.15 amd64
+grub-efi-ia32/bionic-updates 2.02-2ubuntu8.15 amd64
+grub-efi-ia32-bin/bionic-updates 2.02-2ubuntu8.15 amd64
+grub-efi-ia32-dbg/bionic-updates 2.02-2ubuntu8.15 amd64
+grub-emu/bionic-updates 2.02-2ubuntu8.15 amd64
+grub-emu-dbg/bionic-updates 2.02-2ubuntu8.15 amd64
+grub-firmware-qemu/bionic-updates 2.02-2ubuntu8.15 amd64
 grub-gfxpayload-lists/bionic,now 0.7 amd64 [installed,automatic]
-grub-ieee1275/bionic-updates 2.02-2ubuntu8.14 amd64
-grub-ieee1275-bin/bionic-updates 2.02-2ubuntu8.14 amd64
-grub-ieee1275-dbg/bionic-updates 2.02-2ubuntu8.14 amd64
+grub-ieee1275/bionic-updates 2.02-2ubuntu8.15 amd64
+grub-ieee1275-bin/bionic-updates 2.02-2ubuntu8.15 amd64
+grub-ieee1275-dbg/bionic-updates 2.02-2ubuntu8.15 amd64
 grub-imageboot/bionic 0.6 all
 grub-invaders/bionic 1.0.0-13 amd64
 grub-ipxe/bionic-updates 1.0.0+git-20180124.fbe8c52d-0ubuntu2.2 all
 grub-legacy-ec2/bionic,now 1:1 all [installed,automatic]
-grub-linuxbios/bionic-updates 2.02-2ubuntu8.14 amd64
-grub-pc/bionic-updates,now 2.02-2ubuntu8.14 amd64 [installed,automatic]
-grub-pc-bin/bionic-updates,now 2.02-2ubuntu8.14 amd64 [installed,automatic]
-grub-pc-dbg/bionic-updates 2.02-2ubuntu8.14 amd64
-grub-rescue-pc/bionic-updates 2.02-2ubuntu8.14 amd64
+grub-linuxbios/bionic-updates 2.02-2ubuntu8.15 amd64
+grub-pc/bionic-updates 2.02-2ubuntu8.15 amd64 [upgradable from: 2.02-2ubuntu8.14]
+grub-pc-bin/bionic-updates 2.02-2ubuntu8.15 amd64 [upgradable from: 2.02-2ubuntu8.14]
+grub-pc-dbg/bionic-updates 2.02-2ubuntu8.15 amd64
+grub-rescue-pc/bionic-updates 2.02-2ubuntu8.15 amd64
 grub-splashimages/bionic 1.2.3 all
 grub-theme-breeze/bionic 5.12.4-0ubuntu1 amd64
-grub-theme-starfield/bionic-updates 2.02-2ubuntu8.14 amd64
-grub-xen/bionic-updates 2.02-2ubuntu8.14 amd64
-grub-xen-bin/bionic-updates 2.02-2ubuntu8.14 amd64
-grub-xen-dbg/bionic-updates 2.02-2ubuntu8.14 amd64
-grub-xen-host/bionic-updates 2.02-2ubuntu8.14 amd64
-grub2/bionic-updates 2.02-2ubuntu8.14 amd64
-grub2-common/bionic-updates,now 2.02-2ubuntu8.14 amd64 [installed,automatic]
+grub-theme-starfield/bionic-updates 2.02-2ubuntu8.15 amd64
+grub-xen/bionic-updates 2.02-2ubuntu8.15 amd64
+grub-xen-bin/bionic-updates 2.02-2ubuntu8.15 amd64
+grub-xen-dbg/bionic-updates 2.02-2ubuntu8.15 amd64
+grub-xen-host/bionic-updates 2.02-2ubuntu8.15 amd64
+grub2/bionic-updates 2.02-2ubuntu8.15 amd64
+grub2-common/bionic-updates 2.02-2ubuntu8.15 amd64 [upgradable from: 2.02-2ubuntu8.14]
 grub2-splashimages/bionic 1.0.1+nmu1 all
 grub2-themes-ubuntu-mate/bionic 0.3.7 all
 grun/bionic 0.9.3-2 amd64
@@ -12207,8 +12207,8 @@ heat-cfntools/bionic 1.4.2-0ubuntu1 all
 heat-common/bionic-updates 1:10.0.2-0ubuntu1 all
 heat-engine/bionic-updates 1:10.0.2-0ubuntu1 all
 hebcal/bionic 3.5-2.1 amd64
-hedgewars/bionic-updates 0.9.25-5~ubuntu18.04.1 amd64
-hedgewars-data/bionic-updates 0.9.25-5~ubuntu18.04.1 all
+hedgewars/bionic-updates 1.0.0-4~ubuntu1.18.04.2 amd64
+hedgewars-data/bionic-updates 1.0.0-4~ubuntu1.18.04.2 all
 heimdal-clients/bionic 7.5.0+dfsg-1 amd64
 heimdal-dev/bionic 7.5.0+dfsg-1 amd64
 heimdal-docs/bionic 7.5.0+dfsg-1 all
@@ -31145,7 +31145,7 @@ libnss-extrausers/bionic 0.6-4 amd64
 libnss-gw-name/bionic 0.3-2 amd64
 libnss-ldap/bionic 265-5ubuntu1 amd64
 libnss-ldapd/bionic 0.9.9-1 amd64
-libnss-libvirt/bionic-updates 4.0.0-1ubuntu8.14 amd64
+libnss-libvirt/bionic-updates 4.0.0-1ubuntu8.15 amd64
 libnss-mdns/bionic 0.10-8ubuntu1 amd64
 libnss-myhostname/bionic-updates 237-3ubuntu10.39 amd64
 libnss-mymachines/bionic-updates 237-3ubuntu10.39 amd64
@@ -37413,25 +37413,25 @@ libvips-tools/bionic 8.4.5-1build1 amd64
 libvips42/bionic 8.4.5-1build1 amd64
 libvirglrenderer-dev/bionic 0.6.0-2 amd64
 libvirglrenderer0/bionic 0.6.0-2 amd64
-libvirt-bin/bionic-updates 4.0.0-1ubuntu8.14 amd64
-libvirt-clients/bionic-updates 4.0.0-1ubuntu8.14 amd64
-libvirt-daemon/bionic-updates 4.0.0-1ubuntu8.14 amd64
-libvirt-daemon-driver-storage-gluster/bionic-updates 4.0.0-1ubuntu8.14 amd64
-libvirt-daemon-driver-storage-rbd/bionic-updates 4.0.0-1ubuntu8.14 amd64
-libvirt-daemon-driver-storage-sheepdog/bionic-updates 4.0.0-1ubuntu8.14 amd64
-libvirt-daemon-driver-storage-zfs/bionic-updates 4.0.0-1ubuntu8.14 amd64
-libvirt-daemon-system/bionic-updates 4.0.0-1ubuntu8.14 amd64
-libvirt-dev/bionic-updates 4.0.0-1ubuntu8.14 amd64
-libvirt-doc/bionic-updates 4.0.0-1ubuntu8.14 all
+libvirt-bin/bionic-updates 4.0.0-1ubuntu8.15 amd64
+libvirt-clients/bionic-updates 4.0.0-1ubuntu8.15 amd64
+libvirt-daemon/bionic-updates 4.0.0-1ubuntu8.15 amd64
+libvirt-daemon-driver-storage-gluster/bionic-updates 4.0.0-1ubuntu8.15 amd64
+libvirt-daemon-driver-storage-rbd/bionic-updates 4.0.0-1ubuntu8.15 amd64
+libvirt-daemon-driver-storage-sheepdog/bionic-updates 4.0.0-1ubuntu8.15 amd64
+libvirt-daemon-driver-storage-zfs/bionic-updates 4.0.0-1ubuntu8.15 amd64
+libvirt-daemon-system/bionic-updates 4.0.0-1ubuntu8.15 amd64
+libvirt-dev/bionic-updates 4.0.0-1ubuntu8.15 amd64
+libvirt-doc/bionic-updates 4.0.0-1ubuntu8.15 all
 libvirt-glib-1.0-0/bionic 1.0.0-1 amd64
 libvirt-glib-1.0-dev/bionic 1.0.0-1 amd64
 libvirt-ocaml/bionic 0.6.1.4-2build1 amd64
 libvirt-ocaml-dev/bionic 0.6.1.4-2build1 amd64
 libvirt-sandbox-1.0-5/bionic 0.5.1+git20160404-1 amd64
 libvirt-sandbox-1.0-dev/bionic 0.5.1+git20160404-1 amd64
-libvirt-sanlock/bionic-updates 4.0.0-1ubuntu8.14 amd64
-libvirt-wireshark/bionic-updates 4.0.0-1ubuntu8.14 amd64
-libvirt0/bionic-updates 4.0.0-1ubuntu8.14 amd64
+libvirt-sanlock/bionic-updates 4.0.0-1ubuntu8.15 amd64
+libvirt-wireshark/bionic-updates 4.0.0-1ubuntu8.15 amd64
+libvirt0/bionic-updates 4.0.0-1ubuntu8.15 amd64
 libvirtodbc0/bionic 6.1.6+repack-0ubuntu9 amd64
 libvirtuoso5.5-cil/bionic 6.1.6+repack-0ubuntu9 amd64
 libvisa-dev/bionic 0.0.20130812-2 amd64
@@ -40359,8 +40359,8 @@ linux-headers-4.15.0-72-lowlatency/bionic-updates,bionic-security 4.15.0-72.81 a
 linux-headers-4.15.0-74/bionic-updates,bionic-security 4.15.0-74.84 all
 linux-headers-4.15.0-74-generic/bionic-updates,bionic-security 4.15.0-74.84 amd64
 linux-headers-4.15.0-74-lowlatency/bionic-updates,bionic-security 4.15.0-74.84 amd64
-linux-headers-4.15.0-76/bionic-updates,bionic-security,now 4.15.0-76.86 all [installed,auto-removable]
-linux-headers-4.15.0-76-generic/bionic-updates,bionic-security,now 4.15.0-76.86 amd64 [installed,auto-removable]
+linux-headers-4.15.0-76/bionic-updates,bionic-security 4.15.0-76.86 all
+linux-headers-4.15.0-76-generic/bionic-updates,bionic-security 4.15.0-76.86 amd64
 linux-headers-4.15.0-76-lowlatency/bionic-updates,bionic-security 4.15.0-76.86 amd64
 linux-headers-4.15.0-88/bionic-updates,bionic-security,now 4.15.0-88.88 all [installed,automatic]
 linux-headers-4.15.0-88-generic/bionic-updates,bionic-security,now 4.15.0-88.88 amd64 [installed,automatic]
@@ -40944,7 +40944,7 @@ linux-image-4.15.0-72-generic/bionic-updates,bionic-security,now 4.15.0-72.81 am
 linux-image-4.15.0-72-lowlatency/bionic-updates,bionic-security 4.15.0-72.81 amd64
 linux-image-4.15.0-74-generic/bionic-updates,bionic-security,now 4.15.0-74.84 amd64 [residual-config]
 linux-image-4.15.0-74-lowlatency/bionic-updates,bionic-security 4.15.0-74.84 amd64
-linux-image-4.15.0-76-generic/bionic-updates,bionic-security,now 4.15.0-76.86 amd64 [installed,auto-removable]
+linux-image-4.15.0-76-generic/bionic-updates,bionic-security,now 4.15.0-76.86 amd64 [residual-config]
 linux-image-4.15.0-76-lowlatency/bionic-updates,bionic-security 4.15.0-76.86 amd64
 linux-image-4.15.0-88-generic/bionic-updates,bionic-security,now 4.15.0-88.88 amd64 [installed,automatic]
 linux-image-4.15.0-88-lowlatency/bionic-updates,bionic-security 4.15.0-88.88 amd64
@@ -41873,7 +41873,7 @@ linux-modules-4.15.0-72-generic/bionic-updates,bionic-security,now 4.15.0-72.81 
 linux-modules-4.15.0-72-lowlatency/bionic-updates,bionic-security 4.15.0-72.81 amd64
 linux-modules-4.15.0-74-generic/bionic-updates,bionic-security,now 4.15.0-74.84 amd64 [residual-config]
 linux-modules-4.15.0-74-lowlatency/bionic-updates,bionic-security 4.15.0-74.84 amd64
-linux-modules-4.15.0-76-generic/bionic-updates,bionic-security,now 4.15.0-76.86 amd64 [installed,auto-removable]
+linux-modules-4.15.0-76-generic/bionic-updates,bionic-security,now 4.15.0-76.86 amd64 [residual-config]
 linux-modules-4.15.0-76-lowlatency/bionic-updates,bionic-security 4.15.0-76.86 amd64
 linux-modules-4.15.0-88-generic/bionic-updates,bionic-security,now 4.15.0-88.88 amd64 [installed,automatic]
 linux-modules-4.15.0-88-lowlatency/bionic-updates,bionic-security 4.15.0-88.88 amd64
@@ -42190,7 +42190,7 @@ linux-modules-extra-4.15.0-69-generic/bionic-updates,bionic-security,now 4.15.0-
 linux-modules-extra-4.15.0-70-generic/bionic-updates,bionic-security,now 4.15.0-70.79 amd64 [residual-config]
 linux-modules-extra-4.15.0-72-generic/bionic-updates,bionic-security,now 4.15.0-72.81 amd64 [residual-config]
 linux-modules-extra-4.15.0-74-generic/bionic-updates,bionic-security,now 4.15.0-74.84 amd64 [residual-config]
-linux-modules-extra-4.15.0-76-generic/bionic-updates,bionic-security,now 4.15.0-76.86 amd64 [installed,auto-removable]
+linux-modules-extra-4.15.0-76-generic/bionic-updates,bionic-security,now 4.15.0-76.86 amd64 [residual-config]
 linux-modules-extra-4.15.0-88-generic/bionic-updates,bionic-security,now 4.15.0-88.88 amd64 [installed,automatic]
 linux-modules-extra-4.15.0-91-generic/bionic-updates,bionic-security,now 4.15.0-91.92 amd64 [installed,automatic]
 linux-modules-extra-4.18.0-1004-gcp/bionic-updates,bionic-security 4.18.0-1004.5~18.04.1 amd64
@@ -53988,18 +53988,18 @@ python-tweepy-doc/bionic 3.5.0-1 all
 python-twext/bionic 1:0.1~git20161216.0.b90293c-1 all
 python-twilio/bionic 6.8.2-1 all
 python-twill/bionic 0.9-4 all
-python-twisted/bionic 17.9.0-2 all
-python-twisted-bin/bionic 17.9.0-2 amd64
-python-twisted-bin-dbg/bionic 17.9.0-2 amd64
-python-twisted-conch/bionic 1:17.9.0-2 all
-python-twisted-core/bionic 17.9.0-2 all
-python-twisted-mail/bionic 17.9.0-2 all
-python-twisted-names/bionic 17.9.0-2 all
-python-twisted-news/bionic 17.9.0-2 all
-python-twisted-runner/bionic 17.9.0-2 all
-python-twisted-runner-dbg/bionic 17.9.0-2 all
-python-twisted-web/bionic 17.9.0-2 all
-python-twisted-words/bionic 17.9.0-2 all
+python-twisted/bionic-updates,bionic-security 17.9.0-2ubuntu0.1 all
+python-twisted-bin/bionic-updates,bionic-security 17.9.0-2ubuntu0.1 amd64
+python-twisted-bin-dbg/bionic-updates,bionic-security 17.9.0-2ubuntu0.1 amd64
+python-twisted-conch/bionic-updates,bionic-security 1:17.9.0-2ubuntu0.1 all
+python-twisted-core/bionic-updates,bionic-security 17.9.0-2ubuntu0.1 all
+python-twisted-mail/bionic-updates,bionic-security 17.9.0-2ubuntu0.1 all
+python-twisted-names/bionic-updates,bionic-security 17.9.0-2ubuntu0.1 all
+python-twisted-news/bionic-updates,bionic-security 17.9.0-2ubuntu0.1 all
+python-twisted-runner/bionic-updates,bionic-security 17.9.0-2ubuntu0.1 all
+python-twisted-runner-dbg/bionic-updates,bionic-security 17.9.0-2ubuntu0.1 all
+python-twisted-web/bionic-updates,bionic-security 17.9.0-2ubuntu0.1 all
+python-twisted-words/bionic-updates,bionic-security 17.9.0-2ubuntu0.1 all
 python-twitter/bionic 3.3-1 all
 python-twitter-doc/bionic 3.3-1 all
 python-twodict/bionic 1.2-1 all
@@ -56539,9 +56539,9 @@ python3-tunigo/bionic 1.0.0-2 all
 python3-tvdb-api/bionic 1.10-1 all
 python3-tweepy/bionic 3.5.0-1 all
 python3-twilio/bionic 6.8.2-1 all
-python3-twisted/bionic,now 17.9.0-2 all [installed,automatic]
-python3-twisted-bin/bionic,now 17.9.0-2 amd64 [installed,automatic]
-python3-twisted-bin-dbg/bionic 17.9.0-2 amd64
+python3-twisted/bionic-updates,bionic-security 17.9.0-2ubuntu0.1 all [upgradable from: 17.9.0-2]
+python3-twisted-bin/bionic-updates,bionic-security 17.9.0-2ubuntu0.1 amd64 [upgradable from: 17.9.0-2]
+python3-twisted-bin-dbg/bionic-updates,bionic-security 17.9.0-2ubuntu0.1 amd64
 python3-twitter/bionic 3.3-1 all
 python3-twodict/bionic 1.2-1 all
 python3-twython/bionic 3.6.0-1 all
@@ -62680,7 +62680,7 @@ twinkle/bionic 1:1.10.1+dfsg-3 amd64
 twinkle-common/bionic 1:1.10.1+dfsg-3 all
 twinkle-console/bionic 1:1.10.1+dfsg-3 amd64
 twinvoicerecalc/bionic 0.0.20170711-1 all
-twisted-doc/bionic 17.9.0-2 all
+twisted-doc/bionic-updates,bionic-security 17.9.0-2ubuntu0.1 all
 twittering-mode/bionic 3.1.0-1.1 all
 twitterwatch/bionic 0.1-1 all
 twm/bionic 1:1.0.9-1ubuntu2 amd64
