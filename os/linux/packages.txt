@@ -433,6 +433,11 @@ centos-indexhtml.noarch                              8.0-0.el8                  
 centos-logos-httpd.noarch                            80.5-2.el8                                       AppStream
 centos-logos-ipa.noarch                              80.5-2.el8                                       AppStream
 centos-obsolete-packages.noarch                      8-2                                              BaseOS   
+centos-release-gluster6.noarch                       1.0-1.el8                                        extras   
+centos-release-gluster7.noarch                       1.0-1.el8                                        extras   
+centos-release-nfs-ganesha28.noarch                  1.0-2.el8                                        extras   
+centos-release-nfs-ganesha30.noarch                  1.0-1.el8                                        extras   
+centos-release-storage-common.noarch                 2-2.el8                                          extras   
 centos-release-stream.x86_64                         8.1-1.1911.0.7.el8                               extras   
 certmonger.x86_64                                    0.79.7-3.el8                                     AppStream
 cgdcbxd.x86_64                                       1.0.2-9.el8                                      AppStream
@@ -514,6 +519,7 @@ copy-jdk-configs.noarch                              3.7-1.el8                  
 coreutils-single.x86_64                              8.30-6.el8                                       BaseOS   
 corosynclib.i686                                     3.0.2-3.el8_1.1                                  AppStream
 corosynclib.x86_64                                   3.0.2-3.el8_1.1                                  AppStream
+cpaste.x86_64                                        1.0.0-3.el8                                      extras   
 cpp.x86_64                                           8.3.1-4.5.el8                                    AppStream
 cracklib.i686                                        2.9.6-15.el8                                     BaseOS   
 crash.x86_64                                         7.2.6-2.el8                                      AppStream
@@ -707,7 +713,7 @@ enchant2.x86_64                                      2.2.3-2.el8                
 enscript.x86_64                                      1.6.6-17.el8                                     AppStream
 environment-modules.x86_64                           4.1.4-4.el8                                      BaseOS   
 eog.x86_64                                           3.28.4-1.el8                                     AppStream
-epel-release.noarch                                  8-5.el8                                          extras   
+epel-release.noarch                                  8-8.el8                                          extras   
 esc.x86_64                                           1.1.2-7.el8                                      AppStream
 espeak-ng.i686                                       1.49.2-4.el8                                     AppStream
 espeak-ng.x86_64                                     1.49.2-4.el8                                     AppStream
