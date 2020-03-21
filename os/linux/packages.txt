@@ -56539,8 +56539,8 @@ python3-tunigo/bionic 1.0.0-2 all
 python3-tvdb-api/bionic 1.10-1 all
 python3-tweepy/bionic 3.5.0-1 all
 python3-twilio/bionic 6.8.2-1 all
-python3-twisted/bionic-updates,bionic-security 17.9.0-2ubuntu0.1 all [upgradable from: 17.9.0-2]
-python3-twisted-bin/bionic-updates,bionic-security 17.9.0-2ubuntu0.1 amd64 [upgradable from: 17.9.0-2]
+python3-twisted/bionic-updates,bionic-security,now 17.9.0-2ubuntu0.1 all [installed,automatic]
+python3-twisted-bin/bionic-updates,bionic-security,now 17.9.0-2ubuntu0.1 amd64 [installed,automatic]
 python3-twisted-bin-dbg/bionic-updates,bionic-security 17.9.0-2ubuntu0.1 amd64
 python3-twitter/bionic 3.3-1 all
 python3-twodict/bionic 1.2-1 all
