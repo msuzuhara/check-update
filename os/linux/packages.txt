@@ -42636,8 +42636,8 @@ python-bitstruct/stable 3.7.0-1 all
 python-bittorrent/stable 3.4.2-12 all
 python-bjsonrpc/stable 0.2.0-2 all
 python-black-doc/stable 18.9b0-1-6 all
-python-bleach-doc/stable 3.1.1-0+deb10u1 all
-python-bleach/stable 3.1.1-0+deb10u1 all
+python-bleach-doc/stable 3.1.2-0+deb10u1 all
+python-bleach/stable 3.1.2-0+deb10u1 all
 python-blessed/stable 1.15.0-1 all
 python-blessings/stable 1.6-2 all
 python-blinker-doc/stable 1.4+dfsg1-0.2 all
@@ -46037,7 +46037,7 @@ python3-bitcoinlib/stable 0.10.1-1 all
 python3-bitstring/stable 3.1.5-1 all
 python3-bitstruct/stable 3.7.0-1 all
 python3-blazarclient/stable 2.0.0-2 all
-python3-bleach/stable 3.1.1-0+deb10u1 all
+python3-bleach/stable 3.1.2-0+deb10u1 all
 python3-blends/stable 0.7.2 all
 python3-blessed/stable 1.15.0-1 all
 python3-blessings/stable 1.6-2 all
@@ -54247,8 +54247,8 @@ topp/stable 2.4.0-real-1 amd64
 toppler/stable 1.1.6-3 amd64
 toppred/stable 1.10-7 amd64
 tor-arm/stable 2.1.0-2 all
-tor-geoipdb/stable 0.3.5.8-1 all
-tor/stable 0.3.5.8-1 amd64
+tor-geoipdb/stable 0.3.5.10-1 all
+tor/stable 0.3.5.10-1 amd64
 tora-dbg/stable 2.1.3-4 amd64
 tora/stable 2.1.3-4 amd64
 torch-core-free/stable 20171127 amd64
