@@ -21276,16 +21276,16 @@ libglfw3-dev/xenial 3.1.2-3 amd64
 libglfw3-doc/xenial,xenial 3.1.2-3 all
 libglib-object-introspection-perl/xenial 0.040-2 amd64
 libglib-perl/xenial,xenial-updates 3:1.320-2 amd64
-libglib2.0-0/xenial-updates,xenial-security,now 2.48.2-0ubuntu4.4 amd64 [installed,automatic]
-libglib2.0-0-dbg/xenial-updates,xenial-security 2.48.2-0ubuntu4.4 amd64
-libglib2.0-0-refdbg/xenial-updates,xenial-security 2.48.2-0ubuntu4.4 amd64
-libglib2.0-bin/xenial-updates,xenial-security 2.48.2-0ubuntu4.4 amd64
+libglib2.0-0/xenial-updates 2.48.2-0ubuntu4.5 amd64 [upgradable from: 2.48.2-0ubuntu4.4]
+libglib2.0-0-dbg/xenial-updates 2.48.2-0ubuntu4.5 amd64
+libglib2.0-0-refdbg/xenial-updates 2.48.2-0ubuntu4.5 amd64
+libglib2.0-bin/xenial-updates 2.48.2-0ubuntu4.5 amd64
 libglib2.0-cil/xenial 2.12.10-6 amd64
 libglib2.0-cil-dev/xenial 2.12.10-6 amd64
-libglib2.0-data/xenial-updates,xenial-updates,xenial-security,xenial-security,now 2.48.2-0ubuntu4.4 all [installed]
-libglib2.0-dev/xenial-updates,xenial-security 2.48.2-0ubuntu4.4 amd64
-libglib2.0-doc/xenial-updates,xenial-updates,xenial-security,xenial-security 2.48.2-0ubuntu4.4 all
-libglib2.0-tests/xenial-updates,xenial-security 2.48.2-0ubuntu4.4 amd64
+libglib2.0-data/xenial-updates,xenial-updates 2.48.2-0ubuntu4.5 all [upgradable from: 2.48.2-0ubuntu4.4]
+libglib2.0-dev/xenial-updates 2.48.2-0ubuntu4.5 amd64
+libglib2.0-doc/xenial-updates,xenial-updates 2.48.2-0ubuntu4.5 all
+libglib2.0-tests/xenial-updates 2.48.2-0ubuntu4.5 amd64
 libglib3.0-cil/xenial 2.99.3-2 amd64
 libglib3.0-cil-dev/xenial 2.99.3-2 amd64
 libglibmm-2.4-1v5/xenial 2.46.3-1 amd64
@@ -34884,7 +34884,7 @@ linux-aws-tools-4.4.0-1101/xenial-updates,xenial-security 4.4.0-1101.112 amd64
 linux-aws-tools-4.4.0-1102/xenial-updates,xenial-security 4.4.0-1102.113 amd64
 linux-aws-tools-4.4.0-1104/xenial-updates,xenial-security 4.4.0-1104.115 amd64
 linux-aws-tools-common/xenial-updates,xenial-updates,xenial-security,xenial-security 4.4.0-1017.26 all
-linux-azure/xenial-updates,xenial-security 4.15.0.1071.74 amd64
+linux-azure/xenial-updates 4.15.0.1075.78 amd64
 linux-azure-cloud-tools-4.11.0-1009/xenial-updates 4.11.0-1009.9 amd64
 linux-azure-cloud-tools-4.11.0-1011/xenial-updates 4.11.0-1011.11 amd64
 linux-azure-cloud-tools-4.11.0-1013/xenial-updates 4.11.0-1013.13 amd64
@@ -34938,7 +34938,8 @@ linux-azure-cloud-tools-4.15.0-1066/xenial-updates,xenial-security 4.15.0-1066.7
 linux-azure-cloud-tools-4.15.0-1067/xenial-updates,xenial-security 4.15.0-1067.72 amd64
 linux-azure-cloud-tools-4.15.0-1069/xenial-updates,xenial-security 4.15.0-1069.74 amd64
 linux-azure-cloud-tools-4.15.0-1071/xenial-updates,xenial-security 4.15.0-1071.76 amd64
-linux-azure-edge/xenial-updates,xenial-security 4.15.0.1071.74 amd64
+linux-azure-cloud-tools-4.15.0-1075/xenial-updates 4.15.0-1075.80 amd64
+linux-azure-edge/xenial-updates 4.15.0.1075.78 amd64
 linux-azure-edge-cloud-tools-4.13.0-1003/xenial-updates 4.13.0-1003.3 amd64
 linux-azure-edge-cloud-tools-4.13.0-1005/xenial-updates,xenial-security 4.13.0-1005.5 amd64
 linux-azure-edge-cloud-tools-4.14.0-1003/xenial-updates,xenial-security 4.14.0-1003.3 amd64
@@ -35007,6 +35008,7 @@ linux-azure-headers-4.15.0-1066/xenial-updates,xenial-updates,xenial-security,xe
 linux-azure-headers-4.15.0-1067/xenial-updates,xenial-updates,xenial-security,xenial-security 4.15.0-1067.72 all
 linux-azure-headers-4.15.0-1069/xenial-updates,xenial-updates,xenial-security,xenial-security 4.15.0-1069.74 all
 linux-azure-headers-4.15.0-1071/xenial-updates,xenial-updates,xenial-security,xenial-security 4.15.0-1071.76 all
+linux-azure-headers-4.15.0-1075/xenial-updates,xenial-updates 4.15.0-1075.80 all
 linux-azure-tools-4.11.0-1009/xenial-updates 4.11.0-1009.9 amd64
 linux-azure-tools-4.11.0-1011/xenial-updates 4.11.0-1011.11 amd64
 linux-azure-tools-4.11.0-1013/xenial-updates 4.11.0-1013.13 amd64
@@ -35060,6 +35062,7 @@ linux-azure-tools-4.15.0-1066/xenial-updates,xenial-security 4.15.0-1066.71 amd6
 linux-azure-tools-4.15.0-1067/xenial-updates,xenial-security 4.15.0-1067.72 amd64
 linux-azure-tools-4.15.0-1069/xenial-updates,xenial-security 4.15.0-1069.74 amd64
 linux-azure-tools-4.15.0-1071/xenial-updates,xenial-security 4.15.0-1071.76 amd64
+linux-azure-tools-4.15.0-1075/xenial-updates 4.15.0-1075.80 amd64
 linux-base/xenial-updates,xenial-updates,xenial-security,xenial-security,now 4.5ubuntu1~16.04.1 all [installed]
 linux-buildinfo-4.15.0-1007-oracle/xenial-updates 4.15.0-1007.9~16.04.1 amd64
 linux-buildinfo-4.15.0-1008-oracle/xenial-updates,xenial-security 4.15.0-1008.10~16.04.1 amd64
@@ -35150,6 +35153,7 @@ linux-buildinfo-4.15.0-1066-azure/xenial-updates,xenial-security 4.15.0-1066.71 
 linux-buildinfo-4.15.0-1067-azure/xenial-updates,xenial-security 4.15.0-1067.72 amd64
 linux-buildinfo-4.15.0-1069-azure/xenial-updates,xenial-security 4.15.0-1069.74 amd64
 linux-buildinfo-4.15.0-1071-azure/xenial-updates,xenial-security 4.15.0-1071.76 amd64
+linux-buildinfo-4.15.0-1075-azure/xenial-updates 4.15.0-1075.80 amd64
 linux-buildinfo-4.15.0-43-generic/xenial-updates,xenial-security 4.15.0-43.46~16.04.1 amd64
 linux-buildinfo-4.15.0-43-lowlatency/xenial-updates,xenial-security 4.15.0-43.46~16.04.1 amd64
 linux-buildinfo-4.15.0-45-generic/xenial-updates,xenial-security 4.15.0-45.48~16.04.1 amd64
@@ -35415,6 +35419,7 @@ linux-cloud-tools-4.15.0-1066-azure/xenial-updates,xenial-security 4.15.0-1066.7
 linux-cloud-tools-4.15.0-1067-azure/xenial-updates,xenial-security 4.15.0-1067.72 amd64
 linux-cloud-tools-4.15.0-1069-azure/xenial-updates,xenial-security 4.15.0-1069.74 amd64
 linux-cloud-tools-4.15.0-1071-azure/xenial-updates,xenial-security 4.15.0-1071.76 amd64
+linux-cloud-tools-4.15.0-1075-azure/xenial-updates 4.15.0-1075.80 amd64
 linux-cloud-tools-4.15.0-13-generic/xenial-updates,xenial-security 4.15.0-13.14~16.04.1 amd64
 linux-cloud-tools-4.15.0-13-lowlatency/xenial-updates,xenial-security 4.15.0-13.14~16.04.1 amd64
 linux-cloud-tools-4.15.0-15-generic/xenial-updates,xenial-security 4.15.0-15.16~16.04.1 amd64
@@ -35896,8 +35901,8 @@ linux-cloud-tools-4.8.0-56-generic/xenial-updates,xenial-security 4.8.0-56.61~16
 linux-cloud-tools-4.8.0-56-lowlatency/xenial-updates,xenial-security 4.8.0-56.61~16.04.1 amd64
 linux-cloud-tools-4.8.0-58-generic/xenial-updates,xenial-security 4.8.0-58.63~16.04.1 amd64
 linux-cloud-tools-4.8.0-58-lowlatency/xenial-updates,xenial-security 4.8.0-58.63~16.04.1 amd64
-linux-cloud-tools-azure/xenial-updates,xenial-security 4.15.0.1071.74 amd64
-linux-cloud-tools-azure-edge/xenial-updates,xenial-security 4.15.0.1071.74 amd64
+linux-cloud-tools-azure/xenial-updates 4.15.0.1075.78 amd64
+linux-cloud-tools-azure-edge/xenial-updates 4.15.0.1075.78 amd64
 linux-cloud-tools-common/xenial-updates,xenial-updates,xenial-security,xenial-security 4.4.0-176.206 all
 linux-cloud-tools-gcp/xenial-updates,xenial-security 4.15.0.1017.29 amd64
 linux-cloud-tools-generic/xenial-updates,xenial-security 4.4.0.176.184 amd64
@@ -36392,6 +36397,7 @@ linux-headers-4.15.0-1066-azure/xenial-updates,xenial-security 4.15.0-1066.71 am
 linux-headers-4.15.0-1067-azure/xenial-updates,xenial-security 4.15.0-1067.72 amd64
 linux-headers-4.15.0-1069-azure/xenial-updates,xenial-security 4.15.0-1069.74 amd64
 linux-headers-4.15.0-1071-azure/xenial-updates,xenial-security 4.15.0-1071.76 amd64
+linux-headers-4.15.0-1075-azure/xenial-updates 4.15.0-1075.80 amd64
 linux-headers-4.15.0-13/xenial-updates,xenial-updates,xenial-security,xenial-security 4.15.0-13.14~16.04.1 all
 linux-headers-4.15.0-13-generic/xenial-updates,xenial-security 4.15.0-13.14~16.04.1 amd64
 linux-headers-4.15.0-13-lowlatency/xenial-updates,xenial-security 4.15.0-13.14~16.04.1 amd64
@@ -36938,8 +36944,8 @@ linux-headers-4.8.0-58-generic/xenial-updates,xenial-security 4.8.0-58.63~16.04.
 linux-headers-4.8.0-58-lowlatency/xenial-updates,xenial-security 4.8.0-58.63~16.04.1 amd64
 linux-headers-aws/xenial-updates,xenial-security 4.4.0.1104.108 amd64
 linux-headers-aws-hwe/xenial-updates,xenial-security 4.15.0.1063.63 amd64
-linux-headers-azure/xenial-updates,xenial-security 4.15.0.1071.74 amd64
-linux-headers-azure-edge/xenial-updates,xenial-security 4.15.0.1071.74 amd64
+linux-headers-azure/xenial-updates 4.15.0.1075.78 amd64
+linux-headers-azure-edge/xenial-updates 4.15.0.1075.78 amd64
 linux-headers-euclid/xenial-updates,xenial-security 4.4.0.9029.30 amd64
 linux-headers-gcp/xenial-updates,xenial-security 4.15.0.1058.72 amd64
 linux-headers-generic/xenial-updates,xenial-security 4.4.0.176.184 amd64 [upgradable from: 4.4.0.171.179]
@@ -37376,6 +37382,7 @@ linux-image-4.15.0-1066-azure/xenial-updates,xenial-security 4.15.0-1066.71 amd6
 linux-image-4.15.0-1067-azure/xenial-updates,xenial-security 4.15.0-1067.72 amd64
 linux-image-4.15.0-1069-azure/xenial-updates,xenial-security 4.15.0-1069.74 amd64
 linux-image-4.15.0-1071-azure/xenial-updates,xenial-security 4.15.0-1071.76 amd64
+linux-image-4.15.0-1075-azure/xenial-updates 4.15.0-1075.80 amd64
 linux-image-4.15.0-13-generic/xenial-updates,xenial-security 4.15.0-13.14~16.04.1 amd64
 linux-image-4.15.0-13-lowlatency/xenial-updates,xenial-security 4.15.0-13.14~16.04.1 amd64
 linux-image-4.15.0-15-generic/xenial-updates,xenial-security 4.15.0-15.16~16.04.1 amd64
@@ -37787,8 +37794,8 @@ linux-image-4.8.0-58-generic/xenial-updates,xenial-security 4.8.0-58.63~16.04.1 
 linux-image-4.8.0-58-lowlatency/xenial-updates,xenial-security 4.8.0-58.63~16.04.1 amd64
 linux-image-aws/xenial-updates,xenial-security 4.4.0.1104.108 amd64
 linux-image-aws-hwe/xenial-updates,xenial-security 4.15.0.1063.63 amd64
-linux-image-azure/xenial-updates,xenial-security 4.15.0.1071.74 amd64
-linux-image-azure-edge/xenial-updates,xenial-security 4.15.0.1071.74 amd64
+linux-image-azure/xenial-updates 4.15.0.1075.78 amd64
+linux-image-azure-edge/xenial-updates 4.15.0.1075.78 amd64
 linux-image-euclid/xenial-updates,xenial-security 4.4.0.9029.30 amd64
 linux-image-extra-4.10.0-1004-gcp/xenial-updates,xenial-security 4.10.0-1004.4 amd64
 linux-image-extra-4.10.0-1006-gcp/xenial-updates,xenial-security 4.10.0-1006.6 amd64
@@ -38083,6 +38090,7 @@ linux-image-unsigned-4.15.0-1066-azure/xenial-updates,xenial-security 4.15.0-106
 linux-image-unsigned-4.15.0-1067-azure/xenial-updates,xenial-security 4.15.0-1067.72 amd64
 linux-image-unsigned-4.15.0-1069-azure/xenial-updates,xenial-security 4.15.0-1069.74 amd64
 linux-image-unsigned-4.15.0-1071-azure/xenial-updates,xenial-security 4.15.0-1071.76 amd64
+linux-image-unsigned-4.15.0-1075-azure/xenial-updates 4.15.0-1075.80 amd64
 linux-image-unsigned-4.15.0-20-generic/xenial-updates,xenial-security 4.15.0-20.21~16.04.1 amd64
 linux-image-unsigned-4.15.0-20-lowlatency/xenial-updates,xenial-security 4.15.0-20.21~16.04.1 amd64
 linux-image-unsigned-4.15.0-22-generic/xenial-updates,xenial-security 4.15.0-22.24~16.04.1 amd64
@@ -38473,6 +38481,7 @@ linux-modules-4.15.0-1066-azure/xenial-updates,xenial-security 4.15.0-1066.71 am
 linux-modules-4.15.0-1067-azure/xenial-updates,xenial-security 4.15.0-1067.72 amd64
 linux-modules-4.15.0-1069-azure/xenial-updates,xenial-security 4.15.0-1069.74 amd64
 linux-modules-4.15.0-1071-azure/xenial-updates,xenial-security 4.15.0-1071.76 amd64
+linux-modules-4.15.0-1075-azure/xenial-updates 4.15.0-1075.80 amd64
 linux-modules-4.15.0-20-generic/xenial-updates,xenial-security 4.15.0-20.21~16.04.1 amd64
 linux-modules-4.15.0-20-lowlatency/xenial-updates,xenial-security 4.15.0-20.21~16.04.1 amd64
 linux-modules-4.15.0-22-generic/xenial-updates,xenial-security 4.15.0-22.24~16.04.1 amd64
@@ -38725,6 +38734,7 @@ linux-modules-extra-4.15.0-1066-azure/xenial-updates,xenial-security 4.15.0-1066
 linux-modules-extra-4.15.0-1067-azure/xenial-updates,xenial-security 4.15.0-1067.72 amd64
 linux-modules-extra-4.15.0-1069-azure/xenial-updates,xenial-security 4.15.0-1069.74 amd64
 linux-modules-extra-4.15.0-1071-azure/xenial-updates,xenial-security 4.15.0-1071.76 amd64
+linux-modules-extra-4.15.0-1075-azure/xenial-updates 4.15.0-1075.80 amd64
 linux-modules-extra-4.15.0-20-generic/xenial-updates,xenial-security 4.15.0-20.21~16.04.1 amd64
 linux-modules-extra-4.15.0-22-generic/xenial-updates,xenial-security 4.15.0-22.24~16.04.1 amd64
 linux-modules-extra-4.15.0-23-generic/xenial-updates,xenial-security 4.15.0-23.25~16.04.1 amd64
@@ -38794,8 +38804,8 @@ linux-modules-extra-4.4.0-174-generic/xenial-updates,xenial-security 4.4.0-174.2
 linux-modules-extra-4.4.0-176-generic/xenial-updates,xenial-security 4.4.0-176.206 amd64
 linux-modules-extra-aws/xenial-updates,xenial-security 4.4.0.1104.108 amd64
 linux-modules-extra-aws-hwe/xenial-updates,xenial-security 4.15.0.1063.63 amd64
-linux-modules-extra-azure/xenial-updates,xenial-security 4.15.0.1071.74 amd64
-linux-modules-extra-azure-edge/xenial-updates,xenial-security 4.15.0.1071.74 amd64
+linux-modules-extra-azure/xenial-updates 4.15.0.1075.78 amd64
+linux-modules-extra-azure-edge/xenial-updates 4.15.0.1075.78 amd64
 linux-modules-extra-gcp/xenial-updates,xenial-security 4.15.0.1058.72 amd64
 linux-modules-extra-gke/xenial-updates,xenial-security 4.15.0.1058.72 amd64
 linux-oem/xenial-updates,xenial-security 4.15.0.91.101 amd64
@@ -38872,8 +38882,8 @@ linux-oracle-tools-4.15.0-1030/xenial-updates,xenial-security 4.15.0-1030.33~16.
 linux-oracle-tools-4.15.0-1031/xenial-updates,xenial-security 4.15.0-1031.34~16.04.1 amd64
 linux-oracle-tools-4.15.0-1033/xenial-updates,xenial-security 4.15.0-1033.36~16.04.1 amd64
 linux-oracle-tools-4.15.0-1035/xenial-updates,xenial-security 4.15.0-1035.38~16.04.1 amd64
-linux-signed-azure/xenial-updates,xenial-security 4.15.0.1071.74 amd64
-linux-signed-azure-edge/xenial-updates,xenial-security 4.15.0.1071.74 amd64
+linux-signed-azure/xenial-updates 4.15.0.1075.78 amd64
+linux-signed-azure-edge/xenial-updates 4.15.0.1075.78 amd64
 linux-signed-generic/xenial-updates,xenial-security 4.4.0.176.184 amd64
 linux-signed-generic-hwe-16.04/xenial-updates,xenial-security 4.15.0.91.101 amd64
 linux-signed-generic-hwe-16.04-edge/xenial-updates,xenial-security 4.15.0.91.101 amd64
@@ -39126,8 +39136,8 @@ linux-signed-image-4.8.0-56-generic/xenial-updates,xenial-security 4.8.0-56.61~1
 linux-signed-image-4.8.0-56-lowlatency/xenial-updates,xenial-security 4.8.0-56.61~16.04.1 amd64
 linux-signed-image-4.8.0-58-generic/xenial-updates,xenial-security 4.8.0-58.63~16.04.1 amd64
 linux-signed-image-4.8.0-58-lowlatency/xenial-updates,xenial-security 4.8.0-58.63~16.04.1 amd64
-linux-signed-image-azure/xenial-updates,xenial-security 4.15.0.1071.74 amd64
-linux-signed-image-azure-edge/xenial-updates,xenial-security 4.15.0.1071.74 amd64
+linux-signed-image-azure/xenial-updates 4.15.0.1075.78 amd64
+linux-signed-image-azure-edge/xenial-updates 4.15.0.1075.78 amd64
 linux-signed-image-generic/xenial-updates,xenial-security 4.4.0.176.184 amd64
 linux-signed-image-generic-hwe-16.04/xenial-updates,xenial-security 4.15.0.91.101 amd64
 linux-signed-image-generic-hwe-16.04-edge/xenial-updates,xenial-security 4.15.0.91.101 amd64
@@ -39388,6 +39398,7 @@ linux-tools-4.15.0-1066-azure/xenial-updates,xenial-security 4.15.0-1066.71 amd6
 linux-tools-4.15.0-1067-azure/xenial-updates,xenial-security 4.15.0-1067.72 amd64
 linux-tools-4.15.0-1069-azure/xenial-updates,xenial-security 4.15.0-1069.74 amd64
 linux-tools-4.15.0-1071-azure/xenial-updates,xenial-security 4.15.0-1071.76 amd64
+linux-tools-4.15.0-1075-azure/xenial-updates 4.15.0-1075.80 amd64
 linux-tools-4.15.0-13-generic/xenial-updates,xenial-security 4.15.0-13.14~16.04.1 amd64
 linux-tools-4.15.0-13-lowlatency/xenial-updates,xenial-security 4.15.0-13.14~16.04.1 amd64
 linux-tools-4.15.0-15-generic/xenial-updates,xenial-security 4.15.0-15.16~16.04.1 amd64
@@ -39881,8 +39892,8 @@ linux-tools-4.8.0-58-generic/xenial-updates,xenial-security 4.8.0-58.63~16.04.1 
 linux-tools-4.8.0-58-lowlatency/xenial-updates,xenial-security 4.8.0-58.63~16.04.1 amd64
 linux-tools-aws/xenial-updates,xenial-security 4.4.0.1104.108 amd64
 linux-tools-aws-hwe/xenial-updates,xenial-security 4.15.0.1063.63 amd64
-linux-tools-azure/xenial-updates,xenial-security 4.15.0.1071.74 amd64
-linux-tools-azure-edge/xenial-updates,xenial-security 4.15.0.1071.74 amd64
+linux-tools-azure/xenial-updates 4.15.0.1075.78 amd64
+linux-tools-azure-edge/xenial-updates 4.15.0.1075.78 amd64
 linux-tools-common/xenial-updates,xenial-updates,xenial-security,xenial-security 4.4.0-176.206 all
 linux-tools-euclid/xenial-updates,xenial-security 4.4.0.9029.30 amd64
 linux-tools-gcp/xenial-updates,xenial-security 4.15.0.1058.72 amd64
@@ -51473,13 +51484,13 @@ quantlib-refman-html/xenial,xenial 1.6-1 all
 quantum-espresso/xenial 5.1+dfsg-4 amd64
 quantum-espresso-data/xenial,xenial 5.1+dfsg-4 all
 quarry/xenial 0.2.0.dfsg.1-4.1 amd64
-quassel/xenial 0.12.2-0ubuntu1 amd64
-quassel-client/xenial 0.12.2-0ubuntu1 amd64
-quassel-client-qt4/xenial 0.12.2-0ubuntu1 amd64
-quassel-core/xenial 0.12.2-0ubuntu1 amd64
-quassel-data/xenial,xenial 0.12.2-0ubuntu1 all
-quassel-dbg/xenial 0.12.2-0ubuntu1 amd64
-quassel-qt4/xenial 0.12.2-0ubuntu1 amd64
+quassel/xenial-updates 0.12.2-0ubuntu1.16.04.2 amd64
+quassel-client/xenial-updates 0.12.2-0ubuntu1.16.04.2 amd64
+quassel-client-qt4/xenial-updates 0.12.2-0ubuntu1.16.04.2 amd64
+quassel-core/xenial-updates 0.12.2-0ubuntu1.16.04.2 amd64
+quassel-data/xenial-updates,xenial-updates 0.12.2-0ubuntu1.16.04.2 all
+quassel-dbg/xenial-updates 0.12.2-0ubuntu1.16.04.2 amd64
+quassel-qt4/xenial-updates 0.12.2-0ubuntu1.16.04.2 amd64
 quelcom/xenial 0.4.0-13 amd64
 queuegraph/xenial,xenial 1.1.1-3 all
 quickml/xenial,xenial 0.7-5 all
@@ -57502,38 +57513,38 @@ vile/xenial 9.8q-1build1 amd64
 vile-common/xenial,xenial 9.8q-1build1 all
 vile-filters/xenial 9.8q-1build1 amd64
 vilistextum/xenial 2.6.9-1.1 amd64
-vim/xenial-updates,xenial-security,now 2:7.4.1689-3ubuntu1.3 amd64 [installed]
+vim/xenial-updates,xenial-security 2:7.4.1689-3ubuntu1.4 amd64 [upgradable from: 2:7.4.1689-3ubuntu1.3]
 vim-addon-manager/xenial,xenial 0.5.5 all
 vim-addon-mw-utils/xenial,xenial 0.1-5 all
-vim-athena/xenial-updates,xenial-security 2:7.4.1689-3ubuntu1.3 amd64
-vim-athena-py2/xenial-updates,xenial-security 2:7.4.1689-3ubuntu1.3 amd64
+vim-athena/xenial-updates,xenial-security 2:7.4.1689-3ubuntu1.4 amd64
+vim-athena-py2/xenial-updates,xenial-security 2:7.4.1689-3ubuntu1.4 amd64
 vim-autopep8/xenial,xenial 1.0.7-1 all
-vim-common/xenial-updates,xenial-security,now 2:7.4.1689-3ubuntu1.3 amd64 [installed]
+vim-common/xenial-updates,xenial-security 2:7.4.1689-3ubuntu1.4 amd64 [upgradable from: 2:7.4.1689-3ubuntu1.3]
 vim-conque/xenial,xenial 2.3-1 all
 vim-ctrlp/xenial,xenial 1.79+git20150324-1 all
-vim-doc/xenial-updates,xenial-updates,xenial-security,xenial-security 2:7.4.1689-3ubuntu1.3 all
+vim-doc/xenial-updates,xenial-updates,xenial-security,xenial-security 2:7.4.1689-3ubuntu1.4 all
 vim-editorconfig/xenial,xenial 0.3.3+dfsg-1 all
 vim-fugitive/xenial,xenial 2.2-2 all
-vim-gnome/xenial-updates,xenial-security 2:7.4.1689-3ubuntu1.3 amd64
-vim-gnome-py2/xenial-updates,xenial-security 2:7.4.1689-3ubuntu1.3 amd64
+vim-gnome/xenial-updates,xenial-security 2:7.4.1689-3ubuntu1.4 amd64
+vim-gnome-py2/xenial-updates,xenial-security 2:7.4.1689-3ubuntu1.4 amd64
 vim-gocomplete/xenial,xenial 20150303-3 all
-vim-gtk/xenial-updates,xenial-security 2:7.4.1689-3ubuntu1.3 amd64
-vim-gtk-py2/xenial-updates,xenial-security 2:7.4.1689-3ubuntu1.3 amd64
-vim-gtk3/xenial-updates,xenial-security 2:7.4.1689-3ubuntu1.3 amd64
-vim-gtk3-py2/xenial-updates,xenial-security 2:7.4.1689-3ubuntu1.3 amd64
-vim-gui-common/xenial-updates,xenial-updates,xenial-security,xenial-security 2:7.4.1689-3ubuntu1.3 all
+vim-gtk/xenial-updates,xenial-security 2:7.4.1689-3ubuntu1.4 amd64
+vim-gtk-py2/xenial-updates,xenial-security 2:7.4.1689-3ubuntu1.4 amd64
+vim-gtk3/xenial-updates,xenial-security 2:7.4.1689-3ubuntu1.4 amd64
+vim-gtk3-py2/xenial-updates,xenial-security 2:7.4.1689-3ubuntu1.4 amd64
+vim-gui-common/xenial-updates,xenial-updates,xenial-security,xenial-security 2:7.4.1689-3ubuntu1.4 all
 vim-haproxy/xenial-updates,xenial-updates,xenial-security,xenial-security 1.6.3-1ubuntu0.3 all
 vim-icinga2/xenial,xenial 2.4.1-2ubuntu1 all
 vim-khuno/xenial,xenial 1.0.0-1 all
 vim-latexsuite/xenial,xenial 20141116.812-2 all
 vim-migemo/xenial,xenial 1:1.2+gh0.20140306-5 all
-vim-nox/xenial-updates,xenial-security 2:7.4.1689-3ubuntu1.3 amd64
-vim-nox-py2/xenial-updates,xenial-security 2:7.4.1689-3ubuntu1.3 amd64
+vim-nox/xenial-updates,xenial-security 2:7.4.1689-3ubuntu1.4 amd64
+vim-nox-py2/xenial-updates,xenial-security 2:7.4.1689-3ubuntu1.4 amd64
 vim-pathogen/xenial,xenial 2.4-1 all
 vim-puppet/xenial-updates,xenial-updates 3.8.5-2ubuntu0.1 all
 vim-python-jedi/xenial,xenial 0.9.0-1 all
 vim-rails/xenial,xenial 4.5~20110829-1 all
-vim-runtime/xenial-updates,xenial-updates,xenial-security,xenial-security,now 2:7.4.1689-3ubuntu1.3 all [installed]
+vim-runtime/xenial-updates,xenial-updates,xenial-security,xenial-security 2:7.4.1689-3ubuntu1.4 all [upgradable from: 2:7.4.1689-3ubuntu1.3]
 vim-scripts/xenial,xenial 20130814ubuntu1 all
 vim-snipmate/xenial,xenial 0.87-3 all
 vim-snippets/xenial,xenial 1.0.0-4 all
@@ -57541,7 +57552,7 @@ vim-syntastic/xenial-updates,xenial-updates,xenial-security,xenial-security 3.7.
 vim-syntax-docker/xenial-updates,xenial-updates,xenial-security,xenial-security 18.09.7-0ubuntu1~16.04.5 all
 vim-syntax-gtk/xenial,xenial 20110314-1 all
 vim-tabular/xenial,xenial 1.0-3 all
-vim-tiny/xenial-updates,xenial-security,now 2:7.4.1689-3ubuntu1.3 amd64 [installed]
+vim-tiny/xenial-updates,xenial-security 2:7.4.1689-3ubuntu1.4 amd64 [upgradable from: 2:7.4.1689-3ubuntu1.3]
 vim-tlib/xenial,xenial 1.20-1 all
 vim-ultisnips/xenial,xenial 3.1-3 all
 vim-vimerl/xenial,xenial 1.4.1+git20120509.89111c7-2 all
