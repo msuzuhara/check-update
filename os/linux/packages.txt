@@ -24578,11 +24578,11 @@ libglfw3-doc/bionic 3.2.1-1 all
 libglfw3-wayland/bionic 3.2.1-1 amd64
 libglib-object-introspection-perl/bionic 0.044-2 amd64
 libglib-perl/bionic 3:1.326-1build1 amd64
-libglib2.0-0/bionic-updates,bionic-security 2.56.4-0ubuntu0.18.04.6 amd64 [upgradable from: 2.56.4-0ubuntu0.18.04.4]
+libglib2.0-0/bionic-updates,bionic-security,now 2.56.4-0ubuntu0.18.04.6 amd64 [installed,automatic]
 libglib2.0-bin/bionic-updates,bionic-security 2.56.4-0ubuntu0.18.04.6 amd64
 libglib2.0-cil/bionic 2.12.40-2 amd64
 libglib2.0-cil-dev/bionic 2.12.40-2 amd64
-libglib2.0-data/bionic-updates,bionic-security 2.56.4-0ubuntu0.18.04.6 all [upgradable from: 2.56.4-0ubuntu0.18.04.4]
+libglib2.0-data/bionic-updates,bionic-security,now 2.56.4-0ubuntu0.18.04.6 all [installed,automatic]
 libglib2.0-dev/bionic-updates,bionic-security 2.56.4-0ubuntu0.18.04.6 amd64
 libglib2.0-dev-bin/bionic-updates,bionic-security 2.56.4-0ubuntu0.18.04.6 amd64
 libglib2.0-doc/bionic-updates,bionic-security 2.56.4-0ubuntu0.18.04.6 all
@@ -39304,7 +39304,7 @@ linux-azure-tools-5.0.0-1029/bionic-updates,bionic-security 5.0.0-1029.31~18.04.
 linux-azure-tools-5.0.0-1031/bionic-updates,bionic-security 5.0.0-1031.33 amd64
 linux-azure-tools-5.0.0-1032/bionic-updates,bionic-security 5.0.0-1032.34 amd64
 linux-azure-tools-5.0.0-1035/bionic-updates,bionic-security 5.0.0-1035.37 amd64
-linux-base/bionic-updates,bionic-security 4.5ubuntu1.1 all [upgradable from: 4.5ubuntu1]
+linux-base/bionic-updates,bionic-security,now 4.5ubuntu1.1 all [installed,automatic]
 linux-base-sgx/bionic-updates,bionic-security 4.5ubuntu1.1 all
 linux-buildinfo-4.15.0-1007-oracle/bionic-updates 4.15.0-1007.9 amd64
 linux-buildinfo-4.15.0-1008-oracle/bionic-updates,bionic-security 4.15.0-1008.10 amd64
