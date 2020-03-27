@@ -28944,8 +28944,8 @@ libprocess-cpp3/xenial 3.0.1-0ubuntu2 amd64
 libprocesscore7/xenial 4:5.5.5-0ubuntu2 amd64
 libprocessing-core-java/xenial,xenial 1.2.1-1 all
 libprocessui7/xenial 4:5.5.5-0ubuntu2 amd64
-libprocps4/xenial-updates,xenial-security,now 2:3.3.10-4ubuntu2.4 amd64 [installed]
-libprocps4-dev/xenial-updates,xenial-security 2:3.3.10-4ubuntu2.4 amd64
+libprocps4/xenial-updates 2:3.3.10-4ubuntu2.5 amd64 [upgradable from: 2:3.3.10-4ubuntu2.4]
+libprocps4-dev/xenial-updates 2:3.3.10-4ubuntu2.5 amd64
 libproj-dev/xenial 4.9.2-2 amd64
 libproj-java/xenial 4.9.2-2 amd64
 libproj9/xenial 4.9.2-2 amd64
@@ -45677,7 +45677,7 @@ procinfo/xenial 1:2.0.304-1ubuntu2 amd64
 procmail/xenial-updates,xenial-security 3.22-25ubuntu0.16.04.1 amd64
 procmail-lib/xenial,xenial 1:2009.1202-4 all
 procmeter3/xenial 3.6-1 amd64
-procps/xenial-updates,xenial-security,now 2:3.3.10-4ubuntu2.4 amd64 [installed]
+procps/xenial-updates 2:3.3.10-4ubuntu2.5 amd64 [upgradable from: 2:3.3.10-4ubuntu2.4]
 procserv/xenial 2.6.0-1 amd64
 proda/xenial 1.0-9 amd64
 prodigal/xenial 1:2.6.2-2 amd64
