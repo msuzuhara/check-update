@@ -1568,15 +1568,15 @@ bluefish-plugins/oldstable 2.2.9-1+b1 amd64
 blueman/oldstable 2.0.4-1 amd64
 bluemon/oldstable 1.4-6.1+b1 amd64
 blueproximity/oldstable 1.2.5-6 all
-bluetooth/oldstable,oldstable 5.43-2+deb9u1 all
+bluetooth/oldstable 5.43-2+deb9u2 all
 bluewho/oldstable 0.1-2 all
-bluez/oldstable,oldstable 5.43-2+deb9u1 amd64
-bluez-cups/oldstable,oldstable 5.43-2+deb9u1 amd64
-bluez-dbg/oldstable,oldstable 5.43-2+deb9u1 amd64
-bluez-hcidump/oldstable,oldstable 5.43-2+deb9u1 amd64
-bluez-obexd/oldstable,oldstable 5.43-2+deb9u1 amd64
-bluez-test-scripts/oldstable,oldstable 5.43-2+deb9u1 all
-bluez-test-tools/oldstable,oldstable 5.43-2+deb9u1 amd64
+bluez/oldstable 5.43-2+deb9u2 amd64
+bluez-cups/oldstable 5.43-2+deb9u2 amd64
+bluez-dbg/oldstable 5.43-2+deb9u2 amd64
+bluez-hcidump/oldstable 5.43-2+deb9u2 amd64
+bluez-obexd/oldstable 5.43-2+deb9u2 amd64
+bluez-test-scripts/oldstable 5.43-2+deb9u2 all
+bluez-test-tools/oldstable 5.43-2+deb9u2 amd64
 bluez-tools/oldstable 0.2.0~20140808-5+b2 amd64
 bmagic/oldstable 3.7.0-3 all
 bmake/oldstable 20160220-2+b1 amd64
@@ -10529,9 +10529,9 @@ icon-slicer/oldstable 0.3-8 amd64
 icont/oldstable 9.4.3-6 amd64
 iconx/oldstable 9.4.3-6 amd64
 icoutils/oldstable 0.31.2-1.1 amd64
-icu-devtools/oldstable 57.1-6+deb9u3 amd64
-icu-devtools-dbg/oldstable 57.1-6+deb9u3 amd64
-icu-doc/oldstable 57.1-6+deb9u3 all
+icu-devtools/oldstable 57.1-6+deb9u4 amd64
+icu-devtools-dbg/oldstable 57.1-6+deb9u4 amd64
+icu-doc/oldstable 57.1-6+deb9u4 all
 iczech/oldstable 20040229-5.2 amd64
 id-utils/oldstable 4.6+git20120811-4+b1 amd64
 id3/oldstable 1.0.0-1 amd64
@@ -13417,9 +13417,9 @@ libblocksruntime0/oldstable 0.4.1-1.1 amd64
 libbloom-filter-perl/oldstable 1.2-2 all
 libblosc-dev/oldstable 1.11.1+ds2-1 amd64
 libblosc1/oldstable 1.11.1+ds2-1 amd64
-libbluetooth-dev/oldstable,oldstable 5.43-2+deb9u1 amd64
-libbluetooth3/oldstable,oldstable 5.43-2+deb9u1 amd64
-libbluetooth3-dbg/oldstable,oldstable 5.43-2+deb9u1 amd64
+libbluetooth-dev/oldstable 5.43-2+deb9u2 amd64
+libbluetooth3/oldstable 5.43-2+deb9u2 amd64
+libbluetooth3-dbg/oldstable 5.43-2+deb9u2 amd64
 libbluray-bdj/oldstable 1:0.9.3-3 all
 libbluray-bin/oldstable 1:0.9.3-3 amd64
 libbluray-dev/oldstable 1:0.9.3-3 amd64
@@ -21244,14 +21244,14 @@ libicsharpcode-nrefactory-csharp5.0-cil/oldstable 5.3.0+20130718.73b6d0f-4 all
 libicsharpcode-nrefactory-ikvm5.0-cil/oldstable 5.3.0+20130718.73b6d0f-4 all
 libicsharpcode-nrefactory-xml5.0-cil/oldstable 5.3.0+20130718.73b6d0f-4 all
 libicsharpcode-nrefactory5.0-cil/oldstable 5.3.0+20130718.73b6d0f-4 all
-libicu-dev/oldstable 57.1-6+deb9u3 amd64
+libicu-dev/oldstable 57.1-6+deb9u4 amd64
 libicu4j-4.2-java/oldstable 4.2.1.1-5 all
 libicu4j-4.4-java/oldstable 4.4.2.2-2 all
 libicu4j-49-java/oldstable 49.1-2 all
 libicu4j-java/oldstable 57.1-2 all
 libicu4j-java-doc/oldstable 57.1-2 all
-libicu57/oldstable,now 57.1-6+deb9u3 amd64 [installed,automatic]
-libicu57-dbg/oldstable 57.1-6+deb9u3 amd64
+libicu57/oldstable 57.1-6+deb9u4 amd64 [upgradable from: 57.1-6+deb9u3]
+libicu57-dbg/oldstable 57.1-6+deb9u4 amd64
 libid3-3.8.3-dev/oldstable 3.8.3-16.2+b1 amd64
 libid3-3.8.3v5/oldstable 3.8.3-16.2+b1 amd64
 libid3-doc/oldstable 3.8.3-16.2 all
