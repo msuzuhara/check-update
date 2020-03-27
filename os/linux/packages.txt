@@ -1616,15 +1616,15 @@ bluefish/stable 2.2.10-1 amd64
 blueman/stable 2.0.8-1 amd64
 bluemon/stable 1.4-7 amd64
 blueproximity/stable 1.2.5-6 all
-bluetooth/stable 5.50-1 all
+bluetooth/stable 5.50-1.2~deb10u1 all
 bluewho/stable 0.1-2 all
-bluez-cups/stable 5.50-1 amd64
-bluez-hcidump/stable 5.50-1 amd64
-bluez-obexd/stable 5.50-1 amd64
-bluez-test-scripts/stable 5.50-1 all
-bluez-test-tools/stable 5.50-1 amd64
+bluez-cups/stable 5.50-1.2~deb10u1 amd64
+bluez-hcidump/stable 5.50-1.2~deb10u1 amd64
+bluez-obexd/stable 5.50-1.2~deb10u1 amd64
+bluez-test-scripts/stable 5.50-1.2~deb10u1 all
+bluez-test-tools/stable 5.50-1.2~deb10u1 amd64
 bluez-tools/stable 2.0~20170911.0.7cb788c-2 amd64
-bluez/stable 5.50-1 amd64
+bluez/stable 5.50-1.2~deb10u1 amd64
 bmagic/stable 3.7.0-3 all
 bmake/stable 20160220-2+b1 amd64
 bmap-tools/stable 3.5-2 all
@@ -11574,8 +11574,8 @@ icon-slicer/stable 0.3-8 amd64
 icont/stable 9.4.3-7 amd64
 iconx/stable 9.4.3-7 amd64
 icoutils/stable 0.32.3-2.1 amd64
-icu-devtools/stable 63.1-6 amd64
-icu-doc/stable 63.1-6 all
+icu-devtools/stable 63.1-6+deb10u1 amd64
+icu-doc/stable 63.1-6+deb10u1 all
 iczech/stable 20040229-5.2 amd64
 id3/stable 1.1.0-3 amd64
 id3ren/stable 1.1b0-7+b1 amd64
@@ -14704,8 +14704,8 @@ libbloom-filter-perl/stable 1.2-2 all
 libbloom1/stable 1.5-5 amd64
 libblosc-dev/stable 1.15.1+ds1-1 amd64
 libblosc1/stable 1.15.1+ds1-1 amd64
-libbluetooth-dev/stable 5.50-1 amd64
-libbluetooth3/stable 5.50-1 amd64
+libbluetooth-dev/stable 5.50-1.2~deb10u1 amd64
+libbluetooth3/stable 5.50-1.2~deb10u1 amd64
 libbluray-bdj/stable 1:1.1.0-1 all
 libbluray-bin/stable 1:1.1.0-1 amd64
 libbluray-dev/stable 1:1.1.0-1 amd64
@@ -23241,13 +23241,13 @@ libicsharpcode-nrefactory-csharp5.0-cil/stable 5.3.0+20130718.73b6d0f-4 all
 libicsharpcode-nrefactory-ikvm5.0-cil/stable 5.3.0+20130718.73b6d0f-4 all
 libicsharpcode-nrefactory-xml5.0-cil/stable 5.3.0+20130718.73b6d0f-4 all
 libicsharpcode-nrefactory5.0-cil/stable 5.3.0+20130718.73b6d0f-4 all
-libicu-dev/stable 63.1-6 amd64
+libicu-dev/stable 63.1-6+deb10u1 amd64
 libicu-le-hb-dev/stable 1.0.3+git180724-3 amd64
 libicu-le-hb0/stable 1.0.3+git180724-3 amd64
 libicu4j-4.4-java/stable 4.4.2.2-3 all
 libicu4j-java-doc/stable 62.1-2 all
 libicu4j-java/stable 62.1-2 all
-libicu63/stable,now 63.1-6 amd64 [installed,automatic]
+libicu63/stable 63.1-6+deb10u1 amd64 [upgradable from: 63.1-6]
 libid3-3.8.3-dev/stable 3.8.3-16.2+b1 amd64
 libid3-3.8.3v5/stable 3.8.3-16.2+b1 amd64
 libid3-doc/stable 3.8.3-16.2 all
