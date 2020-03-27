@@ -821,9 +821,9 @@ centos-release-gluster40.x86_64           1.0-2.el7.centos               extras
 centos-release-gluster41.noarch           1.0-3.el7.centos               extras 
 centos-release-gluster5.noarch            1.0-1.el7.centos               extras 
 centos-release-gluster6.noarch            1.0-1.el7.centos               extras 
-centos-release-gluster7.noarch            1.0-1.el7.centos               extras 
-centos-release-nfs-ganesha28.noarch       1.0-2.el7.centos               extras 
-centos-release-nfs-ganesha30.noarch       1.0-1.el7.centos               extras 
+centos-release-gluster7.noarch            1.0-2.el7.centos               extras 
+centos-release-nfs-ganesha28.noarch       1.0-3.el7.centos               extras 
+centos-release-nfs-ganesha30.noarch       1.0-2.el7.centos               extras 
 centos-release-nfv-common.noarch          1-5.el7.centos                 extras 
 centos-release-openshift-origin.noarch    1-1.el7.centos                 extras 
 centos-release-openshift-origin13.noarch  1-1.el7.centos                 extras 
