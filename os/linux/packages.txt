@@ -23247,7 +23247,7 @@ libicu-le-hb0/stable 1.0.3+git180724-3 amd64
 libicu4j-4.4-java/stable 4.4.2.2-3 all
 libicu4j-java-doc/stable 62.1-2 all
 libicu4j-java/stable 62.1-2 all
-libicu63/stable 63.1-6+deb10u1 amd64 [upgradable from: 63.1-6]
+libicu63/stable,now 63.1-6+deb10u1 amd64 [installed,automatic]
 libid3-3.8.3-dev/stable 3.8.3-16.2+b1 amd64
 libid3-3.8.3v5/stable 3.8.3-16.2+b1 amd64
 libid3-doc/stable 3.8.3-16.2 all
