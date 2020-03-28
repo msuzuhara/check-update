@@ -181,9 +181,7 @@ atlas-devel.i686                                     3.10.3-7.el8               
 atlas-devel.x86_64                                   3.10.3-7.el8                                     BaseOS   
 audispd-plugins.x86_64                               3.0-0.13.20190507gitf58ec40.el8                  BaseOS   
 audispd-plugins-zos.x86_64                           3.0-0.13.20190507gitf58ec40.el8                  BaseOS   
-audit.x86_64                                         3.0-0.13.20190507gitf58ec40.el8                  BaseOS   
 audit-libs.i686                                      3.0-0.13.20190507gitf58ec40.el8                  BaseOS   
-audit-libs.x86_64                                    3.0-0.13.20190507gitf58ec40.el8                  BaseOS   
 audit-libs-devel.i686                                3.0-0.13.20190507gitf58ec40.el8                  BaseOS   
 audit-libs-devel.x86_64                              3.0-0.13.20190507gitf58ec40.el8                  BaseOS   
 augeas.x86_64                                        1.12.0-2.el8                                     BaseOS   
@@ -2648,7 +2646,6 @@ libical.x86_64                                       3.0.3-3.el8                
 libical-devel.i686                                   3.0.3-3.el8                                      AppStream
 libical-devel.x86_64                                 3.0.3-3.el8                                      AppStream
 libicu.i686                                          60.3-2.el8_1                                     BaseOS   
-libicu.x86_64                                        60.3-2.el8_1                                     BaseOS   
 libicu-devel.i686                                    60.3-2.el8_1                                     BaseOS   
 libicu-devel.x86_64                                  60.3-2.el8_1                                     BaseOS   
 libicu-doc.noarch                                    60.3-2.el8_1                                     BaseOS   
@@ -4471,7 +4468,6 @@ python3-abrt-doc.noarch                              2.10.9-11.el8              
 python3-argcomplete.noarch                           1.9.3-6.el8                                      AppStream
 python3-argh.noarch                                  0.26.1-8.el8                                     AppStream
 python3-attrs.noarch                                 17.4.0-6.el8                                     AppStream
-python3-audit.x86_64                                 3.0-0.13.20190507gitf58ec40.el8                  BaseOS   
 python3-augeas.noarch                                0.5.0-12.el8                                     AppStream
 python3-avahi.x86_64                                 0.7-19.el8                                       BaseOS   
 python3-babel.noarch                                 2.5.1-5.el8                                      AppStream
@@ -5170,7 +5166,6 @@ subversion-javahl.noarch                             1.10.2-1.module_el8.0.0+45+
 subversion-libs.x86_64                               1.10.2-1.module_el8.0.0+45+75bba4f4              AppStream
 subversion-perl.x86_64                               1.10.2-1.module_el8.0.0+45+75bba4f4              AppStream
 subversion-tools.x86_64                              1.10.2-1.module_el8.0.0+45+75bba4f4              AppStream
-sudo.x86_64                                          1.8.25p1-8.el8_1.1                               BaseOS   
 suitesparse.i686                                     4.4.6-11.el8                                     AppStream
 suitesparse.x86_64                                   4.4.6-11.el8                                     AppStream
 supermin.x86_64                                      5.1.19-9.module_el8.1.0+248+298dec18             AppStream
