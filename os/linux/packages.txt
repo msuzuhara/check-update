@@ -484,9 +484,9 @@ centos-logos-ipa.noarch                              80.5-2.el8                 
 centos-obsolete-packages.noarch                      8-2                                               BaseOS          
 centos-release.i686                                  8.1-1.1911.0.7.el8                                Stream-BaseOS   
 centos-release-gluster6.noarch                       1.0-1.el8                                         extras          
-centos-release-gluster7.noarch                       1.0-2.el8                                         Stream-extras   
-centos-release-nfs-ganesha28.noarch                  1.0-3.el8                                         Stream-extras   
-centos-release-nfs-ganesha30.noarch                  1.0-2.el8                                         Stream-extras   
+centos-release-gluster7.noarch                       1.0-2.el8                                         extras          
+centos-release-nfs-ganesha28.noarch                  1.0-3.el8                                         extras          
+centos-release-nfs-ganesha30.noarch                  1.0-2.el8                                         extras          
 centos-release-storage-common.noarch                 2-2.el8                                           extras          
 centos-release-stream.i686                           8.1-1.1911.0.7.el8                                Stream-BaseOS   
 centos-repos.i686                                    8.1-1.1911.0.7.el8                                Stream-BaseOS   
