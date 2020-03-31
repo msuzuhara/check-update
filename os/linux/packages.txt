@@ -437,6 +437,7 @@ centos-release-gluster6.noarch                       1.0-1.el8                  
 centos-release-gluster7.noarch                       1.0-2.el8                                        extras   
 centos-release-nfs-ganesha28.noarch                  1.0-3.el8                                        extras   
 centos-release-nfs-ganesha30.noarch                  1.0-2.el8                                        extras   
+centos-release-opstools.noarch                       1-9.el8                                          extras   
 centos-release-storage-common.noarch                 2-2.el8                                          extras   
 centos-release-stream.x86_64                         8.1-1.1911.0.7.el8                               extras   
 certmonger.x86_64                                    0.79.7-3.el8                                     AppStream
@@ -740,7 +741,7 @@ evolution-mapi.x86_64                                3.28.3-2.el8               
 evolution-mapi-langpacks.noarch                      3.28.3-2.el8                                     AppStream
 evolution-pst.x86_64                                 3.28.5-9.el8                                     AppStream
 evolution-spamassassin.x86_64                        3.28.5-9.el8                                     AppStream
-exchange-bmc-os-info.noarch                          1.8.18-10.el8                                    AppStream
+exchange-bmc-os-info.noarch                          1.8.18-12.el8_1                                  AppStream
 exempi.i686                                          2.4.5-2.el8                                      AppStream
 exempi.x86_64                                        2.4.5-2.el8                                      AppStream
 exiv2.x86_64                                         0.26-10.el8                                      AppStream
@@ -1983,8 +1984,8 @@ ipa-server-dns.noarch                                4.8.0-11.module_el8.1.0+253
 ipa-server-trust-ad.x86_64                           4.8.0-11.module_el8.1.0+253+3b90c921             AppStream
 iperf3.i686                                          3.5-3.el8                                        AppStream
 iperf3.x86_64                                        3.5-3.el8                                        AppStream
-ipmievd.x86_64                                       1.8.18-10.el8                                    AppStream
-ipmitool.x86_64                                      1.8.18-10.el8                                    AppStream
+ipmievd.x86_64                                       1.8.18-12.el8_1                                  AppStream
+ipmitool.x86_64                                      1.8.18-12.el8_1                                  AppStream
 iproute-tc.x86_64                                    4.18.0-15.el8                                    BaseOS   
 ipset-libs.i686                                      7.1-1.el8                                        BaseOS   
 ipset-service.noarch                                 7.1-1.el8                                        BaseOS   
