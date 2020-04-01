@@ -659,7 +659,6 @@ cups-libs.x86_64                                     1:2.2.6-28.el8             
 cups-lpd.x86_64                                      1:2.2.6-28.el8                                    AppStream       
 cups-pk-helper.x86_64                                0.2.6-5.el8                                       AppStream       
 curl.i686                                            7.61.1-11.el8                                     Stream-BaseOS   
-curl.x86_64                                          7.61.1-12.el8                                     Stream-BaseOS   
 curl-minimal.i686                                    7.61.1-11.el8                                     Stream-BaseOS   
 curl-minimal.x86_64                                  7.61.1-11.el8                                     Stream-BaseOS   
 custodia.noarch                                      0.6.0-3.module_el8.1.0+253+3b90c921               AppStream       
@@ -2890,7 +2889,6 @@ libconfig.i686                                       1.5-9.el8                  
 libconfig.x86_64                                     1.5-9.el8                                         BaseOS          
 libcroco.i686                                        0.6.12-4.el8                                      BaseOS          
 libcurl.i686                                         7.61.1-12.el8                                     Stream-BaseOS   
-libcurl.x86_64                                       7.61.1-12.el8                                     Stream-BaseOS   
 libcurl-devel.i686                                   7.61.1-12.el8                                     Stream-BaseOS   
 libcurl-devel.x86_64                                 7.61.1-12.el8                                     Stream-BaseOS   
 libcurl-minimal.i686                                 7.61.1-12.el8                                     Stream-BaseOS   
@@ -2920,7 +2918,6 @@ libdmx.x86_64                                        1.1.4-3.el8                
 libdnet.i686                                         1.12-26.el8                                       AppStream       
 libdnf.i686                                          0.39.1-2.el8                                      Stream-BaseOS   
 libdrm.i686                                          2.4.100-1.el8                                     Stream-AppStream
-libdrm.x86_64                                        2.4.100-1.el8                                     Stream-AppStream
 libdrm-devel.i686                                    2.4.100-1.el8                                     Stream-AppStream
 libdrm-devel.x86_64                                  2.4.100-1.el8                                     Stream-AppStream
 libdv.i686                                           1.0.0-27.el8                                      AppStream       
