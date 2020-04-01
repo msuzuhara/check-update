@@ -808,6 +808,9 @@ celt051-devel.x86_64                      0.5.1.3-8.el7                  base
 centos-bookmarks.noarch                   7-1.el7                        base   
 centos-indexhtml.noarch                   7-9.el7.centos                 base   
 centos-packager.noarch                    0.5.5-2.el7.centos             extras 
+centos-release-ansible-27.noarch          1-1.el7                        extras 
+centos-release-ansible-28.noarch          1-1.el7                        extras 
+centos-release-ansible-29.noarch          1-1.el7                        extras 
 centos-release-ansible26.noarch           1-3.el7.centos                 extras 
 centos-release-azure.noarch               1.0-2.el7                      extras 
 centos-release-ceph-jewel.noarch          1.0-1.el7.centos               extras 
