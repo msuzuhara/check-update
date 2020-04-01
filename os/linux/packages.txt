@@ -26205,8 +26205,8 @@ libpam-fprintd/oldstable 0.7.0-1 amd64
 libpam-geoip/oldstable 1.1-3 amd64
 libpam-gnome-keyring/oldstable 3.20.0-3 amd64
 libpam-google-authenticator/oldstable 20160607-2+b1 amd64
-libpam-heimdal/oldstable 4.7-4 amd64
-libpam-krb5/oldstable 4.7-4 amd64
+libpam-heimdal/oldstable 4.7-4+deb9u1 amd64
+libpam-krb5/oldstable 4.7-4+deb9u1 amd64
 libpam-krb5-migrate-mit/oldstable 0.0.11-4+b1 amd64
 libpam-kwallet-common/oldstable,oldstable 5.8.4-1+deb9u2 all
 libpam-kwallet4/oldstable,oldstable 5.8.4-1+deb9u2 amd64
