@@ -7970,7 +7970,7 @@ gcc-8-arm-linux-gnueabi/bionic-updates,bionic-security 8.4.0-1ubuntu1~18.04cross
 gcc-8-arm-linux-gnueabi-base/bionic-updates,bionic-security 8.4.0-1ubuntu1~18.04cross2 amd64
 gcc-8-arm-linux-gnueabihf/bionic-updates,bionic-security 8.4.0-1ubuntu1~18.04cross2 amd64
 gcc-8-arm-linux-gnueabihf-base/bionic-updates,bionic-security 8.4.0-1ubuntu1~18.04cross2 amd64
-gcc-8-base/bionic-updates,bionic-security 8.4.0-1ubuntu1~18.04 amd64 [upgradable from: 8.3.0-26ubuntu1~18.04]
+gcc-8-base/bionic-updates,bionic-security,now 8.4.0-1ubuntu1~18.04 amd64 [installed,automatic]
 gcc-8-cross-base/bionic-updates,bionic-security 8.4.0-1ubuntu1~18.04cross2 all
 gcc-8-cross-base-ports/bionic-updates,bionic-security 8.4.0-1ubuntu1~18.04cross1 all
 gcc-8-doc/bionic-updates,bionic-security 8.4.0-1ubuntu1~18.04 all
@@ -21214,7 +21214,7 @@ libgcc-8-dev-s390x-cross/bionic-updates,bionic-security 8.4.0-1ubuntu1~18.04cros
 libgcc-8-dev-sh4-cross/bionic-updates,bionic-security 8.4.0-1ubuntu1~18.04cross1 all
 libgcc-8-dev-sparc64-cross/bionic-updates,bionic-security 8.4.0-1ubuntu1~18.04cross1 all
 libgcc-8-dev-x32-cross/bionic-updates,bionic-security 8.4.0-1ubuntu1~18.04cross1 all
-libgcc1/bionic-updates,bionic-security 1:8.4.0-1ubuntu1~18.04 amd64 [upgradable from: 1:8.3.0-26ubuntu1~18.04]
+libgcc1/bionic-updates,bionic-security,now 1:8.4.0-1ubuntu1~18.04 amd64 [installed,automatic]
 libgcc1-alpha-cross/bionic-updates,bionic-security 1:8.4.0-1ubuntu1~18.04cross1 all
 libgcc1-amd64-cross/bionic-updates,bionic-security 1:8.4.0-1ubuntu1~18.04cross2 all
 libgcc1-arm64-cross/bionic-updates,bionic-security 1:8.4.0-1ubuntu1~18.04cross2 all
@@ -32124,8 +32124,8 @@ libpam-fscrypt/bionic-updates,bionic-security 0.2.2-0ubuntu2.1 amd64
 libpam-geoip/bionic 1.1-4 amd64
 libpam-gnome-keyring/bionic-updates 3.28.0.2-1ubuntu1.18.04.1 amd64
 libpam-google-authenticator/bionic 20170702-1 amd64
-libpam-heimdal/bionic 4.8-1 amd64
-libpam-krb5/bionic 4.8-1 amd64
+libpam-heimdal/bionic-updates,bionic-security 4.8-1ubuntu0.1 amd64
+libpam-krb5/bionic-updates,bionic-security 4.8-1ubuntu0.1 amd64
 libpam-krb5-migrate-heimdal/bionic 0.0.11-5 amd64
 libpam-krb5-migrate-mit/bionic 0.0.11-5 amd64
 libpam-kwallet-common/bionic-updates 4:5.12.8-0ubuntu0.1 all
@@ -35557,7 +35557,7 @@ libstdc++-8-pic-sparc64-cross/bionic-updates,bionic-security 8.4.0-1ubuntu1~18.0
 libstdc++-8-pic-x32-cross/bionic-updates,bionic-security 8.4.0-1ubuntu1~18.04cross1 all
 libstdc++-arm-none-eabi-newlib/bionic 15:6.3.1+svn253039-1+10 all
 libstdc++5/bionic 1:3.3.6-30 amd64
-libstdc++6/bionic-updates,bionic-security 8.4.0-1ubuntu1~18.04 amd64 [upgradable from: 8.3.0-26ubuntu1~18.04]
+libstdc++6/bionic-updates,bionic-security,now 8.4.0-1ubuntu1~18.04 amd64 [installed,automatic]
 libstdc++6-4.8-dbg/bionic 4.8.5-4ubuntu8 amd64
 libstdc++6-5-dbg/bionic 5.5.0-12ubuntu1 amd64
 libstdc++6-5-dbg-alpha-cross/bionic 5.5.0-12ubuntu1cross1 all
@@ -39918,7 +39918,7 @@ linux-cloud-tools-virtual-hwe-18.04/bionic-updates,bionic-security 5.3.0.45.101 
 linux-cloud-tools-virtual-hwe-18.04-edge/bionic-updates,bionic-security 5.3.0.45.101 amd64
 linux-crashdump/bionic-updates,bionic-security 4.15.0.91.83 amd64
 linux-doc/bionic-updates,bionic-security 4.15.0-91.92 all
-linux-firmware/bionic-updates 1.173.16 all [upgradable from: 1.173.14]
+linux-firmware/bionic-updates 1.173.17 all [upgradable from: 1.173.14]
 linux-gcp/bionic-updates,bionic-security 5.0.0.1033.37 amd64
 linux-gcp-5.3-headers-5.3.0-1008/bionic-updates,bionic-security 5.3.0-1008.9~18.04.1 amd64
 linux-gcp-5.3-headers-5.3.0-1009/bionic-updates,bionic-security 5.3.0-1009.10~18.04.1 amd64
@@ -53734,10 +53734,10 @@ python-simpy-gui/bionic 2.3.1+dfsg-1 all
 python-simpy3/bionic 3.0.10-2 all
 python-simpy3-doc/bionic 3.0.10-2 all
 python-singledispatch/bionic 3.4.0.3-2 all
-python-sip/bionic 4.19.7+dfsg-1 amd64
-python-sip-dbg/bionic 4.19.7+dfsg-1 amd64
-python-sip-dev/bionic 4.19.7+dfsg-1 amd64
-python-sip-doc/bionic 4.19.7+dfsg-1 all
+python-sip/bionic-updates 4.19.7+dfsg-1ubuntu0.1 amd64
+python-sip-dbg/bionic-updates 4.19.7+dfsg-1ubuntu0.1 amd64
+python-sip-dev/bionic-updates 4.19.7+dfsg-1ubuntu0.1 amd64
+python-sip-doc/bionic-updates 4.19.7+dfsg-1ubuntu0.1 all
 python-sireader/bionic 1.1.1-1 all
 python-six/bionic 1.11.0-2 all
 python-six-doc/bionic 1.11.0-2 all
@@ -56426,9 +56426,9 @@ python3-simplestreams/bionic-updates 0.1.0~bzr460-0ubuntu1.1 all
 python3-simpy/bionic 2.3.1+dfsg-1 all
 python3-simpy3/bionic 3.0.10-2 all
 python3-singledispatch/bionic 3.4.0.3-2 all
-python3-sip/bionic 4.19.7+dfsg-1 amd64
-python3-sip-dbg/bionic 4.19.7+dfsg-1 amd64
-python3-sip-dev/bionic 4.19.7+dfsg-1 amd64
+python3-sip/bionic-updates 4.19.7+dfsg-1ubuntu0.1 amd64
+python3-sip-dbg/bionic-updates 4.19.7+dfsg-1ubuntu0.1 amd64
+python3-sip-dev/bionic-updates 4.19.7+dfsg-1ubuntu0.1 amd64
 python3-sireader/bionic 1.1.1-1 all
 python3-siridb-connector/bionic 2.0.5-1 all
 python3-six/bionic,now 1.11.0-2 all [installed,automatic]
@@ -60400,7 +60400,7 @@ singularity/bionic 0.30c-1 all
 singularity-container/bionic 2.4.2-4 amd64
 singularity-music/bionic 007-1 all
 sinntp/bionic 1.5-1.1 all
-sip-dev/bionic 4.19.7+dfsg-1 amd64
+sip-dev/bionic-updates 4.19.7+dfsg-1ubuntu0.1 amd64
 sip-tester/bionic 1:3.5.1-2build1 amd64
 sipcalc/bionic 1.1.6-1 amd64
 sipcrack/bionic 0.2-2build2 amd64
