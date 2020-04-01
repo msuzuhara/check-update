@@ -28439,10 +28439,10 @@ libpam-fscrypt/stable 0.2.4-2+b10 amd64
 libpam-geoip/stable 1.1-4 amd64
 libpam-gnome-keyring/stable 3.28.2-5 amd64
 libpam-google-authenticator/stable 20170702-2 amd64
-libpam-heimdal/stable 4.8-2 amd64
+libpam-heimdal/stable 4.8-2+deb10u1 amd64
 libpam-krb5-migrate-heimdal/stable 0.0.11-5 amd64
 libpam-krb5-migrate-mit/stable 0.0.11-5 amd64
-libpam-krb5/stable 4.8-2 amd64
+libpam-krb5/stable 4.8-2+deb10u1 amd64
 libpam-kwallet-common/stable 5.14.5-1 all
 libpam-kwallet4/stable 5.14.5-1 amd64
 libpam-kwallet5/stable 5.14.5-1 amd64
