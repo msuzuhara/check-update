@@ -10870,9 +10870,9 @@ hannah-data/stable 1.0-3 all
 hannah/stable 1.0-3+b1 amd64
 hapolicy/stable 1.35-5 all
 happy/stable 1.19.9-6 amd64
-haproxy-doc/stable,stable 1.8.19-1+deb10u1 all
+haproxy-doc/stable 1.8.19-1+deb10u2 all
 haproxy-log-analysis/stable 2.0~b0-1 all
-haproxy/stable,stable 1.8.19-1+deb10u1 amd64
+haproxy/stable 1.8.19-1+deb10u2 amd64
 haproxyctl/stable 1.3.0-3 all
 harden-doc/stable 3.19 all
 hardening-runtime/stable 1 all
@@ -36727,10 +36727,10 @@ mediaconch/stable 18.03.2-1 amd64
 mediainfo-gui/stable 18.12-2 amd64
 mediainfo/stable 18.12-2 amd64
 mediathekview/stable 13.2.1-3 all
-mediawiki-classes/stable,stable 1:1.31.6-1~deb10u1 all
+mediawiki-classes/stable 1:1.31.7-1~deb10u1 all
 mediawiki2latex/stable 7.33-1 amd64
 mediawiki2latexguipyqt/stable 1.5-1 all
-mediawiki/stable,stable 1:1.31.6-1~deb10u1 all
+mediawiki/stable 1:1.31.7-1~deb10u1 all
 medit/stable 1.2.0-3 amd64
 mednafen/stable 1.22.1+dfsg-2~deb10u1 amd64
 mednaffe/stable 0.8.8-1 amd64
@@ -48678,9 +48678,9 @@ qasconfig/stable 0.21.0-1.1 amd64
 qashctl/stable 0.21.0-1.1 amd64
 qasmixer/stable 0.21.0-1.1 amd64
 qastools-common/stable 0.21.0-1.1 all
-qbittorrent-dbg/stable 4.1.5-1 amd64
-qbittorrent-nox/stable 4.1.5-1 amd64
-qbittorrent/stable 4.1.5-1 amd64
+qbittorrent-dbg/stable 4.1.5-1+deb10u1 amd64
+qbittorrent-nox/stable 4.1.5-1+deb10u1 amd64
+qbittorrent/stable 4.1.5-1+deb10u1 amd64
 qbrew/stable 0.4.1-8 amd64
 qbs-common/stable 1.12.2+dfsg-2 all
 qbs-dev/stable 1.12.2+dfsg-2 amd64
@@ -55207,7 +55207,7 @@ vim-fugitive/stable 2.4-1 all
 vim-gtk3/stable 2:8.1.0875-5 amd64
 vim-gtk/stable 2:8.1.0875-5 amd64
 vim-gui-common/stable 2:8.1.0875-5 all
-vim-haproxy/stable,stable 1.8.19-1+deb10u1 all
+vim-haproxy/stable 1.8.19-1+deb10u2 all
 vim-icinga2/stable 2.10.3-2 all
 vim-julia/stable 0.0~git20190129.84104d0-1 all
 vim-khuno/stable 1.0.3-1 all
