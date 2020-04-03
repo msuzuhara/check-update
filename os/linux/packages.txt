@@ -43250,9 +43250,9 @@ qasconfig/oldstable 0.21.0-1 amd64
 qashctl/oldstable 0.21.0-1 amd64
 qasmixer/oldstable 0.21.0-1 amd64
 qastools-common/oldstable 0.21.0-1 all
-qbittorrent/oldstable 3.3.7-3 amd64
-qbittorrent-dbg/oldstable 3.3.7-3 amd64
-qbittorrent-nox/oldstable 3.3.7-3 amd64
+qbittorrent/oldstable 3.3.7-3+deb9u1 amd64
+qbittorrent-dbg/oldstable 3.3.7-3+deb9u1 amd64
+qbittorrent-nox/oldstable 3.3.7-3+deb9u1 amd64
 qbrew/oldstable 0.4.1-7 amd64
 qbs/oldstable 1.7.0+dfsg-4 amd64
 qbs-common/oldstable 1.7.0+dfsg-4 all
