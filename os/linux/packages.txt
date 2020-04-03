@@ -673,13 +673,13 @@ appmenu-gtk-module-common/bionic 0.6.94-1 all
 appmenu-gtk2-module/bionic 0.6.94-1 amd64
 appmenu-gtk3-module/bionic 0.6.94-1 amd64
 appmenu-qt/bionic 0.2.7+14.04.20140305-0ubuntu2 amd64
-apport/bionic-security 2.20.9-0ubuntu7.14 all [upgradable from: 2.20.9-0ubuntu7.12]
-apport-gtk/bionic-security 2.20.9-0ubuntu7.14 all
-apport-kde/bionic-security 2.20.9-0ubuntu7.14 all
-apport-noui/bionic-security 2.20.9-0ubuntu7.14 all
-apport-retrace/bionic-security 2.20.9-0ubuntu7.14 all
+apport/bionic-updates,bionic-security,now 2.20.9-0ubuntu7.14 all [installed,automatic]
+apport-gtk/bionic-updates,bionic-security 2.20.9-0ubuntu7.14 all
+apport-kde/bionic-updates,bionic-security 2.20.9-0ubuntu7.14 all
+apport-noui/bionic-updates,bionic-security 2.20.9-0ubuntu7.14 all
+apport-retrace/bionic-updates,bionic-security 2.20.9-0ubuntu7.14 all
 apport-symptoms/bionic,now 0.20 all [installed,automatic]
-apport-valgrind/bionic-security 2.20.9-0ubuntu7.14 all
+apport-valgrind/bionic-updates,bionic-security 2.20.9-0ubuntu7.14 all
 apprecommender/bionic 0.7.5-2 all
 approx/bionic 5.10-1 amd64
 appstream/bionic-updates 0.12.0-3ubuntu1 amd64
@@ -3264,7 +3264,7 @@ console-setup-linux/bionic-updates,now 1.178ubuntu2.9 all [installed,automatic]
 console-setup-mini/bionic-updates 1.178ubuntu2.9 all
 conspy/bionic 1.14-1build1 amd64
 consul/bionic 0.6.4~dfsg-3 amd64
-containerd/bionic-updates 1.3.3-0ubuntu1~18.04.1 amd64
+containerd/bionic-updates 1.3.3-0ubuntu1~18.04.2 amd64
 context/bionic 2017.05.15.20170613-2 all
 context-doc-nonfree/bionic 2012.06.27-4 all
 context-modules/bionic 20170613-2 all
@@ -4182,7 +4182,7 @@ dgit-infrastructure/bionic 4.3 all
 dh-acc/bionic 2.2-2ubuntu1 all
 dh-ada-library/bionic 6.12 amd64
 dh-apparmor/bionic-updates,bionic-security 2.12-4ubuntu5.1 all
-dh-apport/bionic-security 2.20.9-0ubuntu7.14 all
+dh-apport/bionic-updates,bionic-security 2.20.9-0ubuntu7.14 all
 dh-autoreconf/bionic 17 all
 dh-buildinfo/bionic 0.11+nmu2 all
 dh-cargo/bionic 2 all
@@ -10672,7 +10672,7 @@ golang-github-dhowett-go-plist-dev/bionic 0.0~git20160708.0.fec78c8-1 all
 golang-github-digitalocean-godo-dev/bionic 1.1.0-1 all
 golang-github-disintegration-imaging-dev/bionic 1.4.1-1 all
 golang-github-dlclark-regexp2-dev/bionic 1.1.6-1 all
-golang-github-docker-containerd-dev/bionic-updates 1.3.3-0ubuntu1~18.04.1 all
+golang-github-docker-containerd-dev/bionic-updates 1.3.3-0ubuntu1~18.04.2 all
 golang-github-docker-distribution-dev/bionic 2.6.2~ds1-1 all
 golang-github-docker-docker-credential-helpers-dev/bionic 0.5.0-2 all
 golang-github-docker-docker-dev/bionic-updates 19.03.6-0ubuntu1~18.04.1 all
@@ -21297,7 +21297,7 @@ libgctp-dev/bionic 2.0-4 amd64
 libgctp0d/bionic 2.0-4 amd64
 libgcu0v5/bionic 0.14.17-1ubuntu1 amd64
 libgd-barcode-perl/bionic 1.15-7 all
-libgd-dev/bionic-updates,bionic-security 2.2.5-4ubuntu0.3 amd64
+libgd-dev/bionic-updates,bionic-security 2.2.5-4ubuntu0.4 amd64
 libgd-gd2-noxpm-ocaml/bionic 1.0~alpha5-8build4 all
 libgd-gd2-noxpm-ocaml-dev/bionic 1.0~alpha5-8build4 all
 libgd-graph-perl/bionic 1.48-2 all
@@ -21308,8 +21308,8 @@ libgd-perl/bionic 2.66-1build1 amd64
 libgd-securityimage-perl/bionic 1.73-2 all
 libgd-svg-perl/bionic 0.33-2 all
 libgd-text-perl/bionic 0.86-9 all
-libgd-tools/bionic-updates,bionic-security 2.2.5-4ubuntu0.3 amd64
-libgd3/bionic-updates,bionic-security 2.2.5-4ubuntu0.3 amd64
+libgd-tools/bionic-updates,bionic-security 2.2.5-4ubuntu0.4 amd64
+libgd3/bionic-updates,bionic-security 2.2.5-4ubuntu0.4 amd64
 libgda-5.0-4/bionic-updates 5.2.4-9ubuntu0.1 amd64
 libgda-5.0-bin/bionic-updates 5.2.4-9ubuntu0.1 amd64
 libgda-5.0-common/bionic-updates 5.2.4-9ubuntu0.1 all
@@ -50742,7 +50742,7 @@ python-appdirs/bionic 1.4.3-1 all
 python-appindicator/bionic 12.10.1+18.04.20180322.1-0ubuntu1 amd64
 python-application/bionic 1.4.1-1 all
 python-applicationinsights/bionic 0.11.0-1 all
-python-apport/bionic-security 2.20.9-0ubuntu7.14 all
+python-apport/bionic-updates,bionic-security 2.20.9-0ubuntu7.14 all
 python-apptools/bionic 4.3.0-1 all
 python-apscheduler/bionic 3.4.0-2ubuntu1 all
 python-apsw/bionic 3.16.2-r1-2build2 amd64
@@ -52987,7 +52987,7 @@ python-presage-dbg/bionic 0.9.1-2.1ubuntu4 amd64
 python-pretend/bionic 1.0.8-2 all
 python-pretty-yaml/bionic 17.12.1-1 all
 python-prettytable/bionic 0.7.2-3 all
-python-problem-report/bionic-security 2.20.9-0ubuntu7.14 all
+python-problem-report/bionic-updates,bionic-security 2.20.9-0ubuntu7.14 all
 python-proboscis/bionic 1.2.6.0-4 all
 python-profitbricks/bionic 4.1.1-1 all
 python-progress/bionic 1.2-1 all
@@ -54558,7 +54558,7 @@ python3-aplpy/bionic 1.1.1-1 all
 python3-apparmor/bionic-updates,bionic-security 2.12-4ubuntu5.1 amd64
 python3-appdirs/bionic 1.4.3-1 all
 python3-applicationinsights/bionic 0.11.0-1 all
-python3-apport/bionic-security 2.20.9-0ubuntu7.14 all [upgradable from: 2.20.9-0ubuntu7.12]
+python3-apport/bionic-updates,bionic-security,now 2.20.9-0ubuntu7.14 all [installed,automatic]
 python3-apscheduler/bionic 3.4.0-2ubuntu1 all
 python3-apsw/bionic 3.16.2-r1-2build2 amd64
 python3-apsw-dbg/bionic 3.16.2-r1-2build2 amd64
@@ -55934,7 +55934,7 @@ python3-preludedb/bionic 4.1.0-1 amd64
 python3-pretend/bionic 1.0.8-2 all
 python3-pretty-yaml/bionic 17.12.1-1 all
 python3-prettytable/bionic 0.7.2-3 all
-python3-problem-report/bionic-security 2.20.9-0ubuntu7.14 all [upgradable from: 2.20.9-0ubuntu7.12]
+python3-problem-report/bionic-updates,bionic-security,now 2.20.9-0ubuntu7.14 all [installed,automatic]
 python3-proboscis/bionic 1.2.6.0-4 all
 python3-profitbricks/bionic 4.1.1-1 all
 python3-progress/bionic 1.2-1 all
