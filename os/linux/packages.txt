@@ -641,13 +641,13 @@ appc-spec/xenial 0.7.1+dfsg-1 amd64
 appdata-tools/xenial-updates,xenial-updates 0.5.13-1ubuntu6 all
 appmenu-qt/xenial 0.2.7+14.04.20140305-0ubuntu2 amd64
 appmenu-qt5/xenial-updates 0.3.0+16.04.20170216-0ubuntu1 amd64
-apport/xenial-security,xenial-security 2.20.1-0ubuntu2.23 all [upgradable from: 2.20.1-0ubuntu2.21]
-apport-gtk/xenial-security,xenial-security 2.20.1-0ubuntu2.23 all
-apport-kde/xenial-security,xenial-security 2.20.1-0ubuntu2.23 all
-apport-noui/xenial-security,xenial-security 2.20.1-0ubuntu2.23 all
-apport-retrace/xenial-security,xenial-security 2.20.1-0ubuntu2.23 all
+apport/xenial-updates,xenial-updates,xenial-security,xenial-security 2.20.1-0ubuntu2.23 all [upgradable from: 2.20.1-0ubuntu2.21]
+apport-gtk/xenial-updates,xenial-updates,xenial-security,xenial-security 2.20.1-0ubuntu2.23 all
+apport-kde/xenial-updates,xenial-updates,xenial-security,xenial-security 2.20.1-0ubuntu2.23 all
+apport-noui/xenial-updates,xenial-updates,xenial-security,xenial-security 2.20.1-0ubuntu2.23 all
+apport-retrace/xenial-updates,xenial-updates,xenial-security,xenial-security 2.20.1-0ubuntu2.23 all
 apport-symptoms/xenial,xenial,now 0.20 all [installed]
-apport-valgrind/xenial-security,xenial-security 2.20.1-0ubuntu2.23 all
+apport-valgrind/xenial-updates,xenial-updates,xenial-security,xenial-security 2.20.1-0ubuntu2.23 all
 approx/xenial 5.5-2build1 amd64
 appstream/xenial-updates 0.9.4-1ubuntu4 amd64
 appstream-doc/xenial-updates,xenial-updates 0.9.4-1ubuntu4 all
@@ -3982,7 +3982,7 @@ dgit-infrastructure/xenial,xenial 1.4 all
 dh-acc/xenial,xenial 1.99.14-1 all
 dh-ada-library/xenial 6.6 amd64
 dh-apparmor/xenial-updates,xenial-updates,xenial-security,xenial-security 2.10.95-0ubuntu2.11 all
-dh-apport/xenial-security,xenial-security 2.20.1-0ubuntu2.23 all
+dh-apport/xenial-updates,xenial-updates,xenial-security,xenial-security 2.20.1-0ubuntu2.23 all
 dh-autoreconf/xenial,xenial 11 all
 dh-buildinfo/xenial,xenial 0.11 all
 dh-consoledata/xenial,xenial 0.7.89 all
@@ -18598,8 +18598,8 @@ libgctp0d/xenial 2.0-1 amd64
 libgcu-dbg/xenial 0.14.10-2 amd64
 libgcu0v5/xenial 0.14.10-2 amd64
 libgd-barcode-perl/xenial,xenial 1.15-5ubuntu1 all
-libgd-dbg/xenial-updates,xenial-security 2.1.1-4ubuntu0.16.04.11 amd64
-libgd-dev/xenial-updates,xenial-security 2.1.1-4ubuntu0.16.04.11 amd64
+libgd-dbg/xenial-updates,xenial-security 2.1.1-4ubuntu0.16.04.12 amd64
+libgd-dev/xenial-updates,xenial-security 2.1.1-4ubuntu0.16.04.12 amd64
 libgd-gd2-noxpm-ocaml/xenial,xenial 1.0~alpha5-8build2 all
 libgd-gd2-noxpm-ocaml-dev/xenial,xenial 1.0~alpha5-8build2 all
 libgd-graph-perl/xenial,xenial 1.48-2 all
@@ -18610,8 +18610,8 @@ libgd-perl/xenial 2.53-2.1 amd64
 libgd-securityimage-perl/xenial,xenial 1.73-2 all
 libgd-svg-perl/xenial,xenial 0.33-1 all
 libgd-text-perl/xenial,xenial 0.86-9 all
-libgd-tools/xenial-updates,xenial-security 2.1.1-4ubuntu0.16.04.11 amd64
-libgd3/xenial-updates,xenial-security 2.1.1-4ubuntu0.16.04.11 amd64
+libgd-tools/xenial-updates,xenial-security 2.1.1-4ubuntu0.16.04.12 amd64
+libgd3/xenial-updates,xenial-security 2.1.1-4ubuntu0.16.04.12 amd64
 libgda-5.0-4/xenial 5.2.4-1ubuntu1 amd64
 libgda-5.0-4-dbg/xenial 5.2.4-1ubuntu1 amd64
 libgda-5.0-bin/xenial 5.2.4-1ubuntu1 amd64
@@ -46161,7 +46161,7 @@ python-appconf-doc/xenial,xenial 1.0.1-4 all
 python-appdirs/xenial,xenial 1.4.0-2 all
 python-appindicator/xenial-updates 12.10.1+16.04.20170215-0ubuntu1 amd64
 python-application/xenial,xenial 1.4.1-1 all
-python-apport/xenial-security,xenial-security 2.20.1-0ubuntu2.23 all
+python-apport/xenial-updates,xenial-updates,xenial-security,xenial-security 2.20.1-0ubuntu2.23 all
 python-apptools/xenial,xenial 4.3.0-1 all
 python-apscheduler/xenial,xenial 2.1.2-2 all
 python-apsw/xenial 3.8.11.1-r1-1build1 amd64
@@ -48066,7 +48066,7 @@ python-presage/xenial 0.9.1-1.1ubuntu2 amd64
 python-presage-dbg/xenial 0.9.1-1.1ubuntu2 amd64
 python-pretend/xenial,xenial 1.0.8-2 all
 python-prettytable/xenial,xenial 0.7.2-3 all
-python-problem-report/xenial-security,xenial-security 2.20.1-0ubuntu2.23 all
+python-problem-report/xenial-updates,xenial-updates,xenial-security,xenial-security 2.20.1-0ubuntu2.23 all
 python-proboscis/xenial,xenial 1.2.6.0-2 all
 python-profitbricks/xenial,xenial 2.3.1-1 all
 python-profitbricks-client/xenial,xenial 1.0.1-1 all
@@ -49486,7 +49486,7 @@ python3-apparmor/xenial-updates,xenial-security 2.10.95-0ubuntu2.11 amd64
 python3-apparmor-click/xenial-updates,xenial-updates 0.3.13.1 all
 python3-appconf/xenial,xenial 1.0.1-4 all
 python3-appdirs/xenial,xenial 1.4.0-2 all
-python3-apport/xenial-security,xenial-security 2.20.1-0ubuntu2.23 all [upgradable from: 2.20.1-0ubuntu2.21]
+python3-apport/xenial-updates,xenial-updates,xenial-security,xenial-security 2.20.1-0ubuntu2.23 all [upgradable from: 2.20.1-0ubuntu2.21]
 python3-apsw/xenial 3.8.11.1-r1-1build1 amd64
 python3-apsw-dbg/xenial 3.8.11.1-r1-1build1 amd64
 python3-apt/xenial-updates,xenial-security 1.1.0~beta1ubuntu0.16.04.8 amd64 [upgradable from: 1.1.0~beta1ubuntu0.16.04.5]
@@ -50335,7 +50335,7 @@ python3-powerline/xenial-updates,xenial-updates 2.3-1ubuntu0 all
 python3-praw/xenial,xenial 3.3.0-1 all
 python3-pretend/xenial,xenial 1.0.8-2 all
 python3-prettytable/xenial,xenial 0.7.2-3 all
-python3-problem-report/xenial-security,xenial-security 2.20.1-0ubuntu2.23 all [upgradable from: 2.20.1-0ubuntu2.21]
+python3-problem-report/xenial-updates,xenial-updates,xenial-security,xenial-security 2.20.1-0ubuntu2.23 all [upgradable from: 2.20.1-0ubuntu2.21]
 python3-proboscis/xenial,xenial 1.2.6.0-2 all
 python3-profitbricks/xenial,xenial 2.3.1-1 all
 python3-progress/xenial,xenial 1.2-1 all
