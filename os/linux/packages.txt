@@ -22266,7 +22266,7 @@ libgnustep-gui0.27/stable 0.27.0-5 amd64
 libgnutls-dane0/stable 3.6.7-4+deb10u3 amd64
 libgnutls-openssl27/stable 3.6.7-4+deb10u3 amd64
 libgnutls28-dev/stable 3.6.7-4+deb10u3 amd64
-libgnutls30/stable 3.6.7-4+deb10u3 amd64 [upgradable from: 3.6.7-4+deb10u2]
+libgnutls30/stable,now 3.6.7-4+deb10u3 amd64 [installed]
 libgnutlsxx28/stable 3.6.7-4+deb10u3 amd64
 libgo-perl/stable 0.15-7 all
 libgo11-dbg/stable 7.4.0-6 amd64
