@@ -5889,8 +5889,8 @@ flashbake/xenial,xenial 0.26.2-5.1 all
 flashbench/xenial 62-1 amd64
 flashcache-dkms/xenial-updates,xenial-updates 3.1.3+git20150701-2ubuntu3 all
 flashcache-utils/xenial-updates 3.1.3+git20150701-2ubuntu3 amd64
-flashplugin-downloader/xenial-updates,xenial-security 32.0.0.344ubuntu0.16.04.1 i386
-flashplugin-installer/xenial-updates,xenial-security 32.0.0.344ubuntu0.16.04.1 amd64
+flashplugin-downloader/xenial-updates,xenial-security 32.0.0.363ubuntu0.16.04.1 i386
+flashplugin-installer/xenial-updates,xenial-security 32.0.0.363ubuntu0.16.04.1 amd64
 flashplugin-nonfree-extrasound/xenial 0.0.svn2431-5ubuntu1 amd64
 flashproxy-client/xenial,xenial 1.7-4 all
 flashproxy-common/xenial,xenial 1.7-4 all
@@ -8405,32 +8405,32 @@ gis-web/xenial,xenial 0.0.4ubuntu4 all
 gis-workstation/xenial,xenial 0.0.4ubuntu4 all
 gisomount/xenial,xenial 1.0.1-0ubuntu3 all
 gist/xenial,xenial 4.5.0-2 all
-git/xenial-updates,xenial-security,now 1:2.7.4-0ubuntu1.7 amd64 [installed]
-git-all/xenial-updates,xenial-updates,xenial-security,xenial-security 1:2.7.4-0ubuntu1.7 all
+git/xenial-updates,xenial-security 1:2.7.4-0ubuntu1.8 amd64 [upgradable from: 1:2.7.4-0ubuntu1.7]
+git-all/xenial-updates,xenial-updates,xenial-security,xenial-security 1:2.7.4-0ubuntu1.8 all
 git-annex/xenial 5.20151208-1build1 amd64
-git-arch/xenial-updates,xenial-updates,xenial-security,xenial-security 1:2.7.4-0ubuntu1.7 all
+git-arch/xenial-updates,xenial-updates,xenial-security,xenial-security 1:2.7.4-0ubuntu1.8 all
 git-big-picture/xenial,xenial 0.9.0+git20131031-2 all
 git-build-recipe/xenial,xenial 0.3.2 all
 git-buildpackage/xenial,xenial 0.7.2 all
 git-buildpackage-rpm/xenial,xenial 0.7.2 all
 git-bzr/xenial,xenial 2:0.2+20140705-2 all
 git-cola/xenial,xenial 2.5-1 all
-git-core/xenial-updates,xenial-updates,xenial-security,xenial-security 1:2.7.4-0ubuntu1.7 all
+git-core/xenial-updates,xenial-updates,xenial-security,xenial-security 1:2.7.4-0ubuntu1.8 all
 git-crypt/xenial 0.5.0-1 amd64
-git-cvs/xenial-updates,xenial-updates,xenial-security,xenial-security 1:2.7.4-0ubuntu1.7 all
-git-daemon-run/xenial-updates,xenial-updates,xenial-security,xenial-security 1:2.7.4-0ubuntu1.7 all
-git-daemon-sysvinit/xenial-updates,xenial-updates,xenial-security,xenial-security 1:2.7.4-0ubuntu1.7 all
-git-doc/xenial-updates,xenial-updates,xenial-security,xenial-security 1:2.7.4-0ubuntu1.7 all
+git-cvs/xenial-updates,xenial-updates,xenial-security,xenial-security 1:2.7.4-0ubuntu1.8 all
+git-daemon-run/xenial-updates,xenial-updates,xenial-security,xenial-security 1:2.7.4-0ubuntu1.8 all
+git-daemon-sysvinit/xenial-updates,xenial-updates,xenial-security,xenial-security 1:2.7.4-0ubuntu1.8 all
+git-doc/xenial-updates,xenial-updates,xenial-security,xenial-security 1:2.7.4-0ubuntu1.8 all
 git-dpm/xenial,xenial 0.9.1-1 all
-git-el/xenial-updates,xenial-updates,xenial-security,xenial-security 1:2.7.4-0ubuntu1.7 all
-git-email/xenial-updates,xenial-updates,xenial-security,xenial-security 1:2.7.4-0ubuntu1.7 all
+git-el/xenial-updates,xenial-updates,xenial-security,xenial-security 1:2.7.4-0ubuntu1.8 all
+git-email/xenial-updates,xenial-updates,xenial-security,xenial-security 1:2.7.4-0ubuntu1.8 all
 git-extras/xenial,xenial 4.1.0-1 all
 git-flow/xenial,xenial 1.9.1-1 all
 git-ftp/xenial,xenial 1.0.2-1 all
-git-gui/xenial-updates,xenial-updates,xenial-security,xenial-security 1:2.7.4-0ubuntu1.7 all
+git-gui/xenial-updates,xenial-updates,xenial-security,xenial-security 1:2.7.4-0ubuntu1.8 all
 git-hub/xenial,xenial 0.9.0-2 all
-git-man/xenial-updates,xenial-updates,xenial-security,xenial-security,now 1:2.7.4-0ubuntu1.7 all [installed]
-git-mediawiki/xenial-updates,xenial-updates,xenial-security,xenial-security 1:2.7.4-0ubuntu1.7 all
+git-man/xenial-updates,xenial-updates,xenial-security,xenial-security 1:2.7.4-0ubuntu1.8 all [upgradable from: 1:2.7.4-0ubuntu1.7]
+git-mediawiki/xenial-updates,xenial-updates,xenial-security,xenial-security 1:2.7.4-0ubuntu1.8 all
 git-merge-changelog/xenial-updates,xenial-security 20140202+stable-2+deb8u1build0.16.04.1 amd64
 git-notifier/xenial,xenial 1:0.6-25-1 all
 git-reintegrate/xenial,xenial 0.3-2 all
@@ -8441,13 +8441,13 @@ git-repair/xenial 1.20151215-1 amd64
 git-restore-mtime/xenial,xenial 1.0.3-1 all
 git-review/xenial,xenial 1.25.0-2 all
 git-sh/xenial,xenial 1.1-1 all
-git-svn/xenial-updates,xenial-updates,xenial-security,xenial-security 1:2.7.4-0ubuntu1.7 all
+git-svn/xenial-updates,xenial-updates,xenial-security,xenial-security 1:2.7.4-0ubuntu1.8 all
 git2cl/xenial,xenial 1:2.0+git20120920-1 all
 gitg/xenial 3.17.1-1 amd64
 github-backup/xenial 1.20150807-1 amd64
 gitinspector/xenial,xenial 0.4.3+dfsg-1 all
 gitit/xenial 0.12.1-1 amd64
-gitk/xenial-updates,xenial-updates,xenial-security,xenial-security 1:2.7.4-0ubuntu1.7 all
+gitk/xenial-updates,xenial-updates,xenial-security,xenial-security 1:2.7.4-0ubuntu1.8 all
 gitlab/xenial,xenial 8.5.8+dfsg-5 all
 gitlab-shell/xenial,xenial 2.6.10-1build1 all
 gitlab-workhorse/xenial 0.6.3-1 amd64
@@ -8456,7 +8456,7 @@ gitolite3/xenial,xenial 3.6.4-1 all
 gitpkg/xenial,xenial 0.27 all
 gitso/xenial,xenial 0.6.2+svn158+dfsg-1 all
 gitstats/xenial,xenial 2015.10.03-1 all
-gitweb/xenial-updates,xenial-updates,xenial-security,xenial-security 1:2.7.4-0ubuntu1.7 all
+gitweb/xenial-updates,xenial-updates,xenial-security,xenial-security 1:2.7.4-0ubuntu1.8 all
 givaro-dev-doc/xenial,xenial 3.7.2-1.1 all
 givaro-user-doc/xenial,xenial 3.7.2-1.1 all
 gjacktransport/xenial 0.6.1-1build1 amd64
