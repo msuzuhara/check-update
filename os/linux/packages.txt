@@ -5677,22 +5677,22 @@ evince/bionic-updates,bionic-security 3.28.4-0ubuntu1.2 amd64
 evince-common/bionic-updates,bionic-security 3.28.4-0ubuntu1.2 all
 evince-hwp/bionic 0.1.1-2ubuntu1 amd64
 evince-hwp-dbg/bionic 0.1.1-2ubuntu1 amd64
-evolution/bionic-updates 3.28.5-0ubuntu0.18.04.1 amd64
-evolution-common/bionic-updates 3.28.5-0ubuntu0.18.04.1 all
+evolution/bionic-updates 3.28.5-0ubuntu0.18.04.2 amd64
+evolution-common/bionic-updates 3.28.5-0ubuntu0.18.04.2 all
 evolution-data-server/bionic-updates,bionic-security 3.28.5-0ubuntu0.18.04.2 amd64
 evolution-data-server-common/bionic-updates,bionic-security 3.28.5-0ubuntu0.18.04.2 all
 evolution-data-server-dev/bionic-updates,bionic-security 3.28.5-0ubuntu0.18.04.2 amd64
 evolution-data-server-doc/bionic-updates,bionic-security 3.28.5-0ubuntu0.18.04.2 all
 evolution-data-server-online-accounts/bionic-updates,bionic-security 3.28.5-0ubuntu0.18.04.2 all
 evolution-data-server-tests/bionic-updates,bionic-security 3.28.5-0ubuntu0.18.04.2 amd64
-evolution-dev/bionic-updates 3.28.5-0ubuntu0.18.04.1 amd64
+evolution-dev/bionic-updates 3.28.5-0ubuntu0.18.04.2 amd64
 evolution-ews/bionic-updates 3.28.5-0ubuntu0.18.04.1 amd64
 evolution-indicator/bionic 0.2.20-0ubuntu33 amd64
-evolution-plugin-bogofilter/bionic-updates 3.28.5-0ubuntu0.18.04.1 amd64
-evolution-plugin-pstimport/bionic-updates 3.28.5-0ubuntu0.18.04.1 amd64
-evolution-plugin-spamassassin/bionic-updates 3.28.5-0ubuntu0.18.04.1 amd64
-evolution-plugins/bionic-updates 3.28.5-0ubuntu0.18.04.1 amd64
-evolution-plugins-experimental/bionic-updates 3.28.5-0ubuntu0.18.04.1 amd64
+evolution-plugin-bogofilter/bionic-updates 3.28.5-0ubuntu0.18.04.2 amd64
+evolution-plugin-pstimport/bionic-updates 3.28.5-0ubuntu0.18.04.2 amd64
+evolution-plugin-spamassassin/bionic-updates 3.28.5-0ubuntu0.18.04.2 amd64
+evolution-plugins/bionic-updates 3.28.5-0ubuntu0.18.04.2 amd64
+evolution-plugins-experimental/bionic-updates 3.28.5-0ubuntu0.18.04.2 amd64
 evolution-rss/bionic 0.3.95-8build2 amd64
 evolver/bionic 2.70+ds-3 all
 evolver-doc/bionic 2.70+ds-3 all
@@ -6279,7 +6279,7 @@ flare-engine/bionic 0.19-3 amd64
 flare-game/bionic 0.19-2 all
 flashbake/bionic 0.27.1-0.1 all
 flashbench/bionic 62-1build1 amd64
-flashplugin-installer/bionic-updates,bionic-security 32.0.0.344ubuntu0.18.04.1 amd64
+flashplugin-installer/bionic-updates,bionic-security 32.0.0.363ubuntu0.18.04.1 amd64
 flashproxy-client/bionic 1.7-4 all
 flashproxy-common/bionic 1.7-4 all
 flashproxy-facilitator/bionic 1.7-4 all
@@ -9257,8 +9257,8 @@ gis-web/bionic 0.0.14 all
 gis-workstation/bionic 0.0.14 all
 gisomount/bionic 1.0.1-0ubuntu3 all
 gist/bionic 4.6.1-1 all
-git/bionic-updates,bionic-security,now 1:2.17.1-1ubuntu0.5 amd64 [installed,automatic]
-git-all/bionic-updates,bionic-security 1:2.17.1-1ubuntu0.5 all
+git/bionic-updates,bionic-security 1:2.17.1-1ubuntu0.6 amd64 [upgradable from: 1:2.17.1-1ubuntu0.5]
+git-all/bionic-updates,bionic-security 1:2.17.1-1ubuntu0.6 all
 git-annex/bionic 6.20180227-1 amd64
 git-annex-remote-rclone/bionic 0.5-1 all
 git-big-picture/bionic 0.9.0+git20131031-2 all
@@ -9268,21 +9268,21 @@ git-buildpackage-rpm/bionic 0.9.8 all
 git-cola/bionic 3.0-1ubuntu1 all
 git-crecord/bionic 20161226.0-1 all
 git-crypt/bionic 0.6.0-1build1 amd64
-git-cvs/bionic-updates,bionic-security 1:2.17.1-1ubuntu0.5 all
-git-daemon-run/bionic-updates,bionic-security 1:2.17.1-1ubuntu0.5 all
-git-daemon-sysvinit/bionic-updates,bionic-security 1:2.17.1-1ubuntu0.5 all
-git-doc/bionic-updates,bionic-security 1:2.17.1-1ubuntu0.5 all
+git-cvs/bionic-updates,bionic-security 1:2.17.1-1ubuntu0.6 all
+git-daemon-run/bionic-updates,bionic-security 1:2.17.1-1ubuntu0.6 all
+git-daemon-sysvinit/bionic-updates,bionic-security 1:2.17.1-1ubuntu0.6 all
+git-doc/bionic-updates,bionic-security 1:2.17.1-1ubuntu0.6 all
 git-dpm/bionic 0.9.1-1 all
-git-el/bionic-updates,bionic-security 1:2.17.1-1ubuntu0.5 all
-git-email/bionic-updates,bionic-security 1:2.17.1-1ubuntu0.5 all
+git-el/bionic-updates,bionic-security 1:2.17.1-1ubuntu0.6 all
+git-email/bionic-updates,bionic-security 1:2.17.1-1ubuntu0.6 all
 git-extras/bionic 4.5.0-1 all
 git-flow/bionic 1.11.0-1 all
 git-ftp/bionic 1.3.1-1 all
-git-gui/bionic-updates,bionic-security 1:2.17.1-1ubuntu0.5 all
+git-gui/bionic-updates,bionic-security 1:2.17.1-1ubuntu0.6 all
 git-hub/bionic 1.0.0-1 all
 git-lfs/bionic 2.3.4-1 amd64
-git-man/bionic-updates,bionic-security,now 1:2.17.1-1ubuntu0.5 all [installed,automatic]
-git-mediawiki/bionic-updates,bionic-security 1:2.17.1-1ubuntu0.5 all
+git-man/bionic-updates,bionic-security 1:2.17.1-1ubuntu0.6 all [upgradable from: 1:2.17.1-1ubuntu0.5]
+git-mediawiki/bionic-updates,bionic-security 1:2.17.1-1ubuntu0.6 all
 git-merge-changelog/bionic-updates,bionic-security 20140202+stable-2+deb8u1build0.18.04.1 amd64
 git-notifier/bionic 1:0.6-25-1 all
 git-phab/bionic 2.1.0-2 all
@@ -9295,14 +9295,14 @@ git-restore-mtime/bionic 2017.10-1 all
 git-review/bionic 1.26.0-1 all
 git-secret/bionic 0.2.3-1 all
 git-sh/bionic 1.1-1 all
-git-svn/bionic-updates,bionic-security 1:2.17.1-1ubuntu0.5 all
+git-svn/bionic-updates,bionic-security 1:2.17.1-1ubuntu0.6 all
 git2cl/bionic 1:2.0+git20120920-1 all
 gitano/bionic 1.1-1 all
 gitg/bionic 3.26.0-4 amd64
 github-backup/bionic 1.20170301-2 amd64
 gitinspector/bionic 0.4.4+dfsg-4 all
 gitit/bionic 0.12.2.1+dfsg-2build1 amd64
-gitk/bionic-updates,bionic-security 1:2.17.1-1ubuntu0.5 all
+gitk/bionic-updates,bionic-security 1:2.17.1-1ubuntu0.6 all
 gitlab-cli/bionic 1:1.3.0-2 all
 gitlab-runner/bionic 10.5.0+dfsg-2 amd64
 gitlab-shell/bionic 6.0.4-1 all
@@ -9314,7 +9314,7 @@ gitpkg/bionic 0.28 all
 gitso/bionic 0.6.2+svn158+dfsg-1 all
 gitsome/bionic 0.7.0-2 all
 gitstats/bionic 2015.10.03-1 all
-gitweb/bionic-updates,bionic-security 1:2.17.1-1ubuntu0.5 all
+gitweb/bionic-updates,bionic-security 1:2.17.1-1ubuntu0.6 all
 givaro-dev-doc/bionic 4.0.2-8ubuntu1 all
 givaro-user-doc/bionic 4.0.2-8ubuntu1 all
 giza-dev/bionic 0.9.5-1 amd64
@@ -16518,12 +16518,12 @@ libasm3-java-doc/bionic 3.3.2-3 all
 libasm4-java/bionic 5.0.4-2 all
 libasm4-java-doc/bionic 5.0.4-2 all
 libasn1-8-heimdal/bionic,now 7.5.0+dfsg-1 amd64 [installed,automatic]
-libasound2/bionic-updates 1.1.3-5ubuntu0.4 amd64
-libasound2-data/bionic-updates 1.1.3-5ubuntu0.4 all
-libasound2-dev/bionic-updates 1.1.3-5ubuntu0.4 amd64
-libasound2-doc/bionic-updates 1.1.3-5ubuntu0.4 all
+libasound2/bionic-updates 1.1.3-5ubuntu0.5 amd64
+libasound2-data/bionic-updates 1.1.3-5ubuntu0.5 all
+libasound2-dev/bionic-updates 1.1.3-5ubuntu0.5 amd64
+libasound2-doc/bionic-updates 1.1.3-5ubuntu0.5 all
 libasound2-plugin-equal/bionic 0.6-7 amd64
-libasound2-plugin-smixer/bionic-updates 1.1.3-5ubuntu0.4 amd64
+libasound2-plugin-smixer/bionic-updates 1.1.3-5ubuntu0.5 amd64
 libasound2-plugins/bionic 1.1.1-1ubuntu1 amd64
 libasound2-plugins-extra/bionic 1.1.0-1ubuntu1 amd64
 libaspect-perl/bionic 1.04-1 all
@@ -20329,7 +20329,7 @@ libevhtp-dev/bionic 1.2.16-1build1 amd64
 libevhtp-doc/bionic 1.2.16-1build1 all
 libevhtp0/bionic 1.2.16-1build1 amd64
 libevince-dev/bionic-updates,bionic-security 3.28.4-0ubuntu1.2 amd64
-libevolution/bionic-updates 3.28.5-0ubuntu0.18.04.1 amd64
+libevolution/bionic-updates 3.28.5-0ubuntu0.18.04.2 amd64
 libevt-dev/bionic 20170120-2 amd64
 libevt-utils/bionic 20170120-2 amd64
 libevt1/bionic 20170120-2 amd64
@@ -44229,7 +44229,7 @@ lxc-dev/bionic-updates 3.0.3-0ubuntu1~18.04.1 all
 lxc-templates/bionic 3.0.0-0ubuntu1 amd64
 lxc-utils/bionic-updates 3.0.3-0ubuntu1~18.04.1 amd64
 lxc1/bionic-updates 3.0.3-0ubuntu1~18.04.1 all
-lxcfs/bionic-updates,now 3.0.3-0ubuntu1~18.04.1 amd64 [installed,automatic]
+lxcfs/bionic-updates 3.0.3-0ubuntu1~18.04.2 amd64 [upgradable from: 3.0.3-0ubuntu1~18.04.1]
 lxctl/bionic 0.3.1+debian-4 all
 lxd/bionic-updates,now 3.0.3-0ubuntu1~18.04.1 amd64 [installed,automatic]
 lxd-client/bionic-updates,now 3.0.3-0ubuntu1~18.04.1 amd64 [installed,automatic]
@@ -45539,7 +45539,7 @@ msr-tools/bionic 1.3-2build1 amd64
 msrtool/bionic 1:20141027-1.1ubuntu1 amd64
 mssh/bionic 2.2-4 amd64
 mssstest/bionic 3.0-6 amd64
-mstflint/bionic 4.8.0-2 amd64
+mstflint/bionic-updates 4.13.3+2-2~ubuntu18.04.1 amd64
 msva-perl/bionic 0.9.2-1ubuntu2 all
 mswatch/bionic 1.2.0-2.2 amd64
 msxpertsuite/bionic 4.1.0-1 amd64
@@ -60977,7 +60977,7 @@ sortmerna/bionic 2.1-2 amd64
 sortsmill-tools/bionic 0.4-2 all
 sorune/bionic 0.5-1ubuntu1 all
 sosi2osm/bionic 1.0.0-3build1 amd64
-sosreport/bionic-updates 3.9-1ubuntu0.18.04.1 amd64 [upgradable from: 3.6-1ubuntu0.18.04.4]
+sosreport/bionic-updates 3.9-1ubuntu0.18.04.2 amd64 [upgradable from: 3.6-1ubuntu0.18.04.4]
 sound-icons/bionic 0.1-6 all
 sound-juicer/bionic 3.24.0-2 amd64
 sound-theme-freedesktop/bionic 0.8-2ubuntu1 all
