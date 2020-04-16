@@ -8380,7 +8380,7 @@ git-ftp/stable 1.5.1+dfsg-1 all
 git-gui/stable 1:2.20.1-2+deb10u2 all
 git-hub/stable 1.0.1-1 all
 git-lfs/stable 2.7.1-1+deb10u1 amd64
-git-man/stable 1:2.20.1-2+deb10u2 all [upgradable from: 1:2.20.1-2+deb10u1]
+git-man/stable,now 1:2.20.1-2+deb10u2 all [installed,automatic]
 git-mediawiki/stable 1:2.20.1-2+deb10u2 all
 git-merge-changelog/stable 20140202+stable-4 amd64
 git-notifier/stable 1:0.6-25-1 all
@@ -8398,7 +8398,7 @@ git-secrets/stable 1.3.0-2 all
 git-sizer/stable 1.3.0+dfsg-1 amd64
 git-svn/stable 1:2.20.1-2+deb10u2 all
 git2cl/stable 1:2.0+git20120920-1 all
-git/stable 1:2.20.1-2+deb10u2 amd64 [upgradable from: 1:2.20.1-2+deb10u1]
+git/stable,now 1:2.20.1-2+deb10u2 amd64 [installed]
 gitano/stable 1.2-1 all
 gitg/stable 3.30.1-1 amd64
 github-backup/stable 1.20170301-2 amd64
