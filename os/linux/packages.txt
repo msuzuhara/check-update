@@ -437,9 +437,12 @@ centos-release-ansible-29.noarch                     1-1.el8                    
 centos-release-configmanagement.noarch               1-1.el8                                          extras   
 centos-release-gluster6.noarch                       1.0-1.el8                                        extras   
 centos-release-gluster7.noarch                       1.0-2.el8                                        extras   
+centos-release-messaging.noarch                      1-2.el8                                          extras   
 centos-release-nfs-ganesha28.noarch                  1.0-3.el8                                        extras   
 centos-release-nfs-ganesha30.noarch                  1.0-2.el8                                        extras   
 centos-release-opstools.noarch                       1-10.el8                                         extras   
+centos-release-qpid-proton.noarch                    1-2.el8                                          extras   
+centos-release-rabbitmq-38.noarch                    1-2.el8                                          extras   
 centos-release-storage-common.noarch                 2-2.el8                                          extras   
 centos-release-stream.x86_64                         8.1-1.1911.0.7.el8                               extras   
 certmonger.x86_64                                    0.79.7-3.el8                                     AppStream
