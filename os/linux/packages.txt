@@ -5547,6 +5547,7 @@ erlang-examples/bionic 1:20.2.2+dfsg-1ubuntu2 all
 erlang-folsom/bionic 0.8.2+dfsg-1 amd64
 erlang-folsom-dev/bionic 0.8.2+dfsg-1 amd64
 erlang-fs-listener/bionic 4.1-1 amd64
+erlang-ftp/bionic-backports 1:22.0.7+dfsg-1build1~ubuntu18.04.1 amd64
 erlang-getopt/bionic 1.0.1-1 amd64
 erlang-goldrush/bionic 0.1.9-4 amd64
 erlang-guestfs/bionic-updates 1:1.36.13-1ubuntu3.3 amd64
@@ -5601,6 +5602,7 @@ erlang-src/bionic 1:20.2.2+dfsg-1ubuntu2 all
 erlang-ssh/bionic 1:20.2.2+dfsg-1ubuntu2 amd64
 erlang-ssl/bionic 1:20.2.2+dfsg-1ubuntu2 amd64
 erlang-syntax-tools/bionic 1:20.2.2+dfsg-1ubuntu2 amd64
+erlang-tftp/bionic-backports 1:22.0.7+dfsg-1build1~ubuntu18.04.1 amd64
 erlang-tools/bionic 1:20.2.2+dfsg-1ubuntu2 amd64
 erlang-uuid/bionic 0.4.6-1 amd64
 erlang-wx/bionic 1:20.2.2+dfsg-1ubuntu2 amd64
@@ -6085,7 +6087,7 @@ figtree/bionic-updates,bionic-security 1.4.4-3~18.04.1 all
 fil-plugins/bionic 0.3.0-6 amd64
 file/bionic-updates,bionic-security,now 1:5.32-2ubuntu0.3 amd64 [installed,automatic]
 file-kanji/bionic 1.1-16build1 amd64
-file-roller/bionic-updates,bionic-security 3.28.0-1ubuntu1.1 amd64
+file-roller/bionic-updates,bionic-security 3.28.0-1ubuntu1.2 amd64
 filelight/bionic 4:17.12.3-0ubuntu1 amd64
 filepp/bionic 1.8.0-5 all
 fileschanged/bionic 0.6.5-2 amd64
@@ -9153,7 +9155,7 @@ gir1.2-input-pad-1.0/bionic 1.0.3-1build1 amd64
 gir1.2-isocodes-1.2/bionic 1.2.2-2 amd64
 gir1.2-itl-1.0/bionic 0.3-1 amd64
 gir1.2-javascriptcoregtk-3.0/bionic 2.4.11-3ubuntu3 amd64
-gir1.2-javascriptcoregtk-4.0/bionic-updates,bionic-security 2.28.0-0ubuntu0.18.04.3 amd64
+gir1.2-javascriptcoregtk-4.0/bionic-updates,bionic-security 2.28.1-0ubuntu0.18.04.1 amd64
 gir1.2-json-1.0/bionic 1.4.2-3 amd64
 gir1.2-jsonrpc-1.0/bionic 3.28.0-1 amd64
 gir1.2-keybinder-0.0/bionic 0.3.1-1 amd64
@@ -9238,7 +9240,7 @@ gir1.2-v-sim-1.0/bionic 3.7.2-5 amd64
 gir1.2-vips-8.0/bionic 8.4.5-1build1 amd64
 gir1.2-vte-2.91/bionic-updates 0.52.2-1ubuntu1~18.04.2 amd64
 gir1.2-webkit-3.0/bionic 2.4.11-3ubuntu3 amd64
-gir1.2-webkit2-4.0/bionic-updates,bionic-security 2.28.0-0ubuntu0.18.04.3 amd64
+gir1.2-webkit2-4.0/bionic-updates,bionic-security 2.28.1-0ubuntu0.18.04.1 amd64
 gir1.2-wnck-1.0/bionic 1:2.30.7-5.1ubuntu1 amd64
 gir1.2-wnck-3.0/bionic 3.24.1-2 amd64
 gir1.2-xapp-1.0/bionic 1.0.4-2fakesync1 amd64
@@ -27113,9 +27115,9 @@ libjavascriptcoregtk-1.0-dev/bionic 2.4.11-3ubuntu3 amd64
 libjavascriptcoregtk-3.0-0/bionic 2.4.11-3ubuntu3 amd64
 libjavascriptcoregtk-3.0-bin/bionic 2.4.11-3ubuntu3 amd64
 libjavascriptcoregtk-3.0-dev/bionic 2.4.11-3ubuntu3 amd64
-libjavascriptcoregtk-4.0-18/bionic-updates,bionic-security 2.28.0-0ubuntu0.18.04.3 amd64
-libjavascriptcoregtk-4.0-bin/bionic-updates,bionic-security 2.28.0-0ubuntu0.18.04.3 amd64
-libjavascriptcoregtk-4.0-dev/bionic-updates,bionic-security 2.28.0-0ubuntu0.18.04.3 amd64
+libjavascriptcoregtk-4.0-18/bionic-updates,bionic-security 2.28.1-0ubuntu0.18.04.1 amd64
+libjavascriptcoregtk-4.0-bin/bionic-updates,bionic-security 2.28.1-0ubuntu0.18.04.1 amd64
+libjavascriptcoregtk-4.0-dev/bionic-updates,bionic-security 2.28.1-0ubuntu0.18.04.1 amd64
 libjavassist-java/bionic 1:3.21.0-2 all
 libjavassist-java-doc/bionic 1:3.21.0-2 all
 libjavatuples-java/bionic 1.2-1 all
@@ -37700,10 +37702,10 @@ libwebjars-locator-java/bionic 0.32-1 all
 libwebkdc-perl/bionic 4.7.0-6build2 all
 libwebkit2-sharp-4.0-cil/bionic 2.10.9+git20160917-1.1 amd64
 libwebkit2-sharp-4.0-cil-dev/bionic 2.10.9+git20160917-1.1 amd64
-libwebkit2gtk-4.0-37/bionic-updates,bionic-security 2.28.0-0ubuntu0.18.04.3 amd64
-libwebkit2gtk-4.0-37-gtk2/bionic-updates,bionic-security 2.28.0-0ubuntu0.18.04.3 all
-libwebkit2gtk-4.0-dev/bionic-updates,bionic-security 2.28.0-0ubuntu0.18.04.3 amd64
-libwebkit2gtk-4.0-doc/bionic-updates,bionic-security 2.28.0-0ubuntu0.18.04.3 all
+libwebkit2gtk-4.0-37/bionic-updates,bionic-security 2.28.1-0ubuntu0.18.04.1 amd64
+libwebkit2gtk-4.0-37-gtk2/bionic-updates,bionic-security 2.28.1-0ubuntu0.18.04.1 all
+libwebkit2gtk-4.0-dev/bionic-updates,bionic-security 2.28.1-0ubuntu0.18.04.1 amd64
+libwebkit2gtk-4.0-doc/bionic-updates,bionic-security 2.28.1-0ubuntu0.18.04.1 all
 libwebkitgtk-1.0-0/bionic 2.4.11-3ubuntu3 amd64
 libwebkitgtk-3.0-0/bionic 2.4.11-3ubuntu3 amd64
 libwebkitgtk-3.0-dev/bionic 2.4.11-3ubuntu3 amd64
@@ -43704,7 +43706,7 @@ live-manual-txt/bionic 2:20151217.1 all
 live-tools/bionic 1:20171207 all
 live-wrapper/bionic 0.7 all
 live-wrapper-doc/bionic 0.7 all
-livecd-rootfs/bionic-updates 2.525.41 amd64
+livecd-rootfs/bionic-updates 2.525.43 amd64
 livemedia-utils/bionic 2018.02.18-1 amd64
 livemix/bionic 0.49~rc5-0ubuntu3 amd64
 lives/bionic 2.8.7-1 amd64
@@ -64190,7 +64192,7 @@ webhook/bionic 2.5.0-2 amd64
 webhttrack/bionic 3.49.2-1build1 amd64
 webhttrack-common/bionic 3.49.2-1build1 all
 webissues/bionic 1.1.5-2 amd64
-webkit2gtk-driver/bionic-updates,bionic-security 2.28.0-0ubuntu0.18.04.3 amd64
+webkit2gtk-driver/bionic-updates,bionic-security 2.28.1-0ubuntu0.18.04.1 amd64
 weblint-perl/bionic 2.26+dfsg-1 all
 webmagick/bionic 2.02-11 all
 weboob/bionic 1.2-1 all
