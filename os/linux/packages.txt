@@ -5694,7 +5694,7 @@ fil-plugins/xenial 0.3.0-5 amd64
 file/xenial-updates,xenial-security,now 1:5.25-2ubuntu1.3 amd64 [installed]
 file-dbg/xenial-updates,xenial-security 1:5.25-2ubuntu1.3 amd64
 file-kanji/xenial 1.1-16 amd64
-file-roller/xenial-updates,xenial-security 3.16.5-0ubuntu1.3 amd64
+file-roller/xenial-updates,xenial-security 3.16.5-0ubuntu1.4 amd64
 filelight/xenial 4:15.12.3-0ubuntu1 amd64
 filepp/xenial,xenial 1.8.0-4 all
 fileschanged/xenial 0.6.5-1.2ubuntu1 amd64
