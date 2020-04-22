@@ -1115,7 +1115,7 @@ awesome/oldstable 4.0-1 amd64
 awesome-extra/oldstable 2016121101+nmu1 all
 awffull/oldstable 3.10.2-4+deb9u1 amd64
 awit-dbackup/oldstable 0.0.22-1 all
-awl-doc/oldstable 0.57-1 all
+awl-doc/oldstable 0.57-1+deb9u1 all
 aws-shell/oldstable 0.1.1-2 all
 awscli/oldstable 1.11.13-1 all
 awstats/oldstable,oldstable 7.6+dfsg-1+deb9u1 all
@@ -13220,7 +13220,7 @@ libavro-java/oldstable 1.7.7-2 all
 libavro-maven-plugin-java/oldstable 1.7.7-2 all
 libavutil-dev/oldstable,oldstable 7:3.2.14-1~deb9u1 amd64
 libavutil55/oldstable,oldstable 7:3.2.14-1~deb9u1 amd64
-libawl-php/oldstable 0.57-1 all
+libawl-php/oldstable 0.57-1+deb9u1 all
 libaws-bin/oldstable 3.3.2-2 amd64
 libaws-doc/oldstable 3.3.2-2 all
 libaws3.3.2/oldstable 3.3.2-2 amd64
