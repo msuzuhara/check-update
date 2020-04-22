@@ -1940,7 +1940,6 @@ grilo.i686                                           0.3.6-2.el8                
 grilo.x86_64                                         0.3.6-2.el8                                       AppStream       
 grilo-plugins.x86_64                                 0.3.8-1.el8                                       AppStream       
 groff-base.i686                                      1.22.3-18.el8                                     Stream-BaseOS   
-grub2-common.noarch                                  1:2.02-81.el8                                     Stream-BaseOS   
 grub2-efi-aa64-modules.noarch                        1:2.02-81.el8                                     Stream-BaseOS   
 grub2-efi-ia32.x86_64                                1:2.02-81.el8                                     Stream-BaseOS   
 grub2-efi-ia32-cdboot.x86_64                         1:2.02-81.el8                                     Stream-BaseOS   
@@ -1949,16 +1948,10 @@ grub2-efi-x64.x86_64                                 1:2.02-81.el8              
 grub2-efi-x64-cdboot.x86_64                          1:2.02-81.el8                                     Stream-BaseOS   
 grub2-efi-x64-modules.noarch                         1:2.02-81.el8                                     Stream-BaseOS   
 grub2-pc.i686                                        1:2.02-78.el8                                     Stream-BaseOS   
-grub2-pc.x86_64                                      1:2.02-81.el8                                     Stream-BaseOS   
-grub2-pc-modules.noarch                              1:2.02-81.el8                                     Stream-BaseOS   
 grub2-ppc64le-modules.noarch                         1:2.02-81.el8                                     Stream-BaseOS   
 grub2-tools.i686                                     1:2.02-78.el8                                     Stream-BaseOS   
-grub2-tools.x86_64                                   1:2.02-81.el8                                     Stream-BaseOS   
-grub2-tools-efi.x86_64                               1:2.02-81.el8                                     Stream-BaseOS   
 grub2-tools-extra.i686                               1:2.02-78.el8                                     Stream-BaseOS   
-grub2-tools-extra.x86_64                             1:2.02-81.el8                                     Stream-BaseOS   
 grub2-tools-minimal.i686                             1:2.02-78.el8                                     Stream-BaseOS   
-grub2-tools-minimal.x86_64                           1:2.02-81.el8                                     Stream-BaseOS   
 grubby.i686                                          8.40-37.el8                                       Stream-BaseOS   
 gsettings-desktop-schemas.i686                       3.32.0-4.el8                                      Stream-AppStream
 gsettings-desktop-schemas.x86_64                     3.32.0-4.el8                                      Stream-BaseOS   
@@ -3010,7 +3003,6 @@ libfreehand.x86_64                                   0.1.2-2.el8                
 libgcab1.i686                                        1.1-1.el8                                         BaseOS          
 libgcab1.x86_64                                      1.1-1.el8                                         BaseOS          
 libgcc.i686                                          8.3.1-5.el8.0.2                                   Stream-BaseOS   
-libgcc.x86_64                                        8.3.1-5.el8.0.2                                   Stream-BaseOS   
 libgcrypt.i686                                       1.8.3-4.el8                                       BaseOS          
 libgcrypt-devel.i686                                 1.8.3-4.el8                                       BaseOS          
 libgcrypt-devel.x86_64                               1.8.3-4.el8                                       BaseOS          
@@ -3047,7 +3039,6 @@ libglvnd-opengl.x86_64                               1:1.2.0-6.el8              
 libgnomekbd.i686                                     3.26.0-4.el8                                      AppStream       
 libgnomekbd.x86_64                                   3.26.0-4.el8                                      AppStream       
 libgomp.i686                                         8.3.1-5.el8.0.2                                   Stream-BaseOS   
-libgomp.x86_64                                       8.3.1-5.el8.0.2                                   Stream-BaseOS   
 libgomp-offload-nvptx.x86_64                         8.3.1-5.el8.0.2                                   Stream-BaseOS   
 libgovirt.i686                                       0.3.4-9.el8                                       AppStream       
 libgovirt.x86_64                                     0.3.4-9.el8                                       AppStream       
@@ -3182,7 +3173,6 @@ liblangtag.x86_64                                    0.6.2-5.el8                
 liblangtag-data.noarch                               0.6.2-5.el8                                       AppStream       
 liblayout.noarch                                     0.2.10-17.el8                                     AppStream       
 libldb.i686                                          2.0.7-3.el8                                       Stream-BaseOS   
-libldb.x86_64                                        2.0.7-3.el8                                       Stream-BaseOS   
 libldb-devel.i686                                    2.0.7-3.el8                                       Stream-BaseOS   
 libldb-devel.x86_64                                  2.0.7-3.el8                                       Stream-BaseOS   
 libloader.noarch                                     1.1.3-17.el8                                      AppStream       
@@ -3532,7 +3522,6 @@ libreoffice-x11.x86_64                               1:6.0.6.1-20.el8           
 libreoffice-xsltfilter.x86_64                        1:6.0.6.1-20.el8                                  Stream-AppStream
 libreofficekit.x86_64                                1:6.0.6.1-20.el8                                  Stream-AppStream
 librepo.i686                                         1.11.0-2.el8                                      Stream-BaseOS   
-librepo.x86_64                                       1.11.0-2.el8                                      Stream-BaseOS   
 libreport.i686                                       2.9.5-9.el8                                       AppStream       
 libreport.x86_64                                     2.9.5-9.el8                                       AppStream       
 libreport-anaconda.x86_64                            2.9.5-9.el8                                       AppStream       
@@ -3579,14 +3568,11 @@ libsecret.i686                                       0.18.6-1.el8               
 libsecret-devel.i686                                 0.18.6-1.el8                                      BaseOS          
 libsecret-devel.x86_64                               0.18.6-1.el8                                      BaseOS          
 libselinux.i686                                      2.9-3.el8                                         Stream-BaseOS   
-libselinux.x86_64                                    2.9-3.el8                                         Stream-BaseOS   
 libselinux-devel.i686                                2.9-3.el8                                         Stream-BaseOS   
 libselinux-devel.x86_64                              2.9-3.el8                                         Stream-BaseOS   
 libselinux-ruby.x86_64                               2.9-3.el8                                         Stream-AppStream
 libselinux-utils.i686                                2.9-2.1.el8                                       Stream-BaseOS   
-libselinux-utils.x86_64                              2.9-3.el8                                         Stream-BaseOS   
 libsemanage.i686                                     2.9-2.el8                                         Stream-BaseOS   
-libsemanage.x86_64                                   2.9-2.el8                                         Stream-BaseOS   
 libsepol.i686                                        2.9-1.el8                                         BaseOS          
 libsepol-devel.i686                                  2.9-1.el8                                         BaseOS          
 libsepol-devel.x86_64                                2.9-1.el8                                         BaseOS          
@@ -3623,20 +3609,14 @@ libss.i686                                           1.44.6-3.el8               
 libssh.i686                                          0.9.0-4.el8                                       BaseOS          
 libssh-devel.i686                                    0.9.0-4.el8                                       AppStream       
 libssh-devel.x86_64                                  0.9.0-4.el8                                       AppStream       
-libsss_autofs.x86_64                                 2.2.3-6.el8                                       Stream-BaseOS   
 libsss_certmap.i686                                  2.2.3-6.el8                                       Stream-BaseOS   
-libsss_certmap.x86_64                                2.2.3-6.el8                                       Stream-BaseOS   
 libsss_idmap.i686                                    2.2.3-6.el8                                       Stream-BaseOS   
-libsss_idmap.x86_64                                  2.2.3-6.el8                                       Stream-BaseOS   
 libsss_nss_idmap.i686                                2.2.3-6.el8                                       Stream-BaseOS   
-libsss_nss_idmap.x86_64                              2.2.3-6.el8                                       Stream-BaseOS   
 libsss_simpleifp.i686                                2.2.3-6.el8                                       Stream-BaseOS   
 libsss_simpleifp.x86_64                              2.2.3-6.el8                                       Stream-BaseOS   
-libsss_sudo.x86_64                                   2.2.3-6.el8                                       Stream-BaseOS   
 libstaroffice.i686                                   0.0.6-1.el8                                       AppStream       
 libstaroffice.x86_64                                 0.0.6-1.el8                                       AppStream       
 libstdc++.i686                                       8.3.1-5.el8.0.2                                   Stream-BaseOS   
-libstdc++.x86_64                                     8.3.1-5.el8.0.2                                   Stream-BaseOS   
 libstdc++-devel.i686                                 8.3.1-5.el8.0.2                                   Stream-AppStream
 libstdc++-devel.x86_64                               8.3.1-5.el8.0.2                                   Stream-AppStream
 libstdc++-docs.x86_64                                8.3.1-5.el8.0.2                                   Stream-AppStream
@@ -3670,7 +3650,6 @@ libtdb-devel.x86_64                                  1.4.2-2.el8                
 libteam.i686                                         1.29-1.el8                                        Stream-BaseOS   
 libteam-doc.x86_64                                   1.29-1.el8                                        Stream-BaseOS   
 libtevent.i686                                       0.10.0-2.el8                                      Stream-BaseOS   
-libtevent.x86_64                                     0.10.0-2.el8                                      Stream-BaseOS   
 libtevent-devel.i686                                 0.10.0-2.el8                                      Stream-BaseOS   
 libtevent-devel.x86_64                               0.10.0-2.el8                                      Stream-BaseOS   
 libthai.i686                                         0.1.27-2.el8                                      AppStream       
@@ -4463,7 +4442,6 @@ paktype-naqsh-fonts.noarch                           4.1-8.el8                  
 paktype-naskh-basic-fonts.noarch                     4.1-9.el8                                         AppStream       
 paktype-tehreer-fonts.noarch                         4.1-8.el8                                         AppStream       
 pam.i686                                             1.3.1-8.el8                                       Stream-BaseOS   
-pam.x86_64                                           1.3.1-8.el8                                       Stream-BaseOS   
 pam-devel.i686                                       1.3.1-8.el8                                       Stream-BaseOS   
 pam-devel.x86_64                                     1.3.1-8.el8                                       Stream-BaseOS   
 pam_cifscreds.x86_64                                 6.8-3.el8                                         Stream-BaseOS   
@@ -4888,7 +4866,6 @@ pkgconf-m4.noarch                                    1.4.2-1.el8                
 pkgconf-pkg-config.i686                              1.4.2-1.el8                                       BaseOS          
 pkgconf-pkg-config.x86_64                            1.4.2-1.el8                                       BaseOS          
 platform-python.i686                                 3.6.8-23.el8                                      Stream-AppStream
-platform-python.x86_64                               3.6.8-23.el8                                      Stream-BaseOS   
 platform-python-coverage.x86_64                      4.5.1-7.el8                                       AppStream       
 platform-python-debug.i686                           3.6.8-23.el8                                      Stream-AppStream
 platform-python-debug.x86_64                         3.6.8-23.el8                                      Stream-AppStream
@@ -4900,9 +4877,7 @@ plexus-containers-component-annotations.noarch       1.7.1-8.module_el8.0.0+39+6
 plexus-interpolation.noarch                          1.22-9.module_el8.0.0+39+6a9b6e22                 AppStream       
 plexus-sec-dispatcher.noarch                         1.4-26.module_el8.0.0+39+6a9b6e22                 AppStream       
 plexus-utils.noarch                                  3.1.0-3.module_el8.0.0+39+6a9b6e22                AppStream       
-plymouth.x86_64                                      0.9.3-16.el8                                      Stream-AppStream
 plymouth-core-libs.i686                              0.9.3-16.el8                                      Stream-AppStream
-plymouth-core-libs.x86_64                            0.9.3-16.el8                                      Stream-AppStream
 plymouth-graphics-libs.i686                          0.9.3-16.el8                                      Stream-AppStream
 plymouth-graphics-libs.x86_64                        0.9.3-16.el8                                      Stream-AppStream
 plymouth-plugin-fade-throbber.x86_64                 0.9.3-16.el8                                      Stream-AppStream
@@ -4911,7 +4886,6 @@ plymouth-plugin-script.x86_64                        0.9.3-16.el8               
 plymouth-plugin-space-flares.x86_64                  0.9.3-16.el8                                      Stream-AppStream
 plymouth-plugin-throbgress.x86_64                    0.9.3-16.el8                                      Stream-AppStream
 plymouth-plugin-two-step.x86_64                      0.9.3-16.el8                                      Stream-AppStream
-plymouth-scripts.x86_64                              0.9.3-16.el8                                      Stream-AppStream
 plymouth-system-theme.x86_64                         0.9.3-16.el8                                      Stream-AppStream
 plymouth-theme-charge.x86_64                         0.9.3-16.el8                                      Stream-AppStream
 plymouth-theme-fade-in.x86_64                        0.9.3-16.el8                                      Stream-AppStream
@@ -4941,12 +4915,10 @@ policycoreutils-python-utils.noarch                  2.9-3.el8_1.1              
 policycoreutils-restorecond.x86_64                   2.9-3.el8_1.1                                     BaseOS          
 policycoreutils-sandbox.x86_64                       2.9-3.el8_1.1                                     AppStream       
 polkit.i686                                          0.115-9.el8                                       Stream-BaseOS   
-polkit.x86_64                                        0.115-11.el8                                      Stream-BaseOS   
 polkit-devel.i686                                    0.115-11.el8                                      Stream-BaseOS   
 polkit-devel.x86_64                                  0.115-11.el8                                      Stream-BaseOS   
 polkit-docs.noarch                                   0.115-11.el8                                      Stream-BaseOS   
 polkit-libs.i686                                     0.115-11.el8                                      Stream-BaseOS   
-polkit-libs.x86_64                                   0.115-11.el8                                      Stream-BaseOS   
 polkit-pkla-compat.i686                              0.1-12.el8                                        Stream-BaseOS   
 poppler.i686                                         0.66.0-26.el8                                     AppStream       
 poppler.x86_64                                       0.66.0-26.el8                                     AppStream       
@@ -5193,12 +5165,9 @@ python3-libnl3.x86_64                                3.5.0-1.el8                
 python3-libnmstate.noarch                            0.1.3-1.el8                                       AppStream       
 python3-libproxy.noarch                              0.4.15-5.2.el8                                    BaseOS          
 python3-librepo.i686                                 1.10.3-3.el8                                      Stream-BaseOS   
-python3-librepo.x86_64                               1.11.0-2.el8                                      Stream-BaseOS   
 python3-libreport.x86_64                             2.9.5-9.el8                                       AppStream       
 python3-libs.i686                                    3.6.8-23.el8                                      Stream-BaseOS   
-python3-libs.x86_64                                  3.6.8-23.el8                                      Stream-BaseOS   
 python3-libselinux.i686                              2.9-2.1.el8                                       Stream-BaseOS   
-python3-libselinux.x86_64                            2.9-3.el8                                         Stream-BaseOS   
 python3-libsemanage.i686                             2.9-1.el8                                         Stream-BaseOS   
 python3-libsemanage.x86_64                           2.9-2.el8                                         Stream-BaseOS   
 python3-libsss_nss_idmap.x86_64                      2.2.3-6.el8                                       Stream-BaseOS   
@@ -5860,9 +5829,7 @@ sssd.x86_64                                          2.2.3-6.el8                
 sssd-ad.i686                                         2.2.0-19.el8                                      Stream-BaseOS   
 sssd-ad.x86_64                                       2.2.3-6.el8                                       Stream-BaseOS   
 sssd-client.i686                                     2.2.3-6.el8                                       Stream-BaseOS   
-sssd-client.x86_64                                   2.2.3-6.el8                                       Stream-BaseOS   
 sssd-common.i686                                     2.2.0-19.el8_1.1                                  BaseOS          
-sssd-common.x86_64                                   2.2.3-6.el8                                       Stream-BaseOS   
 sssd-common-pac.i686                                 2.2.0-19.el8                                      Stream-BaseOS   
 sssd-common-pac.x86_64                               2.2.3-6.el8                                       Stream-BaseOS   
 sssd-dbus.i686                                       2.2.0-19.el8                                      Stream-BaseOS   
@@ -5870,7 +5837,6 @@ sssd-dbus.x86_64                                     2.2.3-6.el8                
 sssd-ipa.i686                                        2.2.0-19.el8                                      Stream-BaseOS   
 sssd-ipa.x86_64                                      2.2.3-6.el8                                       Stream-BaseOS   
 sssd-kcm.i686                                        2.2.0-19.el8                                      Stream-BaseOS   
-sssd-kcm.x86_64                                      2.2.3-6.el8                                       Stream-BaseOS   
 sssd-krb5.i686                                       2.2.0-19.el8                                      Stream-BaseOS   
 sssd-krb5.x86_64                                     2.2.3-6.el8                                       Stream-BaseOS   
 sssd-krb5-common.i686                                2.2.0-19.el8                                      Stream-BaseOS   
@@ -5878,7 +5844,6 @@ sssd-krb5-common.x86_64                              2.2.3-6.el8                
 sssd-ldap.i686                                       2.2.0-19.el8                                      Stream-BaseOS   
 sssd-ldap.x86_64                                     2.2.3-6.el8                                       Stream-BaseOS   
 sssd-libwbclient.x86_64                              2.2.3-6.el8                                       Stream-BaseOS   
-sssd-nfs-idmap.x86_64                                2.2.3-6.el8                                       Stream-BaseOS   
 sssd-polkit-rules.i686                               2.2.0-19.el8                                      Stream-BaseOS   
 sssd-polkit-rules.x86_64                             2.2.3-6.el8                                       Stream-BaseOS   
 sssd-proxy.x86_64                                    2.2.3-6.el8                                       Stream-BaseOS   
