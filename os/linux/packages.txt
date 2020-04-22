@@ -1125,7 +1125,7 @@ awesome-extra/stable 2019021001 all
 awesome/stable 4.3-4 amd64
 awffull/stable 3.10.2-6 amd64
 awit-dbackup/stable 0.0.22-1 all
-awl-doc/stable 0.60-1 all
+awl-doc/stable 0.60-1+deb10u1 all
 aws-shell/stable 0.2.1-1 all
 awscli/stable 1.16.113-1 all
 awstats/stable 7.6+dfsg-2 all
@@ -8380,7 +8380,7 @@ git-ftp/stable 1.5.1+dfsg-1 all
 git-gui/stable 1:2.20.1-2+deb10u3 all
 git-hub/stable 1.0.1-1 all
 git-lfs/stable 2.7.1-1+deb10u1 amd64
-git-man/stable 1:2.20.1-2+deb10u3 all [upgradable from: 1:2.20.1-2+deb10u2]
+git-man/stable,now 1:2.20.1-2+deb10u3 all [installed,automatic]
 git-mediawiki/stable 1:2.20.1-2+deb10u3 all
 git-merge-changelog/stable 20140202+stable-4 amd64
 git-notifier/stable 1:0.6-25-1 all
@@ -8398,7 +8398,7 @@ git-secrets/stable 1.3.0-2 all
 git-sizer/stable 1.3.0+dfsg-1 amd64
 git-svn/stable 1:2.20.1-2+deb10u3 all
 git2cl/stable 1:2.0+git20120920-1 all
-git/stable 1:2.20.1-2+deb10u3 amd64 [upgradable from: 1:2.20.1-2+deb10u2]
+git/stable,now 1:2.20.1-2+deb10u3 amd64 [installed]
 gitano/stable 1.2-1 all
 gitg/stable 3.30.1-1 amd64
 github-backup/stable 1.20170301-2 amd64
@@ -14428,7 +14428,7 @@ libavro-maven-plugin-java/stable 1.7.7-3 all
 libavro23/stable 1.8.2-1 amd64
 libavutil-dev/stable,stable 7:4.1.4-1~deb10u1 amd64
 libavutil56/stable,stable 7:4.1.4-1~deb10u1 amd64
-libawl-php/stable 0.60-1 all
+libawl-php/stable 0.60-1+deb10u1 all
 libaws-bin/stable 19.0-2 amd64
 libaws-doc/stable 19.0-2 all
 libaws-signature4-perl/stable 1.02-1 all
@@ -32407,12 +32407,12 @@ libssh-gcrypt-4/stable 0.8.7-1 amd64
 libssh-gcrypt-dev/stable 0.8.7-1 amd64
 libssh2-1-dev/stable 1.8.0-2.1 amd64
 libssh2-1/stable,now 1.8.0-2.1 amd64 [installed,automatic]
-libssl-dev/stable,stable 1.1.1d-0+deb10u2 amd64
-libssl-doc/stable,stable 1.1.1d-0+deb10u2 all
+libssl-dev/stable 1.1.1d-0+deb10u3 amd64
+libssl-doc/stable 1.1.1d-0+deb10u3 all
 libssl-ocaml-dev/stable 0.5.5-1 amd64
 libssl-ocaml/stable 0.5.5-1 amd64
 libssl-utils-clojure/stable 0.8.3-2 all
-libssl1.1/stable,stable,now 1.1.1d-0+deb10u2 amd64 [installed]
+libssl1.1/stable 1.1.1d-0+deb10u3 amd64 [upgradable from: 1.1.1d-0+deb10u2]
 libssm-bin/stable 1.4.0-1 amd64
 libssm-dev/stable 1.4.0-1 amd64
 libssm2/stable 1.4.0-1 amd64
@@ -40126,7 +40126,7 @@ openssh-known-hosts/stable 0.6.2-1 all
 openssh-server/stable,now 1:7.9p1-10+deb10u2 amd64 [installed,automatic]
 openssh-sftp-server/stable,now 1:7.9p1-10+deb10u2 amd64 [installed,automatic]
 openssh-tests/stable 1:7.9p1-10+deb10u2 amd64
-openssl/stable,stable,now 1.1.1d-0+deb10u2 amd64 [installed,automatic]
+openssl/stable 1.1.1d-0+deb10u3 amd64 [upgradable from: 1.1.1d-0+deb10u2]
 openssn-data/stable 1.4-3 all
 openssn/stable 1.4-3 amd64
 openstack-clients/stable 0.25 all
