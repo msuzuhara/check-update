@@ -32412,7 +32412,7 @@ libssl-doc/stable 1.1.1d-0+deb10u3 all
 libssl-ocaml-dev/stable 0.5.5-1 amd64
 libssl-ocaml/stable 0.5.5-1 amd64
 libssl-utils-clojure/stable 0.8.3-2 all
-libssl1.1/stable 1.1.1d-0+deb10u3 amd64 [upgradable from: 1.1.1d-0+deb10u2]
+libssl1.1/stable,now 1.1.1d-0+deb10u3 amd64 [installed]
 libssm-bin/stable 1.4.0-1 amd64
 libssm-dev/stable 1.4.0-1 amd64
 libssm2/stable 1.4.0-1 amd64
@@ -40126,7 +40126,7 @@ openssh-known-hosts/stable 0.6.2-1 all
 openssh-server/stable,now 1:7.9p1-10+deb10u2 amd64 [installed,automatic]
 openssh-sftp-server/stable,now 1:7.9p1-10+deb10u2 amd64 [installed,automatic]
 openssh-tests/stable 1:7.9p1-10+deb10u2 amd64
-openssl/stable 1.1.1d-0+deb10u3 amd64 [upgradable from: 1.1.1d-0+deb10u2]
+openssl/stable,now 1.1.1d-0+deb10u3 amd64 [installed,automatic]
 openssn-data/stable 1.4-3 all
 openssn/stable 1.4-3 amd64
 openstack-clients/stable 0.25 all
