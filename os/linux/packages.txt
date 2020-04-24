@@ -1038,12 +1038,9 @@ gimp.x86_64                                          2:2.8.22-15.module_el8.0.0+
 gimp-devel.x86_64                                    2:2.8.22-15.module_el8.0.0+36+bb6a76a2           AppStream
 gimp-devel-tools.x86_64                              2:2.8.22-15.module_el8.0.0+36+bb6a76a2           AppStream
 gimp-libs.x86_64                                     2:2.8.22-15.module_el8.0.0+36+bb6a76a2           AppStream
-git.x86_64                                           2.18.2-2.el8_1                                   AppStream
 git-all.noarch                                       2.18.2-2.el8_1                                   AppStream
 git-clang-format.i686                                8.0.1-1.module_el8.1.0+215+a01033fb              AppStream
 git-clang-format.x86_64                              8.0.1-1.module_el8.1.0+215+a01033fb              AppStream
-git-core.x86_64                                      2.18.2-2.el8_1                                   AppStream
-git-core-doc.noarch                                  2.18.2-2.el8_1                                   AppStream
 git-daemon.x86_64                                    2.18.2-2.el8_1                                   AppStream
 git-email.noarch                                     2.18.2-2.el8_1                                   AppStream
 git-gui.noarch                                       2.18.2-2.el8_1                                   AppStream
@@ -4094,7 +4091,6 @@ perl-File-pushd.noarch                               1.014-6.module_el8.1.0+241+
 perl-Filter.x86_64                                   2:1.58-2.el8                                     AppStream
 perl-Filter-Simple.noarch                            0.94-2.el8                                       AppStream
 perl-GSSAPI.x86_64                                   0.28-23.el8                                      AppStream
-perl-Git.noarch                                      2.18.2-2.el8_1                                   AppStream
 perl-Git-SVN.noarch                                  2.18.2-2.el8_1                                   AppStream
 perl-HTML-Parser.x86_64                              3.72-14.el8                                      AppStream
 perl-HTML-Tagset.noarch                              3.20-33.el8                                      AppStream
