@@ -56922,7 +56922,7 @@ python3-unidiff/bionic 0.5.4-1 all
 python3-unittest2/bionic 1.1.0-6.1 all
 python3-uno/bionic-updates,bionic-security 1:6.0.7-0ubuntu0.18.04.10 amd64
 python3-unpaddedbase64/bionic 1.1.0-3 all
-python3-update-manager/bionic-updates,now 1:18.04.11.10 all [installed,automatic]
+python3-update-manager/bionic-updates 1:18.04.11.12 all [upgradable from: 1:18.04.11.10]
 python3-uranium/bionic 3.1.0-1 all
 python3-uritemplate/bionic 0.6-1ubuntu1 all
 python3-uritools/bionic 1.0.2-1 all
@@ -63537,8 +63537,8 @@ unyaffs/bionic 0.9.6-1build1 amd64
 unzip/bionic 6.0-21ubuntu1 amd64
 uoa-integration-tests/bionic 0.2+15.04.20150413.3-0ubuntu1 all
 update-inetd/bionic 4.44 all
-update-manager/bionic-updates 1:18.04.11.10 all
-update-manager-core/bionic-updates,now 1:18.04.11.10 all [installed,automatic]
+update-manager/bionic-updates 1:18.04.11.12 all
+update-manager-core/bionic-updates 1:18.04.11.12 all [upgradable from: 1:18.04.11.10]
 update-motd/bionic 3.6-0ubuntu1 all
 update-notifier/bionic-updates 3.192.1.7 amd64
 update-notifier-common/bionic-updates,now 3.192.1.7 all [installed,automatic]
