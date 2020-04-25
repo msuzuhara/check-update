@@ -4244,7 +4244,7 @@ distccmon-gnome/xenial 3.1-6.2 amd64
 distmp3/xenial,xenial 0.1.9.ds1-4.6 all
 distributed-net/xenial 2.9111.520-2 amd64
 distro-info/xenial-updates 0.14ubuntu0.1 amd64
-distro-info-data/xenial-updates,xenial-updates,xenial-security,xenial-security,now 0.28ubuntu0.13 all [installed]
+distro-info-data/xenial-updates,xenial-updates 0.28ubuntu0.14 all [upgradable from: 0.28ubuntu0.13]
 disulfinder/xenial 1.2.11-5 amd64
 disulfinder-data/xenial,xenial 1.2.11-5 all
 dita-ot/xenial,xenial 1.5.3-1 all
