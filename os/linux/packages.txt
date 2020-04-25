@@ -4460,7 +4460,7 @@ distcc-pump/bionic 3.1-6.3 amd64
 distccmon-gnome/bionic 3.1-6.3 amd64
 distributed-net/bionic 2.9112.521-1 amd64
 distro-info/bionic-updates,bionic-security 0.18ubuntu0.18.04.1 amd64
-distro-info-data/bionic-updates,bionic-security,now 0.37ubuntu0.6 all [installed,automatic]
+distro-info-data/bionic-updates 0.37ubuntu0.7 all [upgradable from: 0.37ubuntu0.6]
 disulfinder/bionic 1.2.11-7 amd64
 disulfinder-data/bionic 1.2.11-7 all
 dita-ot/bionic 1.5.3-2 all
@@ -63732,7 +63732,7 @@ varnish/bionic 5.2.1-1 amd64
 varnish-doc/bionic 5.2.1-1 all
 varnish-modules/bionic 0.12.1-1build1 amd64
 varscan/bionic 2.4.3+dfsg-1 amd64
-vaultlocker/bionic-backports 1.0.4-0ubuntu0.19.04.1~ubuntu18.04.1 all
+vaultlocker/bionic-backports 1.0.6-0ubuntu0.19.10.1~ubuntu18.04.1 all
 vbackup/bionic 1.0.1-1 all
 vbaexpress/bionic 1.2-0ubuntu6 amd64
 vbetool/bionic 1.1-4 amd64
