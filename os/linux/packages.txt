@@ -36382,7 +36382,7 @@ mailman3-doc/stable 3.2.1-1 all
 mailman3-full/stable 3.2.1-1 all
 mailman3-web/stable 0+20180916-8 all
 mailman3/stable 3.2.1-1 all
-mailman/stable 1:2.1.29-1 amd64
+mailman/stable 1:2.1.29-1+deb10u1 amd64
 mailnag/stable 1.2.1-1.1 all
 mailplate/stable 0.2-1 all
 mailscripts/stable 0.7-1 all
