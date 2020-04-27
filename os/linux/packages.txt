@@ -32856,7 +32856,7 @@ maildrop/oldstable 2.8.4-2 amd64
 mailfilter/oldstable 0.8.6-2 amd64
 mailfront/oldstable 1.16-1+b2 amd64
 mailgraph/oldstable 1.14-15 all
-mailman/oldstable 1:2.1.23-1+deb9u4 amd64
+mailman/oldstable 1:2.1.23-1+deb9u5 amd64
 mailman-api/oldstable 0.2.9-1 all
 mailnag/oldstable 1.2.1-1 all
 mailping/oldstable 0.0.4-3 all
