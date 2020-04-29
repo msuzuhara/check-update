@@ -12087,7 +12087,7 @@ ld10k1/oldstable 1.1.3-1 amd64
 ldap-account-manager/oldstable,oldstable 5.5-1+deb9u1 all
 ldap-account-manager-lamdaemon/oldstable,oldstable 5.5-1+deb9u1 all
 ldap-git-backup/oldstable 1.0.7-1 all
-ldap-utils/oldstable 2.4.44+dfsg-5+deb9u3 amd64
+ldap-utils/oldstable 2.4.44+dfsg-5+deb9u4 amd64
 ldap2dns/oldstable 0.3.1-3.2 amd64
 ldap2zone/oldstable 0.2-9+deb9u1 amd64
 ldapscripts/oldstable 2.0.7-2 all
@@ -23163,12 +23163,12 @@ liblcmaps0/oldstable 1.6.1-2+b3 amd64
 liblcms2-2/oldstable,oldstable 2.8-4+deb9u1 amd64
 liblcms2-dev/oldstable,oldstable 2.8-4+deb9u1 amd64
 liblcms2-utils/oldstable,oldstable 2.8-4+deb9u1 amd64
-libldap-2.4-2/oldstable,now 2.4.44+dfsg-5+deb9u3 amd64 [installed,automatic]
-libldap-2.4-2-dbg/oldstable 2.4.44+dfsg-5+deb9u3 amd64
-libldap-common/oldstable,now 2.4.44+dfsg-5+deb9u3 all [installed,automatic]
+libldap-2.4-2/oldstable 2.4.44+dfsg-5+deb9u4 amd64 [upgradable from: 2.4.44+dfsg-5+deb9u3]
+libldap-2.4-2-dbg/oldstable 2.4.44+dfsg-5+deb9u4 amd64
+libldap-common/oldstable 2.4.44+dfsg-5+deb9u4 all [upgradable from: 2.4.44+dfsg-5+deb9u3]
 libldap-java/oldstable 4.18+dfsg1-1 all
 libldap-ocaml-dev/oldstable 2.1.8-10+b3 amd64
-libldap2-dev/oldstable 2.4.44+dfsg-5+deb9u3 amd64
+libldap2-dev/oldstable 2.4.44+dfsg-5+deb9u4 amd64
 libldb-dev/oldstable,oldstable 2:1.1.27-1+deb9u1 amd64
 libldb1/oldstable,oldstable 2:1.1.27-1+deb9u1 amd64
 libldl2/oldstable 1:4.5.4-1 amd64
@@ -35790,16 +35790,16 @@ openigtlink-examples/oldstable 1.11.0-3 all
 openimageio-tools/oldstable 1.6.17~dfsg0-1+b2 amd64
 openipmi/oldstable 2.0.22-1.1 amd64
 openjade/oldstable 1.4devel1-21.3+b1 amd64
-openjdk-8-dbg/oldstable 8u242-b08-1~deb9u1 amd64
-openjdk-8-demo/oldstable 8u242-b08-1~deb9u1 amd64
-openjdk-8-doc/oldstable 8u242-b08-1~deb9u1 all
-openjdk-8-jdk/oldstable 8u242-b08-1~deb9u1 amd64
-openjdk-8-jdk-headless/oldstable 8u242-b08-1~deb9u1 amd64
-openjdk-8-jre/oldstable 8u242-b08-1~deb9u1 amd64
+openjdk-8-dbg/oldstable 8u252-b09-1~deb9u1 amd64
+openjdk-8-demo/oldstable 8u252-b09-1~deb9u1 amd64
+openjdk-8-doc/oldstable 8u252-b09-1~deb9u1 all
+openjdk-8-jdk/oldstable 8u252-b09-1~deb9u1 amd64
+openjdk-8-jdk-headless/oldstable 8u252-b09-1~deb9u1 amd64
+openjdk-8-jre/oldstable 8u252-b09-1~deb9u1 amd64
 openjdk-8-jre-dcevm/oldstable 8u112-1 amd64
-openjdk-8-jre-headless/oldstable 8u242-b08-1~deb9u1 amd64
-openjdk-8-jre-zero/oldstable 8u242-b08-1~deb9u1 amd64
-openjdk-8-source/oldstable 8u242-b08-1~deb9u1 all
+openjdk-8-jre-headless/oldstable 8u252-b09-1~deb9u1 amd64
+openjdk-8-jre-zero/oldstable 8u252-b09-1~deb9u1 amd64
+openjdk-8-source/oldstable 8u252-b09-1~deb9u1 all
 openjfx/oldstable 8u141-b14-3~deb9u1 amd64
 openjfx-source/oldstable 8u141-b14-3~deb9u1 all
 openlp/oldstable 2.4.4-2 all
@@ -46420,9 +46420,9 @@ slang-sqlite/oldstable 0.4.0-4 amd64
 slang-tess/oldstable 0.3.0-7 all
 slang-wildcard/oldstable 0.5.0-3 amd64
 slang-xfig/oldstable 0.2.0~.35-2 amd64
-slapd/oldstable 2.4.44+dfsg-5+deb9u3 amd64
-slapd-dbg/oldstable 2.4.44+dfsg-5+deb9u3 amd64
-slapd-smbk5pwd/oldstable 2.4.44+dfsg-5+deb9u3 amd64
+slapd/oldstable 2.4.44+dfsg-5+deb9u4 amd64
+slapd-dbg/oldstable 2.4.44+dfsg-5+deb9u4 amd64
+slapd-smbk5pwd/oldstable 2.4.44+dfsg-5+deb9u4 amd64
 slapi-nis/oldstable 0.56.1-1 amd64
 slapos-client/oldstable 1.3.18-1 all
 slapos-node-unofficial/oldstable 1.3.18-1 all
