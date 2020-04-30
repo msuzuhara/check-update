@@ -576,7 +576,8 @@ createrepo_c-devel.i686                              0.15.1-1.el8               
 createrepo_c-devel.x86_64                            0.15.1-1.el8                                      Stream-AppStream
 createrepo_c-libs.i686                               0.15.1-1.el8                                      Stream-AppStream
 createrepo_c-libs.x86_64                             0.15.1-1.el8                                      Stream-AppStream
-criu.x86_64                                          3.12-9.el8                                        AppStream       
+crit.x86_64                                          3.12-9.module_el8.1.0+294+988780c8                Stream-AppStream
+criu.x86_64                                          3.12-9.module_el8.1.0+294+988780c8                Stream-AppStream
 cronie-noanacron.x86_64                              1.5.2-4.el8                                       BaseOS          
 cryptsetup.x86_64                                    2.2.2-1.el8                                       Stream-BaseOS   
 cryptsetup-devel.i686                                2.2.2-1.el8                                       Stream-AppStream
@@ -2047,7 +2048,6 @@ initial-setup-gui.x86_64                             0.3.62.1-1.el8             
 inkscape.x86_64                                      0.92.3-12.module_el8.1.0+270+e6371a9b             AppStream       
 inkscape-docs.x86_64                                 0.92.3-12.module_el8.1.0+270+e6371a9b             AppStream       
 inkscape-view.x86_64                                 0.92.3-12.module_el8.1.0+270+e6371a9b             AppStream       
-insights-client.noarch                               3.0.13-1.el8_1                                    Stream-AppStream
 integritysetup.x86_64                                2.2.2-1.el8                                       Stream-BaseOS   
 intel-cmt-cat.i686                                   2.0.0-2.el8                                       BaseOS          
 intel-cmt-cat.x86_64                                 2.0.0-2.el8                                       BaseOS          
@@ -4679,6 +4679,7 @@ python3-configshell.noarch                           1:1.1.27-1.el8             
 python3-coverage.x86_64                              4.5.1-7.el8                                       AppStream       
 python3-cpio.noarch                                  0.1-29.el8                                        AppStream       
 python3-createrepo_c.x86_64                          0.15.1-1.el8                                      Stream-AppStream
+python3-criu.x86_64                                  3.12-9.module_el8.1.0+294+988780c8                Stream-AppStream
 python3-cups.x86_64                                  1.9.72-21.el8.0.1                                 AppStream       
 python3-custodia.noarch                              0.6.0-3.module_el8.1.0+253+3b90c921               AppStream       
 python3-dbus-client-gen.noarch                       0.4-1.el8                                         AppStream       
