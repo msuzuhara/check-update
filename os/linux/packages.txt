@@ -5296,7 +5296,7 @@ python-twisted-mail.x86_64                 8.2.0-3.2.el6                 base
 python-twisted-names.x86_64                8.2.0-3.2.el6                 base   
 python-twisted-news.x86_64                 8.2.0-3.2.el6                 base   
 python-twisted-runner.x86_64               8.2.0-3.2.el6                 base   
-python-twisted-web.x86_64                  8.2.0-5.el6_8                 base   
+python-twisted-web.x86_64                  8.2.0-6.el6_10                updates
 python-twisted-words.x86_64                8.2.0-3.2.el6                 base   
 python-urllib3.noarch                      1.10.2-3.el6                  base   
 python-urwid.x86_64                        1.1.1-1.el6                   base   
