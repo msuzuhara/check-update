@@ -25288,8 +25288,8 @@ liblcmaps0/stable 1.6.6-2 amd64
 liblcms2-2/stable 2.9-3 amd64
 liblcms2-dev/stable 2.9-3 amd64
 liblcms2-utils/stable 2.9-3 amd64
-libldap-2.4-2/stable 2.4.47+dfsg-3+deb10u2 amd64 [upgradable from: 2.4.47+dfsg-3+deb10u1]
-libldap-common/stable 2.4.47+dfsg-3+deb10u2 all [upgradable from: 2.4.47+dfsg-3+deb10u1]
+libldap-2.4-2/stable,now 2.4.47+dfsg-3+deb10u2 amd64 [installed,automatic]
+libldap-common/stable,now 2.4.47+dfsg-3+deb10u2 all [installed,automatic]
 libldap-java/stable 4.20.0+dfsg1-3 all
 libldap-ocaml-dev/stable 2.1.8-10+b6 amd64
 libldap2-dev/stable 2.4.47+dfsg-3+deb10u2 amd64
@@ -27522,8 +27522,8 @@ libnma0/stable 1.8.20-1.1 amd64
 libnmap-parser-perl/stable 1.37-1 all
 libnmz7-dev/stable 2.0.21-22 amd64
 libnmz7/stable 2.0.21-22 amd64
-libnode-dev/stable 10.15.2~dfsg-2 amd64
-libnode64/stable 10.15.2~dfsg-2 amd64
+libnode-dev/stable 10.19.0~dfsg1-1 amd64
+libnode64/stable 10.19.0~dfsg1-1 amd64
 libnodelet-dev/stable 1.9.16-1+b1 amd64
 libnodelet-topic-tools-dev/stable 1.9.16-1+b1 amd64
 libnodeletlib-dev/stable 1.9.16-1+b1 amd64
@@ -35694,7 +35694,7 @@ linux-image-4.19.0-6-rt-amd64-unsigned/stable 4.19.67-2+deb10u2 amd64
 linux-image-4.19.0-6-rt-amd64/stable 4.19.67-2+deb10u2 amd64
 linux-image-4.19.0-8-amd64-dbg/stable 4.19.98-1+deb10u1 amd64
 linux-image-4.19.0-8-amd64-unsigned/stable 4.19.98-1+deb10u1 amd64
-linux-image-4.19.0-8-amd64/stable 4.19.98-1+deb10u1 amd64 [upgradable from: 4.19.98-1]
+linux-image-4.19.0-8-amd64/stable,now 4.19.98-1+deb10u1 amd64 [installed,automatic]
 linux-image-4.19.0-8-cloud-amd64-dbg/stable 4.19.98-1+deb10u1 amd64
 linux-image-4.19.0-8-cloud-amd64-unsigned/stable 4.19.98-1+deb10u1 amd64
 linux-image-4.19.0-8-cloud-amd64/stable 4.19.98-1+deb10u1 amd64
@@ -39440,8 +39440,8 @@ node-ytdl-core/stable 0.2.4+dfsg-1 all
 node-zeparser/stable 0.0.7+dfsg-2 all
 node-zipfile/stable 0.5.12+ds-3 amd64
 nodeenv/stable 0.13.4-1 all
-nodejs-doc/stable 10.15.2~dfsg-2 all
-nodejs/stable 10.15.2~dfsg-2 amd64
+nodejs-doc/stable 10.19.0~dfsg1-1 all
+nodejs/stable 10.19.0~dfsg1-1 amd64
 nodeunit/stable 0.11.2+ds3-2 all
 nodm/stable 0.13-5 amd64
 noiz2sa-data/stable 0.51a-10.1 all
