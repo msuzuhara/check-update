@@ -2579,13 +2579,13 @@ choreonoid-doc/bionic 1.5.0+dfsg-0.1build3 all
 choreonoid-plugins-base/bionic 1.5.0+dfsg-0.1build3 amd64
 chroma/bionic 0.4.0+git20180402.51d250f-1 amd64
 chrome-gnome-shell/bionic 10-1 all
-chromium-browser/bionic-updates,bionic-security 80.0.3987.163-0ubuntu0.18.04.1 amd64
-chromium-browser-l10n/bionic-updates,bionic-security 80.0.3987.163-0ubuntu0.18.04.1 all
+chromium-browser/bionic-updates,bionic-security 81.0.4044.122-0ubuntu0.18.04.1 amd64
+chromium-browser-l10n/bionic-updates,bionic-security 81.0.4044.122-0ubuntu0.18.04.1 all
 chromium-bsu/bionic 0.9.16.1-1 amd64
 chromium-bsu-data/bionic 0.9.16.1-1 all
-chromium-chromedriver/bionic-updates,bionic-security 80.0.3987.163-0ubuntu0.18.04.1 amd64
-chromium-codecs-ffmpeg/bionic-updates,bionic-security 80.0.3987.163-0ubuntu0.18.04.1 amd64
-chromium-codecs-ffmpeg-extra/bionic-updates,bionic-security 80.0.3987.163-0ubuntu0.18.04.1 amd64
+chromium-chromedriver/bionic-updates,bionic-security 81.0.4044.122-0ubuntu0.18.04.1 amd64
+chromium-codecs-ffmpeg/bionic-updates,bionic-security 81.0.4044.122-0ubuntu0.18.04.1 amd64
+chromium-codecs-ffmpeg-extra/bionic-updates,bionic-security 81.0.4044.122-0ubuntu0.18.04.1 amd64
 chromium-lwn4chrome/bionic 1.0-2 all
 chromium-tt-rss-notifier/bionic 0.5.2-1 all
 chromium-ublock-origin/bionic 1.13.8+dfsg-1 all
@@ -18931,10 +18931,10 @@ libctpp2-dev/bionic 2.8.3-23 amd64
 libctypes-ocaml/bionic 0.7.0-1build2 amd64
 libctypes-ocaml-dev/bionic 0.7.0-1build2 amd64
 libcublas9.1/bionic 9.1.85-3ubuntu1 amd64
-libcuda1-331/bionic-updates 340.107-0ubuntu0.18.04.4 amd64
-libcuda1-331-updates/bionic-updates 340.107-0ubuntu0.18.04.4 amd64
-libcuda1-340/bionic-updates 340.107-0ubuntu0.18.04.4 amd64
-libcuda1-340-updates/bionic-updates 340.107-0ubuntu0.18.04.4 amd64
+libcuda1-331/bionic-updates 340.108-0ubuntu0.18.04.1 amd64
+libcuda1-331-updates/bionic-updates 340.108-0ubuntu0.18.04.1 amd64
+libcuda1-340/bionic-updates 340.108-0ubuntu0.18.04.1 amd64
+libcuda1-340-updates/bionic-updates 340.108-0ubuntu0.18.04.1 amd64
 libcuda1-346/bionic 352.63-0ubuntu3 amd64
 libcuda1-346-updates/bionic 352.63-0ubuntu3 amd64
 libcuda1-352/bionic 361.45.11-0ubuntu4 amd64
@@ -18943,7 +18943,7 @@ libcuda1-361/bionic 367.57-0ubuntu5 amd64
 libcuda1-361-updates/bionic 361.45.11-0ubuntu4 amd64
 libcuda1-367/bionic 375.82-0ubuntu3 amd64
 libcuda1-375/bionic 384.111-0ubuntu1 amd64
-libcuda1-384/bionic-updates 390.116-0ubuntu0.18.04.3 amd64
+libcuda1-384/bionic-updates 390.132-0ubuntu0.18.04.1 amd64
 libcudart9.1/bionic 9.1.85-3ubuntu1 amd64
 libcudf-dev/bionic 0.7-3build1 amd64
 libcudf-ocaml-dev/bionic 0.7-3build1 amd64
@@ -31217,38 +31217,46 @@ libnuxwdog-java/bionic 1.0.3-4 amd64
 libnuxwdog0/bionic 1.0.3-4 amd64
 libnvblas9.1/bionic 9.1.85-3ubuntu1 amd64
 libnvgraph9.1/bionic 9.1.85-3ubuntu1 amd64
-libnvidia-cfg1-390/bionic-updates 390.116-0ubuntu0.18.04.3 amd64
+libnvidia-cfg1-390/bionic-updates 390.132-0ubuntu0.18.04.1 amd64
 libnvidia-cfg1-418/bionic-updates 430.50-0ubuntu0.18.04.2 amd64
-libnvidia-cfg1-430/bionic-updates 430.50-0ubuntu0.18.04.2 amd64
+libnvidia-cfg1-430/bionic-updates 440.59-0ubuntu0.18.04.1 amd64
 libnvidia-cfg1-435/bionic-updates 435.21-0ubuntu0.18.04.2 amd64
-libnvidia-common-390/bionic-updates 390.116-0ubuntu0.18.04.3 all
+libnvidia-cfg1-440/bionic-updates 440.59-0ubuntu0.18.04.1 amd64
+libnvidia-common-390/bionic-updates 390.132-0ubuntu0.18.04.1 all
 libnvidia-common-418/bionic-updates 430.50-0ubuntu0.18.04.2 all
-libnvidia-common-430/bionic-updates 430.50-0ubuntu0.18.04.2 all
+libnvidia-common-430/bionic-updates 440.59-0ubuntu0.18.04.1 all
 libnvidia-common-435/bionic-updates 435.21-0ubuntu0.18.04.2 all
-libnvidia-compute-390/bionic-updates 390.116-0ubuntu0.18.04.3 amd64
+libnvidia-common-440/bionic-updates 440.59-0ubuntu0.18.04.1 all
+libnvidia-compute-390/bionic-updates 390.132-0ubuntu0.18.04.1 amd64
 libnvidia-compute-418/bionic-updates 430.50-0ubuntu0.18.04.2 amd64
-libnvidia-compute-430/bionic-updates 430.50-0ubuntu0.18.04.2 amd64
+libnvidia-compute-430/bionic-updates 440.59-0ubuntu0.18.04.1 amd64
 libnvidia-compute-435/bionic-updates 435.21-0ubuntu0.18.04.2 amd64
-libnvidia-decode-390/bionic-updates 390.116-0ubuntu0.18.04.3 amd64
+libnvidia-compute-440/bionic-updates 440.59-0ubuntu0.18.04.1 amd64
+libnvidia-decode-390/bionic-updates 390.132-0ubuntu0.18.04.1 amd64
 libnvidia-decode-418/bionic-updates 430.50-0ubuntu0.18.04.2 amd64
-libnvidia-decode-430/bionic-updates 430.50-0ubuntu0.18.04.2 amd64
+libnvidia-decode-430/bionic-updates 440.59-0ubuntu0.18.04.1 amd64
 libnvidia-decode-435/bionic-updates 435.21-0ubuntu0.18.04.2 amd64
-libnvidia-encode-390/bionic-updates 390.116-0ubuntu0.18.04.3 amd64
+libnvidia-decode-440/bionic-updates 440.59-0ubuntu0.18.04.1 amd64
+libnvidia-encode-390/bionic-updates 390.132-0ubuntu0.18.04.1 amd64
 libnvidia-encode-418/bionic-updates 430.50-0ubuntu0.18.04.2 amd64
-libnvidia-encode-430/bionic-updates 430.50-0ubuntu0.18.04.2 amd64
+libnvidia-encode-430/bionic-updates 440.59-0ubuntu0.18.04.1 amd64
 libnvidia-encode-435/bionic-updates 435.21-0ubuntu0.18.04.2 amd64
-libnvidia-fbc1-390/bionic-updates 390.116-0ubuntu0.18.04.3 amd64
+libnvidia-encode-440/bionic-updates 440.59-0ubuntu0.18.04.1 amd64
+libnvidia-fbc1-390/bionic-updates 390.132-0ubuntu0.18.04.1 amd64
 libnvidia-fbc1-418/bionic-updates 430.50-0ubuntu0.18.04.2 amd64
-libnvidia-fbc1-430/bionic-updates 430.50-0ubuntu0.18.04.2 amd64
+libnvidia-fbc1-430/bionic-updates 440.59-0ubuntu0.18.04.1 amd64
 libnvidia-fbc1-435/bionic-updates 435.21-0ubuntu0.18.04.2 amd64
-libnvidia-gl-390/bionic-updates 390.116-0ubuntu0.18.04.3 amd64
+libnvidia-fbc1-440/bionic-updates 440.59-0ubuntu0.18.04.1 amd64
+libnvidia-gl-390/bionic-updates 390.132-0ubuntu0.18.04.1 amd64
 libnvidia-gl-418/bionic-updates 430.50-0ubuntu0.18.04.2 amd64
-libnvidia-gl-430/bionic-updates 430.50-0ubuntu0.18.04.2 amd64
+libnvidia-gl-430/bionic-updates 440.59-0ubuntu0.18.04.1 amd64
 libnvidia-gl-435/bionic-updates 435.21-0ubuntu0.18.04.2 amd64
-libnvidia-ifr1-390/bionic-updates 390.116-0ubuntu0.18.04.3 amd64
+libnvidia-gl-440/bionic-updates 440.59-0ubuntu0.18.04.1 amd64
+libnvidia-ifr1-390/bionic-updates 390.132-0ubuntu0.18.04.1 amd64
 libnvidia-ifr1-418/bionic-updates 430.50-0ubuntu0.18.04.2 amd64
-libnvidia-ifr1-430/bionic-updates 430.50-0ubuntu0.18.04.2 amd64
+libnvidia-ifr1-430/bionic-updates 440.59-0ubuntu0.18.04.1 amd64
 libnvidia-ifr1-435/bionic-updates 435.21-0ubuntu0.18.04.2 amd64
+libnvidia-ifr1-440/bionic-updates 440.59-0ubuntu0.18.04.1 amd64
 libnvpair1linux/bionic-updates 0.7.5-1ubuntu16.9 amd64
 libnvrtc9.1/bionic 9.1.85-3ubuntu1 amd64
 libnvtoolsext1/bionic 9.1.85-3ubuntu1 amd64
@@ -38634,8 +38642,8 @@ libxnee-dev/bionic 3.19-2 amd64
 libxnee0/bionic 3.19-2 amd64
 libxneur/bionic 0.20.0-1 amd64
 libxneur-dev/bionic 0.20.0-1 amd64
-libxnvctrl-dev/bionic-updates 390.77-0ubuntu0.18.04.1 amd64
-libxnvctrl0/bionic-updates 390.77-0ubuntu0.18.04.1 amd64
+libxnvctrl-dev/bionic-updates 440.44-0ubuntu0.18.04.1 amd64
+libxnvctrl0/bionic-updates 440.44-0ubuntu0.18.04.1 amd64
 libxom-java/bionic 1.2.10-1 all
 libxom-java-doc/bionic 1.2.10-1 all
 libxorg-gtest-data/bionic 0.7.1-0ubuntu1 all
@@ -40110,7 +40118,7 @@ linux-gcp-tools-5.0.0-1029/bionic-updates,bionic-security 5.0.0-1029.30~18.04.1 
 linux-gcp-tools-5.0.0-1031/bionic-updates,bionic-security 5.0.0-1031.32 amd64
 linux-gcp-tools-5.0.0-1033/bionic-updates,bionic-security 5.0.0-1033.34 amd64
 linux-gcp-tools-5.0.0-1034/bionic-updates,bionic-security 5.0.0-1034.35 amd64
-linux-generic/bionic-updates,bionic-security 4.15.0.99.89 amd64 [upgradable from: 4.15.0.96.87]
+linux-generic/bionic-updates,bionic-security,now 4.15.0.99.89 amd64 [installed]
 linux-generic-hwe-16.04/bionic-updates,bionic-security 4.15.0.99.89 amd64
 linux-generic-hwe-16.04-edge/bionic-updates,bionic-security 4.15.0.99.89 amd64
 linux-generic-hwe-18.04/bionic-updates,bionic-security 5.3.0.51.104 amd64
@@ -40501,14 +40509,14 @@ linux-headers-4.15.0-76-lowlatency/bionic-updates,bionic-security 4.15.0-76.86 a
 linux-headers-4.15.0-88/bionic-updates,bionic-security 4.15.0-88.88 all
 linux-headers-4.15.0-88-generic/bionic-updates,bionic-security 4.15.0-88.88 amd64
 linux-headers-4.15.0-88-lowlatency/bionic-updates,bionic-security 4.15.0-88.88 amd64
-linux-headers-4.15.0-91/bionic-updates,bionic-security,now 4.15.0-91.92 all [installed,automatic]
-linux-headers-4.15.0-91-generic/bionic-updates,bionic-security,now 4.15.0-91.92 amd64 [installed,automatic]
+linux-headers-4.15.0-91/bionic-updates,bionic-security,now 4.15.0-91.92 all [installed,auto-removable]
+linux-headers-4.15.0-91-generic/bionic-updates,bionic-security,now 4.15.0-91.92 amd64 [installed,auto-removable]
 linux-headers-4.15.0-91-lowlatency/bionic-updates,bionic-security 4.15.0-91.92 amd64
 linux-headers-4.15.0-96/bionic-updates,bionic-security,now 4.15.0-96.97 all [installed,automatic]
 linux-headers-4.15.0-96-generic/bionic-updates,bionic-security,now 4.15.0-96.97 amd64 [installed,automatic]
 linux-headers-4.15.0-96-lowlatency/bionic-updates,bionic-security 4.15.0-96.97 amd64
-linux-headers-4.15.0-99/bionic-updates,bionic-security 4.15.0-99.100 all
-linux-headers-4.15.0-99-generic/bionic-updates,bionic-security 4.15.0-99.100 amd64
+linux-headers-4.15.0-99/bionic-updates,bionic-security,now 4.15.0-99.100 all [installed,automatic]
+linux-headers-4.15.0-99-generic/bionic-updates,bionic-security,now 4.15.0-99.100 amd64 [installed,automatic]
 linux-headers-4.15.0-99-lowlatency/bionic-updates,bionic-security 4.15.0-99.100 amd64
 linux-headers-4.18.0-1004-gcp/bionic-updates,bionic-security 4.18.0-1004.5~18.04.1 amd64
 linux-headers-4.18.0-1005-gcp/bionic-updates,bionic-security 4.18.0-1005.6~18.04.1 amd64
@@ -40770,7 +40778,7 @@ linux-headers-azure-edge/bionic-updates,bionic-security 5.3.0.1020.20 amd64
 linux-headers-azure-lts-18.04/bionic-updates,bionic-security 4.15.0.1082.53 amd64
 linux-headers-gcp/bionic-updates,bionic-security 5.3.0.1018.17 amd64
 linux-headers-gcp-edge/bionic-updates,bionic-security 5.3.0.1018.17 amd64
-linux-headers-generic/bionic-updates,bionic-security 4.15.0.99.89 amd64 [upgradable from: 4.15.0.96.87]
+linux-headers-generic/bionic-updates,bionic-security,now 4.15.0.99.89 amd64 [installed,automatic]
 linux-headers-generic-hwe-16.04/bionic-updates,bionic-security 4.15.0.99.89 amd64
 linux-headers-generic-hwe-16.04-edge/bionic-updates,bionic-security 4.15.0.99.89 amd64
 linux-headers-generic-hwe-18.04/bionic-updates,bionic-security 5.3.0.51.104 amd64
@@ -41149,11 +41157,11 @@ linux-image-4.15.0-76-generic/bionic-updates,bionic-security,now 4.15.0-76.86 am
 linux-image-4.15.0-76-lowlatency/bionic-updates,bionic-security 4.15.0-76.86 amd64
 linux-image-4.15.0-88-generic/bionic-updates,bionic-security,now 4.15.0-88.88 amd64 [residual-config]
 linux-image-4.15.0-88-lowlatency/bionic-updates,bionic-security 4.15.0-88.88 amd64
-linux-image-4.15.0-91-generic/bionic-updates,bionic-security,now 4.15.0-91.92 amd64 [installed,automatic]
+linux-image-4.15.0-91-generic/bionic-updates,bionic-security,now 4.15.0-91.92 amd64 [installed,auto-removable]
 linux-image-4.15.0-91-lowlatency/bionic-updates,bionic-security 4.15.0-91.92 amd64
 linux-image-4.15.0-96-generic/bionic-updates,bionic-security,now 4.15.0-96.97 amd64 [installed,automatic]
 linux-image-4.15.0-96-lowlatency/bionic-updates,bionic-security 4.15.0-96.97 amd64
-linux-image-4.15.0-99-generic/bionic-updates,bionic-security 4.15.0-99.100 amd64
+linux-image-4.15.0-99-generic/bionic-updates,bionic-security,now 4.15.0-99.100 amd64 [installed,automatic]
 linux-image-4.15.0-99-lowlatency/bionic-updates,bionic-security 4.15.0-99.100 amd64
 linux-image-4.18.0-1004-gcp/bionic-updates,bionic-security 4.18.0-1004.5~18.04.1 amd64
 linux-image-4.18.0-1005-gcp/bionic-updates,bionic-security 4.18.0-1005.6~18.04.1 amd64
@@ -41384,7 +41392,7 @@ linux-image-extra-virtual-hwe-18.04/bionic-updates,bionic-security 5.3.0.51.104 
 linux-image-extra-virtual-hwe-18.04-edge/bionic-updates,bionic-security 5.3.0.51.104 amd64
 linux-image-gcp/bionic-updates,bionic-security 5.3.0.1018.17 amd64
 linux-image-gcp-edge/bionic-updates,bionic-security 5.3.0.1018.17 amd64
-linux-image-generic/bionic-updates,bionic-security 4.15.0.99.89 amd64 [upgradable from: 4.15.0.96.87]
+linux-image-generic/bionic-updates,bionic-security,now 4.15.0.99.89 amd64 [installed,automatic]
 linux-image-generic-hwe-16.04/bionic-updates,bionic-security 4.15.0.99.89 amd64
 linux-image-generic-hwe-16.04-edge/bionic-updates,bionic-security 4.15.0.99.89 amd64
 linux-image-generic-hwe-18.04/bionic-updates,bionic-security 5.3.0.51.104 amd64
@@ -42171,11 +42179,11 @@ linux-modules-4.15.0-76-generic/bionic-updates,bionic-security,now 4.15.0-76.86 
 linux-modules-4.15.0-76-lowlatency/bionic-updates,bionic-security 4.15.0-76.86 amd64
 linux-modules-4.15.0-88-generic/bionic-updates,bionic-security,now 4.15.0-88.88 amd64 [residual-config]
 linux-modules-4.15.0-88-lowlatency/bionic-updates,bionic-security 4.15.0-88.88 amd64
-linux-modules-4.15.0-91-generic/bionic-updates,bionic-security,now 4.15.0-91.92 amd64 [installed,automatic]
+linux-modules-4.15.0-91-generic/bionic-updates,bionic-security,now 4.15.0-91.92 amd64 [installed,auto-removable]
 linux-modules-4.15.0-91-lowlatency/bionic-updates,bionic-security 4.15.0-91.92 amd64
 linux-modules-4.15.0-96-generic/bionic-updates,bionic-security,now 4.15.0-96.97 amd64 [installed,automatic]
 linux-modules-4.15.0-96-lowlatency/bionic-updates,bionic-security 4.15.0-96.97 amd64
-linux-modules-4.15.0-99-generic/bionic-updates,bionic-security 4.15.0-99.100 amd64
+linux-modules-4.15.0-99-generic/bionic-updates,bionic-security,now 4.15.0-99.100 amd64 [installed,automatic]
 linux-modules-4.15.0-99-lowlatency/bionic-updates,bionic-security 4.15.0-99.100 amd64
 linux-modules-4.18.0-1004-gcp/bionic-updates,bionic-security 4.18.0-1004.5~18.04.1 amd64
 linux-modules-4.18.0-1005-gcp/bionic-updates,bionic-security 4.18.0-1005.6~18.04.1 amd64
@@ -42529,9 +42537,9 @@ linux-modules-extra-4.15.0-72-generic/bionic-updates,bionic-security,now 4.15.0-
 linux-modules-extra-4.15.0-74-generic/bionic-updates,bionic-security,now 4.15.0-74.84 amd64 [residual-config]
 linux-modules-extra-4.15.0-76-generic/bionic-updates,bionic-security,now 4.15.0-76.86 amd64 [residual-config]
 linux-modules-extra-4.15.0-88-generic/bionic-updates,bionic-security,now 4.15.0-88.88 amd64 [residual-config]
-linux-modules-extra-4.15.0-91-generic/bionic-updates,bionic-security,now 4.15.0-91.92 amd64 [installed,automatic]
+linux-modules-extra-4.15.0-91-generic/bionic-updates,bionic-security,now 4.15.0-91.92 amd64 [installed,auto-removable]
 linux-modules-extra-4.15.0-96-generic/bionic-updates,bionic-security,now 4.15.0-96.97 amd64 [installed,automatic]
-linux-modules-extra-4.15.0-99-generic/bionic-updates,bionic-security 4.15.0-99.100 amd64
+linux-modules-extra-4.15.0-99-generic/bionic-updates,bionic-security,now 4.15.0-99.100 amd64 [installed,automatic]
 linux-modules-extra-4.18.0-1004-gcp/bionic-updates,bionic-security 4.18.0-1004.5~18.04.1 amd64
 linux-modules-extra-4.18.0-1005-gcp/bionic-updates,bionic-security 4.18.0-1005.6~18.04.1 amd64
 linux-modules-extra-4.18.0-1006-azure/bionic-updates,bionic-security 4.18.0-1006.6~18.04.1 amd64
@@ -47975,18 +47983,18 @@ nux-tools/bionic-updates 4.0.8+18.04.20180622.2-0ubuntu1 amd64
 nuxwdog/bionic 1.0.3-4 amd64
 nvi/bionic 1.81.6-13 amd64
 nvi-doc/bionic 1.81.6-13 all
-nvidia-331/bionic-updates 340.107-0ubuntu0.18.04.4 amd64
-nvidia-331-dev/bionic-updates 340.107-0ubuntu0.18.04.4 amd64
-nvidia-331-updates/bionic-updates 340.107-0ubuntu0.18.04.4 amd64
-nvidia-331-updates-dev/bionic-updates 340.107-0ubuntu0.18.04.4 amd64
-nvidia-331-updates-uvm/bionic-updates 340.107-0ubuntu0.18.04.4 amd64
-nvidia-331-uvm/bionic-updates 340.107-0ubuntu0.18.04.4 amd64
-nvidia-340/bionic-updates 340.107-0ubuntu0.18.04.4 amd64
-nvidia-340-dev/bionic-updates 340.107-0ubuntu0.18.04.4 amd64
-nvidia-340-updates/bionic-updates 340.107-0ubuntu0.18.04.4 amd64
-nvidia-340-updates-dev/bionic-updates 340.107-0ubuntu0.18.04.4 amd64
+nvidia-331/bionic-updates 340.108-0ubuntu0.18.04.1 amd64
+nvidia-331-dev/bionic-updates 340.108-0ubuntu0.18.04.1 amd64
+nvidia-331-updates/bionic-updates 340.108-0ubuntu0.18.04.1 amd64
+nvidia-331-updates-dev/bionic-updates 340.108-0ubuntu0.18.04.1 amd64
+nvidia-331-updates-uvm/bionic-updates 340.108-0ubuntu0.18.04.1 amd64
+nvidia-331-uvm/bionic-updates 340.108-0ubuntu0.18.04.1 amd64
+nvidia-340/bionic-updates 340.108-0ubuntu0.18.04.1 amd64
+nvidia-340-dev/bionic-updates 340.108-0ubuntu0.18.04.1 amd64
+nvidia-340-updates/bionic-updates 340.108-0ubuntu0.18.04.1 amd64
+nvidia-340-updates-dev/bionic-updates 340.108-0ubuntu0.18.04.1 amd64
 nvidia-340-updates-uvm/bionic 340.96-0ubuntu2 amd64
-nvidia-340-uvm/bionic-updates 340.107-0ubuntu0.18.04.4 amd64
+nvidia-340-uvm/bionic-updates 340.108-0ubuntu0.18.04.1 amd64
 nvidia-346/bionic 352.63-0ubuntu3 amd64
 nvidia-346-dev/bionic 352.63-0ubuntu3 amd64
 nvidia-346-updates/bionic 352.63-0ubuntu3 amd64
@@ -48003,48 +48011,55 @@ nvidia-367/bionic 375.82-0ubuntu3 amd64
 nvidia-367-dev/bionic 375.82-0ubuntu3 amd64
 nvidia-375/bionic 384.111-0ubuntu1 amd64
 nvidia-375-dev/bionic 384.111-0ubuntu1 amd64
-nvidia-384/bionic-updates 390.116-0ubuntu0.18.04.3 amd64
-nvidia-384-dev/bionic-updates 390.116-0ubuntu0.18.04.3 amd64
+nvidia-384/bionic-updates 390.132-0ubuntu0.18.04.1 amd64
+nvidia-384-dev/bionic-updates 390.132-0ubuntu0.18.04.1 amd64
 nvidia-cg-dev/bionic 3.1.0013-3 amd64
 nvidia-cg-doc/bionic 3.1.0013-3 all
 nvidia-cg-toolkit/bionic 3.1.0013-3 amd64
 nvidia-common/bionic-updates 1:0.5.2.5 amd64
-nvidia-compute-utils-390/bionic-updates 390.116-0ubuntu0.18.04.3 amd64
+nvidia-compute-utils-390/bionic-updates 390.132-0ubuntu0.18.04.1 amd64
 nvidia-compute-utils-418/bionic-updates 430.50-0ubuntu0.18.04.2 amd64
-nvidia-compute-utils-430/bionic-updates 430.50-0ubuntu0.18.04.2 amd64
+nvidia-compute-utils-430/bionic-updates 440.59-0ubuntu0.18.04.1 amd64
 nvidia-compute-utils-435/bionic-updates 435.21-0ubuntu0.18.04.2 amd64
+nvidia-compute-utils-440/bionic-updates 440.59-0ubuntu0.18.04.1 amd64
 nvidia-cuda-dev/bionic 9.1.85-3ubuntu1 amd64
 nvidia-cuda-doc/bionic 9.1.85-3ubuntu1 all
 nvidia-cuda-gdb/bionic 9.1.85-3ubuntu1 amd64
 nvidia-cuda-toolkit/bionic 9.1.85-3ubuntu1 amd64
-nvidia-dkms-390/bionic-updates 390.116-0ubuntu0.18.04.3 amd64
+nvidia-dkms-390/bionic-updates 390.132-0ubuntu0.18.04.1 amd64
 nvidia-dkms-418/bionic-updates 430.50-0ubuntu0.18.04.2 amd64
-nvidia-dkms-430/bionic-updates 430.50-0ubuntu0.18.04.2 amd64
+nvidia-dkms-430/bionic-updates 440.59-0ubuntu0.18.04.1 amd64
 nvidia-dkms-435/bionic-updates 435.21-0ubuntu0.18.04.2 amd64
-nvidia-driver-390/bionic-updates 390.116-0ubuntu0.18.04.3 amd64
+nvidia-dkms-440/bionic-updates 440.59-0ubuntu0.18.04.1 amd64
+nvidia-driver-390/bionic-updates 390.132-0ubuntu0.18.04.1 amd64
 nvidia-driver-418/bionic-updates 430.50-0ubuntu0.18.04.2 amd64
-nvidia-driver-430/bionic-updates 430.50-0ubuntu0.18.04.2 amd64
+nvidia-driver-430/bionic-updates 440.59-0ubuntu0.18.04.1 amd64
 nvidia-driver-435/bionic-updates 435.21-0ubuntu0.18.04.2 amd64
-nvidia-headless-390/bionic-updates 390.116-0ubuntu0.18.04.3 amd64
+nvidia-driver-440/bionic-updates 440.59-0ubuntu0.18.04.1 amd64
+nvidia-headless-390/bionic-updates 390.132-0ubuntu0.18.04.1 amd64
 nvidia-headless-418/bionic-updates 430.50-0ubuntu0.18.04.2 amd64
-nvidia-headless-430/bionic-updates 430.50-0ubuntu0.18.04.2 amd64
+nvidia-headless-430/bionic-updates 440.59-0ubuntu0.18.04.1 amd64
 nvidia-headless-435/bionic-updates 435.21-0ubuntu0.18.04.2 amd64
-nvidia-headless-no-dkms-390/bionic-updates 390.116-0ubuntu0.18.04.3 amd64
+nvidia-headless-440/bionic-updates 440.59-0ubuntu0.18.04.1 amd64
+nvidia-headless-no-dkms-390/bionic-updates 390.132-0ubuntu0.18.04.1 amd64
 nvidia-headless-no-dkms-418/bionic-updates 430.50-0ubuntu0.18.04.2 amd64
-nvidia-headless-no-dkms-430/bionic-updates 430.50-0ubuntu0.18.04.2 amd64
+nvidia-headless-no-dkms-430/bionic-updates 440.59-0ubuntu0.18.04.1 amd64
 nvidia-headless-no-dkms-435/bionic-updates 435.21-0ubuntu0.18.04.2 amd64
-nvidia-kernel-common-390/bionic-updates 390.116-0ubuntu0.18.04.3 amd64
+nvidia-headless-no-dkms-440/bionic-updates 440.59-0ubuntu0.18.04.1 amd64
+nvidia-kernel-common-390/bionic-updates 390.132-0ubuntu0.18.04.1 amd64
 nvidia-kernel-common-418/bionic-updates 430.50-0ubuntu0.18.04.2 amd64
-nvidia-kernel-common-430/bionic-updates 430.50-0ubuntu0.18.04.2 amd64
+nvidia-kernel-common-430/bionic-updates 440.59-0ubuntu0.18.04.1 amd64
 nvidia-kernel-common-435/bionic-updates 435.21-0ubuntu0.18.04.2 amd64
-nvidia-kernel-source-390/bionic-updates 390.116-0ubuntu0.18.04.3 amd64
+nvidia-kernel-common-440/bionic-updates 440.59-0ubuntu0.18.04.1 amd64
+nvidia-kernel-source-390/bionic-updates 390.132-0ubuntu0.18.04.1 amd64
 nvidia-kernel-source-418/bionic-updates 430.50-0ubuntu0.18.04.2 amd64
-nvidia-kernel-source-430/bionic-updates 430.50-0ubuntu0.18.04.2 amd64
+nvidia-kernel-source-430/bionic-updates 440.59-0ubuntu0.18.04.1 amd64
 nvidia-kernel-source-435/bionic-updates 435.21-0ubuntu0.18.04.2 amd64
-nvidia-libopencl1-331/bionic-updates 340.107-0ubuntu0.18.04.4 amd64
-nvidia-libopencl1-331-updates/bionic-updates 340.107-0ubuntu0.18.04.4 amd64
-nvidia-libopencl1-340/bionic-updates 340.107-0ubuntu0.18.04.4 amd64
-nvidia-libopencl1-340-updates/bionic-updates 340.107-0ubuntu0.18.04.4 amd64
+nvidia-kernel-source-440/bionic-updates 440.59-0ubuntu0.18.04.1 amd64
+nvidia-libopencl1-331/bionic-updates 340.108-0ubuntu0.18.04.1 amd64
+nvidia-libopencl1-331-updates/bionic-updates 340.108-0ubuntu0.18.04.1 amd64
+nvidia-libopencl1-340/bionic-updates 340.108-0ubuntu0.18.04.1 amd64
+nvidia-libopencl1-340-updates/bionic-updates 340.108-0ubuntu0.18.04.1 amd64
 nvidia-libopencl1-346/bionic 352.63-0ubuntu3 amd64
 nvidia-libopencl1-346-updates/bionic 352.63-0ubuntu3 amd64
 nvidia-libopencl1-352/bionic 361.45.11-0ubuntu4 amd64
@@ -48053,14 +48068,14 @@ nvidia-libopencl1-361/bionic 367.57-0ubuntu5 amd64
 nvidia-libopencl1-361-updates/bionic 361.45.11-0ubuntu4 amd64
 nvidia-libopencl1-367/bionic 375.82-0ubuntu3 amd64
 nvidia-libopencl1-375/bionic 384.111-0ubuntu1 amd64
-nvidia-libopencl1-384/bionic-updates 390.116-0ubuntu0.18.04.3 amd64
+nvidia-libopencl1-384/bionic-updates 390.132-0ubuntu0.18.04.1 amd64
 nvidia-modprobe/bionic 384.111-2 amd64
 nvidia-nsight/bionic 9.1.85-3ubuntu1 amd64
 nvidia-opencl-dev/bionic 9.1.85-3ubuntu1 amd64
-nvidia-opencl-icd-331/bionic-updates 340.107-0ubuntu0.18.04.4 amd64
-nvidia-opencl-icd-331-updates/bionic-updates 340.107-0ubuntu0.18.04.4 amd64
-nvidia-opencl-icd-340/bionic-updates 340.107-0ubuntu0.18.04.4 amd64
-nvidia-opencl-icd-340-updates/bionic-updates 340.107-0ubuntu0.18.04.4 amd64
+nvidia-opencl-icd-331/bionic-updates 340.108-0ubuntu0.18.04.1 amd64
+nvidia-opencl-icd-331-updates/bionic-updates 340.108-0ubuntu0.18.04.1 amd64
+nvidia-opencl-icd-340/bionic-updates 340.108-0ubuntu0.18.04.1 amd64
+nvidia-opencl-icd-340-updates/bionic-updates 340.108-0ubuntu0.18.04.1 amd64
 nvidia-opencl-icd-346/bionic 352.63-0ubuntu3 amd64
 nvidia-opencl-icd-346-updates/bionic 352.63-0ubuntu3 amd64
 nvidia-opencl-icd-352/bionic 361.45.11-0ubuntu4 amd64
@@ -48069,14 +48084,15 @@ nvidia-opencl-icd-361/bionic 367.57-0ubuntu5 amd64
 nvidia-opencl-icd-361-updates/bionic 361.45.11-0ubuntu4 amd64
 nvidia-opencl-icd-367/bionic 375.82-0ubuntu3 amd64
 nvidia-opencl-icd-375/bionic 384.111-0ubuntu1 amd64
-nvidia-opencl-icd-384/bionic-updates 390.116-0ubuntu0.18.04.3 amd64
+nvidia-opencl-icd-384/bionic-updates 390.132-0ubuntu0.18.04.1 amd64
 nvidia-prime/bionic-updates 0.8.8.2 all
 nvidia-profiler/bionic 9.1.85-3ubuntu1 amd64
-nvidia-settings/bionic-updates 390.77-0ubuntu0.18.04.1 amd64
-nvidia-utils-390/bionic-updates 390.116-0ubuntu0.18.04.3 amd64
+nvidia-settings/bionic-updates 440.44-0ubuntu0.18.04.1 amd64
+nvidia-utils-390/bionic-updates 390.132-0ubuntu0.18.04.1 amd64
 nvidia-utils-418/bionic-updates 430.50-0ubuntu0.18.04.2 amd64
-nvidia-utils-430/bionic-updates 430.50-0ubuntu0.18.04.2 amd64
+nvidia-utils-430/bionic-updates 440.59-0ubuntu0.18.04.1 amd64
 nvidia-utils-435/bionic-updates 435.21-0ubuntu0.18.04.2 amd64
+nvidia-utils-440/bionic-updates 440.59-0ubuntu0.18.04.1 amd64
 nvidia-visual-profiler/bionic 9.1.85-3ubuntu1 amd64
 nvme-cli/bionic-updates 1.5-1ubuntu1 amd64
 nvptx-tools/bionic 0.20180301-1 amd64
@@ -48848,7 +48864,7 @@ overlayroot/bionic-updates,now 0.40ubuntu1.1 all [installed,automatic]
 ovirt-guest-agent/bionic 1.0.13.dfsg-2 all
 ovito/bionic 2.9.0+dfsg1-5ubuntu2 amd64
 ovito-doc/bionic 2.9.0+dfsg1-5ubuntu2 all
-ovmf/bionic-updates 0~20180205.c0d9813c-2ubuntu0.1 all
+ovmf/bionic-updates,bionic-security 0~20180205.c0d9813c-2ubuntu0.2 all
 ovn-central/bionic-updates 2.9.5-0ubuntu0.18.04.1 amd64
 ovn-common/bionic-updates 2.9.5-0ubuntu0.18.04.1 amd64
 ovn-controller-vtep/bionic-updates 2.9.5-0ubuntu0.18.04.1 amd64
@@ -57406,9 +57422,9 @@ qelectrotech-data/bionic 1:0.5-2 all
 qelectrotech-examples/bionic 1:0.5-2 all
 qemu/bionic-updates,bionic-security 1:2.11+dfsg-1ubuntu7.23 amd64
 qemu-block-extra/bionic-updates,bionic-security 1:2.11+dfsg-1ubuntu7.23 amd64
-qemu-efi/bionic-updates 0~20180205.c0d9813c-2ubuntu0.1 all
-qemu-efi-aarch64/bionic-updates 0~20180205.c0d9813c-2ubuntu0.1 all
-qemu-efi-arm/bionic-updates 0~20180205.c0d9813c-2ubuntu0.1 all
+qemu-efi/bionic-updates,bionic-security 0~20180205.c0d9813c-2ubuntu0.2 all
+qemu-efi-aarch64/bionic-updates,bionic-security 0~20180205.c0d9813c-2ubuntu0.2 all
+qemu-efi-arm/bionic-updates,bionic-security 0~20180205.c0d9813c-2ubuntu0.2 all
 qemu-guest-agent/bionic-updates,bionic-security 1:2.11+dfsg-1ubuntu7.23 amd64
 qemu-kvm/bionic-updates,bionic-security 1:2.11+dfsg-1ubuntu7.23 amd64
 qemu-slof/bionic 20170724+dfsg-1ubuntu1 all
@@ -65498,10 +65514,11 @@ xserver-xorg-video-nouveau/bionic 1:1.0.15-2 amd64
 xserver-xorg-video-nouveau-hwe-16.04/bionic 3:14.1 amd64
 xserver-xorg-video-nouveau-hwe-16.04-dbg/bionic 3:14.1 amd64
 xserver-xorg-video-nouveau-hwe-18.04/bionic-updates 1:1.0.16-1~18.04.1 amd64
-xserver-xorg-video-nvidia-390/bionic-updates 390.116-0ubuntu0.18.04.3 amd64
+xserver-xorg-video-nvidia-390/bionic-updates 390.132-0ubuntu0.18.04.1 amd64
 xserver-xorg-video-nvidia-418/bionic-updates 430.50-0ubuntu0.18.04.2 amd64
-xserver-xorg-video-nvidia-430/bionic-updates 430.50-0ubuntu0.18.04.2 amd64
+xserver-xorg-video-nvidia-430/bionic-updates 440.59-0ubuntu0.18.04.1 amd64
 xserver-xorg-video-nvidia-435/bionic-updates 435.21-0ubuntu0.18.04.2 amd64
+xserver-xorg-video-nvidia-440/bionic-updates 440.59-0ubuntu0.18.04.1 amd64
 xserver-xorg-video-openchrome/bionic 1:0.6.0-3 amd64
 xserver-xorg-video-openchrome-hwe-16.04/bionic 3:14.1 amd64
 xserver-xorg-video-qxl/bionic 0.1.5-2build1 amd64
