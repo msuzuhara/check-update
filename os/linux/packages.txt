@@ -217,8 +217,6 @@ anaconda-tui.x86_64                       21.48.22.158-1.el7.centos      base
 anaconda-user-help.noarch                 1:7.5.3-1.el7                  base   
 anaconda-widgets.x86_64                   21.48.22.158-1.el7.centos      base   
 anaconda-widgets-devel.x86_64             21.48.22.158-1.el7.centos      base   
-ansible.noarch                            2.4.2.0-2.el7                  extras 
-ansible-doc.noarch                        2.4.2.0-2.el7                  extras 
 ant.noarch                                1.9.4-2.el7                    base   
 ant-antlr.noarch                          1.9.4-2.el7                    base   
 ant-antunit.noarch                        1.2-10.el7                     base   
@@ -379,8 +377,8 @@ atlas-sse2.i686                           3.10.1-12.el7                  base
 atlas-sse3.i686                           3.10.1-12.el7                  base   
 atlas-static.i686                         3.10.1-12.el7                  base   
 atlas-static.x86_64                       3.10.1-12.el7                  base   
-atomic.x86_64                             1:1.22.1-29.gitb507039.el7     extras 
-atomic-registries.x86_64                  1:1.22.1-29.gitb507039.el7     extras 
+atomic.x86_64                             1:1.22.1-33.gitb507039.el7_8   extras 
+atomic-registries.x86_64                  1:1.22.1-33.gitb507039.el7_8   extras 
 attica.i686                               0.4.2-1.el7                    base   
 attica.x86_64                             0.4.2-1.el7                    base   
 attica-devel.i686                         0.4.2-1.el7                    base   
@@ -745,7 +743,7 @@ bsh-utils.noarch                          1.3.0-29.el7                   base
 btrfs-progs.i686                          4.9.1-1.el7                    base   
 btrfs-progs-devel.i686                    4.9.1-1.el7                    base   
 btrfs-progs-devel.x86_64                  4.9.1-1.el7                    base   
-buildah.x86_64                            1.9.0-2.el7.centos             extras 
+buildah.x86_64                            1.11.6-8.el7_8                 extras 
 buildnumber-maven-plugin.noarch           1.2-7.el7                      base   
 buildnumber-maven-plugin-javadoc.noarch   1.2-7.el7                      base   
 bwidget.noarch                            1.9.0-6.el7                    base   
@@ -932,21 +930,21 @@ cobertura.noarch                          1.9.4.1-9.el7                  base
 cobertura-javadoc.noarch                  1.9.4.1-9.el7                  base   
 cockpit.x86_64                            195.6-1.el7.centos             base   
 cockpit-bridge.x86_64                     195.6-1.el7.centos             base   
-cockpit-composer.noarch                   1-1.el7                        extras 
-cockpit-dashboard.x86_64                  195.1-1.el7.centos.0.1         extras 
+cockpit-composer.noarch                   9-1.el7                        extras 
+cockpit-dashboard.x86_64                  195.6-1.el7.centos             extras 
 cockpit-doc.x86_64                        195.6-1.el7.centos             base   
-cockpit-docker.x86_64                     195.1-1.el7.centos.0.1         extras 
-cockpit-kubernetes.x86_64                 195.1-1.el7.centos.0.1         extras 
+cockpit-docker.x86_64                     195.6-1.el7.centos             extras 
+cockpit-kubernetes.x86_64                 195.6-1.el7.centos             extras 
 cockpit-machines.x86_64                   176-4.el7.centos               extras 
-cockpit-machines.noarch                   195.1-1.el7.centos.0.1         extras 
+cockpit-machines.noarch                   195.6-1.el7.centos             extras 
 cockpit-machines-ovirt.noarch             195.6-1.el7.centos             base   
 cockpit-packagekit.x86_64                 176-4.el7.centos               extras 
-cockpit-packagekit.noarch                 195.1-1.el7.centos.0.1         extras 
-cockpit-pcp.x86_64                        195.1-1.el7.centos.0.1         extras 
-cockpit-storaged.noarch                   195.1-1.el7.centos.0.1         extras 
+cockpit-packagekit.noarch                 195.6-1.el7.centos             extras 
+cockpit-pcp.x86_64                        195.6-1.el7.centos             extras 
+cockpit-storaged.noarch                   195.6-1.el7.centos             extras 
 cockpit-subscriptions.noarch              160-1.el7.centos               extras 
 cockpit-system.noarch                     195.6-1.el7.centos             base   
-cockpit-tests.x86_64                      195.1-1.el7.centos.0.1         extras 
+cockpit-tests.x86_64                      195.6-1.el7.centos             extras 
 cockpit-ws.i686                           195.6-1.el7.centos             base   
 cockpit-ws.x86_64                         195.6-1.el7.centos             base   
 codehaus-parent.noarch                    4-5.el7                        base   
@@ -1053,15 +1051,16 @@ compat-poppler022-glib.i686               0.22.5-4.el7                   base
 compat-poppler022-glib.x86_64             0.22.5-4.el7                   base   
 compat-poppler022-qt.i686                 0.22.5-4.el7                   base   
 compat-poppler022-qt.x86_64               0.22.5-4.el7                   base   
-composer-cli.x86_64                       19.7.35-1.el7                  extras 
+composer-cli.x86_64                       19.7.39-1.el7                  extras 
 comps-extras.noarch                       1:7-2.el7                      base   
 conman.x86_64                             0.2.8-1.el7                    base   
+conmon.x86_64                             2:2.0.8-1.el7                  extras 
 conntrack-tools.x86_64                    1.4.4-7.el7                    base   
 console-setup.noarch                      1.111-1.el7                    base   
-container-selinux.noarch                  2:2.107-3.el7                  extras 
+container-selinux.noarch                  2:2.119.1-1.c57a6f9.el7        extras 
 container-storage-setup.noarch            0.11.0-2.git5eaf76c.el7        extras 
 containernetworking-plugins.x86_64        0.8.1-4.el7.centos             extras 
-containers-common.x86_64                  1:0.1.37-3.el7.centos          extras 
+containers-common.x86_64                  1:0.1.40-7.el7_8               extras 
 control-center.i686                       1:3.28.1-6.el7                 base   
 control-center.x86_64                     1:3.28.1-6.el7                 base   
 control-center-filesystem.x86_64          1:3.28.1-6.el7                 base   
@@ -1304,14 +1303,11 @@ docbook-utils-pdf.noarch                  0.6.14-36.el7                  base
 docbook5-schemas.noarch                   5.0-10.el7                     base   
 docbook5-style-xsl.noarch                 1.78.1-4.el7                   base   
 docbook5-style-xsl-extensions.noarch      1.78.1-4.el7                   base   
-docker.x86_64                             2:1.13.1-109.gitcccb291.el7.centos
-                                                                         extras 
-docker-client.x86_64                      2:1.13.1-109.gitcccb291.el7.centos
-                                                                         extras 
+docker.x86_64                             2:1.13.1-161.git64e9980.el7_8  extras 
+docker-client.x86_64                      2:1.13.1-161.git64e9980.el7_8  extras 
 docker-client-latest.x86_64               1.13.1-58.git87f2fab.el7.centos
                                                                          extras 
-docker-common.x86_64                      2:1.13.1-109.gitcccb291.el7.centos
-                                                                         extras 
+docker-common.x86_64                      2:1.13.1-161.git64e9980.el7_8  extras 
 docker-distribution.x86_64                2.6.2-2.git48294d9.el7         extras 
 docker-latest.x86_64                      1.13.1-58.git87f2fab.el7.centos
                                                                          extras 
@@ -1319,15 +1315,11 @@ docker-latest-logrotate.x86_64            1.13.1-58.git87f2fab.el7.centos
                                                                          extras 
 docker-latest-v1.10-migrator.x86_64       1.13.1-58.git87f2fab.el7.centos
                                                                          extras 
-docker-logrotate.x86_64                   2:1.13.1-109.gitcccb291.el7.centos
-                                                                         extras 
-docker-lvm-plugin.x86_64                  2:1.13.1-109.gitcccb291.el7.centos
-                                                                         extras 
-docker-novolume-plugin.x86_64             2:1.13.1-109.gitcccb291.el7.centos
-                                                                         extras 
+docker-logrotate.x86_64                   2:1.13.1-161.git64e9980.el7_8  extras 
+docker-lvm-plugin.x86_64                  2:1.13.1-161.git64e9980.el7_8  extras 
+docker-novolume-plugin.x86_64             2:1.13.1-161.git64e9980.el7_8  extras 
 docker-registry.x86_64                    0.9.1-7.el7                    extras 
-docker-v1.10-migrator.x86_64              2:1.13.1-109.gitcccb291.el7.centos
-                                                                         extras 
+docker-v1.10-migrator.x86_64              2:1.13.1-161.git64e9980.el7_8  extras 
 dom4j.noarch                              1.6.1-20.el7                   base   
 dom4j-demo.noarch                         1.6.1-20.el7                   base   
 dom4j-javadoc.noarch                      1.6.1-20.el7                   base   
@@ -1347,10 +1339,10 @@ dovecot-pigeonhole.x86_64                 1:2.2.36-6.el7                 base
 doxygen.x86_64                            1:1.8.5-4.el7                  base   
 doxygen-doxywizard.x86_64                 1:1.8.5-4.el7                  base   
 doxygen-latex.x86_64                      1:1.8.5-4.el7                  base   
-dpdk.x86_64                               18.11.2-1.el7                  extras 
-dpdk-devel.x86_64                         18.11.2-1.el7                  extras 
-dpdk-doc.noarch                           18.11.2-1.el7                  extras 
-dpdk-tools.x86_64                         18.11.2-1.el7                  extras 
+dpdk.x86_64                               18.11.5-1.el7_8                extras 
+dpdk-devel.x86_64                         18.11.5-1.el7_8                extras 
+dpdk-doc.noarch                           18.11.5-1.el7_8                extras 
+dpdk-tools.x86_64                         18.11.5-1.el7_8                extras 
 dracut-caps.x86_64                        033-568.el7                    base   
 dracut-config-generic.x86_64              033-568.el7                    base   
 dracut-fips.x86_64                        033-568.el7                    base   
@@ -1767,6 +1759,10 @@ fuse-devel.i686                           2.9.2-11.el7                   base
 fuse-devel.x86_64                         2.9.2-11.el7                   base   
 fuse-libs.i686                            2.9.2-11.el7                   base   
 fuse-libs.x86_64                          2.9.2-11.el7                   base   
+fuse-overlayfs.x86_64                     0.7.2-6.el7_8                  extras 
+fuse3.x86_64                              3.6.1-4.el7                    extras 
+fuse3-devel.x86_64                        3.6.1-4.el7                    extras 
+fuse3-libs.x86_64                         3.6.1-4.el7                    extras 
 fuseiso.x86_64                            20070708-15.el7                base   
 fusesource-pom.noarch                     1.9-7.el7                      base   
 fwupd.i686                                1.0.8-5.el7                    base   
@@ -1936,7 +1932,6 @@ gimp-help-sv.noarch                       2.8.2-1.el7                    base
 gimp-help-zh_CN.noarch                    2.8.2-1.el7                    base   
 gimp-libs.i686                            2:2.8.22-1.el7                 base   
 gimp-libs.x86_64                          2:2.8.22-1.el7                 base   
-git.x86_64                                1.8.3.1-22.el7_8               updates
 git-all.noarch                            1.8.3.1-22.el7_8               updates
 git-bzr.noarch                            1.8.3.1-22.el7_8               updates
 git-cvs.noarch                            1.8.3.1-22.el7_8               updates
@@ -4051,9 +4046,9 @@ libcollection-devel.x86_64                0.7.0-32.el7                   base
 libcom_err.i686                           1.42.9-17.el7                  base   
 libcom_err-devel.i686                     1.42.9-17.el7                  base   
 libcom_err-devel.x86_64                   1.42.9-17.el7                  base   
-libcomps.x86_64                           0.1.8-13.el7                   extras 
-libcomps-devel.x86_64                     0.1.8-13.el7                   extras 
-libcomps-doc.noarch                       0.1.8-13.el7                   extras 
+libcomps.x86_64                           0.1.8-14.el7                   extras 
+libcomps-devel.x86_64                     0.1.8-14.el7                   extras 
+libcomps-doc.noarch                       0.1.8-14.el7                   extras 
 libconfig.i686                            1.4.9-5.el7                    base   
 libconfig.x86_64                          1.4.9-5.el7                    base   
 libconfig-devel.i686                      1.4.9-5.el7                    base   
@@ -5667,12 +5662,12 @@ libwsman-devel.i686                       2.6.3-6.git4391e5c.el7_6       base
 libwsman-devel.x86_64                     2.6.3-6.git4391e5c.el7_6       base   
 libwsman1.i686                            2.6.3-6.git4391e5c.el7_6       base   
 libwsman1.x86_64                          2.6.3-6.git4391e5c.el7_6       base   
-libwvstreams.i686                         4.6.1-11.el7                   base   
-libwvstreams.x86_64                       4.6.1-11.el7                   base   
-libwvstreams-devel.i686                   4.6.1-11.el7                   base   
-libwvstreams-devel.x86_64                 4.6.1-11.el7                   base   
-libwvstreams-static.i686                  4.6.1-11.el7                   base   
-libwvstreams-static.x86_64                4.6.1-11.el7                   base   
+libwvstreams.i686                         4.6.1-12.el7_8                 updates
+libwvstreams.x86_64                       4.6.1-12.el7_8                 updates
+libwvstreams-devel.i686                   4.6.1-12.el7_8                 updates
+libwvstreams-devel.x86_64                 4.6.1-12.el7_8                 updates
+libwvstreams-static.i686                  4.6.1-12.el7_8                 updates
+libwvstreams-static.x86_64                4.6.1-12.el7_8                 updates
 libxcb.i686                               1.13-1.el7                     base   
 libxcb.x86_64                             1.13-1.el7                     base   
 libxcb-devel.i686                         1.13-1.el7                     base   
@@ -5788,7 +5783,7 @@ lohit-punjabi-fonts.noarch                2.5.3-2.el7                    base
 lohit-tamil-fonts.noarch                  2.5.3-2.el7                    base   
 lohit-telugu-fonts.noarch                 2.5.3-3.el7                    base   
 lorax.x86_64                              19.7.26-1.el7.centos           base   
-lorax-composer.x86_64                     19.7.35-1.el7                  extras 
+lorax-composer.x86_64                     19.7.39-1.el7                  extras 
 lpsolve.x86_64                            5.5.2.0-8.el7                  base   
 lpsolve-devel.i686                        5.5.2.0-8.el7                  base   
 lpsolve-devel.x86_64                      5.5.2.0-8.el7                  base   
@@ -7048,7 +7043,6 @@ perl-FreezeThaw.noarch                    0.5001-10.el7                  base
 perl-GD.x86_64                            2.49-3.el7                     base   
 perl-GD-Barcode.noarch                    1.15-15.el7                    base   
 perl-GSSAPI.x86_64                        0.28-9.el7                     base   
-perl-Git.noarch                           1.8.3.1-22.el7_8               updates
 perl-Git-SVN.noarch                       1.8.3.1-22.el7_8               updates
 perl-HTML-Format.noarch                   2.10-7.el7                     base   
 perl-HTML-FormatText-WithLinks.noarch     0.14-8.el7                     base   
@@ -7434,8 +7428,9 @@ pngcrush.x86_64                           1.7.59-4.el7                   base
 pngnq.x86_64                              1.1-9.el7                      base   
 pnm2ppa.x86_64                            1:1.04-28.el7                  base   
 po4a.noarch                               0.44-10.el7                    base   
-podman.x86_64                             1.4.4-4.el7.centos             extras 
-podman-docker.noarch                      1.4.4-4.el7.centos             extras 
+podman.x86_64                             1.6.4-16.el7_8                 extras 
+podman-docker.noarch                      1.6.4-16.el7_8                 extras 
+podman-remote.x86_64                      1.6.4-16.el7_8                 extras 
 policycoreutils-devel.i686                2.5-34.el7                     base   
 policycoreutils-devel.x86_64              2.5-34.el7                     base   
 policycoreutils-gui.x86_64                2.5-34.el7                     base   
@@ -7665,8 +7660,8 @@ python-dtopt.noarch                       0.1-13.el7                     base
 python-ecdsa.noarch                       0.11-3.el7.centos              extras 
 python-enum34.noarch                      1.0.4-1.el7                    base   
 python-ethtool.x86_64                     0.8-8.el7                      base   
-python-flask.noarch                       1:0.10.1-4.el7                 extras 
-python-flask-doc.noarch                   1:0.10.1-4.el7                 extras 
+python-flask.noarch                       1:0.10.1-5.el7_7               extras 
+python-flask-doc.noarch                   1:0.10.1-5.el7_7               extras 
 python-fpconst.noarch                     0.7.3-12.el7                   base   
 python-gevent.x86_64                      1.0-3.el7                      extras 
 python-gobject.x86_64                     3.22.0-1.el7_4.1               base   
@@ -7701,7 +7696,7 @@ python-kitchen-doc.noarch                 1.1.1-5.el7                    base
 python-kmod.x86_64                        0.9-4.el7                      base   
 python-krbV.x86_64                        1.0.90-8.el7                   base   
 python-ldap.x86_64                        2.4.15-2.el7                   base   
-python-libcomps-doc.noarch                0.1.8-13.el7                   extras 
+python-libcomps-doc.noarch                0.1.8-14.el7                   extras 
 python-libguestfs.x86_64                  1:1.40.2-9.el7                 base   
 python-libipa_hbac.x86_64                 1.16.4-37.el7                  base   
 python-librepo.x86_64                     1.8.1-7.el7                    base   
@@ -7847,7 +7842,7 @@ python2-keycloak-httpd-client-install.noarch
                                           0.8-1.el7                      base   
 python2-koji.noarch                       1.15.1-1.el7.centos            extras 
 python2-koji-cli-plugins.noarch           1.15.1-1.el7.centos            extras 
-python2-libcomps.x86_64                   0.1.8-13.el7                   extras 
+python2-libcomps.x86_64                   0.1.8-14.el7                   extras 
 python2-libdnf.x86_64                     0.22.5-1.el7_6                 extras 
 python2-libfdt.x86_64                     1.4.6-1.el7                    extras 
 python2-multilib.noarch                   1.2-2.el7.centos               extras 
@@ -7868,6 +7863,7 @@ python3-devel.i686                        3.6.8-13.el7                   base
 python3-devel.x86_64                      3.6.8-13.el7                   base   
 python3-idle.i686                         3.6.8-13.el7                   base   
 python3-idle.x86_64                       3.6.8-13.el7                   base   
+python3-libcomps.x86_64                   0.1.8-14.el7                   extras 
 python3-libs.i686                         3.6.8-13.el7                   base   
 python3-libs.x86_64                       3.6.8-13.el7                   base   
 python3-pip.noarch                        9.0.3-7.el7_7                  updates
@@ -8316,7 +8312,7 @@ rubygem-thor.noarch                       0.19.1-1.el7                   base
 rubygem-thor-doc.noarch                   0.19.1-1.el7                   base   
 rubygems.noarch                           2.0.14.1-36.el7                base   
 rubygems-devel.noarch                     2.0.14.1-36.el7                base   
-runc.x86_64                               1.0.0-65.rc8.el7.centos        extras 
+runc.x86_64                               1.0.0-67.rc10.el7_8            extras 
 rusers.x86_64                             0.17-81.el7                    base   
 rusers-server.x86_64                      0.17-81.el7                    base   
 rwho.x86_64                               0.17-54.el7                    base   
@@ -8548,7 +8544,7 @@ sisu-plexus-shim.noarch                   2.3.0-11.el7                   base
 sisu-registries.noarch                    2.3.0-11.el7                   base   
 sisu-spi-registry.noarch                  2.3.0-11.el7                   base   
 skkdic.noarch                             20130104-6.T1435.el7           base   
-skopeo.x86_64                             1:0.1.37-3.el7.centos          extras 
+skopeo.x86_64                             1:0.1.40-7.el7_8               extras 
 skopeo-containers.x86_64                  1:0.1.31-1.dev.gitae64ff7.el7.centos
                                                                          extras 
 slang.i686                                2.2.4-11.el7                   base   
@@ -8561,7 +8557,7 @@ slapi-nis.x86_64                          0.56.0-13.el7                  base
 slf4j.noarch                              1.7.4-4.el7_4                  base   
 slf4j-javadoc.noarch                      1.7.4-4.el7_4                  base   
 slf4j-manual.noarch                       1.7.4-4.el7_4                  base   
-slirp4netns.x86_64                        0.3.0-1.el7                    extras 
+slirp4netns.x86_64                        0.4.3-4.el7_8                  extras 
 smartmontools.x86_64                      1:7.0-2.el7                    base   
 smbios-utils.x86_64                       2.3.3-8.el7                    base   
 smbios-utils-bin.x86_64                   2.3.3-8.el7                    base   
@@ -9602,7 +9598,8 @@ turbojpeg-devel.i686                      1.2.90-8.el7                   base
 turbojpeg-devel.x86_64                    1.2.90-8.el7                   base   
 txw2.noarch                               20110809-8.el7                 base   
 txw2-javadoc.noarch                       20110809-8.el7                 base   
-tzdata-java.noarch                        2019c-1.el7                    base   
+tzdata.noarch                             2020a-1.el7                    updates
+tzdata-java.noarch                        2020a-1.el7                    updates
 uboot-images-armv7.noarch                 2019.07-3.el7                  extras 
 uboot-images-armv8.noarch                 2019.07-3.el7                  extras 
 uboot-tools.x86_64                        2019.07-3.el7                  extras 
