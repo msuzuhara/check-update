@@ -14295,7 +14295,7 @@ ideviceinstaller-dbg/focal 1.1.0-0ubuntu4 amd64
 ideviceinstaller/focal 1.1.0-0ubuntu4 amd64
 idl-font-lock-el/focal,focal 1.5-9 all
 idle-python2.7/focal,focal 2.7.18~rc1-2 all
-idle-python3.8/focal,focal 3.8.2-1ubuntu1 all
+idle-python3.8/focal-updates,focal-updates,focal-security,focal-security 3.8.2-1ubuntu1.1 all
 idle3-tools/focal 0.9.1-2 amd64
 idle3/focal,focal 3.8.2-0ubuntu2 all
 idle/focal,focal 3.8.2-0ubuntu2 all
@@ -35909,17 +35909,17 @@ libpython3-dev/focal 3.8.2-0ubuntu2 amd64
 libpython3-dev/focal 3.8.2-0ubuntu2 i386
 libpython3-stdlib/focal,now 3.8.2-0ubuntu2 amd64 [installed]
 libpython3-stdlib/focal 3.8.2-0ubuntu2 i386
-libpython3.8-dbg/focal 3.8.2-1ubuntu1 amd64
-libpython3.8-dbg/focal 3.8.2-1ubuntu1 i386
-libpython3.8-dev/focal 3.8.2-1ubuntu1 amd64
-libpython3.8-dev/focal 3.8.2-1ubuntu1 i386
-libpython3.8-minimal/focal,now 3.8.2-1ubuntu1 amd64 [installed]
-libpython3.8-minimal/focal 3.8.2-1ubuntu1 i386
-libpython3.8-stdlib/focal,now 3.8.2-1ubuntu1 amd64 [installed]
-libpython3.8-stdlib/focal 3.8.2-1ubuntu1 i386
-libpython3.8-testsuite/focal,focal 3.8.2-1ubuntu1 all
-libpython3.8/focal 3.8.2-1ubuntu1 amd64
-libpython3.8/focal 3.8.2-1ubuntu1 i386
+libpython3.8-dbg/focal-updates,focal-security 3.8.2-1ubuntu1.1 amd64
+libpython3.8-dbg/focal-updates,focal-security 3.8.2-1ubuntu1.1 i386
+libpython3.8-dev/focal-updates,focal-security 3.8.2-1ubuntu1.1 amd64
+libpython3.8-dev/focal-updates,focal-security 3.8.2-1ubuntu1.1 i386
+libpython3.8-minimal/focal-updates,focal-security 3.8.2-1ubuntu1.1 amd64 [upgradable from: 3.8.2-1ubuntu1]
+libpython3.8-minimal/focal-updates,focal-security 3.8.2-1ubuntu1.1 i386
+libpython3.8-stdlib/focal-updates,focal-security 3.8.2-1ubuntu1.1 amd64 [upgradable from: 3.8.2-1ubuntu1]
+libpython3.8-stdlib/focal-updates,focal-security 3.8.2-1ubuntu1.1 i386
+libpython3.8-testsuite/focal-updates,focal-updates,focal-security,focal-security 3.8.2-1ubuntu1.1 all
+libpython3.8/focal-updates,focal-security 3.8.2-1ubuntu1.1 amd64
+libpython3.8/focal-updates,focal-security 3.8.2-1ubuntu1.1 i386
 libpyzy-1.0-0v5/focal 1.0.1-6ubuntu1 amd64
 libpyzy-dev/focal 1.0.1-6ubuntu1 amd64
 libqaccessibilityclient-qt5-0/focal 0.4.1-1build1 amd64
@@ -43626,11 +43626,11 @@ lintian-brush/focal,focal 0.60ubuntu1 all
 lintian/focal,focal 2.62.0 all
 linux-aws-headers-5.4.0-1009/focal,focal 5.4.0-1009.9 all
 linux-aws-tools-5.4.0-1009/focal 5.4.0-1009.9 amd64
-linux-aws/focal 5.4.0.1009.11 amd64
+linux-aws/focal-updates,focal-security 5.4.0.1009.12 amd64
 linux-azure-cloud-tools-5.4.0-1010/focal 5.4.0-1010.10 amd64
 linux-azure-headers-5.4.0-1010/focal,focal 5.4.0-1010.10 all
 linux-azure-tools-5.4.0-1010/focal 5.4.0-1010.10 amd64
-linux-azure/focal 5.4.0.1010.11 amd64
+linux-azure/focal-updates,focal-security 5.4.0.1010.12 amd64
 linux-base-sgx/focal,focal 4.5ubuntu3 all
 linux-base/focal,focal,now 4.5ubuntu3 all [installed,automatic]
 linux-buildinfo-5.4.0-1009-aws/focal 5.4.0-1009.9 amd64
@@ -43651,7 +43651,7 @@ linux-cloud-tools-5.4.0-26/focal 5.4.0-26.30 amd64
 linux-cloud-tools-5.4.0-28-generic/focal-updates,focal-security 5.4.0-28.32 amd64
 linux-cloud-tools-5.4.0-28-lowlatency/focal-updates,focal-security 5.4.0-28.32 amd64
 linux-cloud-tools-5.4.0-28/focal-updates,focal-security 5.4.0-28.32 amd64
-linux-cloud-tools-azure/focal 5.4.0.1010.11 amd64
+linux-cloud-tools-azure/focal-updates,focal-security 5.4.0.1010.12 amd64
 linux-cloud-tools-common/focal-updates,focal-updates,focal-security,focal-security 5.4.0-28.32 all
 linux-cloud-tools-generic-hwe-18.04-edge/focal-updates,focal-security 5.4.0.28.33 amd64
 linux-cloud-tools-generic-hwe-18.04/focal-updates,focal-security 5.4.0.28.33 amd64
@@ -43670,12 +43670,12 @@ linux-doc/focal-updates,focal-updates,focal-security,focal-security 5.4.0-28.32 
 linux-firmware/focal,focal,now 1.187 all [installed,automatic]
 linux-gcp-headers-5.4.0-1009/focal 5.4.0-1009.9 amd64
 linux-gcp-tools-5.4.0-1009/focal 5.4.0-1009.9 amd64
-linux-gcp/focal 5.4.0.1009.9 amd64
+linux-gcp/focal-updates,focal-security 5.4.0.1009.10 amd64
 linux-generic-hwe-18.04-edge/focal-updates,focal-security 5.4.0.28.33 amd64
 linux-generic-hwe-18.04/focal-updates,focal-security 5.4.0.28.33 amd64
 linux-generic-hwe-20.04/focal-updates,focal-security 5.4.0.28.33 amd64
 linux-generic/focal-updates,focal-security,now 5.4.0.28.33 amd64 [installed]
-linux-gke/focal 5.4.0.1009.9 amd64
+linux-gke/focal-updates,focal-security 5.4.0.1009.10 amd64
 linux-headers-5.4.0-1009-aws/focal 5.4.0-1009.9 amd64
 linux-headers-5.4.0-1009-gcp/focal 5.4.0-1009.9 amd64
 linux-headers-5.4.0-1009-kvm/focal 5.4.0-1009.9 amd64
@@ -43689,15 +43689,15 @@ linux-headers-5.4.0-28-lowlatency/focal-updates,focal-security 5.4.0-28.32 amd64
 linux-headers-5.4.0-28/focal-updates,focal-updates,focal-security,focal-security,now 5.4.0-28.32 all [installed,automatic]
 linux-headers-5.6.0-1007-oem/focal 5.6.0-1007.7 amd64
 linux-headers-5.6.0-1008-oem/focal-updates,focal-security 5.6.0-1008.8 amd64
-linux-headers-aws/focal 5.4.0.1009.11 amd64
-linux-headers-azure/focal 5.4.0.1010.11 amd64
-linux-headers-gcp/focal 5.4.0.1009.9 amd64
+linux-headers-aws/focal-updates,focal-security 5.4.0.1009.12 amd64
+linux-headers-azure/focal-updates,focal-security 5.4.0.1010.12 amd64
+linux-headers-gcp/focal-updates,focal-security 5.4.0.1009.10 amd64
 linux-headers-generic-hwe-18.04-edge/focal-updates,focal-security 5.4.0.28.33 amd64
 linux-headers-generic-hwe-18.04/focal-updates,focal-security 5.4.0.28.33 amd64
 linux-headers-generic-hwe-20.04/focal-updates,focal-security 5.4.0.28.33 amd64
 linux-headers-generic/focal-updates,focal-security,now 5.4.0.28.33 amd64 [installed]
-linux-headers-gke/focal 5.4.0.1009.9 amd64
-linux-headers-kvm/focal 5.4.0.1009.9 amd64
+linux-headers-gke/focal-updates,focal-security 5.4.0.1009.10 amd64
+linux-headers-kvm/focal-updates,focal-security 5.4.0.1009.10 amd64
 linux-headers-lowlatency-hwe-18.04-edge/focal-updates,focal-security 5.4.0.28.33 amd64
 linux-headers-lowlatency-hwe-18.04/focal-updates,focal-security 5.4.0.28.33 amd64
 linux-headers-lowlatency-hwe-20.04/focal-updates,focal-security 5.4.0.28.33 amd64
@@ -43705,7 +43705,7 @@ linux-headers-lowlatency/focal-updates,focal-security 5.4.0.28.33 amd64
 linux-headers-oem-20.04/focal-updates,focal-security 5.6.0.1008.8 amd64
 linux-headers-oem-osp1/focal-updates,focal-security 5.4.0.28.33 amd64
 linux-headers-oem/focal-updates,focal-security 5.4.0.28.33 amd64
-linux-headers-oracle/focal 5.4.0.1009.9 amd64
+linux-headers-oracle/focal-updates,focal-security 5.4.0.1009.10 amd64
 linux-headers-virtual-hwe-18.04-edge/focal-updates,focal-security 5.4.0.28.33 amd64
 linux-headers-virtual-hwe-18.04/focal-updates,focal-security 5.4.0.28.33 amd64
 linux-headers-virtual-hwe-20.04/focal-updates,focal-security 5.4.0.28.33 amd64
@@ -43721,19 +43721,19 @@ linux-image-5.4.0-28-generic/focal-updates,focal-security,now 5.4.0-28.32 amd64 
 linux-image-5.4.0-28-lowlatency/focal-updates,focal-security 5.4.0-28.32 amd64
 linux-image-5.6.0-1007-oem/focal 5.6.0-1007.7 amd64
 linux-image-5.6.0-1008-oem/focal-updates,focal-security 5.6.0-1008.8 amd64
-linux-image-aws/focal 5.4.0.1009.11 amd64
-linux-image-azure/focal 5.4.0.1010.11 amd64
+linux-image-aws/focal-updates,focal-security 5.4.0.1009.12 amd64
+linux-image-azure/focal-updates,focal-security 5.4.0.1010.12 amd64
 linux-image-extra-virtual-hwe-18.04-edge/focal-updates,focal-security 5.4.0.28.33 amd64
 linux-image-extra-virtual-hwe-18.04/focal-updates,focal-security 5.4.0.28.33 amd64
 linux-image-extra-virtual-hwe-20.04/focal-updates,focal-security 5.4.0.28.33 amd64
 linux-image-extra-virtual/focal-updates,focal-security 5.4.0.28.33 amd64
-linux-image-gcp/focal 5.4.0.1009.9 amd64
+linux-image-gcp/focal-updates,focal-security 5.4.0.1009.10 amd64
 linux-image-generic-hwe-18.04-edge/focal-updates,focal-security 5.4.0.28.33 amd64
 linux-image-generic-hwe-18.04/focal-updates,focal-security 5.4.0.28.33 amd64
 linux-image-generic-hwe-20.04/focal-updates,focal-security 5.4.0.28.33 amd64
 linux-image-generic/focal-updates,focal-security,now 5.4.0.28.33 amd64 [installed,automatic]
-linux-image-gke/focal 5.4.0.1009.9 amd64
-linux-image-kvm/focal 5.4.0.1009.9 amd64
+linux-image-gke/focal-updates,focal-security 5.4.0.1009.10 amd64
+linux-image-kvm/focal-updates,focal-security 5.4.0.1009.10 amd64
 linux-image-lowlatency-hwe-18.04-edge/focal-updates,focal-security 5.4.0.28.33 amd64
 linux-image-lowlatency-hwe-18.04/focal-updates,focal-security 5.4.0.28.33 amd64
 linux-image-lowlatency-hwe-20.04/focal-updates,focal-security 5.4.0.28.33 amd64
@@ -43741,7 +43741,7 @@ linux-image-lowlatency/focal-updates,focal-security 5.4.0.28.33 amd64
 linux-image-oem-20.04/focal-updates,focal-security 5.6.0.1008.8 amd64
 linux-image-oem-osp1/focal-updates,focal-security 5.4.0.28.33 amd64
 linux-image-oem/focal-updates,focal-security 5.4.0.28.33 amd64
-linux-image-oracle/focal 5.4.0.1009.9 amd64
+linux-image-oracle/focal-updates,focal-security 5.4.0.1009.10 amd64
 linux-image-unsigned-5.4.0-1009-gcp/focal 5.4.0-1009.9 amd64
 linux-image-unsigned-5.4.0-1009-oracle/focal 5.4.0-1009.9 amd64
 linux-image-unsigned-5.4.0-1010-azure/focal 5.4.0-1010.10 amd64
@@ -43757,7 +43757,7 @@ linux-image-virtual-hwe-20.04/focal-updates,focal-security 5.4.0.28.33 amd64
 linux-image-virtual/focal-updates,focal-security 5.4.0.28.33 amd64
 linux-kvm-headers-5.4.0-1009/focal,focal 5.4.0-1009.9 all
 linux-kvm-tools-5.4.0-1009/focal 5.4.0-1009.9 amd64
-linux-kvm/focal 5.4.0.1009.9 amd64
+linux-kvm/focal-updates,focal-security 5.4.0.1009.10 amd64
 linux-libc-dev-alpha-cross/focal,focal 5.4.0-21.25cross1 all
 linux-libc-dev-amd64-cross/focal,focal 5.4.0-21.25cross1 all
 linux-libc-dev-arm64-cross/focal,focal 5.4.0-21.25cross1 all
@@ -43809,10 +43809,10 @@ linux-modules-extra-5.4.0-1009-oracle/focal 5.4.0-1009.9 amd64
 linux-modules-extra-5.4.0-1010-azure/focal 5.4.0-1010.10 amd64
 linux-modules-extra-5.4.0-26-generic/focal,now 5.4.0-26.30 amd64 [installed,automatic]
 linux-modules-extra-5.4.0-28-generic/focal-updates,focal-security,now 5.4.0-28.32 amd64 [installed,automatic]
-linux-modules-extra-aws/focal 5.4.0.1009.11 amd64
-linux-modules-extra-azure/focal 5.4.0.1010.11 amd64
-linux-modules-extra-gcp/focal 5.4.0.1009.9 amd64
-linux-modules-extra-gke/focal 5.4.0.1009.9 amd64
+linux-modules-extra-aws/focal-updates,focal-security 5.4.0.1009.12 amd64
+linux-modules-extra-azure/focal-updates,focal-security 5.4.0.1010.12 amd64
+linux-modules-extra-gcp/focal-updates,focal-security 5.4.0.1009.10 amd64
+linux-modules-extra-gke/focal-updates,focal-security 5.4.0.1009.10 amd64
 linux-modules-nvidia-390-5.4.0-1009-aws/focal 5.4.0-1009.9 amd64
 linux-modules-nvidia-390-5.4.0-1009-gcp/focal 5.4.0-1009.9 amd64
 linux-modules-nvidia-390-5.4.0-1009-oracle/focal 5.4.0-1009.9 amd64
@@ -43871,7 +43871,7 @@ linux-oem-tools-host/focal-updates,focal-security 5.4.0.28.33 amd64
 linux-oem/focal-updates,focal-security 5.4.0.28.33 amd64
 linux-oracle-headers-5.4.0-1009/focal,focal 5.4.0-1009.9 all
 linux-oracle-tools-5.4.0-1009/focal 5.4.0-1009.9 amd64
-linux-oracle/focal 5.4.0.1009.9 amd64
+linux-oracle/focal-updates,focal-security 5.4.0.1009.10 amd64
 linux-riscv-headers-5.4.0-24/focal,focal 5.4.0-24.28 all
 linux-show-player/focal,focal 0.5.1-3 all
 linux-sound-base/focal,focal 1.0.25+dfsg-0ubuntu5 all
@@ -43890,17 +43890,17 @@ linux-tools-5.4.0-28-lowlatency/focal-updates,focal-security 5.4.0-28.32 amd64
 linux-tools-5.4.0-28/focal-updates,focal-security 5.4.0-28.32 amd64
 linux-tools-5.6.0-1007-oem/focal 5.6.0-1007.7 amd64
 linux-tools-5.6.0-1008-oem/focal-updates,focal-security 5.6.0-1008.8 amd64
-linux-tools-aws/focal 5.4.0.1009.11 amd64
-linux-tools-azure/focal 5.4.0.1010.11 amd64
+linux-tools-aws/focal-updates,focal-security 5.4.0.1009.12 amd64
+linux-tools-azure/focal-updates,focal-security 5.4.0.1010.12 amd64
 linux-tools-common/focal-updates,focal-updates,focal-security,focal-security 5.4.0-28.32 all
-linux-tools-gcp/focal 5.4.0.1009.9 amd64
+linux-tools-gcp/focal-updates,focal-security 5.4.0.1009.10 amd64
 linux-tools-generic-hwe-18.04-edge/focal-updates,focal-security 5.4.0.28.33 amd64
 linux-tools-generic-hwe-18.04/focal-updates,focal-security 5.4.0.28.33 amd64
 linux-tools-generic-hwe-20.04/focal-updates,focal-security 5.4.0.28.33 amd64
 linux-tools-generic/focal-updates,focal-security 5.4.0.28.33 amd64
-linux-tools-gke/focal 5.4.0.1009.9 amd64
+linux-tools-gke/focal-updates,focal-security 5.4.0.1009.10 amd64
 linux-tools-host/focal-updates,focal-updates,focal-security,focal-security 5.4.0-28.32 all
-linux-tools-kvm/focal 5.4.0.1009.9 amd64
+linux-tools-kvm/focal-updates,focal-security 5.4.0.1009.10 amd64
 linux-tools-lowlatency-hwe-18.04-edge/focal-updates,focal-security 5.4.0.28.33 amd64
 linux-tools-lowlatency-hwe-18.04/focal-updates,focal-security 5.4.0.28.33 amd64
 linux-tools-lowlatency-hwe-20.04/focal-updates,focal-security 5.4.0.28.33 amd64
@@ -43908,7 +43908,7 @@ linux-tools-lowlatency/focal-updates,focal-security 5.4.0.28.33 amd64
 linux-tools-oem-20.04/focal-updates,focal-security 5.6.0.1008.8 amd64
 linux-tools-oem-osp1/focal-updates,focal-security 5.4.0.28.33 amd64
 linux-tools-oem/focal-updates,focal-security 5.4.0.28.33 amd64
-linux-tools-oracle/focal 5.4.0.1009.9 amd64
+linux-tools-oracle/focal-updates,focal-security 5.4.0.1009.10 amd64
 linux-tools-virtual-hwe-18.04-edge/focal-updates,focal-security 5.4.0.28.33 amd64
 linux-tools-virtual-hwe-18.04/focal-updates,focal-security 5.4.0.28.33 amd64
 linux-tools-virtual-hwe-20.04/focal-updates,focal-security 5.4.0.28.33 amd64
@@ -48807,6 +48807,38 @@ openjdk-11-jre-zero/focal 11.0.7+10-3ubuntu1 i386
 openjdk-11-jre/focal 11.0.7+10-3ubuntu1 amd64
 openjdk-11-jre/focal 11.0.7+10-3ubuntu1 i386
 openjdk-11-source/focal,focal 11.0.7+10-3ubuntu1 all
+openjdk-13-dbg/focal-updates 13.0.3+3-1ubuntu2 amd64
+openjdk-13-dbg/focal-updates 13.0.3+3-1ubuntu2 i386
+openjdk-13-demo/focal-updates 13.0.3+3-1ubuntu2 amd64
+openjdk-13-demo/focal-updates 13.0.3+3-1ubuntu2 i386
+openjdk-13-doc/focal-updates,focal-updates 13.0.3+3-1ubuntu2 all
+openjdk-13-jdk-headless/focal-updates 13.0.3+3-1ubuntu2 amd64
+openjdk-13-jdk-headless/focal-updates 13.0.3+3-1ubuntu2 i386
+openjdk-13-jdk/focal-updates 13.0.3+3-1ubuntu2 amd64
+openjdk-13-jdk/focal-updates 13.0.3+3-1ubuntu2 i386
+openjdk-13-jre-headless/focal-updates 13.0.3+3-1ubuntu2 amd64
+openjdk-13-jre-headless/focal-updates 13.0.3+3-1ubuntu2 i386
+openjdk-13-jre-zero/focal-updates 13.0.3+3-1ubuntu2 amd64
+openjdk-13-jre-zero/focal-updates 13.0.3+3-1ubuntu2 i386
+openjdk-13-jre/focal-updates 13.0.3+3-1ubuntu2 amd64
+openjdk-13-jre/focal-updates 13.0.3+3-1ubuntu2 i386
+openjdk-13-source/focal-updates,focal-updates 13.0.3+3-1ubuntu2 all
+openjdk-14-dbg/focal-updates 14.0.1+7-1ubuntu1 amd64
+openjdk-14-dbg/focal-updates 14.0.1+7-1ubuntu1 i386
+openjdk-14-demo/focal-updates 14.0.1+7-1ubuntu1 amd64
+openjdk-14-demo/focal-updates 14.0.1+7-1ubuntu1 i386
+openjdk-14-doc/focal-updates,focal-updates 14.0.1+7-1ubuntu1 all
+openjdk-14-jdk-headless/focal-updates 14.0.1+7-1ubuntu1 amd64
+openjdk-14-jdk-headless/focal-updates 14.0.1+7-1ubuntu1 i386
+openjdk-14-jdk/focal-updates 14.0.1+7-1ubuntu1 amd64
+openjdk-14-jdk/focal-updates 14.0.1+7-1ubuntu1 i386
+openjdk-14-jre-headless/focal-updates 14.0.1+7-1ubuntu1 amd64
+openjdk-14-jre-headless/focal-updates 14.0.1+7-1ubuntu1 i386
+openjdk-14-jre-zero/focal-updates 14.0.1+7-1ubuntu1 amd64
+openjdk-14-jre-zero/focal-updates 14.0.1+7-1ubuntu1 i386
+openjdk-14-jre/focal-updates 14.0.1+7-1ubuntu1 amd64
+openjdk-14-jre/focal-updates 14.0.1+7-1ubuntu1 i386
+openjdk-14-source/focal-updates,focal-updates 14.0.1+7-1ubuntu1 all
 openjdk-8-dbg/focal 8u252-b09-1ubuntu1 amd64
 openjdk-8-dbg/focal 8u252-b09-1ubuntu1 i386
 openjdk-8-demo/focal 8u252-b09-1ubuntu1 amd64
@@ -55846,18 +55878,18 @@ python3-zunclient/focal,focal 4.0.0-0ubuntu1 all
 python3-zvmcloudconnector/focal,focal 2.0.0~b1~git2019062011.4fc9142.really.1.4.1-0ubuntu3 all
 python3-zxcvbn/focal,focal 4.4.28-2 all
 python3-zzzeeksphinx/focal,focal 1.0.20-3ubuntu2 all
-python3.8-dbg/focal 3.8.2-1ubuntu1 amd64
-python3.8-dbg/focal 3.8.2-1ubuntu1 i386
-python3.8-dev/focal 3.8.2-1ubuntu1 amd64
-python3.8-dev/focal 3.8.2-1ubuntu1 i386
-python3.8-doc/focal,focal 3.8.2-1ubuntu1 all
-python3.8-examples/focal,focal 3.8.2-1ubuntu1 all
-python3.8-minimal/focal,now 3.8.2-1ubuntu1 amd64 [installed]
-python3.8-minimal/focal 3.8.2-1ubuntu1 i386
-python3.8-venv/focal 3.8.2-1ubuntu1 amd64
-python3.8-venv/focal 3.8.2-1ubuntu1 i386
-python3.8/focal,now 3.8.2-1ubuntu1 amd64 [installed]
-python3.8/focal 3.8.2-1ubuntu1 i386
+python3.8-dbg/focal-updates,focal-security 3.8.2-1ubuntu1.1 amd64
+python3.8-dbg/focal-updates,focal-security 3.8.2-1ubuntu1.1 i386
+python3.8-dev/focal-updates,focal-security 3.8.2-1ubuntu1.1 amd64
+python3.8-dev/focal-updates,focal-security 3.8.2-1ubuntu1.1 i386
+python3.8-doc/focal-updates,focal-updates,focal-security,focal-security 3.8.2-1ubuntu1.1 all
+python3.8-examples/focal-updates,focal-updates,focal-security,focal-security 3.8.2-1ubuntu1.1 all
+python3.8-minimal/focal-updates,focal-security 3.8.2-1ubuntu1.1 amd64 [upgradable from: 3.8.2-1ubuntu1]
+python3.8-minimal/focal-updates,focal-security 3.8.2-1ubuntu1.1 i386
+python3.8-venv/focal-updates,focal-security 3.8.2-1ubuntu1.1 amd64
+python3.8-venv/focal-updates,focal-security 3.8.2-1ubuntu1.1 i386
+python3.8/focal-updates,focal-security 3.8.2-1ubuntu1.1 amd64 [upgradable from: 3.8.2-1ubuntu1]
+python3.8/focal-updates,focal-security 3.8.2-1ubuntu1.1 i386
 python3/focal,now 3.8.2-0ubuntu2 amd64 [installed]
 python3/focal 3.8.2-0ubuntu2 i386
 pythonpy/focal,focal 0.4.11b-3 all
@@ -60751,7 +60783,7 @@ stormbaancoureur-data/focal,focal 2.1.6-2build2 all
 stormbaancoureur/focal 2.1.6-2build2 amd64
 storymaps/focal,focal 1.0+dfsg-3 all
 stow/focal,focal 2.3.1-1 all
-strace/focal,now 4.26-0.2ubuntu3 amd64 [installed]
+strace/focal-updates 5.5-3ubuntu1 amd64 [upgradable from: 4.26-0.2ubuntu3]
 streamer/focal 3.106-1 amd64
 streamlink/focal,focal 1.3.1+dfsg-1 all
 streamripper/focal 1.64.6-1build1 amd64
