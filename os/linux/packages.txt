@@ -9598,7 +9598,6 @@ turbojpeg-devel.i686                      1.2.90-8.el7                   base
 turbojpeg-devel.x86_64                    1.2.90-8.el7                   base   
 txw2.noarch                               20110809-8.el7                 base   
 txw2-javadoc.noarch                       20110809-8.el7                 base   
-tzdata.noarch                             2020a-1.el7                    updates
 tzdata-java.noarch                        2020a-1.el7                    updates
 uboot-images-armv7.noarch                 2019.07-3.el7                  extras 
 uboot-images-armv8.noarch                 2019.07-3.el7                  extras 
