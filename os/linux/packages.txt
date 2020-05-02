@@ -1658,6 +1658,8 @@ bip-dbg/bionic 0.8.9-1.2build1 amd64
 bird/bionic 1.6.3-3 amd64
 bird-bgp/bionic 1.6.3-3 all
 bird-doc/bionic 1.6.3-3 all
+bird2/bionic-backports 2.0.7-2~ubuntu18.04.1 amd64
+bird2-doc/bionic-backports 2.0.7-2~ubuntu18.04.1 all
 birdfont/bionic 2.21.1+git8ae0c56f-1 amd64
 birthday/bionic 1.6.2-4build1 amd64
 bison/bionic 2:3.0.4.dfsg-1build1 amd64
@@ -40509,8 +40511,8 @@ linux-headers-4.15.0-76-lowlatency/bionic-updates,bionic-security 4.15.0-76.86 a
 linux-headers-4.15.0-88/bionic-updates,bionic-security 4.15.0-88.88 all
 linux-headers-4.15.0-88-generic/bionic-updates,bionic-security 4.15.0-88.88 amd64
 linux-headers-4.15.0-88-lowlatency/bionic-updates,bionic-security 4.15.0-88.88 amd64
-linux-headers-4.15.0-91/bionic-updates,bionic-security,now 4.15.0-91.92 all [installed,auto-removable]
-linux-headers-4.15.0-91-generic/bionic-updates,bionic-security,now 4.15.0-91.92 amd64 [installed,auto-removable]
+linux-headers-4.15.0-91/bionic-updates,bionic-security 4.15.0-91.92 all
+linux-headers-4.15.0-91-generic/bionic-updates,bionic-security 4.15.0-91.92 amd64
 linux-headers-4.15.0-91-lowlatency/bionic-updates,bionic-security 4.15.0-91.92 amd64
 linux-headers-4.15.0-96/bionic-updates,bionic-security,now 4.15.0-96.97 all [installed,automatic]
 linux-headers-4.15.0-96-generic/bionic-updates,bionic-security,now 4.15.0-96.97 amd64 [installed,automatic]
@@ -41157,7 +41159,7 @@ linux-image-4.15.0-76-generic/bionic-updates,bionic-security,now 4.15.0-76.86 am
 linux-image-4.15.0-76-lowlatency/bionic-updates,bionic-security 4.15.0-76.86 amd64
 linux-image-4.15.0-88-generic/bionic-updates,bionic-security,now 4.15.0-88.88 amd64 [residual-config]
 linux-image-4.15.0-88-lowlatency/bionic-updates,bionic-security 4.15.0-88.88 amd64
-linux-image-4.15.0-91-generic/bionic-updates,bionic-security,now 4.15.0-91.92 amd64 [installed,auto-removable]
+linux-image-4.15.0-91-generic/bionic-updates,bionic-security,now 4.15.0-91.92 amd64 [residual-config]
 linux-image-4.15.0-91-lowlatency/bionic-updates,bionic-security 4.15.0-91.92 amd64
 linux-image-4.15.0-96-generic/bionic-updates,bionic-security,now 4.15.0-96.97 amd64 [installed,automatic]
 linux-image-4.15.0-96-lowlatency/bionic-updates,bionic-security 4.15.0-96.97 amd64
@@ -42179,7 +42181,7 @@ linux-modules-4.15.0-76-generic/bionic-updates,bionic-security,now 4.15.0-76.86 
 linux-modules-4.15.0-76-lowlatency/bionic-updates,bionic-security 4.15.0-76.86 amd64
 linux-modules-4.15.0-88-generic/bionic-updates,bionic-security,now 4.15.0-88.88 amd64 [residual-config]
 linux-modules-4.15.0-88-lowlatency/bionic-updates,bionic-security 4.15.0-88.88 amd64
-linux-modules-4.15.0-91-generic/bionic-updates,bionic-security,now 4.15.0-91.92 amd64 [installed,auto-removable]
+linux-modules-4.15.0-91-generic/bionic-updates,bionic-security,now 4.15.0-91.92 amd64 [residual-config]
 linux-modules-4.15.0-91-lowlatency/bionic-updates,bionic-security 4.15.0-91.92 amd64
 linux-modules-4.15.0-96-generic/bionic-updates,bionic-security,now 4.15.0-96.97 amd64 [installed,automatic]
 linux-modules-4.15.0-96-lowlatency/bionic-updates,bionic-security 4.15.0-96.97 amd64
@@ -42537,7 +42539,7 @@ linux-modules-extra-4.15.0-72-generic/bionic-updates,bionic-security,now 4.15.0-
 linux-modules-extra-4.15.0-74-generic/bionic-updates,bionic-security,now 4.15.0-74.84 amd64 [residual-config]
 linux-modules-extra-4.15.0-76-generic/bionic-updates,bionic-security,now 4.15.0-76.86 amd64 [residual-config]
 linux-modules-extra-4.15.0-88-generic/bionic-updates,bionic-security,now 4.15.0-88.88 amd64 [residual-config]
-linux-modules-extra-4.15.0-91-generic/bionic-updates,bionic-security,now 4.15.0-91.92 amd64 [installed,auto-removable]
+linux-modules-extra-4.15.0-91-generic/bionic-updates,bionic-security,now 4.15.0-91.92 amd64 [residual-config]
 linux-modules-extra-4.15.0-96-generic/bionic-updates,bionic-security,now 4.15.0-96.97 amd64 [installed,automatic]
 linux-modules-extra-4.15.0-99-generic/bionic-updates,bionic-security,now 4.15.0-99.100 amd64 [installed,automatic]
 linux-modules-extra-4.18.0-1004-gcp/bionic-updates,bionic-security 4.18.0-1004.5~18.04.1 amd64
