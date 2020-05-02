@@ -6083,7 +6083,6 @@ tunctl.x86_64                              1.5-3.el6                     base
 tuned.noarch                               0.2.19-18.el6                 base   
 tuned-profiles-oracle.noarch               0.2.19-18.el6                 base   
 tuned-utils.noarch                         0.2.19-18.el6                 base   
-tzdata.noarch                              2020a-1.el6                   updates
 tzdata-java.noarch                         2020a-1.el6                   updates
 udftools.x86_64                            1.0.0b3-12.el6                base   
 udisks.x86_64                              1.0.1-11.el6                  base   
