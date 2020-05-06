@@ -432,13 +432,14 @@ centos-indexhtml.noarch                              8.0-0.el8                  
 centos-logos-httpd.noarch                            80.5-2.el8                                       AppStream
 centos-logos-ipa.noarch                              80.5-2.el8                                       AppStream
 centos-obsolete-packages.noarch                      8-2                                              BaseOS   
-centos-release-ansible-29.noarch                     1-1.el8                                          extras   
+centos-release-ansible-29.noarch                     1-2.el8                                          extras   
 centos-release-configmanagement.noarch               1-1.el8                                          extras   
 centos-release-gluster6.noarch                       1.0-1.el8                                        extras   
 centos-release-gluster7.noarch                       1.0-2.el8                                        extras   
 centos-release-messaging.noarch                      1-2.el8                                          extras   
 centos-release-nfs-ganesha28.noarch                  1.0-3.el8                                        extras   
 centos-release-nfs-ganesha30.noarch                  1.0-2.el8                                        extras   
+centos-release-openstack-train.noarch                2-1.el8                                          extras   
 centos-release-opstools.noarch                       1-10.el8                                         extras   
 centos-release-qpid-proton.noarch                    1-2.el8                                          extras   
 centos-release-rabbitmq-38.noarch                    1-2.el8                                          extras   
