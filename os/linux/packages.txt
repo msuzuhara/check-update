@@ -61221,7 +61221,7 @@ sortmerna/bionic 2.1-2 amd64
 sortsmill-tools/bionic 0.4-2 all
 sorune/bionic 0.5-1ubuntu1 all
 sosi2osm/bionic 1.0.0-3build1 amd64
-sosreport/bionic-updates 3.9-1ubuntu0.18.04.2 amd64 [upgradable from: 3.6-1ubuntu0.18.04.4]
+sosreport/bionic-updates 3.9-1ubuntu0.18.04.3 amd64 [upgradable from: 3.6-1ubuntu0.18.04.4]
 sound-icons/bionic 0.1-6 all
 sound-juicer/bionic 3.24.0-2 amd64
 sound-theme-freedesktop/bionic 0.8-2ubuntu1 all
