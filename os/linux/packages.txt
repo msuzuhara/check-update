@@ -3282,7 +3282,7 @@ conserver-server/focal 8.2.4-2 amd64
 consolation/focal 0.0.7-1 amd64
 console-braille/focal 1.8 amd64
 console-common/focal,focal 0.7.91 all
-console-conf/focal,focal 20.04.1+git45g5f9fae19 all
+console-conf/focal-updates,focal-updates 20.04.1+git45g5f9fae19ubuntu0.1 all
 console-cyrillic/focal,focal 0.9-17 all
 console-data/focal,focal 2:1.12-8 all
 console-log/focal,focal 1.2-2 all
@@ -10758,7 +10758,7 @@ gnome-session/focal,focal 3.36.0-2ubuntu1 all
 gnome-settings-daemon-common/focal,focal 3.36.0-1ubuntu2 all
 gnome-settings-daemon-dev/focal 3.36.0-1ubuntu2 amd64
 gnome-settings-daemon/focal 3.36.0-1ubuntu2 amd64
-gnome-shell-common/focal,focal 3.36.1-5ubuntu1 all
+gnome-shell-common/focal-updates,focal-updates 3.36.1-5ubuntu2 all
 gnome-shell-extension-appindicator/focal,focal 33-1 all
 gnome-shell-extension-arc-menu/focal,focal 45-1 all
 gnome-shell-extension-autohidetopbar/focal,focal 20200322-1 all
@@ -10783,7 +10783,7 @@ gnome-shell-extension-multi-monitors/focal,focal 19-1 all
 gnome-shell-extension-no-annoyance/focal,focal 0+20170928-f21d09a-2 all
 gnome-shell-extension-onboard/focal,focal 1.4.1-2ubuntu7 all
 gnome-shell-extension-pixelsaver/focal,focal 1.20-1 all
-gnome-shell-extension-prefs/focal 3.36.1-5ubuntu1 amd64
+gnome-shell-extension-prefs/focal-updates 3.36.1-5ubuntu2 amd64
 gnome-shell-extension-redshift/focal,focal 3.20.1-2 all
 gnome-shell-extension-remove-dropdown-arrows/focal,focal 13-1 all
 gnome-shell-extension-shortcuts/focal,focal 1.1.1-1 all
@@ -10804,7 +10804,7 @@ gnome-shell-mailnag/focal 3.28.0-0.1 amd64
 gnome-shell-pomodoro-data/focal,focal 0.16.0-1 all
 gnome-shell-pomodoro/focal 0.16.0-1 amd64
 gnome-shell-timer/focal,focal 0.3.20+20171025-4 all
-gnome-shell/focal 3.36.1-5ubuntu1 amd64
+gnome-shell/focal-updates 3.36.1-5ubuntu2 amd64
 gnome-software-common/focal,focal 3.36.0-0ubuntu3 all
 gnome-software-dev/focal 3.36.0-0ubuntu3 amd64
 gnome-software-doc/focal,focal 3.36.0-0ubuntu3 all
@@ -30847,9 +30847,9 @@ liblcms2-dev/focal 2.9-4 amd64
 liblcms2-dev/focal 2.9-4 i386
 liblcms2-utils/focal 2.9-4 amd64
 liblcms2-utils/focal 2.9-4 i386
-libldap-2.4-2/focal-updates,focal-security 2.4.49+dfsg-2ubuntu1.2 amd64 [upgradable from: 2.4.49+dfsg-2ubuntu1]
+libldap-2.4-2/focal-updates,focal-security,now 2.4.49+dfsg-2ubuntu1.2 amd64 [installed,automatic]
 libldap-2.4-2/focal-updates,focal-security 2.4.49+dfsg-2ubuntu1.2 i386
-libldap-common/focal-updates,focal-updates,focal-security,focal-security 2.4.49+dfsg-2ubuntu1.2 all [upgradable from: 2.4.49+dfsg-2ubuntu1]
+libldap-common/focal-updates,focal-updates,focal-security,focal-security,now 2.4.49+dfsg-2ubuntu1.2 all [installed,automatic]
 libldap-java/focal,focal 4.21.0+dfsg1-1 all
 libldap-ocaml-dev/focal 2.1.8-11build1 amd64
 libldap2-dev/focal-updates,focal-security 2.4.49+dfsg-2ubuntu1.2 amd64
@@ -41711,17 +41711,17 @@ libva-x11-2/focal 2.7.0-2 amd64
 libva-x11-2/focal 2.7.0-2 i386
 libva2/focal 2.7.0-2 amd64
 libva2/focal 2.7.0-2 i386
-libvala-0.48-0/focal 0.48.3-1 amd64
-libvala-0.48-0/focal 0.48.3-1 i386
-libvala-0.48-dev/focal 0.48.3-1 amd64
-libvala-0.48-dev/focal 0.48.3-1 i386
-libvalacodegen-0.48-0/focal 0.48.3-1 amd64
-libvalacodegen-0.48-0/focal 0.48.3-1 i386
-libvaladoc-0.48-0/focal 0.48.3-1 amd64
-libvaladoc-0.48-0/focal 0.48.3-1 i386
-libvaladoc-0.48-data/focal,focal 0.48.3-1 all
-libvaladoc-0.48-dev/focal 0.48.3-1 amd64
-libvaladoc-0.48-dev/focal 0.48.3-1 i386
+libvala-0.48-0/focal-updates 0.48.5-0ubuntu1 amd64
+libvala-0.48-0/focal-updates 0.48.5-0ubuntu1 i386
+libvala-0.48-dev/focal-updates 0.48.5-0ubuntu1 amd64
+libvala-0.48-dev/focal-updates 0.48.5-0ubuntu1 i386
+libvalacodegen-0.48-0/focal-updates 0.48.5-0ubuntu1 amd64
+libvalacodegen-0.48-0/focal-updates 0.48.5-0ubuntu1 i386
+libvaladoc-0.48-0/focal-updates 0.48.5-0ubuntu1 amd64
+libvaladoc-0.48-0/focal-updates 0.48.5-0ubuntu1 i386
+libvaladoc-0.48-data/focal-updates,focal-updates 0.48.5-0ubuntu1 all
+libvaladoc-0.48-dev/focal-updates 0.48.5-0ubuntu1 amd64
+libvaladoc-0.48-dev/focal-updates 0.48.5-0ubuntu1 i386
 libvalapanel-dev/focal 0.4.91+dfsg1-2 amd64
 libvalapanel0/focal 0.4.91+dfsg1-2 amd64
 libvalidate-net-perl/focal,focal 0.6-2 all
@@ -53127,7 +53127,7 @@ python3-distorm3/focal,focal 3.4.1-4 all
 python3-distributed/focal,focal 1.25.0+ds.1-1 all
 python3-distro-info/focal,focal,now 0.23ubuntu1 all [installed]
 python3-distro/focal,focal,now 1.4.0-1 all [installed]
-python3-distupgrade/focal,focal,now 1:20.04.18 all [installed]
+python3-distupgrade/focal-updates,focal-updates 1:20.04.19 all [upgradable from: 1:20.04.18]
 python3-distutils-extra/focal,focal 2.43 all
 python3-distutils/focal,focal 3.8.2-1ubuntu1 all
 python3-dj-database-url/focal,focal 0.5.0-2 all
@@ -60425,7 +60425,7 @@ sordi/focal 0.16.4-1 i386
 sortmail/focal 1:2.4-3 amd64
 sortmerna/focal 2.1-4build1 amd64
 sosi2osm/focal 1.0.0-6build2 amd64
-sosreport/focal 3.9-1ubuntu2 amd64
+sosreport/focal-updates 3.9-1ubuntu2.1 amd64
 sound-icons/focal,focal 0.1-7 all
 sound-juicer/focal 3.24.0-3 amd64
 sound-theme-freedesktop/focal,focal 0.8-2ubuntu1 all
@@ -60855,7 +60855,7 @@ styx-dev/focal 2.0.1-1build1 amd64
 styx-doc/focal,focal 2.0.1-1build1 all
 styx/focal 2.0.1-1build1 amd64
 subdownloader/focal,focal 2.1.0-3 all
-subiquitycore/focal,focal 20.04.1+git45g5f9fae19 all
+subiquitycore/focal-updates,focal-updates 20.04.1+git45g5f9fae19ubuntu0.1 all
 subliminal-nautilus/focal,focal 2.0.5-3 all
 subliminal/focal,focal 2.0.5-3 all
 submux-dvd/focal 0.5.2-0ubuntu2 amd64
@@ -62520,9 +62520,9 @@ ubuntu-packaging-guide-pdf-uk/focal,focal 1.0.2 all
 ubuntu-packaging-guide-pdf/focal,focal 1.0.2 all
 ubuntu-packaging-guide/focal,focal 1.0.2 all
 ubuntu-policy/focal,focal 3.8.2.0ubuntu3 all
-ubuntu-release-upgrader-core/focal,focal,now 1:20.04.18 all [installed]
-ubuntu-release-upgrader-gtk/focal,focal 1:20.04.18 all
-ubuntu-release-upgrader-qt/focal,focal 1:20.04.18 all
+ubuntu-release-upgrader-core/focal-updates,focal-updates 1:20.04.19 all [upgradable from: 1:20.04.18]
+ubuntu-release-upgrader-gtk/focal-updates,focal-updates 1:20.04.19 all
+ubuntu-release-upgrader-qt/focal-updates,focal-updates 1:20.04.19 all
 ubuntu-report/focal 1.6.1 amd64
 ubuntu-restricted-addons/focal 26 amd64
 ubuntu-restricted-extras/focal 67 amd64
@@ -62587,7 +62587,7 @@ ubuntustudio-audio-core/focal 0.210 amd64
 ubuntustudio-audio-plugins/focal 0.210 amd64
 ubuntustudio-audio/focal 0.210 amd64
 ubuntustudio-branding-common/focal,focal 20.04.1 all
-ubuntustudio-controls/focal,focal 1.12.4 all
+ubuntustudio-controls/focal-updates,focal-updates 1.12.5~20.04.1 all
 ubuntustudio-default-settings/focal,focal 20.04.2 all
 ubuntustudio-desktop-core/focal 0.210 amd64
 ubuntustudio-desktop/focal 0.210 amd64
@@ -63075,7 +63075,7 @@ vagrant/focal,focal 2.2.6+dfsg-2ubuntu1 all
 vainfo/focal 2.6.0+ds1-1 amd64
 val-and-rick-data/focal,focal 0.1a.dfsg1-6build3 all
 val-and-rick/focal 0.1a.dfsg1-6build3 amd64
-vala-0.48-doc/focal,focal 0.48.3-1 all
+vala-0.48-doc/focal-updates,focal-updates 0.48.5-0ubuntu1 all
 vala-mode-el/focal,focal 0.1-7 all
 vala-panel-appmenu-common/focal,focal 0.7.3+dfsg1-2 all
 vala-panel-appmenu/focal 0.7.3+dfsg1-2 amd64
@@ -63085,13 +63085,13 @@ vala-panel-plugins-wnck/focal 0.4.91+dfsg1-2 amd64
 vala-panel/focal 0.4.91+dfsg1-2 amd64
 vala-sntray-plugin/focal 0.4.12-2 amd64
 valabind/focal 1.7.1-5 amd64
-valac-0.48-vapi/focal,focal 0.48.3-1 all
-valac-bin/focal 0.48.3-1 amd64
-valac-bin/focal 0.48.3-1 i386
-valac/focal 0.48.3-1 amd64
-valac/focal 0.48.3-1 i386
-valadoc/focal 0.48.3-1 amd64
-valadoc/focal 0.48.3-1 i386
+valac-0.48-vapi/focal-updates,focal-updates 0.48.5-0ubuntu1 all
+valac-bin/focal-updates 0.48.5-0ubuntu1 amd64
+valac-bin/focal-updates 0.48.5-0ubuntu1 i386
+valac/focal-updates 0.48.5-0ubuntu1 amd64
+valac/focal-updates 0.48.5-0ubuntu1 i386
+valadoc/focal-updates 0.48.5-0ubuntu1 amd64
+valadoc/focal-updates 0.48.5-0ubuntu1 i386
 valentina-l10n/focal,focal 0.6.1~dfsg-9 all
 valentina/focal 0.6.1~dfsg-9 amd64
 valgrind-dbg/focal 1:3.15.0-1ubuntu9 amd64
