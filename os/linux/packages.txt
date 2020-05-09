@@ -1643,8 +1643,8 @@ fio.x86_64                                3.7-1.el7                      base
 fipscheck-devel.i686                      1.4.1-6.el7                    base   
 fipscheck-devel.x86_64                    1.4.1-6.el7                    base   
 fipscheck-lib.i686                        1.4.1-6.el7                    base   
-firefox.i686                              68.7.0-2.el7.centos            updates
-firefox.x86_64                            68.7.0-2.el7.centos            updates
+firefox.i686                              68.8.0-1.el7.centos            updates
+firefox.x86_64                            68.8.0-1.el7.centos            updates
 firewall-applet.noarch                    0.6.3-8.el7_8.1                updates
 firewall-config.noarch                    0.6.3-8.el7_8.1                updates
 firstboot.x86_64                          19.12-1.el7                    base   
@@ -8646,9 +8646,9 @@ sqlite-devel.x86_64                       3.7.17-8.el7_7.1               base
 sqlite-doc.noarch                         3.7.17-8.el7_7.1               base   
 sqlite-tcl.x86_64                         3.7.17-8.el7_7.1               base   
 squashfs-tools.x86_64                     4.3-0.21.gitaae0aff4.el7       base   
-squid.x86_64                              7:3.5.20-15.el7                base   
-squid-migration-script.x86_64             7:3.5.20-15.el7                base   
-squid-sysvinit.x86_64                     7:3.5.20-15.el7                base   
+squid.x86_64                              7:3.5.20-15.el7_8.1            updates
+squid-migration-script.x86_64             7:3.5.20-15.el7_8.1            updates
+squid-sysvinit.x86_64                     7:3.5.20-15.el7_8.1            updates
 srp_daemon.x86_64                         22.4-2.el7_8                   updates
 sshpass.x86_64                            1.06-2.el7                     extras 
 sssd.x86_64                               1.16.4-37.el7                  base   
