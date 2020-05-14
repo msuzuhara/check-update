@@ -605,7 +605,7 @@ appstream-util/oldstable 0.6.8-1 amd64
 aprsdigi/oldstable 3.10.0-2+b1 amd64
 aprx/oldstable 2.9.0+dfsg-1 amd64
 apsfilter/oldstable 7.2.6-1.3 all
-apt/oldstable,oldstable,now 1.4.9 amd64 [installed]
+apt/oldstable 1.4.10 amd64 [upgradable from: 1.4.9]
 apt-build/oldstable 0.12.47 amd64
 apt-cacher/oldstable 1.7.13+deb9u1 all
 apt-cacher-ng/oldstable 2-2 amd64
@@ -615,7 +615,7 @@ apt-cudf/oldstable 5.0.1-8+deb9u1 amd64
 apt-dater/oldstable 1.0.3-4 amd64
 apt-dater-dbg/oldstable 1.0.3-4 amd64
 apt-dater-host/oldstable 1.0.0-4 all
-apt-doc/oldstable,oldstable 1.4.9 all
+apt-doc/oldstable 1.4.10 all
 apt-dpkg-ref/oldstable 5.3.1+nmu2 all
 apt-file/oldstable 3.1.4 all
 apt-forktracer/oldstable 0.5 all
@@ -630,11 +630,11 @@ apt-rdepends/oldstable 1.3.0-6 all
 apt-show-source/oldstable 0.10+nmu5 all
 apt-show-versions/oldstable 0.22.7 all
 apt-src/oldstable 0.25.2 all
-apt-transport-https/oldstable,oldstable 1.4.9 amd64
+apt-transport-https/oldstable 1.4.10 amd64
 apt-transport-s3/oldstable 1.2.1-1 all
 apt-transport-spacewalk/oldstable 1.0.6-4.1 all
 apt-transport-tor/oldstable 0.3 all
-apt-utils/oldstable,oldstable,now 1.4.9 amd64 [installed]
+apt-utils/oldstable 1.4.10 amd64 [upgradable from: 1.4.9]
 apt-venv/oldstable 1.0.0-2 all
 apt-xapian-index/oldstable 0.49 all
 aptfs/oldstable 2:0.10-1 all
@@ -12846,11 +12846,11 @@ libaprutil1-dbd-sqlite3/oldstable 1.5.4-3 amd64
 libaprutil1-dbg/oldstable 1.5.4-3 amd64
 libaprutil1-dev/oldstable 1.5.4-3 amd64
 libaprutil1-ldap/oldstable 1.5.4-3 amd64
-libapt-inst2.0/oldstable,oldstable,now 1.4.9 amd64 [installed]
-libapt-pkg-dev/oldstable,oldstable 1.4.9 amd64
-libapt-pkg-doc/oldstable,oldstable 1.4.9 all
+libapt-inst2.0/oldstable 1.4.10 amd64 [upgradable from: 1.4.9]
+libapt-pkg-dev/oldstable 1.4.10 amd64
+libapt-pkg-doc/oldstable 1.4.10 all
 libapt-pkg-perl/oldstable 0.1.32 amd64
-libapt-pkg5.0/oldstable,oldstable,now 1.4.9 amd64 [installed]
+libapt-pkg5.0/oldstable 1.4.10 amd64 [upgradable from: 1.4.9]
 libaqbanking-data/oldstable 5.6.12-1 all
 libaqbanking-dev/oldstable 5.6.12-1+b1 amd64
 libaqbanking-doc/oldstable 5.6.12-1 all
