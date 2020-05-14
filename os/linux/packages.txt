@@ -664,7 +664,7 @@ apt-config-icons/focal,focal 0.12.10-2 all
 apt-cudf/focal 5.0.1-14build2 amd64
 apt-dater-host/focal,focal 1.0.1-2 all
 apt-dater/focal 1.0.4-3 amd64
-apt-doc/focal,focal 2.0.2 all
+apt-doc/focal-updates,focal-updates,focal-security,focal-security 2.0.2ubuntu0.1 all
 apt-dpkg-ref/focal,focal 5.3.1+nmu2 all
 apt-file/focal,focal 3.2.2 all
 apt-forktracer/focal,focal 0.7 all
@@ -678,15 +678,15 @@ apt-rdepends/focal,focal 1.3.0-7 all
 apt-show-source/focal,focal 0.11 all
 apt-show-versions/focal,focal 0.22.11 all
 apt-src/focal,focal 0.25.2 all
-apt-transport-https/focal,focal 2.0.2 all
+apt-transport-https/focal-updates,focal-updates,focal-security,focal-security 2.0.2ubuntu0.1 all
 apt-transport-s3/focal,focal 2.0.0-1 all
 apt-transport-tor/focal,focal 0.4 all
-apt-utils/focal,now 2.0.2 amd64 [installed]
-apt-utils/focal 2.0.2 i386
+apt-utils/focal-updates,focal-security 2.0.2ubuntu0.1 amd64 [upgradable from: 2.0.2]
+apt-utils/focal-updates,focal-security 2.0.2ubuntu0.1 i386
 apt-venv/focal,focal 1.0.0-2 all
 apt-xapian-index/focal,focal 0.51ubuntu1 all
-apt/focal,now 2.0.2 amd64 [installed]
-apt/focal 2.0.2 i386
+apt/focal-updates,focal-security 2.0.2ubuntu0.1 amd64 [upgradable from: 2.0.2]
+apt/focal-updates,focal-security 2.0.2ubuntu0.1 i386
 aptdaemon-data/focal,focal 1.1.1+bzr982-0ubuntu32 all
 aptdaemon/focal,focal 1.1.1+bzr982-0ubuntu32 all
 aptfs/focal,focal 2:1.0.1 all
@@ -17520,13 +17520,13 @@ libaprutil1-ldap/focal 1.6.1-4ubuntu2 amd64
 libaprutil1-ldap/focal 1.6.1-4ubuntu2 i386
 libaprutil1/focal 1.6.1-4ubuntu2 amd64
 libaprutil1/focal 1.6.1-4ubuntu2 i386
-libapt-pkg-dev/focal 2.0.2 amd64
-libapt-pkg-dev/focal 2.0.2 i386
-libapt-pkg-doc/focal,focal 2.0.2 all
+libapt-pkg-dev/focal-updates,focal-security 2.0.2ubuntu0.1 amd64
+libapt-pkg-dev/focal-updates,focal-security 2.0.2ubuntu0.1 i386
+libapt-pkg-doc/focal-updates,focal-updates,focal-security,focal-security 2.0.2ubuntu0.1 all
 libapt-pkg-perl/focal 0.1.36build3 amd64
 libapt-pkg-perl/focal 0.1.36build3 i386
-libapt-pkg6.0/focal,now 2.0.2 amd64 [installed]
-libapt-pkg6.0/focal 2.0.2 i386
+libapt-pkg6.0/focal-updates,focal-security 2.0.2ubuntu0.1 amd64 [upgradable from: 2.0.2]
+libapt-pkg6.0/focal-updates,focal-security 2.0.2ubuntu0.1 i386
 libaqbanking-data/focal,focal 6.0.1-2 all
 libaqbanking-dev/focal 6.0.1-2 amd64
 libaqbanking44/focal 6.0.1-2 amd64
@@ -22185,13 +22185,13 @@ libexempi-dev/focal 2.5.1-1build1 i386
 libexempi8/focal 2.5.1-1build1 amd64
 libexempi8/focal 2.5.1-1build1 i386
 libexene-smlnj/focal 110.79-6 amd64
-libexif-dev/focal 0.6.21-6 amd64
-libexif-dev/focal 0.6.21-6 i386
-libexif-doc/focal,focal 0.6.21-6 all
+libexif-dev/focal-updates,focal-security 0.6.21-6ubuntu0.1 amd64
+libexif-dev/focal-updates,focal-security 0.6.21-6ubuntu0.1 i386
+libexif-doc/focal-updates,focal-updates,focal-security,focal-security 0.6.21-6ubuntu0.1 all
 libexif-gtk-dev/focal 0.4.0-2 amd64
 libexif-gtk5/focal 0.4.0-2 amd64
-libexif12/focal 0.6.21-6 amd64
-libexif12/focal 0.6.21-6 i386
+libexif12/focal-updates,focal-security 0.6.21-6ubuntu0.1 amd64
+libexif12/focal-updates,focal-security 0.6.21-6ubuntu0.1 i386
 libexiv2-27/focal 0.27.2-8ubuntu2 amd64
 libexiv2-dev/focal 0.27.2-8ubuntu2 amd64
 libexiv2-doc/focal,focal 0.27.2-8ubuntu2 all
@@ -33312,7 +33312,7 @@ libnetpbm9-dev/focal 2:10.0-15.3build1 i386
 libnetpbm9/focal 2:10.0-15.3build1 amd64
 libnetpbm9/focal 2:10.0-15.3build1 i386
 libnetplan-dev/focal-updates 0.99-0ubuntu3~20.04.1 amd64
-libnetplan0/focal-updates 0.99-0ubuntu3~20.04.1 amd64 [upgradable from: 0.99-0ubuntu2]
+libnetplan0/focal-updates,now 0.99-0ubuntu3~20.04.1 amd64 [installed]
 libnetsds-kannel-perl/focal,focal 1.300-6 all
 libnetsds-perl/focal,focal 1.301-3 all
 libnetsds-util-perl/focal,focal 1.045-1 all
@@ -46389,7 +46389,7 @@ netpipe-openmpi/focal 3.7.2-8 amd64
 netpipe-pvm/focal 3.7.2-8 amd64
 netpipe-tcp/focal 3.7.2-8 amd64
 netpipes/focal 4.2-8build1 amd64
-netplan.io/focal-updates 0.99-0ubuntu3~20.04.1 amd64 [upgradable from: 0.99-0ubuntu2]
+netplan.io/focal-updates,now 0.99-0ubuntu3~20.04.1 amd64 [installed]
 netplug/focal 1.2.9.2-3 amd64
 netrek-client-cow/focal 3.3.1-4build1 amd64
 netrik/focal 1.16.1-2build3 amd64
@@ -60600,14 +60600,14 @@ squeak-plugins-scratch/focal 1.4.0.2~svn.r83-3 amd64
 squeak-vm/focal 1:4.10.2.2614-8build1 amd64
 squeezelite-pa/focal 1.8-4.1build1 amd64
 squeezelite/focal 1.8-4.1build1 amd64
-squid-cgi/focal 4.10-1ubuntu1 amd64
-squid-common/focal,focal 4.10-1ubuntu1 all
+squid-cgi/focal-updates,focal-security 4.10-1ubuntu1.1 amd64
+squid-common/focal-updates,focal-updates,focal-security,focal-security 4.10-1ubuntu1.1 all
 squid-deb-proxy-client/focal,focal 0.8.15 all
 squid-deb-proxy/focal,focal 0.8.15 all
 squid-langpack/focal,focal 20191103-1 all
-squid-purge/focal 4.10-1ubuntu1 amd64
-squid/focal 4.10-1ubuntu1 amd64
-squidclient/focal 4.10-1ubuntu1 amd64
+squid-purge/focal-updates,focal-security 4.10-1ubuntu1.1 amd64
+squid/focal-updates,focal-security 4.10-1ubuntu1.1 amd64
+squidclient/focal-updates,focal-security 4.10-1ubuntu1.1 amd64
 squidguard-doc/focal,focal 1.6.0-1 all
 squidguard/focal 1.6.0-1 amd64
 squidtaild/focal,focal 2.1a6-6 all
