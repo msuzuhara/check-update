@@ -690,7 +690,7 @@ appstream-util/bionic 0.7.7-2 amd64
 aprsdigi/bionic 3.10.0-2build1 amd64
 aprx/bionic 2.9.0+dfsg-1 amd64
 apsfilter/bionic 7.2.6-1.3 all
-apt/bionic-updates,now 1.6.12 amd64 [installed,automatic]
+apt/bionic-updates,bionic-security 1.6.12ubuntu0.1 amd64 [upgradable from: 1.6.12]
 apt-btrfs-snapshot/bionic 3.5.1 all
 apt-build/bionic 0.12.47 amd64
 apt-cacher/bionic 1.7.16 all
@@ -704,7 +704,7 @@ apt-config-icons-large-hidpi/bionic-updates 0.12.0-3ubuntu1 all
 apt-cudf/bionic 5.0.1-9build3 amd64
 apt-dater/bionic 1.0.3-6 amd64
 apt-dater-host/bionic 1.0.1-1 all
-apt-doc/bionic-updates 1.6.12 all
+apt-doc/bionic-updates,bionic-security 1.6.12ubuntu0.1 all
 apt-dpkg-ref/bionic 5.3.1+nmu2 all
 apt-file/bionic 3.1.5 all
 apt-forktracer/bionic 0.5 all
@@ -718,10 +718,10 @@ apt-rdepends/bionic 1.3.0-6 all
 apt-show-source/bionic 0.10+nmu5ubuntu1 all
 apt-show-versions/bionic 0.22.7ubuntu1 all
 apt-src/bionic 0.25.2 all
-apt-transport-https/bionic-updates 1.6.12 all
+apt-transport-https/bionic-updates,bionic-security 1.6.12ubuntu0.1 all
 apt-transport-s3/bionic 1.3.0-1 all
 apt-transport-tor/bionic 0.4 all
-apt-utils/bionic-updates,now 1.6.12 amd64 [installed,automatic]
+apt-utils/bionic-updates,bionic-security 1.6.12ubuntu0.1 amd64 [upgradable from: 1.6.12]
 apt-venv/bionic 1.0.0-2 all
 apt-xapian-index/bionic 0.47ubuntu13 all
 aptdaemon/bionic-updates,bionic-security 1.1.1+bzr982-0ubuntu19.2 all
@@ -6087,7 +6087,7 @@ figlet/bionic 2.2.5-3 amd64
 figtoipe/bionic 1:7.2.7-1build1 amd64
 figtree/bionic-updates,bionic-security 1.4.4-3~18.04.1 all
 fil-plugins/bionic 0.3.0-6 amd64
-file/bionic-updates,bionic-security,now 1:5.32-2ubuntu0.3 amd64 [installed,automatic]
+file/bionic-updates,bionic-security,now 1:5.32-2ubuntu0.4 amd64 [installed,automatic]
 file-kanji/bionic 1.1-16build1 amd64
 file-roller/bionic-updates,bionic-security 3.28.0-1ubuntu1.2 amd64
 filelight/bionic 4:17.12.3-0ubuntu1 amd64
@@ -13095,8 +13095,8 @@ ippsample/bionic 0.0+20180213-0ubuntu1 amd64
 ippusbxd/bionic 1.32-2 amd64
 iprange/bionic 1.0.3+ds-1 amd64
 iprint/bionic 1.3-9build1 amd64
-iproute2/bionic,now 4.15.0-2ubuntu1 amd64 [installed,automatic]
-iproute2-doc/bionic 4.15.0-2ubuntu1 all
+iproute2/bionic-updates,bionic-security,now 4.15.0-2ubuntu1.1 amd64 [installed,automatic]
+iproute2-doc/bionic-updates,bionic-security 4.15.0-2ubuntu1.1 all
 ips/bionic 4.0-1build2 amd64
 ipsec-tools/bionic 1:0.8.2+20140711-10build1 amd64
 ipset/bionic 6.34-1 amd64
@@ -16338,11 +16338,11 @@ libaprutil1-dbd-sqlite3/bionic 1.6.1-2 amd64
 libaprutil1-dbg/bionic 1.6.1-2 amd64
 libaprutil1-dev/bionic 1.6.1-2 amd64
 libaprutil1-ldap/bionic 1.6.1-2 amd64
-libapt-inst2.0/bionic-updates,now 1.6.12 amd64 [installed,automatic]
-libapt-pkg-dev/bionic-updates 1.6.12 amd64
-libapt-pkg-doc/bionic-updates 1.6.12 all
+libapt-inst2.0/bionic-updates,bionic-security 1.6.12ubuntu0.1 amd64 [upgradable from: 1.6.12]
+libapt-pkg-dev/bionic-updates,bionic-security 1.6.12ubuntu0.1 amd64
+libapt-pkg-doc/bionic-updates,bionic-security 1.6.12ubuntu0.1 all
 libapt-pkg-perl/bionic 0.1.33build1 amd64
-libapt-pkg5.0/bionic-updates,now 1.6.12 amd64 [installed,automatic]
+libapt-pkg5.0/bionic-updates,bionic-security 1.6.12ubuntu0.1 amd64 [upgradable from: 1.6.12]
 libaqbanking-data/bionic 5.7.8-1 all
 libaqbanking-dev/bionic 5.7.8-1 amd64
 libaqbanking-doc/bionic 5.7.8-1 all
@@ -20363,11 +20363,11 @@ libexecs0/bionic 1.1-1 amd64
 libexempi-dev/bionic 2.4.5-2 amd64
 libexempi3/bionic 2.4.5-2 amd64
 libexene-smlnj/bionic 110.79-4 amd64
-libexif-dev/bionic-updates,bionic-security 0.6.21-4ubuntu0.1 amd64
-libexif-doc/bionic-updates,bionic-security 0.6.21-4ubuntu0.1 all
+libexif-dev/bionic-updates,bionic-security 0.6.21-4ubuntu0.2 amd64
+libexif-doc/bionic-updates,bionic-security 0.6.21-4ubuntu0.2 all
 libexif-gtk-dev/bionic 0.3.5-5 amd64
 libexif-gtk5/bionic 0.3.5-5 amd64
-libexif12/bionic-updates,bionic-security 0.6.21-4ubuntu0.1 amd64
+libexif12/bionic-updates,bionic-security 0.6.21-4ubuntu0.2 amd64
 libexiv2-14/bionic-updates,bionic-security 0.25-3.1ubuntu0.18.04.5 amd64
 libexiv2-dbg/bionic-updates,bionic-security 0.25-3.1ubuntu0.18.04.5 amd64
 libexiv2-dev/bionic-updates,bionic-security 0.25-3.1ubuntu0.18.04.5 amd64
@@ -29183,11 +29183,11 @@ libmadlib/bionic 1.3.0-2.1ubuntu1 amd64
 libmadlib-dbg/bionic 1.3.0-2.1ubuntu1 amd64
 libmadlib-dev/bionic 1.3.0-2.1ubuntu1 amd64
 libmadness-dev/bionic 0.10.1~gite4aa500e-10 amd64
-libmagic-dev/bionic-updates,bionic-security 1:5.32-2ubuntu0.3 amd64
-libmagic-mgc/bionic-updates,bionic-security,now 1:5.32-2ubuntu0.3 amd64 [installed,automatic]
+libmagic-dev/bionic-updates,bionic-security 1:5.32-2ubuntu0.4 amd64
+libmagic-mgc/bionic-updates,bionic-security,now 1:5.32-2ubuntu0.4 amd64 [installed,automatic]
 libmagic-ocaml/bionic 0.7.3-5build9 amd64
 libmagic-ocaml-dev/bionic 0.7.3-5build9 amd64
-libmagic1/bionic-updates,bionic-security,now 1:5.32-2ubuntu0.3 amd64 [installed,automatic]
+libmagic1/bionic-updates,bionic-security,now 1:5.32-2ubuntu0.4 amd64 [installed,automatic]
 libmagick++-6-headers/bionic-updates,bionic-security 8:6.9.7.4+dfsg-16ubuntu6.8 all
 libmagick++-6.q16-7/bionic-updates,bionic-security 8:6.9.7.4+dfsg-16ubuntu6.8 amd64
 libmagick++-6.q16-dev/bionic-updates,bionic-security 8:6.9.7.4+dfsg-16ubuntu6.8 amd64
@@ -61386,16 +61386,16 @@ squeak-plugins-scratch-dbg/bionic 1.4.0.2~svn.r83-2.1 amd64
 squeak-vm/bionic 1:4.10.2.2614-4.1 amd64
 squeezelite/bionic 1.8-4build1 amd64
 squeezelite-pa/bionic 1.8-4build1 amd64
-squid/bionic-updates,bionic-security 3.5.27-1ubuntu1.5 amd64
-squid-cgi/bionic-updates,bionic-security 3.5.27-1ubuntu1.5 amd64
-squid-common/bionic-updates,bionic-security 3.5.27-1ubuntu1.5 all
-squid-dbg/bionic-updates,bionic-security 3.5.27-1ubuntu1.5 amd64
+squid/bionic-updates,bionic-security 3.5.27-1ubuntu1.6 amd64
+squid-cgi/bionic-updates,bionic-security 3.5.27-1ubuntu1.6 amd64
+squid-common/bionic-updates,bionic-security 3.5.27-1ubuntu1.6 all
+squid-dbg/bionic-updates,bionic-security 3.5.27-1ubuntu1.6 amd64
 squid-deb-proxy/bionic 0.8.14 all
 squid-deb-proxy-client/bionic 0.8.14 all
 squid-langpack/bionic 20170901-1 all
-squid-purge/bionic-updates,bionic-security 3.5.27-1ubuntu1.5 amd64
-squid3/bionic-updates,bionic-security 3.5.27-1ubuntu1.5 all
-squidclient/bionic-updates,bionic-security 3.5.27-1ubuntu1.5 amd64
+squid-purge/bionic-updates,bionic-security 3.5.27-1ubuntu1.6 amd64
+squid3/bionic-updates,bionic-security 3.5.27-1ubuntu1.6 all
+squidclient/bionic-updates,bionic-security 3.5.27-1ubuntu1.6 amd64
 squidguard/bionic 1.5-6 amd64
 squidguard-doc/bionic 1.5-6 all
 squidtaild/bionic 2.1a6-6 all
