@@ -24012,10 +24012,10 @@ libjsf-api-java/xenial,xenial 2.2.8-2 all
 libjsf-java-doc/xenial,xenial 2.2.8-2 all
 libjsmpp-java/xenial,xenial 2.1.2-3 all
 libjson-any-perl/xenial,xenial 1.39-1 all
-libjson-c-dev/xenial 0.11-4ubuntu2 amd64
-libjson-c-doc/xenial,xenial 0.11-4ubuntu2 all
-libjson-c2/xenial,now 0.11-4ubuntu2 amd64 [installed]
-libjson-c2-dbg/xenial 0.11-4ubuntu2 amd64
+libjson-c-dev/xenial-updates,xenial-security 0.11-4ubuntu2.1 amd64
+libjson-c-doc/xenial-updates,xenial-updates,xenial-security,xenial-security 0.11-4ubuntu2.1 all
+libjson-c2/xenial-updates,xenial-security 0.11-4ubuntu2.1 amd64 [upgradable from: 0.11-4ubuntu2]
+libjson-c2-dbg/xenial-updates,xenial-security 0.11-4ubuntu2.1 amd64
 libjson-glib-1.0-0/xenial 1.1.2-0ubuntu1 amd64
 libjson-glib-1.0-0-dbg/xenial 1.1.2-0ubuntu1 amd64
 libjson-glib-1.0-common/xenial,xenial 1.1.2-0ubuntu1 all
@@ -24033,8 +24033,8 @@ libjson-simple-java/xenial,xenial 1.1.1-3 all
 libjson-types-perl/xenial,xenial 0.05-1 all
 libjson-validator-perl/xenial,xenial 0.66+dfsg-1 all
 libjson-xs-perl/xenial 3.010-2build1 amd64
-libjson0/xenial 0.11-4ubuntu2 amd64
-libjson0-dev/xenial 0.11-4ubuntu2 amd64
+libjson0/xenial-updates,xenial-security 0.11-4ubuntu2.1 amd64
+libjson0-dev/xenial-updates,xenial-security 0.11-4ubuntu2.1 amd64
 libjsoncpp-dev/xenial 1.7.2-1 amd64
 libjsoncpp-doc/xenial,xenial 1.7.2-1 all
 libjsoncpp1/xenial 1.7.2-1 amd64
