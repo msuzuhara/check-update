@@ -681,11 +681,11 @@ apt-src/focal,focal 0.25.2 all
 apt-transport-https/focal-updates,focal-updates,focal-security,focal-security 2.0.2ubuntu0.1 all
 apt-transport-s3/focal,focal 2.0.0-1 all
 apt-transport-tor/focal,focal 0.4 all
-apt-utils/focal-updates,focal-security 2.0.2ubuntu0.1 amd64 [upgradable from: 2.0.2]
+apt-utils/focal-updates,focal-security,now 2.0.2ubuntu0.1 amd64 [installed]
 apt-utils/focal-updates,focal-security 2.0.2ubuntu0.1 i386
 apt-venv/focal,focal 1.0.0-2 all
 apt-xapian-index/focal,focal 0.51ubuntu1 all
-apt/focal-updates,focal-security 2.0.2ubuntu0.1 amd64 [upgradable from: 2.0.2]
+apt/focal-updates,focal-security,now 2.0.2ubuntu0.1 amd64 [installed]
 apt/focal-updates,focal-security 2.0.2ubuntu0.1 i386
 aptdaemon-data/focal,focal 1.1.1+bzr982-0ubuntu32 all
 aptdaemon/focal,focal 1.1.1+bzr982-0ubuntu32 all
@@ -2599,13 +2599,13 @@ chrome-gnome-shell/focal,focal 10.1-5 all
 chromhmm-example/focal,focal 1.20+dfsg-1 all
 chromhmm/focal,focal 1.20+dfsg-1 all
 chromimpute/focal,focal 1.0.3+dfsg-1 all
-chromium-browser-l10n/focal,focal 80.0.3987.163-0ubuntu1 all
-chromium-browser/focal 80.0.3987.163-0ubuntu1 amd64
+chromium-browser-l10n/focal-updates,focal-updates 81.0.4044.129-0ubuntu0.20.04.1 all
+chromium-browser/focal-updates 81.0.4044.129-0ubuntu0.20.04.1 amd64
 chromium-bsu-data/focal,focal 0.9.16.1-2build1 all
 chromium-bsu/focal 0.9.16.1-2build1 amd64
-chromium-chromedriver/focal 80.0.3987.163-0ubuntu1 amd64
-chromium-codecs-ffmpeg-extra/focal 80.0.3987.163-0ubuntu1 amd64
-chromium-codecs-ffmpeg/focal 80.0.3987.163-0ubuntu1 amd64
+chromium-chromedriver/focal-updates 81.0.4044.129-0ubuntu0.20.04.1 amd64
+chromium-codecs-ffmpeg-extra/focal-updates 81.0.4044.129-0ubuntu0.20.04.1 amd64
+chromium-codecs-ffmpeg/focal-updates 81.0.4044.129-0ubuntu0.20.04.1 amd64
 chromium-lwn4chrome/focal,focal 1.0-3 all
 chromium-tt-rss-notifier/focal,focal 0.5.2-2 all
 chromium-ublock-origin/focal,focal 1.22.2+dfsg-1 all
@@ -5627,7 +5627,7 @@ env2/focal,focal 1.1.0-4 all
 environment-modules/focal 4.4.1-1 amd64
 envstore/focal 2.1-5 amd64
 eoconv/focal 1.5-1 amd64
-eog-dev/focal 3.36.1-1 amd64
+eog-dev/focal-updates 3.36.2-0ubuntu1 amd64
 eog-plugin-disable-dark-theme/focal 3.26.5-1 amd64
 eog-plugin-exif-display/focal 3.26.5-1 amd64
 eog-plugin-export-to-folder/focal 3.26.5-1 amd64
@@ -5642,7 +5642,7 @@ eog-plugin-send-by-mail/focal 3.26.5-1 amd64
 eog-plugin-slideshow-shuffle/focal 3.26.5-1 amd64
 eog-plugins-common/focal,focal 3.26.5-1 all
 eog-plugins/focal 3.26.5-1 amd64
-eog/focal 3.36.1-1 amd64
+eog/focal-updates 3.36.2-0ubuntu1 amd64
 eom-common/focal,focal 1.24.0-1 all
 eom-dev/focal 1.24.0-1 amd64
 eom/focal 1.24.0-1 amd64
@@ -9913,7 +9913,7 @@ gir1.2-gmime-3.0/focal 3.2.7-1 amd64
 gir1.2-gnomeautoar-0.1/focal 0.2.3-2 amd64
 gir1.2-gnomeautoargtk-0.1/focal 0.2.3-2 amd64
 gir1.2-gnomebluetooth-1.0/focal 3.34.1-1 amd64
-gir1.2-gnomedesktop-3.0/focal 3.36.1-1ubuntu1 amd64
+gir1.2-gnomedesktop-3.0/focal-updates 3.36.2-0ubuntu1 amd64
 gir1.2-gnumeric/focal 1.12.46-1ubuntu2 amd64
 gir1.2-goa-1.0/focal 3.36.0-1ubuntu1 amd64
 gir1.2-goa-1.0/focal 3.36.0-1ubuntu1 i386
@@ -10631,13 +10631,13 @@ gnome-colors-common/focal,focal 5.5.1-2ubuntu2 all
 gnome-colors/focal,focal 5.5.1-2ubuntu2 all
 gnome-common/focal,focal 3.18.0-4 all
 gnome-contacts/focal 3.36.1-1 amd64
-gnome-control-center-data/focal,focal 1:3.36.1-1ubuntu5 all
-gnome-control-center-dev/focal,focal 1:3.36.1-1ubuntu5 all
-gnome-control-center-faces/focal,focal 1:3.36.1-1ubuntu5 all
-gnome-control-center/focal 1:3.36.1-1ubuntu5 amd64
+gnome-control-center-data/focal-updates,focal-updates 1:3.36.2-0ubuntu1 all
+gnome-control-center-dev/focal-updates,focal-updates 1:3.36.2-0ubuntu1 all
+gnome-control-center-faces/focal-updates,focal-updates 1:3.36.2-0ubuntu1 all
+gnome-control-center/focal-updates 1:3.36.2-0ubuntu1 amd64
 gnome-core/focal 1:3.30+2 amd64
 gnome-desktop-testing/focal 2018.1-3 amd64
-gnome-desktop3-data/focal,focal 3.36.1-1ubuntu1 all
+gnome-desktop3-data/focal-updates,focal-updates 3.36.2-0ubuntu1 all
 gnome-devel-docs/focal,focal 3.32.1-1 all
 gnome-devel/focal,focal 1:3.30+2 all
 gnome-dictionary/focal 3.26.1-6 amd64
@@ -10706,7 +10706,7 @@ gnome-icon-theme-suede/focal,focal 0.2.5-2 all
 gnome-icon-theme-yasis/focal,focal 0.4.2-1 all
 gnome-icon-theme/focal,focal 3.12.0-3 all
 gnome-illustrious-icon-theme/focal,focal 5.5.1-2ubuntu2 all
-gnome-initial-setup/focal 3.36.1-1ubuntu1 amd64
+gnome-initial-setup/focal-updates 3.36.2-0ubuntu1 amd64
 gnome-keyring-pkcs11/focal 3.36.0-1ubuntu1 amd64
 gnome-keyring/focal 3.36.0-1ubuntu1 amd64
 gnome-keysign/focal,focal 1.2.0-2 all
@@ -17525,7 +17525,7 @@ libapt-pkg-dev/focal-updates,focal-security 2.0.2ubuntu0.1 i386
 libapt-pkg-doc/focal-updates,focal-updates,focal-security,focal-security 2.0.2ubuntu0.1 all
 libapt-pkg-perl/focal 0.1.36build3 amd64
 libapt-pkg-perl/focal 0.1.36build3 i386
-libapt-pkg6.0/focal-updates,focal-security 2.0.2ubuntu0.1 amd64 [upgradable from: 2.0.2]
+libapt-pkg6.0/focal-updates,focal-security,now 2.0.2ubuntu0.1 amd64 [installed]
 libapt-pkg6.0/focal-updates,focal-security 2.0.2ubuntu0.1 i386
 libaqbanking-data/focal,focal 6.0.1-2 all
 libaqbanking-dev/focal 6.0.1-2 amd64
@@ -27199,8 +27199,8 @@ libgnome-autoar-gtk-0-0/focal 0.2.3-2 amd64
 libgnome-autoar-gtk-0-dev/focal 0.2.3-2 amd64
 libgnome-bluetooth-dev/focal 3.34.1-1 amd64
 libgnome-bluetooth13/focal 3.34.1-1 amd64
-libgnome-desktop-3-19/focal 3.36.1-1ubuntu1 amd64
-libgnome-desktop-3-dev/focal 3.36.1-1ubuntu1 amd64
+libgnome-desktop-3-19/focal-updates 3.36.2-0ubuntu1 amd64
+libgnome-desktop-3-dev/focal-updates 3.36.2-0ubuntu1 amd64
 libgnome-games-support-1-3/focal 1.6.1-1 amd64
 libgnome-games-support-1-dev/focal 1.6.1-1 amd64
 libgnome-games-support-common/focal,focal 1.6.1-1 all
@@ -29864,11 +29864,11 @@ libjsf-api-java/focal,focal 2.2.8-6 all
 libjsf-java-doc/focal,focal 2.2.8-6 all
 libjsilver-aosp-java/focal,focal 6.0.1+r55-1 all
 libjson-any-perl/focal,focal 1.39-2 all
-libjson-c-dev/focal 0.13.1+dfsg-7 amd64
-libjson-c-dev/focal 0.13.1+dfsg-7 i386
-libjson-c-doc/focal,focal 0.13.1+dfsg-7 all
-libjson-c4/focal,now 0.13.1+dfsg-7 amd64 [installed]
-libjson-c4/focal 0.13.1+dfsg-7 i386
+libjson-c-dev/focal-updates,focal-security 0.13.1+dfsg-7ubuntu0.1 amd64
+libjson-c-dev/focal-updates,focal-security 0.13.1+dfsg-7ubuntu0.1 i386
+libjson-c-doc/focal-updates,focal-updates,focal-security,focal-security 0.13.1+dfsg-7ubuntu0.1 all
+libjson-c4/focal-updates,focal-security 0.13.1+dfsg-7ubuntu0.1 amd64 [upgradable from: 0.13.1+dfsg-7]
+libjson-c4/focal-updates,focal-security 0.13.1+dfsg-7ubuntu0.1 i386
 libjson-glib-1.0-0/focal 1.4.4-2ubuntu2 amd64
 libjson-glib-1.0-0/focal 1.4.4-2ubuntu2 i386
 libjson-glib-1.0-common/focal,focal 1.4.4-2ubuntu2 all
@@ -44002,8 +44002,8 @@ live-manual-pdf/focal,focal 2:20151217.1 all
 live-manual-txt/focal,focal 2:20151217.1 all
 live-manual/focal,focal 2:20151217.1 all
 live-tools/focal,focal 1:20190831 all
-livecd-rootfs/focal 2.664 amd64
-livecd-rootfs/focal 2.664 i386
+livecd-rootfs/focal-updates 2.664.1 amd64
+livecd-rootfs/focal-updates 2.664.1 i386
 livemedia-utils/focal 2020.01.19-1build1 amd64
 livemedia-utils/focal 2020.01.19-1build1 i386
 lives-data/focal,focal 3.0.2-1 all
@@ -61712,7 +61712,7 @@ theorur/focal 0.5.5-0ubuntu3 amd64
 therion-doc/focal,focal 5.4.4ds1-5ubuntu1 all
 therion-viewer/focal 5.4.4ds1-5ubuntu1 amd64
 therion/focal 5.4.4ds1-5ubuntu1 amd64
-thermald/focal 1.9.1-1build1 amd64
+thermald/focal-updates 1.9.1-1ubuntu0.1 amd64
 theseus-examples/focal,focal 3.3.0-8 all
 theseus/focal 3.3.0-8 amd64
 thesias/focal 3.1.1-1 amd64
