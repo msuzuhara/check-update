@@ -636,10 +636,10 @@ apt-src/stable 0.25.2 all
 apt-transport-https/stable 1.8.2.1 all
 apt-transport-s3/stable 1.3.0-1 all
 apt-transport-tor/stable 0.4 all
-apt-utils/stable 1.8.2.1 amd64 [upgradable from: 1.8.2]
+apt-utils/stable,now 1.8.2.1 amd64 [installed]
 apt-venv/stable 1.0.0-2 all
 apt-xapian-index/stable 0.49 all
-apt/stable 1.8.2.1 amd64 [upgradable from: 1.8.2]
+apt/stable,now 1.8.2.1 amd64 [installed]
 aptfs/stable 2:0.13.1-1 all
 apticron-systemd/stable 1.2.1 all
 apticron/stable 1.2.1 all
@@ -14043,11 +14043,11 @@ libaprutil1-dbg/stable 1.6.1-4 amd64
 libaprutil1-dev/stable 1.6.1-4 amd64
 libaprutil1-ldap/stable 1.6.1-4 amd64
 libaprutil1/stable 1.6.1-4 amd64
-libapt-inst2.0/stable 1.8.2.1 amd64 [upgradable from: 1.8.2]
+libapt-inst2.0/stable,now 1.8.2.1 amd64 [installed]
 libapt-pkg-dev/stable 1.8.2.1 amd64
 libapt-pkg-doc/stable 1.8.2.1 all
 libapt-pkg-perl/stable 0.1.34+b1 amd64
-libapt-pkg5.0/stable 1.8.2.1 amd64 [upgradable from: 1.8.2]
+libapt-pkg5.0/stable,now 1.8.2.1 amd64 [installed]
 libaqbanking-data/stable 5.7.8-3 all
 libaqbanking-dev/stable 5.7.8-3 amd64
 libaqbanking-doc/stable 5.7.8-3 all
