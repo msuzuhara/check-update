@@ -25543,8 +25543,8 @@ liblog4cxx-doc/stable 0.10.0-15 all
 liblog4cxx10v5/stable 0.10.0-15 amd64
 liblog4j-extras1.2-java-doc/stable 1.2.17-2 all
 liblog4j-extras1.2-java/stable 1.2.17-2 all
-liblog4j1.2-java-doc/stable 1.2.17-8 all
-liblog4j1.2-java/stable 1.2.17-8 all
+liblog4j1.2-java-doc/stable 1.2.17-8+deb10u1 all
+liblog4j1.2-java/stable 1.2.17-8+deb10u1 all
 liblog4j2-java-doc/stable 2.11.1-2 all
 liblog4j2-java/stable 2.11.1-2 all
 liblog4net-cil-dev/stable 1.2.10+dfsg-7 all
