@@ -27738,9 +27738,9 @@ libjsf-java-doc/bionic 2.2.8-5 all
 libjsilver-aosp-java/bionic 6.0.1+r55-1 all
 libjsmpp-java/bionic 2.1.2-4 all
 libjson-any-perl/bionic 1.39-1 all
-libjson-c-dev/bionic-updates,bionic-security 0.12.1-1.3ubuntu0.1 amd64
-libjson-c-doc/bionic-updates,bionic-security 0.12.1-1.3ubuntu0.1 all
-libjson-c3/bionic-updates,bionic-security 0.12.1-1.3ubuntu0.1 amd64 [upgradable from: 0.12.1-1.3]
+libjson-c-dev/bionic-updates,bionic-security 0.12.1-1.3ubuntu0.2 amd64
+libjson-c-doc/bionic-updates,bionic-security 0.12.1-1.3ubuntu0.2 all
+libjson-c3/bionic-updates,bionic-security 0.12.1-1.3ubuntu0.2 amd64 [upgradable from: 0.12.1-1.3ubuntu0.1]
 libjson-glib-1.0-0/bionic-updates 1.4.2-3ubuntu0.18.04.1 amd64
 libjson-glib-1.0-common/bionic-updates 1.4.2-3ubuntu0.18.04.1 all
 libjson-glib-dev/bionic-updates 1.4.2-3ubuntu0.18.04.1 amd64
