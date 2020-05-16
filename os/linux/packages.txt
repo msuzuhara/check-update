@@ -29864,11 +29864,11 @@ libjsf-api-java/focal,focal 2.2.8-6 all
 libjsf-java-doc/focal,focal 2.2.8-6 all
 libjsilver-aosp-java/focal,focal 6.0.1+r55-1 all
 libjson-any-perl/focal,focal 1.39-2 all
-libjson-c-dev/focal-updates,focal-security 0.13.1+dfsg-7ubuntu0.1 amd64
-libjson-c-dev/focal-updates,focal-security 0.13.1+dfsg-7ubuntu0.1 i386
-libjson-c-doc/focal-updates,focal-updates,focal-security,focal-security 0.13.1+dfsg-7ubuntu0.1 all
-libjson-c4/focal-updates,focal-security 0.13.1+dfsg-7ubuntu0.1 amd64 [upgradable from: 0.13.1+dfsg-7]
-libjson-c4/focal-updates,focal-security 0.13.1+dfsg-7ubuntu0.1 i386
+libjson-c-dev/focal-updates,focal-security 0.13.1+dfsg-7ubuntu0.2 amd64
+libjson-c-dev/focal-updates,focal-security 0.13.1+dfsg-7ubuntu0.2 i386
+libjson-c-doc/focal-updates,focal-updates,focal-security,focal-security 0.13.1+dfsg-7ubuntu0.2 all
+libjson-c4/focal-updates,focal-security 0.13.1+dfsg-7ubuntu0.2 amd64 [upgradable from: 0.13.1+dfsg-7ubuntu0.1]
+libjson-c4/focal-updates,focal-security 0.13.1+dfsg-7ubuntu0.2 i386
 libjson-glib-1.0-0/focal 1.4.4-2ubuntu2 amd64
 libjson-glib-1.0-0/focal 1.4.4-2ubuntu2 i386
 libjson-glib-1.0-common/focal,focal 1.4.4-2ubuntu2 all
