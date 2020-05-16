@@ -23420,8 +23420,8 @@ liblog4cxx10-doc/oldstable 0.10.0-12 all
 liblog4cxx10v5/oldstable 0.10.0-12 amd64
 liblog4j-extras1.2-java/oldstable 1.2.17-1 all
 liblog4j-extras1.2-java-doc/oldstable 1.2.17-1 all
-liblog4j1.2-java/oldstable 1.2.17-7 all
-liblog4j1.2-java-doc/oldstable 1.2.17-7 all
+liblog4j1.2-java/oldstable 1.2.17-7+deb9u1 all
+liblog4j1.2-java-doc/oldstable 1.2.17-7+deb9u1 all
 liblog4j2-java/oldstable 2.7-2 all
 liblog4j2-java-doc/oldstable 2.7-2 all
 liblog4net-cil-dev/oldstable 1.2.10+dfsg-7 all
