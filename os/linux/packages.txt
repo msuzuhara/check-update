@@ -5033,18 +5033,18 @@ exif/oldstable 0.6.21-1+b1 amd64
 exifprobe/oldstable 2.0.1-11 amd64
 exiftags/oldstable 1.01-6+b2 amd64
 exiftran/oldstable 2.10-2+b3 amd64
-exim4/oldstable,oldstable,now 4.89-2+deb9u6 all [installed]
-exim4-base/oldstable,oldstable,now 4.89-2+deb9u6 amd64 [installed]
-exim4-config/oldstable,oldstable,now 4.89-2+deb9u6 all [installed]
-exim4-daemon-heavy/oldstable,oldstable 4.89-2+deb9u6 amd64
-exim4-daemon-heavy-dbg/oldstable,oldstable 4.89-2+deb9u6 amd64
-exim4-daemon-light/oldstable,oldstable,now 4.89-2+deb9u6 amd64 [installed]
-exim4-daemon-light-dbg/oldstable,oldstable 4.89-2+deb9u6 amd64
-exim4-dbg/oldstable,oldstable 4.89-2+deb9u6 amd64
-exim4-dev/oldstable,oldstable 4.89-2+deb9u6 amd64
+exim4/oldstable 4.89-2+deb9u7 all [upgradable from: 4.89-2+deb9u6]
+exim4-base/oldstable 4.89-2+deb9u7 amd64 [upgradable from: 4.89-2+deb9u6]
+exim4-config/oldstable 4.89-2+deb9u7 all [upgradable from: 4.89-2+deb9u6]
+exim4-daemon-heavy/oldstable 4.89-2+deb9u7 amd64
+exim4-daemon-heavy-dbg/oldstable 4.89-2+deb9u7 amd64
+exim4-daemon-light/oldstable 4.89-2+deb9u7 amd64 [upgradable from: 4.89-2+deb9u6]
+exim4-daemon-light-dbg/oldstable 4.89-2+deb9u7 amd64
+exim4-dbg/oldstable 4.89-2+deb9u7 amd64
+exim4-dev/oldstable 4.89-2+deb9u7 amd64
 exim4-doc-html/oldstable 4.89-1 all
 exim4-doc-info/oldstable 4.89-1 all
-eximon4/oldstable,oldstable 4.89-2+deb9u6 amd64
+eximon4/oldstable 4.89-2+deb9u7 amd64
 exiv2/oldstable,oldstable 0.25-3.1+deb9u1 amd64
 exmh/oldstable 1:2.8.0-6 all
 exo-utils/oldstable 0.10.7-1 amd64
