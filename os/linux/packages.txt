@@ -56853,7 +56853,7 @@ typecatcher/xenial,xenial 0.2-2 all
 typespeed/xenial 0.6.5-2.1build1 amd64
 tz-converter/xenial,xenial 1.0.0-1ubuntu1 all
 tzc/xenial 2.6.15-5.3ubuntu1 amd64
-tzdata/xenial-updates,xenial-updates 2020a-0ubuntu0.16.04 all [upgradable from: 2019c-0ubuntu0.16.04]
+tzdata/xenial-updates,xenial-updates,xenial-security,xenial-security 2020a-0ubuntu0.16.04 all [upgradable from: 2019c-0ubuntu0.16.04]
 tzwatch/xenial,xenial 1.4.4-9ubuntu2 all
 u-boot-tools/xenial-updates 2016.01+dfsg1-2ubuntu5 amd64
 u1db-tools/xenial 13.10-6 amd64
