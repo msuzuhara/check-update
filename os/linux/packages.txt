@@ -1,2 +1,1 @@
-Waiting for process with pid 1451 to finish.
-CentOS-8 - AppStream                            0.0  B/s |   0  B     00:30    
+CentOS-8 - AppStream                            0.0  B/s |   0  B     00:12    
