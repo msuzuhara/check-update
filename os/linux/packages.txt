@@ -43630,12 +43630,12 @@ linux-aws-tools-5.4.0-1009/focal 5.4.0-1009.9 amd64
 linux-aws-tools-5.4.0-1011/focal-updates,focal-security 5.4.0-1011.11 amd64
 linux-aws/focal-updates,focal-security 5.4.0.1011.14 amd64
 linux-azure-cloud-tools-5.4.0-1010/focal 5.4.0-1010.10 amd64
-linux-azure-cloud-tools-5.4.0-1012/focal-updates 5.4.0-1012.12 amd64
+linux-azure-cloud-tools-5.4.0-1012/focal-updates,focal-security 5.4.0-1012.12 amd64
 linux-azure-headers-5.4.0-1010/focal,focal 5.4.0-1010.10 all
-linux-azure-headers-5.4.0-1012/focal-updates,focal-updates 5.4.0-1012.12 all
+linux-azure-headers-5.4.0-1012/focal-updates,focal-updates,focal-security,focal-security 5.4.0-1012.12 all
 linux-azure-tools-5.4.0-1010/focal 5.4.0-1010.10 amd64
-linux-azure-tools-5.4.0-1012/focal-updates 5.4.0-1012.12 amd64
-linux-azure/focal-updates 5.4.0.1012.14 amd64
+linux-azure-tools-5.4.0-1012/focal-updates,focal-security 5.4.0-1012.12 amd64
+linux-azure/focal-updates,focal-security 5.4.0.1012.14 amd64
 linux-base-sgx/focal,focal 4.5ubuntu3 all
 linux-base/focal,focal,now 4.5ubuntu3 all [installed,automatic]
 linux-buildinfo-5.4.0-1009-aws/focal 5.4.0-1009.9 amd64
@@ -43647,7 +43647,7 @@ linux-buildinfo-5.4.0-1011-aws/focal-updates,focal-security 5.4.0-1011.11 amd64
 linux-buildinfo-5.4.0-1011-gcp/focal-updates,focal-security 5.4.0-1011.11 amd64
 linux-buildinfo-5.4.0-1011-kvm/focal-updates,focal-security 5.4.0-1011.11 amd64
 linux-buildinfo-5.4.0-1011-oracle/focal-updates,focal-security 5.4.0-1011.11 amd64
-linux-buildinfo-5.4.0-1012-azure/focal-updates 5.4.0-1012.12 amd64
+linux-buildinfo-5.4.0-1012-azure/focal-updates,focal-security 5.4.0-1012.12 amd64
 linux-buildinfo-5.4.0-26-generic/focal 5.4.0-26.30 amd64
 linux-buildinfo-5.4.0-26-lowlatency/focal 5.4.0-26.30 amd64
 linux-buildinfo-5.4.0-28-generic/focal-updates,focal-security 5.4.0-28.32 amd64
@@ -43660,7 +43660,7 @@ linux-buildinfo-5.6.0-1007-oem/focal 5.6.0-1007.7 amd64
 linux-buildinfo-5.6.0-1008-oem/focal-updates,focal-security 5.6.0-1008.8 amd64
 linux-buildinfo-5.6.0-1010-oem/focal-updates,focal-security 5.6.0-1010.10 amd64
 linux-cloud-tools-5.4.0-1010-azure/focal 5.4.0-1010.10 amd64
-linux-cloud-tools-5.4.0-1012-azure/focal-updates 5.4.0-1012.12 amd64
+linux-cloud-tools-5.4.0-1012-azure/focal-updates,focal-security 5.4.0-1012.12 amd64
 linux-cloud-tools-5.4.0-26-generic/focal 5.4.0-26.30 amd64
 linux-cloud-tools-5.4.0-26-lowlatency/focal 5.4.0-26.30 amd64
 linux-cloud-tools-5.4.0-26/focal 5.4.0-26.30 amd64
@@ -43673,7 +43673,7 @@ linux-cloud-tools-5.4.0-29/focal-updates,focal-security 5.4.0-29.33 amd64
 linux-cloud-tools-5.4.0-31-generic/focal-updates,focal-security 5.4.0-31.35 amd64
 linux-cloud-tools-5.4.0-31-lowlatency/focal-updates,focal-security 5.4.0-31.35 amd64
 linux-cloud-tools-5.4.0-31/focal-updates,focal-security 5.4.0-31.35 amd64
-linux-cloud-tools-azure/focal-updates 5.4.0.1012.14 amd64
+linux-cloud-tools-azure/focal-updates,focal-security 5.4.0.1012.14 amd64
 linux-cloud-tools-common/focal-updates,focal-updates,focal-security,focal-security 5.4.0-31.35 all
 linux-cloud-tools-generic-hwe-18.04-edge/focal-updates,focal-security 5.4.0.31.36 amd64
 linux-cloud-tools-generic-hwe-18.04/focal-updates,focal-security 5.4.0.31.36 amd64
@@ -43709,7 +43709,7 @@ linux-headers-5.4.0-1011-aws/focal-updates,focal-security 5.4.0-1011.11 amd64
 linux-headers-5.4.0-1011-gcp/focal-updates,focal-security 5.4.0-1011.11 amd64
 linux-headers-5.4.0-1011-kvm/focal-updates,focal-security 5.4.0-1011.11 amd64
 linux-headers-5.4.0-1011-oracle/focal-updates,focal-security 5.4.0-1011.11 amd64
-linux-headers-5.4.0-1012-azure/focal-updates 5.4.0-1012.12 amd64
+linux-headers-5.4.0-1012-azure/focal-updates,focal-security 5.4.0-1012.12 amd64
 linux-headers-5.4.0-26-generic/focal,now 5.4.0-26.30 amd64 [installed,auto-removable]
 linux-headers-5.4.0-26-lowlatency/focal 5.4.0-26.30 amd64
 linux-headers-5.4.0-26/focal,focal,now 5.4.0-26.30 all [installed,auto-removable]
@@ -43726,7 +43726,7 @@ linux-headers-5.6.0-1007-oem/focal 5.6.0-1007.7 amd64
 linux-headers-5.6.0-1008-oem/focal-updates,focal-security 5.6.0-1008.8 amd64
 linux-headers-5.6.0-1010-oem/focal-updates,focal-security 5.6.0-1010.10 amd64
 linux-headers-aws/focal-updates,focal-security 5.4.0.1011.14 amd64
-linux-headers-azure/focal-updates 5.4.0.1012.14 amd64
+linux-headers-azure/focal-updates,focal-security 5.4.0.1012.14 amd64
 linux-headers-gcp/focal-updates,focal-security 5.4.0.1011.12 amd64
 linux-headers-generic-hwe-18.04-edge/focal-updates,focal-security 5.4.0.31.36 amd64
 linux-headers-generic-hwe-18.04/focal-updates,focal-security 5.4.0.31.36 amd64
@@ -43755,7 +43755,7 @@ linux-image-5.4.0-1011-aws/focal-updates,focal-security 5.4.0-1011.11 amd64
 linux-image-5.4.0-1011-gcp/focal-updates,focal-security 5.4.0-1011.11 amd64
 linux-image-5.4.0-1011-kvm/focal-updates,focal-security 5.4.0-1011.11 amd64
 linux-image-5.4.0-1011-oracle/focal-updates,focal-security 5.4.0-1011.11 amd64
-linux-image-5.4.0-1012-azure/focal-updates 5.4.0-1012.12 amd64
+linux-image-5.4.0-1012-azure/focal-updates,focal-security 5.4.0-1012.12 amd64
 linux-image-5.4.0-26-generic/focal,now 5.4.0-26.30 amd64 [installed,auto-removable]
 linux-image-5.4.0-26-lowlatency/focal 5.4.0-26.30 amd64
 linux-image-5.4.0-28-generic/focal-updates,focal-security,now 5.4.0-28.32 amd64 [installed,auto-removable]
@@ -43768,7 +43768,7 @@ linux-image-5.6.0-1007-oem/focal 5.6.0-1007.7 amd64
 linux-image-5.6.0-1008-oem/focal-updates,focal-security 5.6.0-1008.8 amd64
 linux-image-5.6.0-1010-oem/focal-updates,focal-security 5.6.0-1010.10 amd64
 linux-image-aws/focal-updates,focal-security 5.4.0.1011.14 amd64
-linux-image-azure/focal-updates 5.4.0.1012.14 amd64
+linux-image-azure/focal-updates,focal-security 5.4.0.1012.14 amd64
 linux-image-extra-virtual-hwe-18.04-edge/focal-updates,focal-security 5.4.0.31.36 amd64
 linux-image-extra-virtual-hwe-18.04/focal-updates,focal-security 5.4.0.31.36 amd64
 linux-image-extra-virtual-hwe-20.04/focal-updates,focal-security 5.4.0.31.36 amd64
@@ -43793,7 +43793,7 @@ linux-image-unsigned-5.4.0-1009-oracle/focal 5.4.0-1009.9 amd64
 linux-image-unsigned-5.4.0-1010-azure/focal 5.4.0-1010.10 amd64
 linux-image-unsigned-5.4.0-1011-gcp/focal-updates,focal-security 5.4.0-1011.11 amd64
 linux-image-unsigned-5.4.0-1011-oracle/focal-updates,focal-security 5.4.0-1011.11 amd64
-linux-image-unsigned-5.4.0-1012-azure/focal-updates 5.4.0-1012.12 amd64
+linux-image-unsigned-5.4.0-1012-azure/focal-updates,focal-security 5.4.0-1012.12 amd64
 linux-image-unsigned-5.4.0-26-generic/focal 5.4.0-26.30 amd64
 linux-image-unsigned-5.4.0-26-lowlatency/focal 5.4.0-26.30 amd64
 linux-image-unsigned-5.4.0-28-generic/focal-updates,focal-security 5.4.0-28.32 amd64
@@ -43857,7 +43857,7 @@ linux-modules-5.4.0-1011-aws/focal-updates,focal-security 5.4.0-1011.11 amd64
 linux-modules-5.4.0-1011-gcp/focal-updates,focal-security 5.4.0-1011.11 amd64
 linux-modules-5.4.0-1011-kvm/focal-updates,focal-security 5.4.0-1011.11 amd64
 linux-modules-5.4.0-1011-oracle/focal-updates,focal-security 5.4.0-1011.11 amd64
-linux-modules-5.4.0-1012-azure/focal-updates 5.4.0-1012.12 amd64
+linux-modules-5.4.0-1012-azure/focal-updates,focal-security 5.4.0-1012.12 amd64
 linux-modules-5.4.0-26-generic/focal,now 5.4.0-26.30 amd64 [installed,auto-removable]
 linux-modules-5.4.0-26-lowlatency/focal 5.4.0-26.30 amd64
 linux-modules-5.4.0-28-generic/focal-updates,focal-security,now 5.4.0-28.32 amd64 [installed,auto-removable]
@@ -43876,13 +43876,13 @@ linux-modules-extra-5.4.0-1010-azure/focal 5.4.0-1010.10 amd64
 linux-modules-extra-5.4.0-1011-aws/focal-updates,focal-security 5.4.0-1011.11 amd64
 linux-modules-extra-5.4.0-1011-gcp/focal-updates,focal-security 5.4.0-1011.11 amd64
 linux-modules-extra-5.4.0-1011-oracle/focal-updates,focal-security 5.4.0-1011.11 amd64
-linux-modules-extra-5.4.0-1012-azure/focal-updates 5.4.0-1012.12 amd64
+linux-modules-extra-5.4.0-1012-azure/focal-updates,focal-security 5.4.0-1012.12 amd64
 linux-modules-extra-5.4.0-26-generic/focal,now 5.4.0-26.30 amd64 [installed,auto-removable]
 linux-modules-extra-5.4.0-28-generic/focal-updates,focal-security,now 5.4.0-28.32 amd64 [installed,auto-removable]
 linux-modules-extra-5.4.0-29-generic/focal-updates,focal-security,now 5.4.0-29.33 amd64 [installed,automatic]
 linux-modules-extra-5.4.0-31-generic/focal-updates,focal-security,now 5.4.0-31.35 amd64 [installed,automatic]
 linux-modules-extra-aws/focal-updates,focal-security 5.4.0.1011.14 amd64
-linux-modules-extra-azure/focal-updates 5.4.0.1012.14 amd64
+linux-modules-extra-azure/focal-updates,focal-security 5.4.0.1012.14 amd64
 linux-modules-extra-gcp/focal-updates,focal-security 5.4.0.1011.12 amd64
 linux-modules-extra-gke/focal-updates,focal-security 5.4.0.1011.12 amd64
 linux-modules-nvidia-390-5.4.0-1009-aws/focal 5.4.0-1009.9 amd64
@@ -43892,7 +43892,7 @@ linux-modules-nvidia-390-5.4.0-1010-azure/focal 5.4.0-1010.10 amd64
 linux-modules-nvidia-390-5.4.0-1011-aws/focal-updates,focal-security 5.4.0-1011.11 amd64
 linux-modules-nvidia-390-5.4.0-1011-gcp/focal-updates,focal-security 5.4.0-1011.11 amd64
 linux-modules-nvidia-390-5.4.0-1011-oracle/focal-updates,focal-security 5.4.0-1011.11 amd64
-linux-modules-nvidia-390-5.4.0-1012-azure/focal-updates 5.4.0-1012.12 amd64
+linux-modules-nvidia-390-5.4.0-1012-azure/focal-updates,focal-security 5.4.0-1012.12 amd64
 linux-modules-nvidia-390-5.4.0-26-generic/focal 5.4.0-26.30+2 amd64
 linux-modules-nvidia-390-5.4.0-26-lowlatency/focal 5.4.0-26.30+2 amd64
 linux-modules-nvidia-390-5.4.0-28-generic/focal-updates,focal-security 5.4.0-28.32 amd64
@@ -43902,7 +43902,7 @@ linux-modules-nvidia-390-5.4.0-29-lowlatency/focal-updates,focal-security 5.4.0-
 linux-modules-nvidia-390-5.4.0-31-generic/focal-updates,focal-security 5.4.0-31.35 amd64
 linux-modules-nvidia-390-5.4.0-31-lowlatency/focal-updates,focal-security 5.4.0-31.35 amd64
 linux-modules-nvidia-390-aws/focal-updates,focal-security 5.4.0-1011.11 amd64
-linux-modules-nvidia-390-azure/focal-updates 5.4.0-1012.12 amd64
+linux-modules-nvidia-390-azure/focal-updates,focal-security 5.4.0-1012.12 amd64
 linux-modules-nvidia-390-gcp/focal-updates,focal-security 5.4.0-1011.11 amd64
 linux-modules-nvidia-390-generic-hwe-20.04/focal-updates,focal-security 5.4.0-31.35 amd64
 linux-modules-nvidia-390-generic/focal-updates,focal-security 5.4.0-31.35 amd64
@@ -43914,7 +43914,7 @@ linux-modules-nvidia-390-oracle/focal-updates,focal-security 5.4.0-1011.11 amd64
 linux-modules-nvidia-418-oem-osp1/focal-updates,focal-security 5.4.0-31.35 amd64
 linux-modules-nvidia-418-oem/focal-updates,focal-security 5.4.0-31.35 amd64
 linux-modules-nvidia-430-aws/focal-updates,focal-security 5.4.0-1011.11 amd64
-linux-modules-nvidia-430-azure/focal-updates 5.4.0-1012.12 amd64
+linux-modules-nvidia-430-azure/focal-updates,focal-security 5.4.0-1012.12 amd64
 linux-modules-nvidia-430-gcp/focal-updates,focal-security 5.4.0-1011.11 amd64
 linux-modules-nvidia-430-generic/focal-updates,focal-security 5.4.0-31.35 amd64
 linux-modules-nvidia-430-lowlatency/focal-updates,focal-security 5.4.0-31.35 amd64
@@ -43922,13 +43922,13 @@ linux-modules-nvidia-430-oracle/focal-updates,focal-security 5.4.0-1011.11 amd64
 linux-modules-nvidia-435-5.4.0-1011-aws/focal-updates,focal-security 5.4.0-1011.11 amd64
 linux-modules-nvidia-435-5.4.0-1011-gcp/focal-updates,focal-security 5.4.0-1011.11 amd64
 linux-modules-nvidia-435-5.4.0-1011-oracle/focal-updates,focal-security 5.4.0-1011.11 amd64
-linux-modules-nvidia-435-5.4.0-1012-azure/focal-updates 5.4.0-1012.12 amd64
+linux-modules-nvidia-435-5.4.0-1012-azure/focal-updates,focal-security 5.4.0-1012.12 amd64
 linux-modules-nvidia-435-5.4.0-29-generic/focal-updates,focal-security 5.4.0-29.33 amd64
 linux-modules-nvidia-435-5.4.0-29-lowlatency/focal-updates,focal-security 5.4.0-29.33 amd64
 linux-modules-nvidia-435-5.4.0-31-generic/focal-updates,focal-security 5.4.0-31.35 amd64
 linux-modules-nvidia-435-5.4.0-31-lowlatency/focal-updates,focal-security 5.4.0-31.35 amd64
 linux-modules-nvidia-435-aws/focal-updates,focal-security 5.4.0-1011.11 amd64
-linux-modules-nvidia-435-azure/focal-updates 5.4.0-1012.12 amd64
+linux-modules-nvidia-435-azure/focal-updates,focal-security 5.4.0-1012.12 amd64
 linux-modules-nvidia-435-gcp/focal-updates,focal-security 5.4.0-1011.11 amd64
 linux-modules-nvidia-435-generic-hwe-20.04/focal-updates,focal-security 5.4.0-31.35 amd64
 linux-modules-nvidia-435-generic/focal-updates,focal-security 5.4.0-31.35 amd64
@@ -43942,7 +43942,7 @@ linux-modules-nvidia-440-5.4.0-1010-azure/focal 5.4.0-1010.10 amd64
 linux-modules-nvidia-440-5.4.0-1011-aws/focal-updates,focal-security 5.4.0-1011.11 amd64
 linux-modules-nvidia-440-5.4.0-1011-gcp/focal-updates,focal-security 5.4.0-1011.11 amd64
 linux-modules-nvidia-440-5.4.0-1011-oracle/focal-updates,focal-security 5.4.0-1011.11 amd64
-linux-modules-nvidia-440-5.4.0-1012-azure/focal-updates 5.4.0-1012.12 amd64
+linux-modules-nvidia-440-5.4.0-1012-azure/focal-updates,focal-security 5.4.0-1012.12 amd64
 linux-modules-nvidia-440-5.4.0-26-generic/focal 5.4.0-26.30+2 amd64
 linux-modules-nvidia-440-5.4.0-26-lowlatency/focal 5.4.0-26.30+2 amd64
 linux-modules-nvidia-440-5.4.0-28-generic/focal-updates,focal-security 5.4.0-28.32 amd64
@@ -43955,7 +43955,7 @@ linux-modules-nvidia-440-5.6.0-1007-oem/focal 5.6.0-1007.7 amd64
 linux-modules-nvidia-440-5.6.0-1008-oem/focal-updates,focal-security 5.6.0-1008.8 amd64
 linux-modules-nvidia-440-5.6.0-1010-oem/focal-updates,focal-security 5.6.0-1010.10 amd64
 linux-modules-nvidia-440-aws/focal-updates,focal-security 5.4.0-1011.11 amd64
-linux-modules-nvidia-440-azure/focal-updates 5.4.0-1012.12 amd64
+linux-modules-nvidia-440-azure/focal-updates,focal-security 5.4.0-1012.12 amd64
 linux-modules-nvidia-440-gcp/focal-updates,focal-security 5.4.0-1011.11 amd64
 linux-modules-nvidia-440-generic-hwe-20.04/focal-updates,focal-security 5.4.0-31.35 amd64
 linux-modules-nvidia-440-generic/focal-updates,focal-security 5.4.0-31.35 amd64
@@ -43996,7 +43996,7 @@ linux-tools-5.4.0-1011-aws/focal-updates,focal-security 5.4.0-1011.11 amd64
 linux-tools-5.4.0-1011-gcp/focal-updates,focal-security 5.4.0-1011.11 amd64
 linux-tools-5.4.0-1011-kvm/focal-updates,focal-security 5.4.0-1011.11 amd64
 linux-tools-5.4.0-1011-oracle/focal-updates,focal-security 5.4.0-1011.11 amd64
-linux-tools-5.4.0-1012-azure/focal-updates 5.4.0-1012.12 amd64
+linux-tools-5.4.0-1012-azure/focal-updates,focal-security 5.4.0-1012.12 amd64
 linux-tools-5.4.0-26-generic/focal 5.4.0-26.30 amd64
 linux-tools-5.4.0-26-lowlatency/focal 5.4.0-26.30 amd64
 linux-tools-5.4.0-26/focal 5.4.0-26.30 amd64
@@ -44013,7 +44013,7 @@ linux-tools-5.6.0-1007-oem/focal 5.6.0-1007.7 amd64
 linux-tools-5.6.0-1008-oem/focal-updates,focal-security 5.6.0-1008.8 amd64
 linux-tools-5.6.0-1010-oem/focal-updates,focal-security 5.6.0-1010.10 amd64
 linux-tools-aws/focal-updates,focal-security 5.4.0.1011.14 amd64
-linux-tools-azure/focal-updates 5.4.0.1012.14 amd64
+linux-tools-azure/focal-updates,focal-security 5.4.0.1012.14 amd64
 linux-tools-common/focal-updates,focal-updates,focal-security,focal-security 5.4.0-31.35 all
 linux-tools-gcp/focal-updates,focal-security 5.4.0.1011.12 amd64
 linux-tools-generic-hwe-18.04-edge/focal-updates,focal-security 5.4.0.31.36 amd64
