@@ -1397,7 +1397,7 @@ binaryen/stable 68-1 amd64
 binclock/stable 1.5-6+b1 amd64
 bind9-doc/stable 1:9.11.5.P4+dfsg-5.1+deb10u1 all
 bind9-dyndb-ldap/stable 11.1-5 amd64
-bind9-host/stable 1:9.11.5.P4+dfsg-5.1+deb10u1 amd64 [upgradable from: 1:9.11.5.P4+dfsg-5.1]
+bind9-host/stable,now 1:9.11.5.P4+dfsg-5.1+deb10u1 amd64 [installed]
 bind9/stable 1:9.11.5.P4+dfsg-5.1+deb10u1 amd64
 bind9utils/stable 1:9.11.5.P4+dfsg-5.1+deb10u1 amd64
 bindechexascii/stable 0.0+20140524.git7dcd86-4 amd64
@@ -14577,7 +14577,7 @@ libbind-config-parser-perl/stable 0.01-1 all
 libbind-confparser-perl/stable 0.95-5 all
 libbind-dev/stable 1:9.11.5.P4+dfsg-5.1+deb10u1 amd64
 libbind-export-dev/stable 1:9.11.5.P4+dfsg-5.1+deb10u1 amd64
-libbind9-161/stable 1:9.11.5.P4+dfsg-5.1+deb10u1 amd64 [upgradable from: 1:9.11.5.P4+dfsg-5.1]
+libbind9-161/stable,now 1:9.11.5.P4+dfsg-5.1+deb10u1 amd64 [installed,automatic]
 libbindex-java/stable 2.2+svn101-4 all
 libbinio-dev/stable 1.4+dfsg1-6 amd64
 libbinio1v5/stable 1.4+dfsg1-6 amd64
@@ -17082,9 +17082,9 @@ libdmx1-dbg/stable 1:1.1.4-1 amd64
 libdmx1/stable 1:1.1.4-1 amd64
 libdnet-dev/stable 2.65+b1 amd64
 libdnet/stable 2.65+b1 amd64
-libdns-export1104/stable 1:9.11.5.P4+dfsg-5.1+deb10u1 amd64 [upgradable from: 1:9.11.5.P4+dfsg-5.1]
+libdns-export1104/stable,now 1:9.11.5.P4+dfsg-5.1+deb10u1 amd64 [installed]
 libdns-zoneparse-perl/stable 1.10-1 all
-libdns1104/stable 1:9.11.5.P4+dfsg-5.1+deb10u1 amd64 [upgradable from: 1:9.11.5.P4+dfsg-5.1]
+libdns1104/stable,now 1:9.11.5.P4+dfsg-5.1+deb10u1 amd64 [installed,automatic]
 libdnsjava-java/stable 2.1.8-2 all
 libdnssec6/stable 2.7.6-2 amd64
 libdnssecjava-java-doc/stable 1.1.3-3 all
@@ -23547,12 +23547,12 @@ libisajet758-3-dev/stable 20061220+dfsg3-3.1+b4 amd64
 libisajet758-3-gfortran/stable 20061220+dfsg3-3.1+b4 amd64
 libisal-dev/stable 2.25.0-1 amd64
 libisal2/stable 2.25.0-1 amd64
-libisc-export1100/stable 1:9.11.5.P4+dfsg-5.1+deb10u1 amd64 [upgradable from: 1:9.11.5.P4+dfsg-5.1]
-libisc1100/stable 1:9.11.5.P4+dfsg-5.1+deb10u1 amd64 [upgradable from: 1:9.11.5.P4+dfsg-5.1]
+libisc-export1100/stable,now 1:9.11.5.P4+dfsg-5.1+deb10u1 amd64 [installed]
+libisc1100/stable,now 1:9.11.5.P4+dfsg-5.1+deb10u1 amd64 [installed,automatic]
 libisccc-export161/stable 1:9.11.5.P4+dfsg-5.1+deb10u1 amd64
-libisccc161/stable 1:9.11.5.P4+dfsg-5.1+deb10u1 amd64 [upgradable from: 1:9.11.5.P4+dfsg-5.1]
+libisccc161/stable,now 1:9.11.5.P4+dfsg-5.1+deb10u1 amd64 [installed,automatic]
 libisccfg-export163/stable 1:9.11.5.P4+dfsg-5.1+deb10u1 amd64
-libisccfg163/stable 1:9.11.5.P4+dfsg-5.1+deb10u1 amd64 [upgradable from: 1:9.11.5.P4+dfsg-5.1]
+libisccfg163/stable,now 1:9.11.5.P4+dfsg-5.1+deb10u1 amd64 [installed,automatic]
 libiscsi-bin/stable 1.18.0-2 amd64
 libiscsi-dev/stable 1.18.0-2 amd64
 libiscsi7/stable 1.18.0-2 amd64
@@ -25707,7 +25707,7 @@ liblwp-useragent-chicaching-perl/stable 0.04-1 all
 liblwp-useragent-determined-perl/stable 1.07-1 all
 liblwp-useragent-progressbar-perl/stable 1.100810-2 all
 liblwpx-paranoidagent-perl/stable 1.12-1 all
-liblwres161/stable 1:9.11.5.P4+dfsg-5.1+deb10u1 amd64 [upgradable from: 1:9.11.5.P4+dfsg-5.1]
+liblwres161/stable,now 1:9.11.5.P4+dfsg-5.1+deb10u1 amd64 [installed,automatic]
 liblwt-glib-ocaml-dev/stable 2.7.1-4+b1 amd64
 liblwt-glib-ocaml/stable 2.7.1-4+b1 amd64
 liblwt-ocaml-dev/stable 2.7.1-4+b1 amd64
