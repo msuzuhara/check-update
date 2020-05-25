@@ -48769,8 +48769,8 @@ qliss3d/stable 1.4-5 amd64
 qlogo/stable 0.92-1 amd64
 qmail-run/stable 2.0.2+nmu1 all
 qmail-tools/stable 0.1.0 all
-qmail-uids-gids/stable 1.06-6 all
-qmail/stable 1.06-6+b1 amd64
+qmail-uids-gids/stable 1.06-6.2~deb10u1 all
+qmail/stable 1.06-6.2~deb10u1 amd64
 qmapshack/stable 1.12.3-1 amd64
 qmc/stable 0.94-3.1 amd64
 qmenu/stable 5.0.2-2+b3 amd64
