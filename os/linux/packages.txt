@@ -43330,10 +43330,10 @@ qlandkartegt/oldstable 1.8.1+ds-7+b1 amd64
 qlipper/oldstable 1:5.0.0-1 amd64
 qliss3d/oldstable 1.4-2 amd64
 qlvnictools/oldstable 0.0.1-4+b1 amd64
-qmail/oldstable 1.06-6+b1 amd64
+qmail/oldstable 1.06-6.2~deb9u1 amd64
 qmail-run/oldstable 2.0.2+nmu1 all
 qmail-tools/oldstable 0.1.0 all
-qmail-uids-gids/oldstable 1.06-6 all
+qmail-uids-gids/oldstable 1.06-6.2~deb9u1 all
 qmapshack/oldstable 1.7.2-1 amd64
 qmc/oldstable 0.94-3.1 amd64
 qmenu/oldstable 5.0.2-2+b2 amd64
