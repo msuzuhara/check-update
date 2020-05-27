@@ -4217,7 +4217,7 @@ drumkv1/oldstable 0.8.0-1 amd64
 drumkv1-common/oldstable 0.8.0-1 amd64
 drumkv1-lv2/oldstable 0.8.0-1 amd64
 drumstick-tools/oldstable 0.5.0-4+b2 amd64
-drupal7/oldstable,oldstable 7.52-2+deb9u9 all
+drupal7/oldstable 7.52-2+deb9u10 all
 drupal7-mod-arbiterjs/oldstable 1.0.0-1 all
 drupal7-mod-drucall/oldstable 2.3-1 all
 drupal7-mod-fontawesome/oldstable 1.0-2 all
