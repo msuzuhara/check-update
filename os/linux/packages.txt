@@ -33589,7 +33589,7 @@ libnss-resolve/focal-updates 245.4-4ubuntu3.1 amd64
 libnss-resolve/focal-updates 245.4-4ubuntu3.1 i386
 libnss-securepass/focal 0.5-1 amd64
 libnss-sss/focal 2.2.3-3 amd64
-libnss-systemd/focal-updates 245.4-4ubuntu3.1 amd64 [upgradable from: 245.4-4ubuntu3]
+libnss-systemd/focal-updates,now 245.4-4ubuntu3.1 amd64 [installed]
 libnss-systemd/focal-updates 245.4-4ubuntu3.1 i386
 libnss-unknown/focal 0.0.2-2 amd64
 libnss-winbind/focal-updates 2:4.11.6+dfsg-0ubuntu1.2 amd64
@@ -34735,7 +34735,7 @@ libpam-snapper/focal 0.8.6-1build1 amd64
 libpam-ssh-agent-auth/focal 0.10.3-3ubuntu1 amd64
 libpam-ssh/focal 2.3+ds-1 amd64
 libpam-sss/focal 2.2.3-3 amd64
-libpam-systemd/focal-updates 245.4-4ubuntu3.1 amd64 [upgradable from: 245.4-4ubuntu3]
+libpam-systemd/focal-updates,now 245.4-4ubuntu3.1 amd64 [installed]
 libpam-systemd/focal-updates 245.4-4ubuntu3.1 i386
 libpam-tacplus/focal 1.3.8-2 amd64
 libpam-tmpdir/focal 0.09build1 amd64
@@ -40243,7 +40243,7 @@ libsystemc-doc/focal,focal 2.3.3-4build1 all
 libsystemc/focal 2.3.3-4build1 amd64
 libsystemd-dev/focal-updates 245.4-4ubuntu3.1 amd64
 libsystemd-dev/focal-updates 245.4-4ubuntu3.1 i386
-libsystemd0/focal-updates 245.4-4ubuntu3.1 amd64 [upgradable from: 245.4-4ubuntu3]
+libsystemd0/focal-updates,now 245.4-4ubuntu3.1 amd64 [installed]
 libsystemd0/focal-updates 245.4-4ubuntu3.1 i386
 libsz2/focal 1.0.4-1 amd64
 libt-digest-java-doc/focal,focal 1:3.0-3 all
@@ -41359,7 +41359,7 @@ libucto-dev/focal 0.14-2build2 amd64
 libucto3/focal 0.14-2build2 amd64
 libudev-dev/focal-updates 245.4-4ubuntu3.1 amd64
 libudev-dev/focal-updates 245.4-4ubuntu3.1 i386
-libudev1/focal-updates 245.4-4ubuntu3.1 amd64 [upgradable from: 245.4-4ubuntu3]
+libudev1/focal-updates,now 245.4-4ubuntu3.1 amd64 [installed]
 libudev1/focal-updates 245.4-4ubuntu3.1 i386
 libudf-dev/focal 2.0.0-2 amd64
 libudf-dev/focal 2.0.0-2 i386
@@ -61230,13 +61230,13 @@ systemd-coredump/focal-updates 245.4-4ubuntu3.1 i386
 systemd-cron/focal 1.5.14-2 amd64
 systemd-journal-remote/focal-updates 245.4-4ubuntu3.1 amd64
 systemd-journal-remote/focal-updates 245.4-4ubuntu3.1 i386
-systemd-sysv/focal-updates 245.4-4ubuntu3.1 amd64 [upgradable from: 245.4-4ubuntu3]
+systemd-sysv/focal-updates,now 245.4-4ubuntu3.1 amd64 [installed]
 systemd-sysv/focal-updates 245.4-4ubuntu3.1 i386
 systemd-tests/focal-updates 245.4-4ubuntu3.1 amd64
 systemd-tests/focal-updates 245.4-4ubuntu3.1 i386
-systemd-timesyncd/focal-updates 245.4-4ubuntu3.1 amd64 [upgradable from: 245.4-4ubuntu3]
+systemd-timesyncd/focal-updates,now 245.4-4ubuntu3.1 amd64 [installed]
 systemd-timesyncd/focal-updates 245.4-4ubuntu3.1 i386
-systemd/focal-updates 245.4-4ubuntu3.1 amd64 [upgradable from: 245.4-4ubuntu3]
+systemd/focal-updates,now 245.4-4ubuntu3.1 amd64 [installed]
 systemd/focal-updates 245.4-4ubuntu3.1 i386
 systempreferences.app-dbg/focal 1.2.0-2build5 amd64
 systempreferences.app/focal 1.2.0-2build5 amd64
@@ -61825,91 +61825,91 @@ thunar-media-tags-plugin/focal 0.3.0-2 amd64
 thunar-vcs-plugin/focal 0.2.0-1 amd64
 thunar-volman/focal 0.9.5-1 amd64
 thunar/focal 1.8.14-0ubuntu1 amd64
-thunderbird-dbg/focal 1:68.7.0+build1-0ubuntu2 amd64
-thunderbird-dev/focal 1:68.7.0+build1-0ubuntu2 amd64
-thunderbird-gnome-support-dbg/focal 1:68.7.0+build1-0ubuntu2 amd64
-thunderbird-gnome-support/focal 1:68.7.0+build1-0ubuntu2 amd64
-thunderbird-locale-af/focal 1:68.7.0+build1-0ubuntu2 amd64
-thunderbird-locale-ar/focal 1:68.7.0+build1-0ubuntu2 amd64
-thunderbird-locale-ast/focal 1:68.7.0+build1-0ubuntu2 amd64
-thunderbird-locale-be/focal 1:68.7.0+build1-0ubuntu2 amd64
-thunderbird-locale-bg/focal 1:68.7.0+build1-0ubuntu2 amd64
-thunderbird-locale-bn-bd/focal,focal 1:68.7.0+build1-0ubuntu2 all
-thunderbird-locale-bn/focal 1:68.7.0+build1-0ubuntu2 amd64
-thunderbird-locale-br/focal 1:68.7.0+build1-0ubuntu2 amd64
-thunderbird-locale-ca/focal 1:68.7.0+build1-0ubuntu2 amd64
-thunderbird-locale-cak/focal 1:68.7.0+build1-0ubuntu2 amd64
-thunderbird-locale-cs/focal 1:68.7.0+build1-0ubuntu2 amd64
-thunderbird-locale-cy/focal 1:68.7.0+build1-0ubuntu2 amd64
-thunderbird-locale-da/focal 1:68.7.0+build1-0ubuntu2 amd64
-thunderbird-locale-de/focal 1:68.7.0+build1-0ubuntu2 amd64
-thunderbird-locale-dsb/focal 1:68.7.0+build1-0ubuntu2 amd64
-thunderbird-locale-el/focal 1:68.7.0+build1-0ubuntu2 amd64
-thunderbird-locale-en-gb/focal,focal 1:68.7.0+build1-0ubuntu2 all
-thunderbird-locale-en-us/focal,focal 1:68.7.0+build1-0ubuntu2 all
-thunderbird-locale-en/focal 1:68.7.0+build1-0ubuntu2 amd64
-thunderbird-locale-es-ar/focal,focal 1:68.7.0+build1-0ubuntu2 all
-thunderbird-locale-es-es/focal,focal 1:68.7.0+build1-0ubuntu2 all
-thunderbird-locale-es/focal 1:68.7.0+build1-0ubuntu2 amd64
-thunderbird-locale-et/focal 1:68.7.0+build1-0ubuntu2 amd64
-thunderbird-locale-eu/focal 1:68.7.0+build1-0ubuntu2 amd64
-thunderbird-locale-fi/focal 1:68.7.0+build1-0ubuntu2 amd64
-thunderbird-locale-fr/focal 1:68.7.0+build1-0ubuntu2 amd64
-thunderbird-locale-fy-nl/focal,focal 1:68.7.0+build1-0ubuntu2 all
-thunderbird-locale-fy/focal 1:68.7.0+build1-0ubuntu2 amd64
-thunderbird-locale-ga-ie/focal,focal 1:68.7.0+build1-0ubuntu2 all
-thunderbird-locale-ga/focal 1:68.7.0+build1-0ubuntu2 amd64
-thunderbird-locale-gd/focal 1:68.7.0+build1-0ubuntu2 amd64
-thunderbird-locale-gl/focal 1:68.7.0+build1-0ubuntu2 amd64
-thunderbird-locale-he/focal 1:68.7.0+build1-0ubuntu2 amd64
-thunderbird-locale-hr/focal 1:68.7.0+build1-0ubuntu2 amd64
-thunderbird-locale-hsb/focal 1:68.7.0+build1-0ubuntu2 amd64
-thunderbird-locale-hu/focal 1:68.7.0+build1-0ubuntu2 amd64
-thunderbird-locale-hy/focal 1:68.7.0+build1-0ubuntu2 amd64
-thunderbird-locale-id/focal 1:68.7.0+build1-0ubuntu2 amd64
-thunderbird-locale-is/focal 1:68.7.0+build1-0ubuntu2 amd64
-thunderbird-locale-it/focal 1:68.7.0+build1-0ubuntu2 amd64
-thunderbird-locale-ja/focal 1:68.7.0+build1-0ubuntu2 amd64
-thunderbird-locale-ka/focal 1:68.7.0+build1-0ubuntu2 amd64
-thunderbird-locale-kab/focal 1:68.7.0+build1-0ubuntu2 amd64
-thunderbird-locale-kk/focal 1:68.7.0+build1-0ubuntu2 amd64
-thunderbird-locale-ko/focal 1:68.7.0+build1-0ubuntu2 amd64
-thunderbird-locale-lt/focal 1:68.7.0+build1-0ubuntu2 amd64
-thunderbird-locale-mk/focal 1:68.7.0+build1-0ubuntu2 amd64
-thunderbird-locale-ms/focal 1:68.7.0+build1-0ubuntu2 amd64
-thunderbird-locale-nb-no/focal,focal 1:68.7.0+build1-0ubuntu2 all
-thunderbird-locale-nb/focal 1:68.7.0+build1-0ubuntu2 amd64
-thunderbird-locale-nl/focal 1:68.7.0+build1-0ubuntu2 amd64
-thunderbird-locale-nn-no/focal,focal 1:68.7.0+build1-0ubuntu2 all
-thunderbird-locale-nn/focal 1:68.7.0+build1-0ubuntu2 amd64
-thunderbird-locale-pa-in/focal,focal 1:68.7.0+build1-0ubuntu2 all
-thunderbird-locale-pa/focal 1:68.7.0+build1-0ubuntu2 amd64
-thunderbird-locale-pl/focal 1:68.7.0+build1-0ubuntu2 amd64
-thunderbird-locale-pt-br/focal,focal 1:68.7.0+build1-0ubuntu2 all
-thunderbird-locale-pt-pt/focal,focal 1:68.7.0+build1-0ubuntu2 all
-thunderbird-locale-pt/focal 1:68.7.0+build1-0ubuntu2 amd64
-thunderbird-locale-rm/focal 1:68.7.0+build1-0ubuntu2 amd64
-thunderbird-locale-ro/focal 1:68.7.0+build1-0ubuntu2 amd64
-thunderbird-locale-ru/focal 1:68.7.0+build1-0ubuntu2 amd64
-thunderbird-locale-si/focal 1:68.7.0+build1-0ubuntu2 amd64
-thunderbird-locale-sk/focal 1:68.7.0+build1-0ubuntu2 amd64
-thunderbird-locale-sl/focal 1:68.7.0+build1-0ubuntu2 amd64
-thunderbird-locale-sq/focal 1:68.7.0+build1-0ubuntu2 amd64
-thunderbird-locale-sr/focal 1:68.7.0+build1-0ubuntu2 amd64
-thunderbird-locale-sv-se/focal,focal 1:68.7.0+build1-0ubuntu2 all
-thunderbird-locale-sv/focal 1:68.7.0+build1-0ubuntu2 amd64
-thunderbird-locale-ta-lk/focal,focal 1:68.7.0+build1-0ubuntu2 all
-thunderbird-locale-ta/focal 1:68.7.0+build1-0ubuntu2 amd64
-thunderbird-locale-tr/focal 1:68.7.0+build1-0ubuntu2 amd64
-thunderbird-locale-uk/focal 1:68.7.0+build1-0ubuntu2 amd64
-thunderbird-locale-uz/focal 1:68.7.0+build1-0ubuntu2 amd64
-thunderbird-locale-vi/focal 1:68.7.0+build1-0ubuntu2 amd64
-thunderbird-locale-zh-cn/focal,focal 1:68.7.0+build1-0ubuntu2 all
-thunderbird-locale-zh-hans/focal 1:68.7.0+build1-0ubuntu2 amd64
-thunderbird-locale-zh-hant/focal 1:68.7.0+build1-0ubuntu2 amd64
-thunderbird-locale-zh-tw/focal,focal 1:68.7.0+build1-0ubuntu2 all
-thunderbird-mozsymbols/focal 1:68.7.0+build1-0ubuntu2 amd64
-thunderbird/focal 1:68.7.0+build1-0ubuntu2 amd64
+thunderbird-dbg/focal-updates,focal-security 1:68.8.0+build2-0ubuntu0.20.04.2 amd64
+thunderbird-dev/focal-updates,focal-security 1:68.8.0+build2-0ubuntu0.20.04.2 amd64
+thunderbird-gnome-support-dbg/focal-updates,focal-security 1:68.8.0+build2-0ubuntu0.20.04.2 amd64
+thunderbird-gnome-support/focal-updates,focal-security 1:68.8.0+build2-0ubuntu0.20.04.2 amd64
+thunderbird-locale-af/focal-updates,focal-security 1:68.8.0+build2-0ubuntu0.20.04.2 amd64
+thunderbird-locale-ar/focal-updates,focal-security 1:68.8.0+build2-0ubuntu0.20.04.2 amd64
+thunderbird-locale-ast/focal-updates,focal-security 1:68.8.0+build2-0ubuntu0.20.04.2 amd64
+thunderbird-locale-be/focal-updates,focal-security 1:68.8.0+build2-0ubuntu0.20.04.2 amd64
+thunderbird-locale-bg/focal-updates,focal-security 1:68.8.0+build2-0ubuntu0.20.04.2 amd64
+thunderbird-locale-bn-bd/focal-updates,focal-updates,focal-security,focal-security 1:68.8.0+build2-0ubuntu0.20.04.2 all
+thunderbird-locale-bn/focal-updates,focal-security 1:68.8.0+build2-0ubuntu0.20.04.2 amd64
+thunderbird-locale-br/focal-updates,focal-security 1:68.8.0+build2-0ubuntu0.20.04.2 amd64
+thunderbird-locale-ca/focal-updates,focal-security 1:68.8.0+build2-0ubuntu0.20.04.2 amd64
+thunderbird-locale-cak/focal-updates,focal-security 1:68.8.0+build2-0ubuntu0.20.04.2 amd64
+thunderbird-locale-cs/focal-updates,focal-security 1:68.8.0+build2-0ubuntu0.20.04.2 amd64
+thunderbird-locale-cy/focal-updates,focal-security 1:68.8.0+build2-0ubuntu0.20.04.2 amd64
+thunderbird-locale-da/focal-updates,focal-security 1:68.8.0+build2-0ubuntu0.20.04.2 amd64
+thunderbird-locale-de/focal-updates,focal-security 1:68.8.0+build2-0ubuntu0.20.04.2 amd64
+thunderbird-locale-dsb/focal-updates,focal-security 1:68.8.0+build2-0ubuntu0.20.04.2 amd64
+thunderbird-locale-el/focal-updates,focal-security 1:68.8.0+build2-0ubuntu0.20.04.2 amd64
+thunderbird-locale-en-gb/focal-updates,focal-updates,focal-security,focal-security 1:68.8.0+build2-0ubuntu0.20.04.2 all
+thunderbird-locale-en-us/focal-updates,focal-updates,focal-security,focal-security 1:68.8.0+build2-0ubuntu0.20.04.2 all
+thunderbird-locale-en/focal-updates,focal-security 1:68.8.0+build2-0ubuntu0.20.04.2 amd64
+thunderbird-locale-es-ar/focal-updates,focal-updates,focal-security,focal-security 1:68.8.0+build2-0ubuntu0.20.04.2 all
+thunderbird-locale-es-es/focal-updates,focal-updates,focal-security,focal-security 1:68.8.0+build2-0ubuntu0.20.04.2 all
+thunderbird-locale-es/focal-updates,focal-security 1:68.8.0+build2-0ubuntu0.20.04.2 amd64
+thunderbird-locale-et/focal-updates,focal-security 1:68.8.0+build2-0ubuntu0.20.04.2 amd64
+thunderbird-locale-eu/focal-updates,focal-security 1:68.8.0+build2-0ubuntu0.20.04.2 amd64
+thunderbird-locale-fi/focal-updates,focal-security 1:68.8.0+build2-0ubuntu0.20.04.2 amd64
+thunderbird-locale-fr/focal-updates,focal-security 1:68.8.0+build2-0ubuntu0.20.04.2 amd64
+thunderbird-locale-fy-nl/focal-updates,focal-updates,focal-security,focal-security 1:68.8.0+build2-0ubuntu0.20.04.2 all
+thunderbird-locale-fy/focal-updates,focal-security 1:68.8.0+build2-0ubuntu0.20.04.2 amd64
+thunderbird-locale-ga-ie/focal-updates,focal-updates,focal-security,focal-security 1:68.8.0+build2-0ubuntu0.20.04.2 all
+thunderbird-locale-ga/focal-updates,focal-security 1:68.8.0+build2-0ubuntu0.20.04.2 amd64
+thunderbird-locale-gd/focal-updates,focal-security 1:68.8.0+build2-0ubuntu0.20.04.2 amd64
+thunderbird-locale-gl/focal-updates,focal-security 1:68.8.0+build2-0ubuntu0.20.04.2 amd64
+thunderbird-locale-he/focal-updates,focal-security 1:68.8.0+build2-0ubuntu0.20.04.2 amd64
+thunderbird-locale-hr/focal-updates,focal-security 1:68.8.0+build2-0ubuntu0.20.04.2 amd64
+thunderbird-locale-hsb/focal-updates,focal-security 1:68.8.0+build2-0ubuntu0.20.04.2 amd64
+thunderbird-locale-hu/focal-updates,focal-security 1:68.8.0+build2-0ubuntu0.20.04.2 amd64
+thunderbird-locale-hy/focal-updates,focal-security 1:68.8.0+build2-0ubuntu0.20.04.2 amd64
+thunderbird-locale-id/focal-updates,focal-security 1:68.8.0+build2-0ubuntu0.20.04.2 amd64
+thunderbird-locale-is/focal-updates,focal-security 1:68.8.0+build2-0ubuntu0.20.04.2 amd64
+thunderbird-locale-it/focal-updates,focal-security 1:68.8.0+build2-0ubuntu0.20.04.2 amd64
+thunderbird-locale-ja/focal-updates,focal-security 1:68.8.0+build2-0ubuntu0.20.04.2 amd64
+thunderbird-locale-ka/focal-updates,focal-security 1:68.8.0+build2-0ubuntu0.20.04.2 amd64
+thunderbird-locale-kab/focal-updates,focal-security 1:68.8.0+build2-0ubuntu0.20.04.2 amd64
+thunderbird-locale-kk/focal-updates,focal-security 1:68.8.0+build2-0ubuntu0.20.04.2 amd64
+thunderbird-locale-ko/focal-updates,focal-security 1:68.8.0+build2-0ubuntu0.20.04.2 amd64
+thunderbird-locale-lt/focal-updates,focal-security 1:68.8.0+build2-0ubuntu0.20.04.2 amd64
+thunderbird-locale-mk/focal-updates,focal-security 1:68.8.0+build2-0ubuntu0.20.04.2 amd64
+thunderbird-locale-ms/focal-updates,focal-security 1:68.8.0+build2-0ubuntu0.20.04.2 amd64
+thunderbird-locale-nb-no/focal-updates,focal-updates,focal-security,focal-security 1:68.8.0+build2-0ubuntu0.20.04.2 all
+thunderbird-locale-nb/focal-updates,focal-security 1:68.8.0+build2-0ubuntu0.20.04.2 amd64
+thunderbird-locale-nl/focal-updates,focal-security 1:68.8.0+build2-0ubuntu0.20.04.2 amd64
+thunderbird-locale-nn-no/focal-updates,focal-updates,focal-security,focal-security 1:68.8.0+build2-0ubuntu0.20.04.2 all
+thunderbird-locale-nn/focal-updates,focal-security 1:68.8.0+build2-0ubuntu0.20.04.2 amd64
+thunderbird-locale-pa-in/focal-updates,focal-updates,focal-security,focal-security 1:68.8.0+build2-0ubuntu0.20.04.2 all
+thunderbird-locale-pa/focal-updates,focal-security 1:68.8.0+build2-0ubuntu0.20.04.2 amd64
+thunderbird-locale-pl/focal-updates,focal-security 1:68.8.0+build2-0ubuntu0.20.04.2 amd64
+thunderbird-locale-pt-br/focal-updates,focal-updates,focal-security,focal-security 1:68.8.0+build2-0ubuntu0.20.04.2 all
+thunderbird-locale-pt-pt/focal-updates,focal-updates,focal-security,focal-security 1:68.8.0+build2-0ubuntu0.20.04.2 all
+thunderbird-locale-pt/focal-updates,focal-security 1:68.8.0+build2-0ubuntu0.20.04.2 amd64
+thunderbird-locale-rm/focal-updates,focal-security 1:68.8.0+build2-0ubuntu0.20.04.2 amd64
+thunderbird-locale-ro/focal-updates,focal-security 1:68.8.0+build2-0ubuntu0.20.04.2 amd64
+thunderbird-locale-ru/focal-updates,focal-security 1:68.8.0+build2-0ubuntu0.20.04.2 amd64
+thunderbird-locale-si/focal-updates,focal-security 1:68.8.0+build2-0ubuntu0.20.04.2 amd64
+thunderbird-locale-sk/focal-updates,focal-security 1:68.8.0+build2-0ubuntu0.20.04.2 amd64
+thunderbird-locale-sl/focal-updates,focal-security 1:68.8.0+build2-0ubuntu0.20.04.2 amd64
+thunderbird-locale-sq/focal-updates,focal-security 1:68.8.0+build2-0ubuntu0.20.04.2 amd64
+thunderbird-locale-sr/focal-updates,focal-security 1:68.8.0+build2-0ubuntu0.20.04.2 amd64
+thunderbird-locale-sv-se/focal-updates,focal-updates,focal-security,focal-security 1:68.8.0+build2-0ubuntu0.20.04.2 all
+thunderbird-locale-sv/focal-updates,focal-security 1:68.8.0+build2-0ubuntu0.20.04.2 amd64
+thunderbird-locale-ta-lk/focal-updates,focal-updates,focal-security,focal-security 1:68.8.0+build2-0ubuntu0.20.04.2 all
+thunderbird-locale-ta/focal-updates,focal-security 1:68.8.0+build2-0ubuntu0.20.04.2 amd64
+thunderbird-locale-tr/focal-updates,focal-security 1:68.8.0+build2-0ubuntu0.20.04.2 amd64
+thunderbird-locale-uk/focal-updates,focal-security 1:68.8.0+build2-0ubuntu0.20.04.2 amd64
+thunderbird-locale-uz/focal-updates,focal-security 1:68.8.0+build2-0ubuntu0.20.04.2 amd64
+thunderbird-locale-vi/focal-updates,focal-security 1:68.8.0+build2-0ubuntu0.20.04.2 amd64
+thunderbird-locale-zh-cn/focal-updates,focal-updates,focal-security,focal-security 1:68.8.0+build2-0ubuntu0.20.04.2 all
+thunderbird-locale-zh-hans/focal-updates,focal-security 1:68.8.0+build2-0ubuntu0.20.04.2 amd64
+thunderbird-locale-zh-hant/focal-updates,focal-security 1:68.8.0+build2-0ubuntu0.20.04.2 amd64
+thunderbird-locale-zh-tw/focal-updates,focal-updates,focal-security,focal-security 1:68.8.0+build2-0ubuntu0.20.04.2 all
+thunderbird-mozsymbols/focal-updates,focal-security 1:68.8.0+build2-0ubuntu0.20.04.2 amd64
+thunderbird/focal-updates,focal-security 1:68.8.0+build2-0ubuntu0.20.04.2 amd64
 thunderbolt-tools/focal 0.9.3-4build1 amd64
 tiarra-conf-el/focal,focal 20100212+r39209-8 all
 tiarra/focal,focal 20100212+r39209-8 all
@@ -61936,7 +61936,7 @@ tightvnc-java/focal,focal 1.2.7-9 all
 tightvncserver/focal 1.3.10-0ubuntu5 amd64
 tigr-glimmer/focal 3.02b-2build1 amd64
 tikzit/focal 2.1.4-4build1 amd64
-tilda/focal 1.5.0-1.1 amd64
+tilda/focal-updates 1.5.2-0ubuntu1 amd64
 tilde/focal 1.0.0-1build1 amd64
 tiled/focal 1.3.2-1build1 amd64
 tilem-data/focal,focal 2.0-3 all
@@ -62539,8 +62539,8 @@ ubuntu-defaults-it/focal,focal 0.2.3 all
 ubuntu-defaults-nl-nl/focal,focal 6 all
 ubuntu-defaults-nl/focal,focal 6 all
 ubuntu-defaults-zh-cn/focal,focal 0.13 all
-ubuntu-desktop-minimal/focal 1.450 amd64
-ubuntu-desktop/focal 1.450 amd64
+ubuntu-desktop-minimal/focal-updates 1.450.1 amd64
+ubuntu-desktop/focal-updates 1.450.1 amd64
 ubuntu-dev-tools/focal,focal 0.176 all
 ubuntu-developer-tools-center/focal,focal 18.09+disco1 all
 ubuntu-docs/focal,focal 20.04.2 all
@@ -62586,7 +62586,7 @@ ubuntu-mate-wallpapers-yakkety/focal,focal 20.04.2 all
 ubuntu-mate-wallpapers-zesty/focal,focal 20.04.2 all
 ubuntu-mate-wallpapers/focal,focal 20.04.2 all
 ubuntu-mate-welcome/focal,focal 18.10.0 all
-ubuntu-minimal/focal,now 1.450 amd64 [installed]
+ubuntu-minimal/focal-updates 1.450.1 amd64 [upgradable from: 1.450]
 ubuntu-mobile-icons/focal,focal 19.04-0ubuntu3 all
 ubuntu-mono/focal,focal 19.04-0ubuntu3 all
 ubuntu-oem-keyring/focal,focal 2020.02.11.2 all
@@ -62620,14 +62620,14 @@ ubuntu-release-upgrader-qt/focal-updates,focal-updates 1:20.04.19 all
 ubuntu-report/focal 1.6.1 amd64
 ubuntu-restricted-addons/focal 26 amd64
 ubuntu-restricted-extras/focal 67 amd64
-ubuntu-server/focal 1.450 amd64
+ubuntu-server/focal-updates 1.450.1 amd64
 ubuntu-session/focal,focal 3.36.0-2ubuntu1 all
 ubuntu-settings/focal,focal 20.04.5 all
 ubuntu-snappy-cli/focal,focal 2.44.3+20.04 all
 ubuntu-snappy/focal,focal 2.44.3+20.04 all
 ubuntu-software/focal,focal 3.36.0-0ubuntu3 all
 ubuntu-sounds/focal,focal 0.14 all
-ubuntu-standard/focal,now 1.450 amd64 [installed]
+ubuntu-standard/focal-updates 1.450.1 amd64 [upgradable from: 1.450]
 ubuntu-system-service/focal,focal 0.7 all
 ubuntu-touch-settings/focal,focal 20.04.5 all
 ubuntu-touch-sounds/focal,focal 15.08 all
@@ -62655,7 +62655,7 @@ ubuntu-wallpapers-xenial/focal,focal 20.04.2-0ubuntu1 all
 ubuntu-wallpapers-yakkety/focal,focal 20.04.2-0ubuntu1 all
 ubuntu-wallpapers-zesty/focal,focal 20.04.2-0ubuntu1 all
 ubuntu-wallpapers/focal,focal 20.04.2-0ubuntu1 all
-ubuntu-wsl/focal 1.450 amd64
+ubuntu-wsl/focal-updates 1.450.1 amd64
 ubuntukylin-default-settings/focal,focal 20.04.2 all
 ubuntukylin-desktop/focal 0.41 amd64
 ubuntukylin-keyring/focal,focal 2014.04.10 all
@@ -62730,7 +62730,7 @@ ucspi-unix/focal 1.0-1 amd64
 ucto/focal 0.14-2build2 amd64
 uctodata/focal,focal 0.8-2 all
 udav/focal 2.4.4-6 amd64
-udev/focal-updates 245.4-4ubuntu3.1 amd64 [upgradable from: 245.4-4ubuntu3]
+udev/focal-updates,now 245.4-4ubuntu3.1 amd64 [installed]
 udev/focal-updates 245.4-4ubuntu3.1 i386
 udevil/focal 0.4.4-2 amd64
 udfclient/focal 0.8.9-1 amd64
@@ -64838,10 +64838,10 @@ xubuntu-icon-theme/focal,focal 20.04.2 all
 xubuntu-live-settings/focal,focal 20.04.4 all
 xubuntu-restricted-addons/focal,focal 26 all
 xubuntu-wallpapers/focal,focal 20.04.2 all
-xul-ext-calendar-timezones/focal 1:68.7.0+build1-0ubuntu2 amd64
+xul-ext-calendar-timezones/focal-updates,focal-security 1:68.8.0+build2-0ubuntu0.20.04.2 amd64
 xul-ext-exteditor/focal,focal 2.0.3-1 all
-xul-ext-gdata-provider/focal 1:68.7.0+build1-0ubuntu2 amd64
-xul-ext-lightning/focal 1:68.7.0+build1-0ubuntu2 amd64
+xul-ext-gdata-provider/focal-updates,focal-security 1:68.8.0+build2-0ubuntu0.20.04.2 amd64
+xul-ext-lightning/focal-updates,focal-security 1:68.8.0+build2-0ubuntu0.20.04.2 amd64
 xul-ext-pdf.js/focal,focal 1.5.188+dfsg-1 all
 xul-ext-ublock-origin/focal,focal 1.22.2+dfsg-1 all
 xul-ext-ubufox/focal,focal 3.4-0ubuntu1.17.10.1 all
@@ -64933,11 +64933,11 @@ yard-doc/focal,focal 0.9.24-1 all
 yard/focal,focal 0.9.24-1 all
 yaret/focal,focal 2.1.0-5.1 all
 yarnpkg/focal,focal 1.22.4-2 all
-yaru-theme-gnome-shell/focal,focal 20.04.6 all
-yaru-theme-gtk/focal,focal 20.04.6 all
-yaru-theme-icon/focal,focal 20.04.6 all
-yaru-theme-sound/focal,focal 20.04.6 all
-yaru-theme-unity/focal,focal 20.04.6 all
+yaru-theme-gnome-shell/focal-updates,focal-updates 20.04.7 all
+yaru-theme-gtk/focal-updates,focal-updates 20.04.7 all
+yaru-theme-icon/focal-updates,focal-updates 20.04.7 all
+yaru-theme-sound/focal-updates,focal-updates 20.04.7 all
+yaru-theme-unity/focal-updates,focal-updates 20.04.7 all
 yasat/focal,focal 848-1ubuntu1 all
 yash/focal 2.49-1 amd64
 yaskkserv/focal 1.1.1-1build1 amd64
