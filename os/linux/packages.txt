@@ -673,13 +673,13 @@ appmenu-gtk-module-common/bionic 0.6.94-1 all
 appmenu-gtk2-module/bionic 0.6.94-1 amd64
 appmenu-gtk3-module/bionic 0.6.94-1 amd64
 appmenu-qt/bionic 0.2.7+14.04.20140305-0ubuntu2 amd64
-apport/bionic-updates,bionic-security,now 2.20.9-0ubuntu7.14 all [installed,automatic]
-apport-gtk/bionic-updates,bionic-security 2.20.9-0ubuntu7.14 all
-apport-kde/bionic-updates,bionic-security 2.20.9-0ubuntu7.14 all
-apport-noui/bionic-updates,bionic-security 2.20.9-0ubuntu7.14 all
-apport-retrace/bionic-updates,bionic-security 2.20.9-0ubuntu7.14 all
+apport/bionic-updates 2.20.9-0ubuntu7.15 all [upgradable from: 2.20.9-0ubuntu7.14]
+apport-gtk/bionic-updates 2.20.9-0ubuntu7.15 all
+apport-kde/bionic-updates 2.20.9-0ubuntu7.15 all
+apport-noui/bionic-updates 2.20.9-0ubuntu7.15 all
+apport-retrace/bionic-updates 2.20.9-0ubuntu7.15 all
 apport-symptoms/bionic,now 0.20 all [installed,automatic]
-apport-valgrind/bionic-updates,bionic-security 2.20.9-0ubuntu7.14 all
+apport-valgrind/bionic-updates 2.20.9-0ubuntu7.15 all
 apprecommender/bionic 0.7.5-2 all
 approx/bionic 5.10-1 amd64
 appstream/bionic-updates 0.12.0-3ubuntu1 amd64
@@ -724,8 +724,8 @@ apt-transport-tor/bionic 0.4 all
 apt-utils/bionic-updates,bionic-security,now 1.6.12ubuntu0.1 amd64 [installed,automatic]
 apt-venv/bionic 1.0.0-2 all
 apt-xapian-index/bionic 0.47ubuntu13 all
-aptdaemon/bionic-updates,bionic-security 1.1.1+bzr982-0ubuntu19.2 all
-aptdaemon-data/bionic-updates,bionic-security 1.1.1+bzr982-0ubuntu19.2 all
+aptdaemon/bionic-updates 1.1.1+bzr982-0ubuntu19.3 all
+aptdaemon-data/bionic-updates 1.1.1+bzr982-0ubuntu19.3 all
 aptfs/bionic 2:0.11.0-1 all
 apticron/bionic 1.2.0 all
 apticron-systemd/bionic 1.2.0 all
@@ -4185,7 +4185,7 @@ dgit-infrastructure/bionic 4.3 all
 dh-acc/bionic 2.2-2ubuntu1 all
 dh-ada-library/bionic 6.12 amd64
 dh-apparmor/bionic-updates,bionic-security 2.12-4ubuntu5.1 all
-dh-apport/bionic-updates,bionic-security 2.20.9-0ubuntu7.14 all
+dh-apport/bionic-updates 2.20.9-0ubuntu7.15 all
 dh-autoreconf/bionic 17 all
 dh-buildinfo/bionic 0.11+nmu2 all
 dh-cargo/bionic 2 all
@@ -8262,7 +8262,7 @@ gccgo-s390x-linux-gnu/bionic-updates,bionic-security 4:8.3.0-1ubuntu2.3 amd64
 gccgo-sparc64-linux-gnu/bionic-updates,bionic-security 4:8.3.0-1ubuntu1.3 amd64
 gccgo-x86-64-linux-gnux32/bionic-updates,bionic-security 4:8.3.0-1ubuntu1.3 amd64
 gccintro/bionic 1.0-3 all
-gce-compute-image-packages/bionic-updates 20190801-0ubuntu1~18.04.0 all
+gce-compute-image-packages/bionic-updates,bionic-security 20190801-0ubuntu1~18.04.1 all
 gchempaint/bionic 0.14.17-1ubuntu1 amd64
 gcin/bionic 2.8.5+dfsg1-4build4 amd64
 gcin-anthy/bionic 2.8.5+dfsg1-4build4 amd64
@@ -11494,7 +11494,7 @@ google-android-platform-8-installer/bionic 8+r03 all
 google-android-platform-9-installer/bionic 9+r02 all
 google-android-sdk-docs-installer/bionic 24+r1 all
 google-cloud-print-connector/bionic 1.12-1 amd64
-google-compute-engine-oslogin/bionic-updates 20190801-0ubuntu1~18.04.0 amd64
+google-compute-engine-oslogin/bionic-updates,bionic-security 20190801-0ubuntu1~18.04.1 amd64
 google-mock/bionic 1.8.0-6 amd64
 google-perftools/bionic 2.5-2.2ubuntu3 all
 googleearth-package/bionic 1.2.2 all
@@ -27739,9 +27739,9 @@ libjsf-java-doc/bionic 2.2.8-5 all
 libjsilver-aosp-java/bionic 6.0.1+r55-1 all
 libjsmpp-java/bionic 2.1.2-4 all
 libjson-any-perl/bionic 1.39-1 all
-libjson-c-dev/bionic-updates,bionic-security 0.12.1-1.3ubuntu0.2 amd64
-libjson-c-doc/bionic-updates,bionic-security 0.12.1-1.3ubuntu0.2 all
-libjson-c3/bionic-updates,bionic-security,now 0.12.1-1.3ubuntu0.2 amd64 [installed,automatic]
+libjson-c-dev/bionic-updates,bionic-security 0.12.1-1.3ubuntu0.3 amd64
+libjson-c-doc/bionic-updates,bionic-security 0.12.1-1.3ubuntu0.3 all
+libjson-c3/bionic-updates,bionic-security 0.12.1-1.3ubuntu0.3 amd64 [upgradable from: 0.12.1-1.3ubuntu0.2]
 libjson-glib-1.0-0/bionic-updates 1.4.2-3ubuntu0.18.04.1 amd64
 libjson-glib-1.0-common/bionic-updates 1.4.2-3ubuntu0.18.04.1 all
 libjson-glib-dev/bionic-updates 1.4.2-3ubuntu0.18.04.1 amd64
@@ -30939,8 +30939,8 @@ libnetpbm10/bionic 2:10.0-15.3build1 amd64
 libnetpbm10-dev/bionic 2:10.0-15.3build1 amd64
 libnetpbm9/bionic 2:10.0-15.3build1 amd64
 libnetpbm9-dev/bionic 2:10.0-15.3build1 amd64
-libnetplan-dev/bionic-updates 0.99-0ubuntu3~18.04.1 amd64
-libnetplan0/bionic-updates 0.99-0ubuntu3~18.04.1 amd64
+libnetplan-dev/bionic-updates 0.99-0ubuntu3~18.04.2 amd64
+libnetplan0/bionic-updates 0.99-0ubuntu3~18.04.2 amd64
 libnetsds-kannel-perl/bionic 1.300-6 all
 libnetsds-perl/bionic 1.301-3 all
 libnetsds-util-perl/bionic 1.044-4 all
@@ -35307,14 +35307,14 @@ libssh-gcrypt-dev/bionic-updates,bionic-security 0.8.0~20170825.94fa1e38-1ubuntu
 libssh2-1/bionic 1.8.0-1 amd64
 libssh2-1-dbg/bionic 1.8.0-1 amd64
 libssh2-1-dev/bionic 1.8.0-1 amd64
-libssl-dev/bionic-updates,bionic-security 1.1.1-1ubuntu2.1~18.04.5 amd64
-libssl-doc/bionic-updates,bionic-security 1.1.1-1ubuntu2.1~18.04.5 all
+libssl-dev/bionic-updates,bionic-security 1.1.1-1ubuntu2.1~18.04.6 amd64
+libssl-doc/bionic-updates,bionic-security 1.1.1-1ubuntu2.1~18.04.6 all
 libssl-ocaml/bionic 0.5.3-1build2 amd64
 libssl-ocaml-dev/bionic 0.5.3-1build2 amd64
 libssl-utils-clojure/bionic 0.8.3-1 all
 libssl1.0-dev/bionic-updates,bionic-security 1.0.2n-1ubuntu5.3 amd64
 libssl1.0.0/bionic-updates,bionic-security,now 1.0.2n-1ubuntu5.3 amd64 [installed,automatic]
-libssl1.1/bionic-updates,bionic-security,now 1.1.1-1ubuntu2.1~18.04.5 amd64 [installed,automatic]
+libssl1.1/bionic-updates,bionic-security 1.1.1-1ubuntu2.1~18.04.6 amd64 [upgradable from: 1.1.1-1ubuntu2.1~18.04.5]
 libssm-dev/bionic 1.3-2.2 amd64
 libssm1/bionic 1.3-2.2 amd64
 libssm1-dbg/bionic 1.3-2.2 amd64
@@ -46549,7 +46549,7 @@ netpipe-pvm/bionic 3.7.2-7.4build2 amd64
 netpipe-tcp/bionic 3.7.2-7.4build2 amd64
 netpipes/bionic 4.2-8build1 amd64
 netplan/bionic 1.10.1-5build1 amd64
-netplan.io/bionic-updates 0.99-0ubuntu3~18.04.1 amd64 [upgradable from: 0.98-0ubuntu1~18.04.1]
+netplan.io/bionic-updates 0.99-0ubuntu3~18.04.2 amd64 [upgradable from: 0.98-0ubuntu1~18.04.1]
 netplug/bionic 1.2.9.2-3 amd64
 netrek-client-cow/bionic 3.3.1-1 amd64
 netrik/bionic 1.16.1-2build2 amd64
@@ -48120,7 +48120,7 @@ nowebm/bionic 2.11b-11 all
 nowhere/bionic 110.79-4 amd64
 npapi-sdk-dev/bionic 0.27.3~r23-1 all
 npd6/bionic 1.1.0-1 amd64
-nplan/bionic-updates 0.99-0ubuntu3~18.04.1 all [upgradable from: 0.98-0ubuntu1~18.04.1]
+nplan/bionic-updates 0.99-0ubuntu3~18.04.2 all [upgradable from: 0.98-0ubuntu1~18.04.1]
 npm/bionic 3.5.2-0ubuntu4 all
 npm2deb/bionic 0.2.7-6 all
 nq/bionic 0.2.2-2 amd64
@@ -48927,7 +48927,7 @@ openssh-client-ssh1/bionic 1:7.5p1-10 amd64
 openssh-known-hosts/bionic 0.6.2-1 all
 openssh-server/bionic-updates,bionic-security,now 1:7.6p1-4ubuntu0.3 amd64 [installed]
 openssh-sftp-server/bionic-updates,bionic-security,now 1:7.6p1-4ubuntu0.3 amd64 [installed,automatic]
-openssl/bionic-updates,bionic-security,now 1.1.1-1ubuntu2.1~18.04.5 amd64 [installed,automatic]
+openssl/bionic-updates,bionic-security 1.1.1-1ubuntu2.1~18.04.6 amd64 [upgradable from: 1.1.1-1ubuntu2.1~18.04.5]
 openssl1.0/bionic-updates,bionic-security 1.0.2n-1ubuntu5.3 amd64
 openssn/bionic 1.4-1build2 amd64
 openssn-data/bionic 1.4-1build2 all
@@ -51464,7 +51464,7 @@ python-appdirs/bionic 1.4.3-1 all
 python-appindicator/bionic 12.10.1+18.04.20180322.1-0ubuntu1 amd64
 python-application/bionic 1.4.1-1 all
 python-applicationinsights/bionic 0.11.0-1 all
-python-apport/bionic-updates,bionic-security 2.20.9-0ubuntu7.14 all
+python-apport/bionic-updates 2.20.9-0ubuntu7.15 all
 python-apptools/bionic 4.3.0-1 all
 python-apscheduler/bionic 3.4.0-2ubuntu1 all
 python-apsw/bionic 3.16.2-r1-2build2 amd64
@@ -51475,8 +51475,8 @@ python-apt-common/bionic-updates,bionic-security,now 1.6.5ubuntu0.2 all [install
 python-apt-dbg/bionic-updates,bionic-security 1.6.5ubuntu0.2 amd64
 python-apt-dev/bionic-updates,bionic-security 1.6.5ubuntu0.2 all
 python-apt-doc/bionic-updates,bionic-security 1.6.5ubuntu0.2 all
-python-aptdaemon/bionic-updates,bionic-security 1.1.1+bzr982-0ubuntu19.2 all
-python-aptdaemon.gtk3widgets/bionic-updates,bionic-security 1.1.1+bzr982-0ubuntu19.2 all
+python-aptdaemon/bionic-updates 1.1.1+bzr982-0ubuntu19.3 all
+python-aptdaemon.gtk3widgets/bionic-updates 1.1.1+bzr982-0ubuntu19.3 all
 python-aptly/bionic 0.12.10-1 all
 python-argcomplete/bionic 1.8.1-1ubuntu1 all
 python-argh/bionic 0.26.2-1 all
@@ -51623,7 +51623,7 @@ python-bond/bionic 1.8.1-2 all
 python-bondpy/bionic 1.8.1-2 amd64
 python-bootstrapform/bionic 3.3-1 all
 python-bootstrapform-doc/bionic 3.3-1 all
-python-boto/bionic-updates 2.44.0-1ubuntu2.18.04.0 all
+python-boto/bionic-updates,bionic-security 2.44.0-1ubuntu2.18.04.1 all
 python-boto3/bionic 1.4.2-1 all
 python-botocore/bionic 1.8.48+repack-1 all
 python-bottle/bionic 0.12.13-1 all
@@ -52546,7 +52546,7 @@ python-gobject-2-dev/bionic 2.28.6-12ubuntu3 all
 python-goocalendar/bionic 0.3-2 all
 python-google-apputils/bionic 0.4.1-1ubuntu3 all
 python-google-auth/bionic 1.3.0-2 all
-python-google-compute-engine/bionic-updates 20190801-0ubuntu1~18.04.0 all
+python-google-compute-engine/bionic-updates,bionic-security 20190801-0ubuntu1~18.04.1 all
 python-googleapi/bionic 1.5.5-1 all
 python-googleapi-samples/bionic 1.5.5-1 all
 python-googlecloudapis/bionic 0.9.30+debian1-2 all
@@ -53709,7 +53709,7 @@ python-presage-dbg/bionic 0.9.1-2.1ubuntu4 amd64
 python-pretend/bionic 1.0.8-2 all
 python-pretty-yaml/bionic 17.12.1-1 all
 python-prettytable/bionic 0.7.2-3 all
-python-problem-report/bionic-updates,bionic-security 2.20.9-0ubuntu7.14 all
+python-problem-report/bionic-updates 2.20.9-0ubuntu7.15 all
 python-proboscis/bionic 1.2.6.0-4 all
 python-profitbricks/bionic 4.1.1-1 all
 python-progress/bionic 1.2-1 all
@@ -55280,15 +55280,15 @@ python3-aplpy/bionic 1.1.1-1 all
 python3-apparmor/bionic-updates,bionic-security 2.12-4ubuntu5.1 amd64
 python3-appdirs/bionic 1.4.3-1 all
 python3-applicationinsights/bionic 0.11.0-1 all
-python3-apport/bionic-updates,bionic-security,now 2.20.9-0ubuntu7.14 all [installed,automatic]
+python3-apport/bionic-updates 2.20.9-0ubuntu7.15 all [upgradable from: 2.20.9-0ubuntu7.14]
 python3-apscheduler/bionic 3.4.0-2ubuntu1 all
 python3-apsw/bionic 3.16.2-r1-2build2 amd64
 python3-apsw-dbg/bionic 3.16.2-r1-2build2 amd64
 python3-apt/bionic-updates,bionic-security,now 1.6.5ubuntu0.2 amd64 [installed,automatic]
 python3-apt-dbg/bionic-updates,bionic-security 1.6.5ubuntu0.2 amd64
-python3-aptdaemon/bionic-updates,bionic-security 1.1.1+bzr982-0ubuntu19.2 all
-python3-aptdaemon.gtk3widgets/bionic-updates,bionic-security 1.1.1+bzr982-0ubuntu19.2 all
-python3-aptdaemon.test/bionic-updates,bionic-security 1.1.1+bzr982-0ubuntu19.2 all
+python3-aptdaemon/bionic-updates 1.1.1+bzr982-0ubuntu19.3 all
+python3-aptdaemon.gtk3widgets/bionic-updates 1.1.1+bzr982-0ubuntu19.3 all
+python3-aptdaemon.test/bionic-updates 1.1.1+bzr982-0ubuntu19.3 all
 python3-aptly/bionic 0.12.10-1 all
 python3-arcus/bionic 3.1.0-1ubuntu1 amd64
 python3-argcomplete/bionic 1.8.1-1ubuntu1 all
@@ -55401,7 +55401,7 @@ python3-boltons/bionic 17.1.0-1 all
 python3-booleanoperations/bionic 0.8.0-1 all
 python3-bootstrapform/bionic 3.3-1 all
 python3-botan/bionic 2.4.0-5ubuntu1 amd64
-python3-boto/bionic-updates 2.44.0-1ubuntu2.18.04.0 all
+python3-boto/bionic-updates,bionic-security 2.44.0-1ubuntu2.18.04.1 all
 python3-boto3/bionic 1.4.2-1 all
 python3-botocore/bionic 1.8.48+repack-1 all
 python3-bottle/bionic 0.12.13-1 all
@@ -55985,7 +55985,7 @@ python3-gnocchiclient/bionic 7.0.1-0ubuntu1 all
 python3-gnupg/bionic-updates,bionic-security 0.4.1-1ubuntu1.18.04.1 all
 python3-google-apputils/bionic 0.4.1-1ubuntu3 all
 python3-google-auth/bionic 1.3.0-2 all
-python3-google-compute-engine/bionic-updates 20190801-0ubuntu1~18.04.0 all
+python3-google-compute-engine/bionic-updates,bionic-security 20190801-0ubuntu1~18.04.1 all
 python3-googleapi/bionic 1.5.5-1 all
 python3-googlecloudapis/bionic 0.9.30+debian1-2 all
 python3-gpg/bionic-updates 1.10.0-1ubuntu2 amd64
@@ -56656,7 +56656,7 @@ python3-preludedb/bionic 4.1.0-1 amd64
 python3-pretend/bionic 1.0.8-2 all
 python3-pretty-yaml/bionic 17.12.1-1 all
 python3-prettytable/bionic 0.7.2-3 all
-python3-problem-report/bionic-updates,bionic-security,now 2.20.9-0ubuntu7.14 all [installed,automatic]
+python3-problem-report/bionic-updates 2.20.9-0ubuntu7.15 all [upgradable from: 2.20.9-0ubuntu7.14]
 python3-proboscis/bionic 1.2.6.0-4 all
 python3-profitbricks/bionic 4.1.1-1 all
 python3-progress/bionic 1.2-1 all
