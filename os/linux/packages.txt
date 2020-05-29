@@ -690,8 +690,8 @@ apt-transport-tor/xenial 0.2.1-1build4 amd64
 apt-utils/xenial-updates,xenial-security 1.2.32ubuntu0.1 amd64 [upgradable from: 1.2.32]
 apt-venv/xenial,xenial 1.0.0-1build1 all
 apt-xapian-index/xenial-updates,xenial-updates 0.47ubuntu8.4 all
-aptdaemon/xenial-updates,xenial-updates,xenial-security,xenial-security 1.1.1+bzr982-0ubuntu14.2 all
-aptdaemon-data/xenial-updates,xenial-updates,xenial-security,xenial-security 1.1.1+bzr982-0ubuntu14.2 all
+aptdaemon/xenial-updates,xenial-updates 1.1.1+bzr982-0ubuntu14.3 all
+aptdaemon-data/xenial-updates,xenial-updates 1.1.1+bzr982-0ubuntu14.3 all
 aptfs/xenial,xenial 2:0.8-1 all
 apticron/xenial,xenial 1.1.58ubuntu1 all
 aptitude/xenial 0.7.4-2ubuntu2 amd64
@@ -7528,7 +7528,7 @@ gccgo-s390x-linux-gnu/xenial 4:5.3.1-1ubuntu1 amd64
 gccgo-sparc64-linux-gnu/xenial 4:5.3.1-1ubuntu1 amd64
 gccintro/xenial,xenial 1.0-3 all
 gccxml/xenial 0.9.0+git20140716-6 amd64
-gce-compute-image-packages/xenial-updates,xenial-updates 20190801-0ubuntu1~16.04.0 all
+gce-compute-image-packages/xenial-updates,xenial-updates,xenial-security,xenial-security 20190801-0ubuntu1~16.04.1 all
 gchempaint/xenial 0.14.10-2 amd64
 gcin/xenial-updates 2.8.4+dfsg1-1ubuntu1.1 amd64
 gcin-anthy/xenial-updates 2.8.4+dfsg1-1ubuntu1.1 amd64
@@ -9729,7 +9729,7 @@ goobox/xenial 3.4.1-5 amd64
 google-android-build-tools-installer/xenial 23.0.2.1 i386
 google-android-sdk-docs-installer/xenial,xenial 23.0.0.0 all
 google-cloud-print-connector/xenial 0.0~git20151105.24.1902938-2 amd64
-google-compute-engine-oslogin/xenial-updates 20190801-0ubuntu1~16.04.0 amd64
+google-compute-engine-oslogin/xenial-updates,xenial-security 20190801-0ubuntu1~16.04.1 amd64
 google-mock/xenial 1.7.0-18092013-1 amd64
 google-perftools/xenial-updates,xenial-updates 2.4-0ubuntu5.16.04.1 all
 google-sitemapgen/xenial,xenial 1.5-3 all
@@ -24012,10 +24012,10 @@ libjsf-api-java/xenial,xenial 2.2.8-2 all
 libjsf-java-doc/xenial,xenial 2.2.8-2 all
 libjsmpp-java/xenial,xenial 2.1.2-3 all
 libjson-any-perl/xenial,xenial 1.39-1 all
-libjson-c-dev/xenial-updates,xenial-security 0.11-4ubuntu2.5 amd64
-libjson-c-doc/xenial-updates,xenial-updates,xenial-security,xenial-security 0.11-4ubuntu2.5 all
-libjson-c2/xenial-updates,xenial-security 0.11-4ubuntu2.5 amd64 [upgradable from: 0.11-4ubuntu2]
-libjson-c2-dbg/xenial-updates,xenial-security 0.11-4ubuntu2.5 amd64
+libjson-c-dev/xenial-updates,xenial-security 0.11-4ubuntu2.6 amd64
+libjson-c-doc/xenial-updates,xenial-updates,xenial-security,xenial-security 0.11-4ubuntu2.6 all
+libjson-c2/xenial-updates,xenial-security 0.11-4ubuntu2.6 amd64 [upgradable from: 0.11-4ubuntu2]
+libjson-c2-dbg/xenial-updates,xenial-security 0.11-4ubuntu2.6 amd64
 libjson-glib-1.0-0/xenial 1.1.2-0ubuntu1 amd64
 libjson-glib-1.0-0-dbg/xenial 1.1.2-0ubuntu1 amd64
 libjson-glib-1.0-common/xenial,xenial 1.1.2-0ubuntu1 all
@@ -24033,8 +24033,8 @@ libjson-simple-java/xenial,xenial 1.1.1-3 all
 libjson-types-perl/xenial,xenial 0.05-1 all
 libjson-validator-perl/xenial,xenial 0.66+dfsg-1 all
 libjson-xs-perl/xenial 3.010-2build1 amd64
-libjson0/xenial-updates,xenial-security 0.11-4ubuntu2.5 amd64
-libjson0-dev/xenial-updates,xenial-security 0.11-4ubuntu2.5 amd64
+libjson0/xenial-updates,xenial-security 0.11-4ubuntu2.6 amd64
+libjson0-dev/xenial-updates,xenial-security 0.11-4ubuntu2.6 amd64
 libjsoncpp-dev/xenial 1.7.2-1 amd64
 libjsoncpp-doc/xenial,xenial 1.7.2-1 all
 libjsoncpp1/xenial 1.7.2-1 amd64
@@ -31217,12 +31217,12 @@ libssh-gcrypt-dev/xenial-updates,xenial-security 0.6.3-4.3ubuntu0.5 amd64
 libssh2-1/xenial-updates,xenial-security 1.5.0-2ubuntu0.1 amd64
 libssh2-1-dbg/xenial-updates,xenial-security 1.5.0-2ubuntu0.1 amd64
 libssh2-1-dev/xenial-updates,xenial-security 1.5.0-2ubuntu0.1 amd64
-libssl-dev/xenial-updates,xenial-security 1.0.2g-1ubuntu4.15 amd64
-libssl-doc/xenial-updates,xenial-updates,xenial-security,xenial-security 1.0.2g-1ubuntu4.15 all
+libssl-dev/xenial-updates,xenial-security 1.0.2g-1ubuntu4.16 amd64
+libssl-doc/xenial-updates,xenial-updates,xenial-security,xenial-security 1.0.2g-1ubuntu4.16 all
 libssl-ocaml/xenial 0.5.2-1 amd64
 libssl-ocaml-dev/xenial 0.5.2-1 amd64
-libssl1.0.0/xenial-updates,xenial-security,now 1.0.2g-1ubuntu4.15 amd64 [installed]
-libssl1.0.0-dbg/xenial-updates,xenial-security 1.0.2g-1ubuntu4.15 amd64
+libssl1.0.0/xenial-updates,xenial-security 1.0.2g-1ubuntu4.16 amd64 [upgradable from: 1.0.2g-1ubuntu4.15]
+libssl1.0.0-dbg/xenial-updates,xenial-security 1.0.2g-1ubuntu4.16 amd64
 libsslcommon2/xenial 0.16-9ubuntu2 amd64
 libsslcommon2-dev/xenial 0.16-9ubuntu2 amd64
 libssm-dev/xenial 1.3-2.1 amd64
@@ -44017,7 +44017,7 @@ openssh-client-ssh1/xenial-updates,xenial-security 1:7.2p2-4ubuntu2.8 amd64
 openssh-known-hosts/xenial,xenial 0.6.2-1 all
 openssh-server/xenial-updates,xenial-security,now 1:7.2p2-4ubuntu2.8 amd64 [installed]
 openssh-sftp-server/xenial-updates,xenial-security,now 1:7.2p2-4ubuntu2.8 amd64 [installed]
-openssl/xenial-updates,xenial-security,now 1.0.2g-1ubuntu4.15 amd64 [installed]
+openssl/xenial-updates,xenial-security 1.0.2g-1ubuntu4.16 amd64 [upgradable from: 1.0.2g-1ubuntu4.15]
 openssl-blacklist/xenial,xenial 0.5-3 all
 openssl-blacklist-extra/xenial,xenial 0.5-3 all
 openssn/xenial 1.4-1build1 amd64
@@ -46449,8 +46449,8 @@ python-apt-common/xenial-updates,xenial-updates,xenial-security,xenial-security 
 python-apt-dbg/xenial-updates,xenial-security 1.1.0~beta1ubuntu0.16.04.8 amd64
 python-apt-dev/xenial-updates,xenial-updates,xenial-security,xenial-security 1.1.0~beta1ubuntu0.16.04.8 all
 python-apt-doc/xenial-updates,xenial-updates,xenial-security,xenial-security 1.1.0~beta1ubuntu0.16.04.8 all
-python-aptdaemon/xenial-updates,xenial-updates,xenial-security,xenial-security 1.1.1+bzr982-0ubuntu14.2 all
-python-aptdaemon.gtk3widgets/xenial-updates,xenial-updates,xenial-security,xenial-security 1.1.1+bzr982-0ubuntu14.2 all
+python-aptdaemon/xenial-updates,xenial-updates 1.1.1+bzr982-0ubuntu14.3 all
+python-aptdaemon.gtk3widgets/xenial-updates,xenial-updates 1.1.1+bzr982-0ubuntu14.3 all
 python-argcomplete/xenial,xenial 0.8.1-1ubuntu2 all
 python-argh/xenial,xenial 0.26.1-1 all
 python-args/xenial,xenial 0.1.0-2 all
@@ -47331,7 +47331,7 @@ python-gobject-dbg/xenial,xenial 3.20.0-0ubuntu1 all
 python-gobject-dev/xenial,xenial 3.20.0-0ubuntu1 all
 python-goocalendar/xenial,xenial 0.2-1 all
 python-google-apputils/xenial-updates,xenial-updates 0.4.1-1ubuntu2.16.04.1 all
-python-google-compute-engine/xenial-updates,xenial-updates 20190801-0ubuntu1~16.04.0 all
+python-google-compute-engine/xenial-updates,xenial-updates,xenial-security,xenial-security 20190801-0ubuntu1~16.04.1 all
 python-googleapi/xenial-updates,xenial-updates 1.4.2-1ubuntu1.1 all
 python-googleapi-samples/xenial-updates,xenial-updates 1.4.2-1ubuntu1.1 all
 python-googlecloudapis/xenial,xenial 0.9.30+debian1-1ubuntu2 all
@@ -49768,10 +49768,10 @@ python3-apsw/xenial 3.8.11.1-r1-1build1 amd64
 python3-apsw-dbg/xenial 3.8.11.1-r1-1build1 amd64
 python3-apt/xenial-updates,xenial-security 1.1.0~beta1ubuntu0.16.04.8 amd64 [upgradable from: 1.1.0~beta1ubuntu0.16.04.5]
 python3-apt-dbg/xenial-updates,xenial-security 1.1.0~beta1ubuntu0.16.04.8 amd64
-python3-aptdaemon/xenial-updates,xenial-updates,xenial-security,xenial-security 1.1.1+bzr982-0ubuntu14.2 all
-python3-aptdaemon.gtk3widgets/xenial-updates,xenial-updates,xenial-security,xenial-security 1.1.1+bzr982-0ubuntu14.2 all
-python3-aptdaemon.pkcompat/xenial-updates,xenial-updates,xenial-security,xenial-security 1.1.1+bzr982-0ubuntu14.2 all
-python3-aptdaemon.test/xenial-updates,xenial-updates,xenial-security,xenial-security 1.1.1+bzr982-0ubuntu14.2 all
+python3-aptdaemon/xenial-updates,xenial-updates 1.1.1+bzr982-0ubuntu14.3 all
+python3-aptdaemon.gtk3widgets/xenial-updates,xenial-updates 1.1.1+bzr982-0ubuntu14.3 all
+python3-aptdaemon.pkcompat/xenial-updates,xenial-updates 1.1.1+bzr982-0ubuntu14.3 all
+python3-aptdaemon.test/xenial-updates,xenial-updates 1.1.1+bzr982-0ubuntu14.3 all
 python3-argcomplete/xenial,xenial 0.8.1-1ubuntu2 all
 python3-argh/xenial,xenial 0.26.1-1 all
 python3-args/xenial,xenial 0.1.0-2 all
@@ -50187,7 +50187,7 @@ python3-gmpy2/xenial 2.0.7-2build1 amd64
 python3-gnocchiclient/xenial,xenial 2.2.0-2 all
 python3-gnupg/xenial,xenial 0.3.8-2 all
 python3-google-apputils/xenial-updates,xenial-updates 0.4.1-1ubuntu2.16.04.1 all
-python3-google-compute-engine/xenial-updates,xenial-updates 20190801-0ubuntu1~16.04.0 all
+python3-google-compute-engine/xenial-updates,xenial-updates,xenial-security,xenial-security 20190801-0ubuntu1~16.04.1 all
 python3-googleapi/xenial-updates,xenial-updates 1.4.2-1ubuntu1.1 all
 python3-googlecloudapis/xenial,xenial 0.9.30+debian1-1ubuntu2 all
 python3-gpgme/xenial 0.3-1.1 amd64
