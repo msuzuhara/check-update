@@ -29867,7 +29867,7 @@ libjson-any-perl/focal,focal 1.39-2 all
 libjson-c-dev/focal-updates,focal-security 0.13.1+dfsg-7ubuntu0.3 amd64
 libjson-c-dev/focal-updates,focal-security 0.13.1+dfsg-7ubuntu0.3 i386
 libjson-c-doc/focal-updates,focal-updates,focal-security,focal-security 0.13.1+dfsg-7ubuntu0.3 all
-libjson-c4/focal-updates,focal-security 0.13.1+dfsg-7ubuntu0.3 amd64 [upgradable from: 0.13.1+dfsg-7ubuntu0.2]
+libjson-c4/focal-updates,focal-security,now 0.13.1+dfsg-7ubuntu0.3 amd64 [installed]
 libjson-c4/focal-updates,focal-security 0.13.1+dfsg-7ubuntu0.3 i386
 libjson-glib-1.0-0/focal 1.4.4-2ubuntu2 amd64
 libjson-glib-1.0-0/focal 1.4.4-2ubuntu2 i386
