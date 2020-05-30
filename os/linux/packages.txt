@@ -27741,7 +27741,7 @@ libjsmpp-java/bionic 2.1.2-4 all
 libjson-any-perl/bionic 1.39-1 all
 libjson-c-dev/bionic-updates,bionic-security 0.12.1-1.3ubuntu0.3 amd64
 libjson-c-doc/bionic-updates,bionic-security 0.12.1-1.3ubuntu0.3 all
-libjson-c3/bionic-updates,bionic-security 0.12.1-1.3ubuntu0.3 amd64 [upgradable from: 0.12.1-1.3ubuntu0.2]
+libjson-c3/bionic-updates,bionic-security,now 0.12.1-1.3ubuntu0.3 amd64 [installed,automatic]
 libjson-glib-1.0-0/bionic-updates 1.4.2-3ubuntu0.18.04.1 amd64
 libjson-glib-1.0-common/bionic-updates 1.4.2-3ubuntu0.18.04.1 all
 libjson-glib-dev/bionic-updates 1.4.2-3ubuntu0.18.04.1 amd64
@@ -35314,7 +35314,7 @@ libssl-ocaml-dev/bionic 0.5.3-1build2 amd64
 libssl-utils-clojure/bionic 0.8.3-1 all
 libssl1.0-dev/bionic-updates,bionic-security 1.0.2n-1ubuntu5.3 amd64
 libssl1.0.0/bionic-updates,bionic-security,now 1.0.2n-1ubuntu5.3 amd64 [installed,automatic]
-libssl1.1/bionic-updates,bionic-security 1.1.1-1ubuntu2.1~18.04.6 amd64 [upgradable from: 1.1.1-1ubuntu2.1~18.04.5]
+libssl1.1/bionic-updates,bionic-security,now 1.1.1-1ubuntu2.1~18.04.6 amd64 [installed,automatic]
 libssm-dev/bionic 1.3-2.2 amd64
 libssm1/bionic 1.3-2.2 amd64
 libssm1-dbg/bionic 1.3-2.2 amd64
@@ -48927,7 +48927,7 @@ openssh-client-ssh1/bionic 1:7.5p1-10 amd64
 openssh-known-hosts/bionic 0.6.2-1 all
 openssh-server/bionic-updates,bionic-security,now 1:7.6p1-4ubuntu0.3 amd64 [installed]
 openssh-sftp-server/bionic-updates,bionic-security,now 1:7.6p1-4ubuntu0.3 amd64 [installed,automatic]
-openssl/bionic-updates,bionic-security 1.1.1-1ubuntu2.1~18.04.6 amd64 [upgradable from: 1.1.1-1ubuntu2.1~18.04.5]
+openssl/bionic-updates,bionic-security,now 1.1.1-1ubuntu2.1~18.04.6 amd64 [installed,automatic]
 openssl1.0/bionic-updates,bionic-security 1.0.2n-1ubuntu5.3 amd64
 openssn/bionic 1.4-1build2 amd64
 openssn-data/bionic 1.4-1build2 all
