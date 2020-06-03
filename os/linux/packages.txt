@@ -2113,7 +2113,7 @@ c3270/focal 3.6ga4-3build1 amd64
 ca-cacert/focal,focal 2019.0411-2 all
 ca-certificates-java/focal,focal 20190405ubuntu1 all
 ca-certificates-mono/focal,focal 6.8.0.105+dfsg-2 all
-ca-certificates/focal-updates,focal-updates,focal-security,focal-security 20190110ubuntu1.1 all [upgradable from: 20190110ubuntu1]
+ca-certificates/focal-updates,focal-updates,focal-security,focal-security,now 20190110ubuntu1.1 all [installed]
 cabal-debian/focal 5.0-1build3 amd64
 cabal-install/focal 2.4.0.0-2build3 amd64
 cabextract/focal 1.9-3 amd64
