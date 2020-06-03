@@ -2116,7 +2116,7 @@ c2hs/bionic 0.28.3-1 amd64
 c2hs-doc/bionic 0.28.3-1 all
 c3270/bionic 3.6ga4-3 amd64
 ca-cacert/bionic 2011.0523-2 all
-ca-certificates/bionic-updates,bionic-security 20190110~18.04.1 all [upgradable from: 20180409]
+ca-certificates/bionic-updates,bionic-security,now 20190110~18.04.1 all [installed,automatic]
 ca-certificates-java/bionic-updates 20180516ubuntu1~18.04.1 all
 ca-certificates-mono/bionic 4.6.2.7+dfsg-1ubuntu1 all
 cabal-debian/bionic 4.36-1 amd64
@@ -2581,13 +2581,13 @@ choreonoid-doc/bionic 1.5.0+dfsg-0.1build3 all
 choreonoid-plugins-base/bionic 1.5.0+dfsg-0.1build3 amd64
 chroma/bionic 0.4.0+git20180402.51d250f-1 amd64
 chrome-gnome-shell/bionic 10-1 all
-chromium-browser/bionic-updates,bionic-security 81.0.4044.138-0ubuntu0.18.04.1 amd64
-chromium-browser-l10n/bionic-updates,bionic-security 81.0.4044.138-0ubuntu0.18.04.1 all
+chromium-browser/bionic-updates,bionic-security 83.0.4103.61-0ubuntu0.18.04.1 amd64
+chromium-browser-l10n/bionic-updates,bionic-security 83.0.4103.61-0ubuntu0.18.04.1 all
 chromium-bsu/bionic 0.9.16.1-1 amd64
 chromium-bsu-data/bionic 0.9.16.1-1 all
-chromium-chromedriver/bionic-updates,bionic-security 81.0.4044.138-0ubuntu0.18.04.1 amd64
-chromium-codecs-ffmpeg/bionic-updates,bionic-security 81.0.4044.138-0ubuntu0.18.04.1 amd64
-chromium-codecs-ffmpeg-extra/bionic-updates,bionic-security 81.0.4044.138-0ubuntu0.18.04.1 amd64
+chromium-chromedriver/bionic-updates,bionic-security 83.0.4103.61-0ubuntu0.18.04.1 amd64
+chromium-codecs-ffmpeg/bionic-updates,bionic-security 83.0.4103.61-0ubuntu0.18.04.1 amd64
+chromium-codecs-ffmpeg-extra/bionic-updates,bionic-security 83.0.4103.61-0ubuntu0.18.04.1 amd64
 chromium-lwn4chrome/bionic 1.0-2 all
 chromium-tt-rss-notifier/bionic 0.5.2-1 all
 chromium-ublock-origin/bionic 1.13.8+dfsg-1 all
@@ -13179,7 +13179,7 @@ isc-dhcp-dev/bionic-updates,bionic-security 4.3.5-3ubuntu7.1 amd64
 isc-dhcp-relay/bionic-updates,bionic-security 4.3.5-3ubuntu7.1 amd64
 isc-dhcp-server/bionic-updates,bionic-security 4.3.5-3ubuntu7.1 amd64
 isc-dhcp-server-ldap/bionic-updates,bionic-security 4.3.5-3ubuntu7.1 amd64
-iscsiuio/bionic-updates 2.0.874-5ubuntu2.9 amd64
+iscsiuio/bionic-updates 2.0.874-5ubuntu2.10 amd64
 isdnactivecards/bionic 1:3.12.2007-11-27-1 amd64
 isdnlog/bionic 1:3.25+dfsg1-9ubuntu2 amd64
 isdnlog-data/bionic 1:3.25+dfsg1-9ubuntu2 all
@@ -48648,7 +48648,7 @@ open-infrastructure-system-config/bionic 20161101-lts1-2 all
 open-infrastructure-system-images/bionic 20161101-lts2-2 all
 open-invaders/bionic 0.3-4.3 amd64
 open-invaders-data/bionic 0.3-4.3 all
-open-iscsi/bionic-updates 2.0.874-5ubuntu2.9 amd64 [upgradable from: 2.0.874-5ubuntu2.7]
+open-iscsi/bionic-updates 2.0.874-5ubuntu2.10 amd64 [upgradable from: 2.0.874-5ubuntu2.7]
 open-isns-discoveryd/bionic 0.97-2build1 amd64
 open-isns-server/bionic 0.97-2build1 amd64
 open-isns-utils/bionic 0.97-2build1 amd64
@@ -57186,7 +57186,7 @@ python3-socketpool/bionic 0.5.3-4 all
 python3-sockjs-tornado/bionic 1.0.3-1 all
 python3-socks/bionic 1.6.5-1 all
 python3-softlayer/bionic 5.4.2-1 all
-python3-software-properties/bionic-updates,now 0.96.24.32.12 all [installed,automatic]
+python3-software-properties/bionic-updates 0.96.24.32.13 all [upgradable from: 0.96.24.32.12]
 python3-solv/bionic 0.6.30-1build1 amd64
 python3-sorl-thumbnail/bionic 12.3+git20170708-1 all
 python3-sortedcollections/bionic 0.5.3-1 all
@@ -61003,8 +61003,8 @@ shorewall-lite/bionic 5.1.12.2-1 all
 shorewall6/bionic 5.1.12.2-1 all
 shorewall6-lite/bionic 5.1.12.2-1 all
 shotdetect/bionic 1.0.86-5build1 amd64
-shotwell/bionic-updates 0.28.4-0ubuntu1 amd64
-shotwell-common/bionic-updates 0.28.4-0ubuntu1 all
+shotwell/bionic-updates 0.28.4-0ubuntu2 amd64
+shotwell-common/bionic-updates 0.28.4-0ubuntu2 all
 shove/bionic 0.8.2-1 all
 showfoto/bionic 4:5.6.0-0ubuntu10 amd64
 showfsck/bionic 1.4ubuntu4 all
@@ -61420,9 +61420,9 @@ softhsm-common/bionic 2.2.0-3.1build1 all
 softhsm2/bionic 2.2.0-3.1build1 amd64
 softhsm2-common/bionic 2.2.0-3.1build1 amd64
 software-center-aptdaemon-plugins/bionic 0.1.6build1 all
-software-properties-common/bionic-updates,now 0.96.24.32.12 all [installed,automatic]
-software-properties-gtk/bionic-updates 0.96.24.32.12 all
-software-properties-kde/bionic-updates 0.96.24.32.12 all
+software-properties-common/bionic-updates 0.96.24.32.13 all [upgradable from: 0.96.24.32.12]
+software-properties-gtk/bionic-updates 0.96.24.32.13 all
+software-properties-kde/bionic-updates 0.96.24.32.13 all
 sogo/bionic 3.2.10-1build1 amd64
 sogo-common/bionic 3.2.10-1build1 all
 solaar/bionic 0.9.2+dfsg-8 all
