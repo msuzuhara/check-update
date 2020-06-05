@@ -623,7 +623,7 @@ apparmor-profiles-extra/focal,focal 1.27 all
 apparmor-profiles/focal-updates,focal-updates 2.13.3-7ubuntu5.1 all
 apparmor-utils/focal-updates 2.13.3-7ubuntu5.1 amd64
 apparmor-utils/focal-updates 2.13.3-7ubuntu5.1 i386
-apparmor/focal-updates 2.13.3-7ubuntu5.1 amd64 [upgradable from: 2.13.3-7ubuntu5]
+apparmor/focal-updates,now 2.13.3-7ubuntu5.1 amd64 [installed]
 apparmor/focal-updates 2.13.3-7ubuntu5.1 i386
 appc-spec/focal 0.8.11+dfsg-2 amd64
 append2simg/focal,focal 1:8.1.0+r23-5ubuntu2 all
@@ -17459,7 +17459,7 @@ libapparmor-dev/focal-updates 2.13.3-7ubuntu5.1 amd64
 libapparmor-dev/focal-updates 2.13.3-7ubuntu5.1 i386
 libapparmor-perl/focal-updates 2.13.3-7ubuntu5.1 amd64
 libapparmor-perl/focal-updates 2.13.3-7ubuntu5.1 i386
-libapparmor1/focal-updates 2.13.3-7ubuntu5.1 amd64 [upgradable from: 2.13.3-7ubuntu5]
+libapparmor1/focal-updates,now 2.13.3-7ubuntu5.1 amd64 [installed]
 libapparmor1/focal-updates 2.13.3-7ubuntu5.1 i386
 libappconfig-perl/focal,focal 1.71-2 all
 libappconfig-std-perl/focal,focal 1.10-1 all
