@@ -1918,7 +1918,7 @@ c2hs/stable 0.28.5-2 amd64
 c3270/stable 3.6ga4-3+b1 amd64
 ca-certificates-java/stable 20190405 all
 ca-certificates-mono/stable 5.18.0.240+dfsg-3 all
-ca-certificates/stable,now 20190110 all [installed,automatic]
+ca-certificates/stable-updates 20200601~deb10u1 all [upgradable from: 20190110]
 cabal-debian/stable 4.38.2-1 amd64
 cabal-install/stable 2.2.0.0-2 amd64
 cabextract/stable 1.9-1 amd64
@@ -2595,15 +2595,15 @@ cl-yason/stable 0.7.6-1 all
 cl-zip/stable 20150608-1 all
 cl-zs3/stable 1.3.1-1 all
 clamassassin/stable 1.2.4-1 all
-clamav-base/stable,stable-updates 0.102.2+dfsg-0+deb10u1 all
-clamav-daemon/stable,stable-updates 0.102.2+dfsg-0+deb10u1 amd64
-clamav-docs/stable,stable-updates 0.102.2+dfsg-0+deb10u1 all
-clamav-freshclam/stable,stable-updates 0.102.2+dfsg-0+deb10u1 amd64
-clamav-milter/stable,stable-updates 0.102.2+dfsg-0+deb10u1 amd64
-clamav-testfiles/stable,stable-updates 0.102.2+dfsg-0+deb10u1 all
+clamav-base/stable-updates 0.102.3+dfsg-0+deb10u1 all
+clamav-daemon/stable-updates 0.102.3+dfsg-0+deb10u1 amd64
+clamav-docs/stable-updates 0.102.3+dfsg-0+deb10u1 all
+clamav-freshclam/stable-updates 0.102.3+dfsg-0+deb10u1 amd64
+clamav-milter/stable-updates 0.102.3+dfsg-0+deb10u1 amd64
+clamav-testfiles/stable-updates 0.102.3+dfsg-0+deb10u1 all
 clamav-unofficial-sigs/stable 3.7.2-2 all
-clamav/stable,stable-updates 0.102.2+dfsg-0+deb10u1 amd64
-clamdscan/stable,stable-updates 0.102.2+dfsg-0+deb10u1 amd64
+clamav/stable-updates 0.102.3+dfsg-0+deb10u1 amd64
+clamdscan/stable-updates 0.102.3+dfsg-0+deb10u1 amd64
 clamfs/stable 1.0.1-3+b4 amd64
 clamsmtp/stable 1.10-17 amd64
 clamtk-gnome/stable 5.27-1 all
@@ -8954,8 +8954,8 @@ gnustep-icons/stable 1.0-6 all
 gnustep-make-doc/stable 2.7.0-4 all
 gnustep-make/stable 2.7.0-4 all
 gnustep/stable 7.10 all
-gnutls-bin/stable,stable 3.6.7-4+deb10u3 amd64
-gnutls-doc/stable,stable 3.6.7-4+deb10u3 all
+gnutls-bin/stable 3.6.7-4+deb10u4 amd64
+gnutls-doc/stable 3.6.7-4+deb10u4 all
 go-bindata/stable 3.0.7+git20151023.72.a0ff256-3+b11 amd64
 go-cve-dictionary/stable 0.3.1-1+b20 amd64
 go-dep/stable 0.5.1+really0.5.0-1 amd64
@@ -15654,8 +15654,8 @@ libckyapplet1/stable 1.1.0-13+b1 amd64
 libclalsadrv-dev/stable 2.0.0-3 all
 libclalsadrv2/stable 2.0.0-3+b1 amd64
 libclamav-client-perl/stable 0.11-2 all
-libclamav-dev/stable,stable-updates 0.102.2+dfsg-0+deb10u1 amd64
-libclamav9/stable,stable-updates 0.102.2+dfsg-0+deb10u1 amd64
+libclamav-dev/stable-updates 0.102.3+dfsg-0+deb10u1 amd64
+libclamav9/stable-updates 0.102.3+dfsg-0+deb10u1 amd64
 libclanapp-1.0v5/stable 1.0~svn3827-7 amd64
 libclang-6.0-dev/stable 1:6.0.1-10 amd64
 libclang-7-dev/stable 1:7.0.1-8 amd64
@@ -22259,11 +22259,11 @@ libgnustep-dl2-0d/stable 0.12.0-15.1+b3 amd64
 libgnustep-dl2-dev/stable 0.12.0-15.1+b3 amd64
 libgnustep-gui-dev/stable 0.27.0-5 amd64
 libgnustep-gui0.27/stable 0.27.0-5 amd64
-libgnutls-dane0/stable,stable 3.6.7-4+deb10u3 amd64
-libgnutls-openssl27/stable,stable 3.6.7-4+deb10u3 amd64
-libgnutls28-dev/stable,stable 3.6.7-4+deb10u3 amd64
-libgnutls30/stable,stable,now 3.6.7-4+deb10u3 amd64 [installed]
-libgnutlsxx28/stable,stable 3.6.7-4+deb10u3 amd64
+libgnutls-dane0/stable 3.6.7-4+deb10u4 amd64
+libgnutls-openssl27/stable 3.6.7-4+deb10u4 amd64
+libgnutls28-dev/stable 3.6.7-4+deb10u4 amd64
+libgnutls30/stable 3.6.7-4+deb10u4 amd64 [upgradable from: 3.6.7-4+deb10u3]
+libgnutlsxx28/stable 3.6.7-4+deb10u4 amd64
 libgo-perl/stable 0.15-7 all
 libgo11-dbg/stable 7.4.0-6 amd64
 libgo11/stable 7.4.0-6 amd64
@@ -27516,8 +27516,8 @@ libnma0/stable 1.8.20-1.1 amd64
 libnmap-parser-perl/stable 1.37-1 all
 libnmz7-dev/stable 2.0.21-22 amd64
 libnmz7/stable 2.0.21-22 amd64
-libnode-dev/stable,stable 10.19.0~dfsg1-1 amd64
-libnode64/stable,stable 10.19.0~dfsg1-1 amd64
+libnode-dev/stable 10.21.0~dfsg-1~deb10u1 amd64
+libnode64/stable 10.21.0~dfsg-1~deb10u1 amd64
 libnodelet-dev/stable 1.9.16-1+b1 amd64
 libnodelet-topic-tools-dev/stable 1.9.16-1+b1 amd64
 libnodeletlib-dev/stable 1.9.16-1+b1 amd64
@@ -39450,8 +39450,8 @@ node-ytdl-core/stable 0.2.4+dfsg-1 all
 node-zeparser/stable 0.0.7+dfsg-2 all
 node-zipfile/stable 0.5.12+ds-3 amd64
 nodeenv/stable 0.13.4-1 all
-nodejs-doc/stable,stable 10.19.0~dfsg1-1 all
-nodejs/stable,stable 10.19.0~dfsg1-1 amd64
+nodejs-doc/stable 10.21.0~dfsg-1~deb10u1 all
+nodejs/stable 10.21.0~dfsg-1~deb10u1 amd64
 nodeunit/stable 0.11.2+ds3-2 all
 nodm/stable 0.13-5 amd64
 noiz2sa-data/stable 0.51a-10.1 all
