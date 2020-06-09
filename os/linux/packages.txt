@@ -1918,7 +1918,7 @@ c2hs/stable 0.28.5-2 amd64
 c3270/stable 3.6ga4-3+b1 amd64
 ca-certificates-java/stable 20190405 all
 ca-certificates-mono/stable 5.18.0.240+dfsg-3 all
-ca-certificates/stable-updates 20200601~deb10u1 all [upgradable from: 20190110]
+ca-certificates/stable-updates,now 20200601~deb10u1 all [installed,automatic]
 cabal-debian/stable 4.38.2-1 amd64
 cabal-install/stable 2.2.0.0-2 amd64
 cabextract/stable 1.9-1 amd64
@@ -22262,7 +22262,7 @@ libgnustep-gui0.27/stable 0.27.0-5 amd64
 libgnutls-dane0/stable 3.6.7-4+deb10u4 amd64
 libgnutls-openssl27/stable 3.6.7-4+deb10u4 amd64
 libgnutls28-dev/stable 3.6.7-4+deb10u4 amd64
-libgnutls30/stable 3.6.7-4+deb10u4 amd64 [upgradable from: 3.6.7-4+deb10u3]
+libgnutls30/stable,now 3.6.7-4+deb10u4 amd64 [installed]
 libgnutlsxx28/stable 3.6.7-4+deb10u4 amd64
 libgo-perl/stable 0.15-7 all
 libgo11-dbg/stable 7.4.0-6 amd64
