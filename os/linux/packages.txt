@@ -11274,7 +11274,7 @@ hylafax-server-dbg/stable 3:6.0.6-8.1 amd64
 hylafax-server/stable 3:6.0.6-8.1 amd64
 hyperrogue-music/stable 10.4j-1 all
 hyperrogue/stable 10.4j-1 amd64
-hyperv-daemons/stable 4.19.118-2 amd64
+hyperv-daemons/stable 4.19.118-2+deb10u1 amd64
 hyphen-af/stable 1:6.2.0-1 all
 hyphen-as/stable 0.9.0-1 all
 hyphen-bg/stable 1:6.2.0-1 all
@@ -14837,8 +14837,8 @@ libboulder-perl/stable 1.30-5 all
 libbox2d-dev/stable 2.3.1+ds-5 amd64
 libbox2d-doc/stable 2.3.1+ds-5 all
 libbox2d2.3.0/stable 2.3.1+ds-5 amd64
-libbpf-dev/stable 4.19.118-2 amd64
-libbpf4.19/stable 4.19.118-2 amd64
+libbpf-dev/stable 4.19.118-2+deb10u1 amd64
+libbpf4.19/stable 4.19.118-2+deb10u1 amd64
 libbpfcc-dev/stable 0.8.0-4 amd64
 libbpfcc/stable 0.8.0-4 amd64
 libbpp-core-dev/stable 2.4.1-3 amd64
@@ -16241,8 +16241,8 @@ libcpufreq-dev/stable 008-1.1 amd64
 libcpufreq0/stable 008-1.1 amd64
 libcpuinfo-dev/stable 0.0~git20190201.d5e37ad-1 amd64
 libcpuinfo0/stable 0.0~git20190201.d5e37ad-1 amd64
-libcpupower-dev/stable 4.19.118-2 amd64
-libcpupower1/stable 4.19.118-2 amd64
+libcpupower-dev/stable 4.19.118-2+deb10u1 amd64
+libcpupower1/stable 4.19.118-2+deb10u1 amd64
 libcpuset-dev/stable 1.0-5 amd64
 libcpuset1/stable 1.0-5 amd64
 libcql-parser-perl/stable 1.13-1 all
@@ -25488,8 +25488,8 @@ liblocale-us-perl/stable 3.04-1 all
 liblocales-perl/stable 0.34+ds-1 all
 liblocalizer-java-doc/stable 1.13-3 all
 liblocalizer-java/stable 1.13-3 all
-liblockdep-dev/stable 4.19.118-2 amd64
-liblockdep4.19/stable 4.19.118-2 amd64
+liblockdep-dev/stable 4.19.118-2+deb10u1 amd64
+liblockdep4.19/stable 4.19.118-2+deb10u1 amd64
 liblockfile-bin/stable,now 1.14-1.1 amd64 [installed]
 liblockfile-dev/stable 1.14-1.1 amd64
 liblockfile-simple-perl/stable 0.208-1 all
@@ -35654,10 +35654,10 @@ lintex/stable 1.14-1+b1 amd64
 lintian-brush/stable 0.13.1 all
 lintian/stable 2.15.0 all
 linux-base/stable,now 4.6 all [installed,automatic]
-linux-compiler-gcc-8-x86/stable 4.19.118-2 amd64
-linux-config-4.19/stable 4.19.118-2 amd64
-linux-cpupower/stable 4.19.118-2 amd64
-linux-doc-4.19/stable 4.19.118-2 all
+linux-compiler-gcc-8-x86/stable 4.19.118-2+deb10u1 amd64
+linux-config-4.19/stable 4.19.118-2+deb10u1 amd64
+linux-cpupower/stable 4.19.118-2+deb10u1 amd64
+linux-doc-4.19/stable 4.19.118-2+deb10u1 all
 linux-doc/stable 4.19+105+deb10u4 all
 linux-headers-4.19.0-6-all-amd64/stable 4.19.67-2+deb10u2 amd64
 linux-headers-4.19.0-6-all/stable 4.19.67-2+deb10u2 amd64
@@ -35673,13 +35673,13 @@ linux-headers-4.19.0-8-cloud-amd64/stable 4.19.98-1+deb10u1 amd64
 linux-headers-4.19.0-8-common-rt/stable 4.19.98-1+deb10u1 all
 linux-headers-4.19.0-8-common/stable 4.19.98-1+deb10u1 all
 linux-headers-4.19.0-8-rt-amd64/stable 4.19.98-1+deb10u1 amd64
-linux-headers-4.19.0-9-all-amd64/stable 4.19.118-2 amd64
-linux-headers-4.19.0-9-all/stable 4.19.118-2 amd64
-linux-headers-4.19.0-9-amd64/stable 4.19.118-2 amd64
-linux-headers-4.19.0-9-cloud-amd64/stable 4.19.118-2 amd64
-linux-headers-4.19.0-9-common-rt/stable 4.19.118-2 all
-linux-headers-4.19.0-9-common/stable 4.19.118-2 all
-linux-headers-4.19.0-9-rt-amd64/stable 4.19.118-2 amd64
+linux-headers-4.19.0-9-all-amd64/stable 4.19.118-2+deb10u1 amd64
+linux-headers-4.19.0-9-all/stable 4.19.118-2+deb10u1 amd64
+linux-headers-4.19.0-9-amd64/stable 4.19.118-2+deb10u1 amd64
+linux-headers-4.19.0-9-cloud-amd64/stable 4.19.118-2+deb10u1 amd64
+linux-headers-4.19.0-9-common-rt/stable 4.19.118-2+deb10u1 all
+linux-headers-4.19.0-9-common/stable 4.19.118-2+deb10u1 all
+linux-headers-4.19.0-9-rt-amd64/stable 4.19.118-2+deb10u1 amd64
 linux-headers-amd64/stable 4.19+105+deb10u4 amd64
 linux-headers-cloud-amd64/stable 4.19+105+deb10u4 amd64
 linux-headers-rt-amd64/stable 4.19+105+deb10u4 amd64
@@ -35701,23 +35701,23 @@ linux-image-4.19.0-8-cloud-amd64/stable 4.19.98-1+deb10u1 amd64
 linux-image-4.19.0-8-rt-amd64-dbg/stable 4.19.98-1+deb10u1 amd64
 linux-image-4.19.0-8-rt-amd64-unsigned/stable 4.19.98-1+deb10u1 amd64
 linux-image-4.19.0-8-rt-amd64/stable 4.19.98-1+deb10u1 amd64
-linux-image-4.19.0-9-amd64-dbg/stable 4.19.118-2 amd64
-linux-image-4.19.0-9-amd64-unsigned/stable 4.19.118-2 amd64
-linux-image-4.19.0-9-amd64/stable,now 4.19.118-2 amd64 [installed,automatic]
-linux-image-4.19.0-9-cloud-amd64-dbg/stable 4.19.118-2 amd64
-linux-image-4.19.0-9-cloud-amd64-unsigned/stable 4.19.118-2 amd64
-linux-image-4.19.0-9-cloud-amd64/stable 4.19.118-2 amd64
-linux-image-4.19.0-9-rt-amd64-dbg/stable 4.19.118-2 amd64
-linux-image-4.19.0-9-rt-amd64-unsigned/stable 4.19.118-2 amd64
-linux-image-4.19.0-9-rt-amd64/stable 4.19.118-2 amd64
+linux-image-4.19.0-9-amd64-dbg/stable 4.19.118-2+deb10u1 amd64
+linux-image-4.19.0-9-amd64-unsigned/stable 4.19.118-2+deb10u1 amd64
+linux-image-4.19.0-9-amd64/stable 4.19.118-2+deb10u1 amd64 [upgradable from: 4.19.118-2]
+linux-image-4.19.0-9-cloud-amd64-dbg/stable 4.19.118-2+deb10u1 amd64
+linux-image-4.19.0-9-cloud-amd64-unsigned/stable 4.19.118-2+deb10u1 amd64
+linux-image-4.19.0-9-cloud-amd64/stable 4.19.118-2+deb10u1 amd64
+linux-image-4.19.0-9-rt-amd64-dbg/stable 4.19.118-2+deb10u1 amd64
+linux-image-4.19.0-9-rt-amd64-unsigned/stable 4.19.118-2+deb10u1 amd64
+linux-image-4.19.0-9-rt-amd64/stable 4.19.118-2+deb10u1 amd64
 linux-image-amd64-dbg/stable 4.19+105+deb10u4 amd64
-linux-image-amd64-signed-template/stable 4.19.118-2 amd64
+linux-image-amd64-signed-template/stable 4.19.118-2+deb10u1 amd64
 linux-image-amd64/stable,now 4.19+105+deb10u4 amd64 [installed]
 linux-image-cloud-amd64-dbg/stable 4.19+105+deb10u4 amd64
 linux-image-cloud-amd64/stable 4.19+105+deb10u4 amd64
 linux-image-rt-amd64-dbg/stable 4.19+105+deb10u4 amd64
 linux-image-rt-amd64/stable 4.19+105+deb10u4 amd64
-linux-kbuild-4.19/stable 4.19.118-2 amd64
+linux-kbuild-4.19/stable 4.19.118-2+deb10u1 amd64
 linux-libc-dev-alpha-cross/stable 4.19.20-1cross1 all
 linux-libc-dev-amd64-cross/stable 4.19.20-1cross1 all
 linux-libc-dev-arm64-cross/stable 4.19.20-1cross1 all
@@ -35747,15 +35747,15 @@ linux-libc-dev-s390x-cross/stable 4.19.20-1cross1 all
 linux-libc-dev-sh4-cross/stable 4.19.20-1cross1 all
 linux-libc-dev-sparc64-cross/stable 4.19.20-1cross1 all
 linux-libc-dev-x32-cross/stable 4.19.20-1cross1 all
-linux-libc-dev/stable 4.19.118-2 amd64
-linux-perf-4.19/stable 4.19.118-2 amd64
+linux-libc-dev/stable 4.19.118-2+deb10u1 amd64
+linux-perf-4.19/stable 4.19.118-2+deb10u1 amd64
 linux-perf/stable 4.19+105+deb10u4 all
 linux-show-player/stable 0.5.1-2 all
-linux-source-4.19/stable 4.19.118-2 all
+linux-source-4.19/stable 4.19.118-2+deb10u1 all
 linux-source/stable 4.19+105+deb10u4 all
 linux-support-4.19.0-6/stable 4.19.67-2+deb10u2 all
 linux-support-4.19.0-8/stable 4.19.98-1+deb10u1 all
-linux-support-4.19.0-9/stable 4.19.118-2 all
+linux-support-4.19.0-9/stable 4.19.118-2+deb10u1 all
 linux-user-chroot-dbg/stable 2013.1-2+b1 amd64
 linux-user-chroot/stable 2013.1-2+b1 amd64
 linuxdoc-tools-info/stable 0.9.73-2 all
@@ -35890,7 +35890,7 @@ locales-all/stable 2.28-10 amd64
 locales/stable,now 2.28-10 all [installed]
 localslackirc/stable 1.2-1 all
 locate/stable 4.6.0+git+20190209-2 amd64
-lockdep/stable 4.19.118-2 all
+lockdep/stable 4.19.118-2+deb10u1 all
 lockdown/stable 0.2 all
 lockfile-progs/stable 0.1.18 amd64
 lockout/stable 0.2.3-5 all
@@ -54954,7 +54954,7 @@ usbauth-notifier/stable 1.0.1+git20190124.b308d5b-1 amd64
 usbauth/stable 1.0.1+git20190123.5004f7d-1 amd64
 usbguard-applet-qt/stable 0.7.4+ds-1+b1 amd64
 usbguard/stable 0.7.4+ds-1+b1 amd64
-usbip/stable 2.0+4.19.118-2 amd64
+usbip/stable 2.0+4.19.118-2+deb10u1 amd64
 usbmuxd/stable 1.1.1~git20181007.f838cf6-1 amd64
 usbprog-gui/stable 0.2.0-2.2+b2 amd64
 usbprog/stable 0.2.0-2.2+b2 amd64
