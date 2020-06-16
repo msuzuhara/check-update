@@ -2418,17 +2418,17 @@ cen64/bionic 0.3+git20180227-1 amd64
 cen64-qt/bionic 20180125-alpha-1 amd64
 cenon.app/bionic 4.0.2-1build3 amd64
 centrifuge/bionic 1.0.3~beta-2 amd64
-ceph/bionic-updates,bionic-security 12.2.12-0ubuntu0.18.04.5 amd64
-ceph-base/bionic-updates,bionic-security 12.2.12-0ubuntu0.18.04.5 amd64
-ceph-common/bionic-updates,bionic-security 12.2.12-0ubuntu0.18.04.5 amd64
+ceph/bionic-updates 12.2.13-0ubuntu0.18.04.2 amd64
+ceph-base/bionic-updates 12.2.13-0ubuntu0.18.04.2 amd64
+ceph-common/bionic-updates 12.2.13-0ubuntu0.18.04.2 amd64
 ceph-deploy/bionic 1.5.38-0ubuntu1 all
-ceph-fuse/bionic-updates,bionic-security 12.2.12-0ubuntu0.18.04.5 amd64
-ceph-mds/bionic-updates,bionic-security 12.2.12-0ubuntu0.18.04.5 amd64
-ceph-mgr/bionic-updates,bionic-security 12.2.12-0ubuntu0.18.04.5 amd64
-ceph-mon/bionic-updates,bionic-security 12.2.12-0ubuntu0.18.04.5 amd64
-ceph-osd/bionic-updates,bionic-security 12.2.12-0ubuntu0.18.04.5 amd64
-ceph-resource-agents/bionic-updates,bionic-security 12.2.12-0ubuntu0.18.04.5 all
-ceph-test/bionic-updates,bionic-security 12.2.12-0ubuntu0.18.04.5 amd64
+ceph-fuse/bionic-updates 12.2.13-0ubuntu0.18.04.2 amd64
+ceph-mds/bionic-updates 12.2.13-0ubuntu0.18.04.2 amd64
+ceph-mgr/bionic-updates 12.2.13-0ubuntu0.18.04.2 amd64
+ceph-mon/bionic-updates 12.2.13-0ubuntu0.18.04.2 amd64
+ceph-osd/bionic-updates 12.2.13-0ubuntu0.18.04.2 amd64
+ceph-resource-agents/bionic-updates 12.2.13-0ubuntu0.18.04.2 all
+ceph-test/bionic-updates 12.2.13-0ubuntu0.18.04.2 amd64
 cereal/bionic 0.24-1 all
 ceres-solver-doc/bionic 1.13.0+dfsg0-2 all
 cernlib/bionic 20061220+dfsg3-4.3ubuntu1 all
@@ -7323,11 +7323,11 @@ fwsnort/bionic 1.6.7-3 all
 fwts/bionic-updates 18.03.00-0ubuntu5 amd64
 fwts-efi-runtime-dkms/bionic-updates 18.03.00-0ubuntu5 amd64
 fwts-frontend/bionic-updates 18.03.00-0ubuntu5 amd64
-fwupd/bionic-updates 1.2.10-1ubuntu2~ubuntu18.04.3 amd64
-fwupd-amd64-signed-template/bionic-updates 1.2.10-1ubuntu2~ubuntu18.04.3 amd64
-fwupd-doc/bionic-updates 1.2.10-1ubuntu2~ubuntu18.04.3 all
-fwupd-signed/bionic-updates 1.10~ubuntu18.04.3+1.2.10-1ubuntu2~ubuntu18.04.3 amd64
-fwupd-tests/bionic-updates 1.2.10-1ubuntu2~ubuntu18.04.3 amd64
+fwupd/bionic-updates,bionic-security 1.2.10-1ubuntu2~ubuntu18.04.5 amd64
+fwupd-amd64-signed-template/bionic-updates,bionic-security 1.2.10-1ubuntu2~ubuntu18.04.5 amd64
+fwupd-doc/bionic-updates,bionic-security 1.2.10-1ubuntu2~ubuntu18.04.5 all
+fwupd-signed/bionic-updates,bionic-security 1.10~ubuntu18.04.4+1.2.10-1ubuntu2~ubuntu18.04.5 amd64
+fwupd-tests/bionic-updates,bionic-security 1.2.10-1ubuntu2~ubuntu18.04.5 amd64
 fwupdate/bionic-updates 12-7~ubuntu18.04.3 amd64
 fwupdate-amd64-signed/bionic-updates 1.19bionic2+12-3bionic2 amd64
 fwupdate-signed/bionic-updates 12-7~ubuntu18.04.3 amd64
@@ -9075,7 +9075,7 @@ gir1.2-fcitx-1.0/bionic 1:4.2.9.6-1 amd64
 gir1.2-flatpak-1.0/bionic-updates 1.0.9-0ubuntu0.1 amd64
 gir1.2-folks-0.6/bionic 0.11.4-1ubuntu1 amd64
 gir1.2-freedesktop/bionic 1.56.1-1 amd64
-gir1.2-fwupd-2.0/bionic-updates 1.2.10-1ubuntu2~ubuntu18.04.3 amd64
+gir1.2-fwupd-2.0/bionic-updates,bionic-security 1.2.10-1ubuntu2~ubuntu18.04.5 amd64
 gir1.2-ganv-1.0/bionic 1.4.2~dfsg0-2 amd64
 gir1.2-gcab-1.0/bionic 1.1-2 amd64
 gir1.2-gck-1/bionic 3.28.0-1 amd64
@@ -9248,7 +9248,7 @@ gir1.2-wnck-1.0/bionic 1:2.30.7-5.1ubuntu1 amd64
 gir1.2-wnck-3.0/bionic 3.24.1-2 amd64
 gir1.2-xapp-1.0/bionic 1.0.4-2fakesync1 amd64
 gir1.2-xkl-1.0/bionic 5.4-3 amd64
-gir1.2-xmlb-1.0/bionic-updates 0.1.8-1~ubuntu18.04.1 amd64
+gir1.2-xmlb-1.0/bionic-updates,bionic-security 0.1.8-1~ubuntu18.04.2 amd64
 gir1.2-zeitgeist-2.0/bionic 1.0-0.1ubuntu1 amd64
 gir1.2-zpj-0.0/bionic 0.0.3-4 amd64
 gis-data/bionic 0.0.14 all
@@ -17948,10 +17948,10 @@ libcegui-mk2-0.8.7/bionic 0.8.7-2 amd64
 libcegui-mk2-0.8.7-dbg/bionic 0.8.7-2 amd64
 libcegui-mk2-dev/bionic 0.8.7-2 amd64
 libcegui-mk2-doc/bionic 0.8.7-2 all
-libcephfs-dev/bionic-updates,bionic-security 12.2.12-0ubuntu0.18.04.5 amd64
-libcephfs-java/bionic-updates,bionic-security 12.2.12-0ubuntu0.18.04.5 all
-libcephfs-jni/bionic-updates,bionic-security 12.2.12-0ubuntu0.18.04.5 amd64
-libcephfs2/bionic-updates,bionic-security 12.2.12-0ubuntu0.18.04.5 amd64
+libcephfs-dev/bionic-updates 12.2.13-0ubuntu0.18.04.2 amd64
+libcephfs-java/bionic-updates 12.2.13-0ubuntu0.18.04.2 all
+libcephfs-jni/bionic-updates 12.2.13-0ubuntu0.18.04.2 amd64
+libcephfs2/bionic-updates 12.2.13-0ubuntu0.18.04.2 amd64
 libcereal-dev/bionic 1.2.1-3 amd64
 libcereal-doc/bionic 1.2.1-3 all
 libceres-dev/bionic 1.13.0+dfsg0-2 amd64
@@ -21051,8 +21051,8 @@ libfwtsacpica1/bionic-updates 18.03.00-0ubuntu5 amd64
 libfwtsiasl1/bionic-updates 18.03.00-0ubuntu5 amd64
 libfwup-dev/bionic-updates 12-3bionic2 amd64
 libfwup1/bionic-updates 12-3bionic2 amd64
-libfwupd-dev/bionic-updates 1.2.10-1ubuntu2~ubuntu18.04.3 amd64
-libfwupd2/bionic-updates 1.2.10-1ubuntu2~ubuntu18.04.3 amd64
+libfwupd-dev/bionic-updates,bionic-security 1.2.10-1ubuntu2~ubuntu18.04.5 amd64
+libfwupd2/bionic-updates,bionic-security 1.2.10-1ubuntu2~ubuntu18.04.5 amd64
 libfxscintilla-dev/bionic 2.11.0-0ubuntu2 amd64
 libfxscintilla19/bionic 2.11.0-0ubuntu2 amd64
 libfxt-dev/bionic 0.3.7-1 amd64
@@ -30939,8 +30939,8 @@ libnetpbm10/bionic 2:10.0-15.3build1 amd64
 libnetpbm10-dev/bionic 2:10.0-15.3build1 amd64
 libnetpbm9/bionic 2:10.0-15.3build1 amd64
 libnetpbm9-dev/bionic 2:10.0-15.3build1 amd64
-libnetplan-dev/bionic-updates 0.99-0ubuntu3~18.04.2 amd64
-libnetplan0/bionic-updates 0.99-0ubuntu3~18.04.2 amd64
+libnetplan-dev/bionic-updates 0.99-0ubuntu3~18.04.3 amd64
+libnetplan0/bionic-updates 0.99-0ubuntu3~18.04.3 amd64
 libnetsds-kannel-perl/bionic 1.300-6 all
 libnetsds-perl/bionic 1.301-3 all
 libnetsds-util-perl/bionic 1.044-4 all
@@ -33628,10 +33628,10 @@ libradare2-common/bionic 2.3.0+dfsg-2 all
 libradare2-dev/bionic 2.3.0+dfsg-2 amd64
 libradcli-dev/bionic 1.2.6-4 amd64
 libradcli4/bionic 1.2.6-4 amd64
-librados-dev/bionic-updates,bionic-security 12.2.12-0ubuntu0.18.04.5 amd64
-librados2/bionic-updates,bionic-security 12.2.12-0ubuntu0.18.04.5 amd64
-libradosstriper-dev/bionic-updates,bionic-security 12.2.12-0ubuntu0.18.04.5 amd64
-libradosstriper1/bionic-updates,bionic-security 12.2.12-0ubuntu0.18.04.5 amd64
+librados-dev/bionic-updates 12.2.13-0ubuntu0.18.04.2 amd64
+librados2/bionic-updates 12.2.13-0ubuntu0.18.04.2 amd64
+libradosstriper-dev/bionic-updates 12.2.13-0ubuntu0.18.04.2 amd64
+libradosstriper1/bionic-updates 12.2.13-0ubuntu0.18.04.2 amd64
 libradsec-dev/bionic 0.0.5-4ubuntu3 amd64
 libradsec0/bionic 0.0.5-4ubuntu3 amd64
 librandom-numbers-dev/bionic 0.3.1-1build3 amd64
@@ -33683,8 +33683,8 @@ libraw1394-doc/bionic 2.1.2-1 all
 libraw1394-tools/bionic 2.1.2-1 amd64
 libraw16/bionic-updates,bionic-security 0.18.8-1ubuntu0.3 amd64
 libraynes-fs-clojure/bionic 1.4.6-1 all
-librbd-dev/bionic-updates,bionic-security 12.2.12-0ubuntu0.18.04.5 amd64
-librbd1/bionic-updates,bionic-security 12.2.12-0ubuntu0.18.04.5 amd64
+librbd-dev/bionic-updates 12.2.13-0ubuntu0.18.04.2 amd64
+librbd1/bionic-updates 12.2.13-0ubuntu0.18.04.2 amd64
 librbio2/bionic 1:5.1.2-2 amd64
 librbl-dev/bionic 2.11.0~alpha-11build1 amd64
 librbl1/bionic 2.11.0~alpha-11build1 amd64
@@ -34082,8 +34082,8 @@ librg-blast-parser-perl/bionic 0.03-5 amd64
 librg-exception-perl/bionic 1.0.3-3 all
 librg-reprof-bundle-perl/bionic 1.0.1-5 all
 librg-utils-perl/bionic 1.0.43-5 all
-librgw-dev/bionic-updates,bionic-security 12.2.12-0ubuntu0.18.04.5 amd64
-librgw2/bionic-updates,bionic-security 12.2.12-0ubuntu0.18.04.5 amd64
+librgw-dev/bionic-updates 12.2.13-0ubuntu0.18.04.2 amd64
+librgw2/bionic-updates 12.2.13-0ubuntu0.18.04.2 amd64
 librgxg-dev/bionic 0.1.1-2 amd64
 librgxg0/bionic 0.1.1-2 amd64
 librgxg0-dbg/bionic 0.1.1-2 amd64
@@ -38581,8 +38581,8 @@ libxmlada-schema4.6.2016/bionic 17.1.2017-5 amd64
 libxmlada-schema7-dev/bionic 17.1.2017-5 amd64
 libxmlada-unicode4.6.2016/bionic 17.1.2017-5 amd64
 libxmlada-unicode7-dev/bionic 17.1.2017-5 amd64
-libxmlb-dev/bionic-updates 0.1.8-1~ubuntu18.04.1 amd64
-libxmlb1/bionic-updates 0.1.8-1~ubuntu18.04.1 amd64
+libxmlb-dev/bionic-updates,bionic-security 0.1.8-1~ubuntu18.04.2 amd64
+libxmlb1/bionic-updates,bionic-security 0.1.8-1~ubuntu18.04.2 amd64
 libxmlbeans-java/bionic-updates,bionic-security 3.0.2-1~18.04 all
 libxmlbeans-maven-plugin-java/bionic 2.3.3-4 all
 libxmlbird-dev/bionic 1.2.9-1 amd64
@@ -46796,7 +46796,7 @@ netpipe-pvm/bionic 3.7.2-7.4build2 amd64
 netpipe-tcp/bionic 3.7.2-7.4build2 amd64
 netpipes/bionic 4.2-8build1 amd64
 netplan/bionic 1.10.1-5build1 amd64
-netplan.io/bionic-updates 0.99-0ubuntu3~18.04.2 amd64 [upgradable from: 0.98-0ubuntu1~18.04.1]
+netplan.io/bionic-updates 0.99-0ubuntu3~18.04.3 amd64 [upgradable from: 0.98-0ubuntu1~18.04.1]
 netplug/bionic 1.2.9.2-3 amd64
 netrek-client-cow/bionic 3.3.1-1 amd64
 netrik/bionic 1.16.1-2build2 amd64
@@ -48367,7 +48367,7 @@ nowebm/bionic 2.11b-11 all
 nowhere/bionic 110.79-4 amd64
 npapi-sdk-dev/bionic 0.27.3~r23-1 all
 npd6/bionic 1.1.0-1 amd64
-nplan/bionic-updates 0.99-0ubuntu3~18.04.2 all [upgradable from: 0.98-0ubuntu1~18.04.1]
+nplan/bionic-updates 0.99-0ubuntu3~18.04.3 all [upgradable from: 0.98-0ubuntu1~18.04.1]
 npm/bionic 3.5.2-0ubuntu4 all
 npm2deb/bionic 0.2.7-6 all
 nq/bionic 0.2.2-2 amd64
@@ -51967,8 +51967,8 @@ python-celery-common/bionic 4.1.0-2ubuntu1 all
 python-celery-doc/bionic 4.1.0-2ubuntu1 all
 python-cement/bionic 2.10.0-1 all
 python-cement-doc/bionic 2.10.0-1 all
-python-ceph/bionic-updates,bionic-security 12.2.12-0ubuntu0.18.04.5 all
-python-cephfs/bionic-updates,bionic-security 12.2.12-0ubuntu0.18.04.5 amd64
+python-ceph/bionic-updates 12.2.13-0ubuntu0.18.04.2 all
+python-cephfs/bionic-updates 12.2.13-0ubuntu0.18.04.2 amd64
 python-cerealizer/bionic 0.8.1-2 all
 python-certbot-apache/bionic 0.23.0-1 all
 python-certbot-apache-doc/bionic 0.23.0-1 all
@@ -54436,7 +54436,7 @@ python-rabbyt/bionic 0.8.1-2 amd64
 python-radicale/bionic 1.1.6-1 all
 python-radio-beam/bionic 0.2-1 all
 python-radix/bionic 0.10.0-2 amd64
-python-rados/bionic-updates,bionic-security 12.2.12-0ubuntu0.18.04.5 amd64
+python-rados/bionic-updates 12.2.13-0ubuntu0.18.04.2 amd64
 python-rainbow/bionic 0.8.7-2 all
 python-rally/bionic 0.9.1-0ubuntu2 all
 python-randomize/bionic 0.14-1 all
@@ -54444,7 +54444,7 @@ python-rarfile/bionic 3.0-1 all
 python-rasterio/bionic 0.36.0-2build5 amd64
 python-raven/bionic 6.3.0-2 all
 python-rawkit/bionic 0.6.0-1 all
-python-rbd/bionic-updates,bionic-security 12.2.12-0ubuntu0.18.04.5 amd64
+python-rbd/bionic-updates 12.2.13-0ubuntu0.18.04.2 amd64
 python-rbtools/bionic 0.7.11-1 all
 python-rcssmin/bionic 1.0.6-1ubuntu3 amd64
 python-rdflib/bionic 4.2.1-2 all
@@ -54517,7 +54517,7 @@ python-rfc3339/bionic 1.0-4 all
 python-rfc3986/bionic 0.3.1-2 all
 python-rfoo/bionic 1.3.0-2 amd64
 python-rgain/bionic 1.3.4-1 all
-python-rgw/bionic-updates,bionic-security 12.2.12-0ubuntu0.18.04.5 amd64
+python-rgw/bionic-updates 12.2.13-0ubuntu0.18.04.2 amd64
 python-rhn/bionic 2.5.72-1 all
 python-ricky/bionic 0.1-1 all
 python-ripe-atlas-cousteau/bionic 1.3-1 all
@@ -55708,8 +55708,8 @@ python3-cdo/bionic 1.3.5-3ubuntu1 amd64
 python3-ceilometerclient/bionic 2.9.0-0ubuntu1 all
 python3-celery/bionic 4.1.0-2ubuntu1 all
 python3-cement/bionic 2.10.0-1 all
-python3-ceph-argparse/bionic-updates,bionic-security 12.2.12-0ubuntu0.18.04.5 amd64
-python3-cephfs/bionic-updates,bionic-security 12.2.12-0ubuntu0.18.04.5 amd64
+python3-ceph-argparse/bionic-updates 12.2.13-0ubuntu0.18.04.2 amd64
+python3-cephfs/bionic-updates 12.2.13-0ubuntu0.18.04.2 amd64
 python3-cerealizer/bionic 0.8.1-2 all
 python3-certbot/bionic-updates 0.27.0-1~ubuntu18.04.1 all
 python3-certbot-apache/bionic 0.23.0-1 all
@@ -57227,14 +57227,14 @@ python3-qwt/bionic 0.5.5-1 all
 python3-radicale/bionic 1.1.6-1 all
 python3-radio-beam/bionic 0.2-1 all
 python3-radix/bionic 0.10.0-2 amd64
-python3-rados/bionic-updates,bionic-security 12.2.12-0ubuntu0.18.04.5 amd64
+python3-rados/bionic-updates 12.2.13-0ubuntu0.18.04.2 amd64
 python3-randomize/bionic 0.14-1 all
 python3-rarfile/bionic 3.0-1 all
 python3-rasterio/bionic 0.36.0-2build5 amd64
 python3-ratelimiter/bionic 1.2.0-1 amd64
 python3-raven/bionic 6.3.0-2 all
 python3-rawkit/bionic 0.6.0-1 all
-python3-rbd/bionic-updates,bionic-security 12.2.12-0ubuntu0.18.04.5 amd64
+python3-rbd/bionic-updates 12.2.13-0ubuntu0.18.04.2 amd64
 python3-rcssmin/bionic 1.0.6-1ubuntu3 amd64
 python3-rdflib/bionic 4.2.1-2 all
 python3-rdflib-jsonld/bionic 0.4.0-3 all
@@ -57286,7 +57286,7 @@ python3-restructuredtext-lint/bionic 0.12.2-2 all
 python3-retrying/bionic 1.3.3-3 all
 python3-rfc3339/bionic 1.0-4 all
 python3-rfc3986/bionic 0.3.1-2 all
-python3-rgw/bionic-updates,bionic-security 12.2.12-0ubuntu0.18.04.5 amd64
+python3-rgw/bionic-updates 12.2.13-0ubuntu0.18.04.2 amd64
 python3-ripe-atlas-cousteau/bionic 1.3-1 all
 python3-ripe-atlas-sagan/bionic 1.1.11-1 all
 python3-rjsmin/bionic 1.0.12+dfsg1-2ubuntu3 amd64
@@ -58952,8 +58952,8 @@ radiotray/bionic 0.7.3-6ubuntu2 all
 radium-compressor/bionic 0.5.1-3build2 amd64
 radiusd-livingston/bionic 2.1-21build1 amd64
 radlib-dev/bionic 2.12.0-5 amd64
-rados-objclass-dev/bionic-updates,bionic-security 12.2.12-0ubuntu0.18.04.5 amd64
-radosgw/bionic-updates,bionic-security 12.2.12-0ubuntu0.18.04.5 amd64
+rados-objclass-dev/bionic-updates 12.2.13-0ubuntu0.18.04.2 amd64
+radosgw/bionic-updates 12.2.13-0ubuntu0.18.04.2 amd64
 radosgw-agent/bionic 1.2.7-0ubuntu1 all
 radsecproxy/bionic 1.6.9-1 amd64
 radvd/bionic 1:2.16-3 amd64
@@ -59023,9 +59023,9 @@ ray/bionic 2.3.1-5 amd64
 ray-doc/bionic 2.3.1-5 all
 ray-extra/bionic 2.3.1-5 all
 razor/bionic 1:2.85-4.2build3 amd64
-rbd-fuse/bionic-updates,bionic-security 12.2.12-0ubuntu0.18.04.5 amd64
-rbd-mirror/bionic-updates,bionic-security 12.2.12-0ubuntu0.18.04.5 amd64
-rbd-nbd/bionic-updates,bionic-security 12.2.12-0ubuntu0.18.04.5 amd64
+rbd-fuse/bionic-updates 12.2.13-0ubuntu0.18.04.2 amd64
+rbd-mirror/bionic-updates 12.2.13-0ubuntu0.18.04.2 amd64
+rbd-nbd/bionic-updates 12.2.13-0ubuntu0.18.04.2 amd64
 rbdoom3bfg/bionic 1.1.0~preview3+dfsg+git20161019-1 amd64
 rbenv/bionic 1.0.0-2 all
 rblcheck/bionic 20020316-10 amd64
