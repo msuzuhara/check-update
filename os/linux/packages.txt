@@ -6882,7 +6882,7 @@ fwsnort/xenial,xenial 1.6.5-1 all
 fwts/xenial-updates 16.03.00-0ubuntu1.3 amd64
 fwts-efi-runtime-dkms/xenial-updates 16.03.00-0ubuntu1.3 amd64
 fwts-frontend/xenial-updates 16.03.00-0ubuntu1.3 amd64
-fwupd/xenial-updates 0.8.3-0ubuntu5 amd64
+fwupd/xenial-updates,xenial-security 0.8.3-0ubuntu5.1 amd64
 fwupdate/xenial-updates 0.5-2ubuntu7 amd64
 fwupdate-amd64-signed/xenial-updates 1.11.3+0.5-2ubuntu7 amd64
 fwupdate-i386-signed/xenial-updates 1.11.3+0.5-2ubuntu7 i386
@@ -17018,8 +17018,8 @@ libdevmapper-event1.02.1/xenial,now 2:1.02.110-1ubuntu10 amd64 [installed]
 libdevmapper1.02.1/xenial,now 2:1.02.110-1ubuntu10 amd64 [installed]
 libdex-java/xenial,xenial 6.0.1+r10-2 all
 libdex-java-doc/xenial,xenial 6.0.1+r10-2 all
-libdfu-dev/xenial-updates 0.8.3-0ubuntu5 amd64
-libdfu1/xenial-updates 0.8.3-0ubuntu5 amd64
+libdfu-dev/xenial-updates,xenial-security 0.8.3-0ubuntu5.1 amd64
+libdfu1/xenial-updates,xenial-security 0.8.3-0ubuntu5.1 amd64
 libdhash-dev/xenial 0.5.0-1 amd64
 libdhash1/xenial 0.5.0-1 amd64
 libdiagnostic-msgs-dev/xenial,xenial 1.12.3-5 all
@@ -18386,8 +18386,8 @@ libfwtsacpica1/xenial-updates 16.03.00-0ubuntu1.3 amd64
 libfwtsiasl1/xenial-updates 16.03.00-0ubuntu1.3 amd64
 libfwup-dev/xenial-updates 0.5-2ubuntu7 amd64
 libfwup0/xenial-updates 0.5-2ubuntu7 amd64
-libfwupd-dev/xenial-updates 0.8.3-0ubuntu5 amd64
-libfwupd1/xenial-updates 0.8.3-0ubuntu5 amd64
+libfwupd-dev/xenial-updates,xenial-security 0.8.3-0ubuntu5.1 amd64
+libfwupd1/xenial-updates,xenial-security 0.8.3-0ubuntu5.1 amd64
 libfxscintilla-dev/xenial 2.11.0-0ubuntu2 amd64
 libfxscintilla19/xenial 2.11.0-0ubuntu2 amd64
 libfxt-dev/xenial 0.3.1-1 amd64
