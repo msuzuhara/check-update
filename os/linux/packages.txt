@@ -2051,13 +2051,13 @@ burner-cdrkit/focal 3.0.7-1ubuntu1 amd64
 burner-common/focal,focal 3.0.7-1ubuntu1 all
 burp/focal 2.2.18-2 amd64
 burrow/focal 1.2.1-1 amd64
-busybox-initramfs/focal,now 1:1.30.1-4ubuntu6 amd64 [installed]
-busybox-initramfs/focal 1:1.30.1-4ubuntu6 i386
-busybox-static/focal,now 1:1.30.1-4ubuntu6 amd64 [installed]
-busybox-static/focal 1:1.30.1-4ubuntu6 i386
-busybox-syslogd/focal,focal 1:1.30.1-4ubuntu6 all
-busybox/focal 1:1.30.1-4ubuntu6 amd64
-busybox/focal 1:1.30.1-4ubuntu6 i386
+busybox-initramfs/focal-updates 1:1.30.1-4ubuntu6.1 amd64 [upgradable from: 1:1.30.1-4ubuntu6]
+busybox-initramfs/focal-updates 1:1.30.1-4ubuntu6.1 i386
+busybox-static/focal-updates 1:1.30.1-4ubuntu6.1 amd64 [upgradable from: 1:1.30.1-4ubuntu6]
+busybox-static/focal-updates 1:1.30.1-4ubuntu6.1 i386
+busybox-syslogd/focal-updates,focal-updates 1:1.30.1-4ubuntu6.1 all
+busybox/focal-updates 1:1.30.1-4ubuntu6.1 amd64
+busybox/focal-updates 1:1.30.1-4ubuntu6.1 i386
 buthead/focal 1.1-5 amd64
 butt/focal 0.1.18-1build1 amd64
 butteraugli/focal 0~20170116-3build1 amd64
@@ -7656,11 +7656,11 @@ fwsnort/focal,focal 1.6.7-3 all
 fwts-efi-runtime-dkms/focal 20.03.00-0ubuntu1 amd64
 fwts-frontend/focal 20.03.00-0ubuntu1 amd64
 fwts/focal 20.03.00-0ubuntu1 amd64
-fwupd-amd64-signed-template/focal 1.3.9-4 amd64
-fwupd-doc/focal,focal 1.3.9-4 all
-fwupd-signed/focal 1.27+1.3.9-4 amd64
-fwupd-tests/focal 1.3.9-4 amd64
-fwupd/focal 1.3.9-4 amd64
+fwupd-amd64-signed-template/focal-updates,focal-security 1.3.9-4ubuntu0.1 amd64
+fwupd-doc/focal-updates,focal-updates,focal-security,focal-security 1.3.9-4ubuntu0.1 all
+fwupd-signed/focal-updates,focal-security 1.27.1ubuntu1+1.3.9-4ubuntu0.1 amd64
+fwupd-tests/focal-updates,focal-security 1.3.9-4ubuntu0.1 amd64
+fwupd/focal-updates,focal-security 1.3.9-4ubuntu0.1 amd64
 fwupdate/focal 12-7 amd64
 fxload/focal 0.0.20081013-1ubuntu2 amd64
 fxt-tools/focal 0.3.9-3 amd64
@@ -9871,8 +9871,8 @@ gir1.2-folks-0.6/focal 0.13.2-1 amd64
 gir1.2-fprint-2.0/focal 1:1.90.1+tod1-0ubuntu4 amd64
 gir1.2-freedesktop/focal 1.64.0-2 amd64
 gir1.2-freedesktop/focal 1.64.0-2 i386
-gir1.2-fwupd-2.0/focal 1.3.9-4 amd64
-gir1.2-fwupdplugin-1.0/focal 1.3.9-4 amd64
+gir1.2-fwupd-2.0/focal-updates,focal-security 1.3.9-4ubuntu0.1 amd64
+gir1.2-fwupdplugin-1.0/focal-updates,focal-security 1.3.9-4ubuntu0.1 amd64
 gir1.2-ganv-1.0/focal 1.4.2~dfsg0-3build1 amd64
 gir1.2-gcab-1.0/focal 1.4-1 amd64
 gir1.2-gcab-1.0/focal 1.4-1 i386
@@ -14493,12 +14493,12 @@ inhomog/focal 0.1.9.2-1 amd64
 init-system-helpers/focal,focal,now 1.57 all [installed]
 init/focal,now 1.57 amd64 [installed]
 init/focal 1.57 i386
-initramfs-tools-bin/focal,now 0.136ubuntu6 amd64 [installed,automatic]
-initramfs-tools-bin/focal 0.136ubuntu6 i386
-initramfs-tools-core/focal,focal,now 0.136ubuntu6 all [installed,automatic]
+initramfs-tools-bin/focal-updates 0.136ubuntu6.1 amd64 [upgradable from: 0.136ubuntu6]
+initramfs-tools-bin/focal-updates 0.136ubuntu6.1 i386
+initramfs-tools-core/focal-updates,focal-updates 0.136ubuntu6.1 all [upgradable from: 0.136ubuntu6]
 initramfs-tools-devices/focal,focal 0.4 all
 initramfs-tools-ubuntu-core/focal 0.7.50 amd64
-initramfs-tools/focal,focal,now 0.136ubuntu6 all [installed]
+initramfs-tools/focal-updates,focal-updates 0.136ubuntu6.1 all [upgradable from: 0.136ubuntu6]
 initz/focal,focal 0.0.11+20030603cvs-17.2 all
 ink-generator/focal,focal 0.4-2 all
 ink/focal 0.5.3-1 amd64
@@ -22970,10 +22970,10 @@ libfwsi1/focal 20181227-1.1 amd64
 libfwts1/focal 20.03.00-0ubuntu1 amd64
 libfwtsacpica1/focal 20.03.00-0ubuntu1 amd64
 libfwtsiasl1/focal 20.03.00-0ubuntu1 amd64
-libfwupd-dev/focal 1.3.9-4 amd64
-libfwupd2/focal 1.3.9-4 amd64
-libfwupdplugin-dev/focal 1.3.9-4 amd64
-libfwupdplugin1/focal 1.3.9-4 amd64
+libfwupd-dev/focal-updates,focal-security 1.3.9-4ubuntu0.1 amd64
+libfwupd2/focal-updates,focal-security 1.3.9-4ubuntu0.1 amd64
+libfwupdplugin-dev/focal-updates,focal-security 1.3.9-4ubuntu0.1 amd64
+libfwupdplugin1/focal-updates,focal-security 1.3.9-4ubuntu0.1 amd64
 libfxscintilla-dev/focal 2.11.0-0ubuntu3 amd64
 libfxscintilla19/focal 2.11.0-0ubuntu3 amd64
 libfxt-dev/focal 0.3.9-3 amd64
@@ -33311,8 +33311,8 @@ libnetpbm9-dev/focal 2:10.0-15.3build1 amd64
 libnetpbm9-dev/focal 2:10.0-15.3build1 i386
 libnetpbm9/focal 2:10.0-15.3build1 amd64
 libnetpbm9/focal 2:10.0-15.3build1 i386
-libnetplan-dev/focal-updates 0.99-0ubuntu3~20.04.1 amd64
-libnetplan0/focal-updates,now 0.99-0ubuntu3~20.04.1 amd64 [installed]
+libnetplan-dev/focal-updates 0.99-0ubuntu3~20.04.2 amd64
+libnetplan0/focal-updates 0.99-0ubuntu3~20.04.2 amd64 [upgradable from: 0.99-0ubuntu3~20.04.1]
 libnetsds-kannel-perl/focal,focal 1.300-6 all
 libnetsds-perl/focal,focal 1.301-3 all
 libnetsds-util-perl/focal,focal 1.045-1 all
@@ -46597,7 +46597,7 @@ netpipe-openmpi/focal 3.7.2-8 amd64
 netpipe-pvm/focal 3.7.2-8 amd64
 netpipe-tcp/focal 3.7.2-8 amd64
 netpipes/focal 4.2-8build1 amd64
-netplan.io/focal-updates,now 0.99-0ubuntu3~20.04.1 amd64 [installed]
+netplan.io/focal-updates 0.99-0ubuntu3~20.04.2 amd64 [upgradable from: 0.99-0ubuntu3~20.04.1]
 netplug/focal 1.2.9.2-3 amd64
 netrek-client-cow/focal 3.3.1-4build1 amd64
 netrik/focal 1.16.1-2build3 amd64
@@ -62849,10 +62849,10 @@ udev/focal-updates 245.4-4ubuntu3.1 i386
 udevil/focal 0.4.4-2 amd64
 udfclient/focal 0.8.9-1 amd64
 udftools/focal 2.2-1 amd64
-udhcpc/focal 1:1.30.1-4ubuntu6 amd64
-udhcpc/focal 1:1.30.1-4ubuntu6 i386
-udhcpd/focal 1:1.30.1-4ubuntu6 amd64
-udhcpd/focal 1:1.30.1-4ubuntu6 i386
+udhcpc/focal-updates 1:1.30.1-4ubuntu6.1 amd64
+udhcpc/focal-updates 1:1.30.1-4ubuntu6.1 i386
+udhcpd/focal-updates 1:1.30.1-4ubuntu6.1 amd64
+udhcpd/focal-updates 1:1.30.1-4ubuntu6.1 i386
 udiskie/focal,focal 2.1.0-1 all
 udisks2-bcache/focal 2.8.4-1ubuntu1 amd64
 udisks2-bcache/focal 2.8.4-1ubuntu1 i386
@@ -64002,9 +64002,9 @@ winwrangler/focal 0.2.4-5build1 amd64
 wipe/focal 0.24-6 amd64
 wire/focal 1.0~rc+git20161223.40.2f3b7aa-2 amd64
 wiredtiger/focal 2.9.3+ds-1ubuntu3 amd64
-wireguard-dkms/focal,focal 1.0.20200413-1 all
-wireguard-tools/focal 1.0.20200319-1ubuntu1 amd64
-wireguard/focal,focal 1.0.20200319-1ubuntu1 all
+wireguard-dkms/focal-updates,focal-updates 1.0.20200506-1~20.04.1 all
+wireguard-tools/focal-updates 1.0.20200513-1~20.04.1 amd64
+wireguard/focal-updates,focal-updates 1.0.20200513-1~20.04.1 all
 wireless-crda/focal 1.16 amd64
 wireless-regdb/focal,focal,now 2018.05.09-0ubuntu1 all [installed,automatic]
 wireless-tools/focal 30~pre9-13ubuntu1 amd64
