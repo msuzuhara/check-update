@@ -3735,17 +3735,17 @@ dbmix/xenial 0.9.8-6.3ubuntu1 amd64
 dbndns/xenial 1:1.05-8ubuntu1 amd64
 dbskkd-cdb/xenial 1:2.00+0.20140502-2 amd64
 dbtoepub/xenial,xenial 0+svn9904-1 all
-dbus/xenial-updates,now 1.10.6-1ubuntu3.5 amd64 [installed]
-dbus-1-dbg/xenial-updates 1.10.6-1ubuntu3.5 amd64
-dbus-1-doc/xenial-updates,xenial-updates 1.10.6-1ubuntu3.5 all
+dbus/xenial-updates,xenial-security 1.10.6-1ubuntu3.6 amd64 [upgradable from: 1.10.6-1ubuntu3.5]
+dbus-1-dbg/xenial-updates,xenial-security 1.10.6-1ubuntu3.6 amd64
+dbus-1-doc/xenial-updates,xenial-updates,xenial-security,xenial-security 1.10.6-1ubuntu3.6 all
 dbus-cpp-bin/xenial 5.0.0+15.10.20151022.1-0ubuntu1 amd64
 dbus-cpp-dev-examples/xenial 5.0.0+15.10.20151022.1-0ubuntu1 amd64
 dbus-java-bin/xenial,xenial 2.8-6 all
 dbus-property-service/xenial,xenial 0.9 all
 dbus-test-runner/xenial 15.04.0+15.10.20151002-0ubuntu1 amd64
-dbus-tests/xenial-updates 1.10.6-1ubuntu3.5 amd64
-dbus-user-session/xenial-updates,xenial-updates 1.10.6-1ubuntu3.5 all
-dbus-x11/xenial-updates 1.10.6-1ubuntu3.5 amd64
+dbus-tests/xenial-updates,xenial-security 1.10.6-1ubuntu3.6 amd64
+dbus-user-session/xenial-updates,xenial-updates,xenial-security,xenial-security 1.10.6-1ubuntu3.6 all
+dbus-x11/xenial-updates,xenial-security 1.10.6-1ubuntu3.6 amd64
 dbview/xenial 1.0.4-1 amd64
 dc/xenial 1.06.95-9build1 amd64
 dc3dd/xenial 7.2.641-3 amd64
@@ -16833,8 +16833,8 @@ libdbix-simple-perl/xenial,xenial 1.32-1 all
 libdbix-xml-rdb-perl/xenial,xenial 0.05-12 all
 libdbix-xmlmessage-perl/xenial,xenial 0.05-10 all
 libdbm-deep-perl/xenial,xenial 2.0013-1 all
-libdbus-1-3/xenial-updates,now 1.10.6-1ubuntu3.5 amd64 [installed,automatic]
-libdbus-1-dev/xenial-updates 1.10.6-1ubuntu3.5 amd64
+libdbus-1-3/xenial-updates,xenial-security 1.10.6-1ubuntu3.6 amd64 [upgradable from: 1.10.6-1ubuntu3.5]
+libdbus-1-dev/xenial-updates,xenial-security 1.10.6-1ubuntu3.6 amd64
 libdbus-c++-1-0v5/xenial 0.9.0-8ubuntu2 amd64
 libdbus-c++-bin/xenial 0.9.0-8ubuntu2 amd64
 libdbus-c++-dbg/xenial 0.9.0-8ubuntu2 amd64
@@ -17733,10 +17733,10 @@ libexempi-dev/xenial-updates,xenial-security 2.2.2-2ubuntu0.1 amd64
 libexempi3/xenial-updates,xenial-security 2.2.2-2ubuntu0.1 amd64
 libexempi3-dbg/xenial-updates,xenial-security 2.2.2-2ubuntu0.1 amd64
 libexene-smlnj/xenial 110.78-2 amd64
-libexif-dev/xenial-updates,xenial-security 0.6.21-2ubuntu0.2 amd64
+libexif-dev/xenial-updates,xenial-security 0.6.21-2ubuntu0.5 amd64
 libexif-gtk-dev/xenial 0.3.5-5 amd64
 libexif-gtk5/xenial 0.3.5-5 amd64
-libexif12/xenial-updates,xenial-security 0.6.21-2ubuntu0.2 amd64
+libexif12/xenial-updates,xenial-security 0.6.21-2ubuntu0.5 amd64
 libexiv2-14/xenial-updates,xenial-security 0.25-2.1ubuntu16.04.6 amd64
 libexiv2-dbg/xenial-updates,xenial-security 0.25-2.1ubuntu16.04.6 amd64
 libexiv2-dev/xenial-updates,xenial-security 0.25-2.1ubuntu16.04.6 amd64
@@ -27243,12 +27243,12 @@ libnss-securepass/xenial 0.4-2 amd64
 libnss-sss/xenial-updates 1.13.4-1ubuntu1.15 amd64
 libnss-winbind/xenial-updates,xenial-security 2:4.3.11+dfsg-0ubuntu0.16.04.27 amd64
 libnss-wrapper/xenial 1.1.2-1 amd64
-libnss3/xenial-updates,xenial-security 2:3.28.4-0ubuntu0.16.04.10 amd64
-libnss3-1d/xenial-updates,xenial-security 2:3.28.4-0ubuntu0.16.04.10 amd64
-libnss3-dbg/xenial-updates,xenial-security 2:3.28.4-0ubuntu0.16.04.10 amd64
-libnss3-dev/xenial-updates,xenial-security 2:3.28.4-0ubuntu0.16.04.10 amd64
-libnss3-nssdb/xenial-updates,xenial-updates,xenial-security,xenial-security 2:3.28.4-0ubuntu0.16.04.10 all
-libnss3-tools/xenial-updates,xenial-security 2:3.28.4-0ubuntu0.16.04.10 amd64
+libnss3/xenial-updates,xenial-security 2:3.28.4-0ubuntu0.16.04.11 amd64
+libnss3-1d/xenial-updates,xenial-security 2:3.28.4-0ubuntu0.16.04.11 amd64
+libnss3-dbg/xenial-updates,xenial-security 2:3.28.4-0ubuntu0.16.04.11 amd64
+libnss3-dev/xenial-updates,xenial-security 2:3.28.4-0ubuntu0.16.04.11 amd64
+libnss3-nssdb/xenial-updates,xenial-updates,xenial-security,xenial-security 2:3.28.4-0ubuntu0.16.04.11 all
+libnss3-tools/xenial-updates,xenial-security 2:3.28.4-0ubuntu0.16.04.11 amd64
 libntdb-dev/xenial 1.0-9 amd64
 libntdb1/xenial 1.0-9 amd64
 libntdb1-dbg/xenial 1.0-9 amd64
@@ -57086,7 +57086,7 @@ ubuntu-keyboard-spanish/xenial 0.99.trunk.phablet2+16.04.20160226.1-0ubuntu1 amd
 ubuntu-keyboard-swedish/xenial 0.99.trunk.phablet2+16.04.20160226.1-0ubuntu1 amd64
 ubuntu-keyboard-tests/xenial 0.99.trunk.phablet2+16.04.20160226.1-0ubuntu1 amd64
 ubuntu-keyboard-ukrainian/xenial 0.99.trunk.phablet2+16.04.20160226.1-0ubuntu1 amd64
-ubuntu-keyring/xenial,xenial,now 2012.05.19 all [installed]
+ubuntu-keyring/xenial-updates,xenial-updates 2012.05.19.1 all [upgradable from: 2012.05.19]
 ubuntu-kylin-docs/xenial,xenial 16.04.1 all
 ubuntu-kylin-software-center/xenial,xenial 1.3.10 all
 ubuntu-kylin-sso-client/xenial,xenial 0.1.2.3 all
