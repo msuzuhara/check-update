@@ -1470,13 +1470,13 @@ biloba/focal 0.9.3-9 amd64
 bin86/focal 0.16.17-3.3 amd64
 binaryen/focal 91-1 amd64
 binclock/focal 1.5-6build1 amd64
-bind9-dnsutils/focal-updates,focal-security 1:9.16.1-0ubuntu2.2 amd64 [upgradable from: 1:9.16.1-0ubuntu2.1]
+bind9-dnsutils/focal-updates,focal-security,now 1:9.16.1-0ubuntu2.2 amd64 [installed]
 bind9-dnsutils/focal-updates,focal-security 1:9.16.1-0ubuntu2.2 i386
 bind9-doc/focal-updates,focal-updates,focal-security,focal-security 1:9.16.1-0ubuntu2.2 all
 bind9-dyndb-ldap/focal 11.2-1build2 amd64
-bind9-host/focal-updates,focal-security 1:9.16.1-0ubuntu2.2 amd64 [upgradable from: 1:9.16.1-0ubuntu2.1]
+bind9-host/focal-updates,focal-security,now 1:9.16.1-0ubuntu2.2 amd64 [installed]
 bind9-host/focal-updates,focal-security 1:9.16.1-0ubuntu2.2 i386
-bind9-libs/focal-updates,focal-security 1:9.16.1-0ubuntu2.2 amd64 [upgradable from: 1:9.16.1-0ubuntu2.1]
+bind9-libs/focal-updates,focal-security,now 1:9.16.1-0ubuntu2.2 amd64 [installed]
 bind9-libs/focal-updates,focal-security 1:9.16.1-0ubuntu2.2 i386
 bind9-utils/focal-updates,focal-security 1:9.16.1-0ubuntu2.2 amd64
 bind9-utils/focal-updates,focal-security 1:9.16.1-0ubuntu2.2 i386
