@@ -3903,7 +3903,7 @@ dblatex-doc/bionic 0.3.10-2 all
 dbmix/bionic 0.9.8-6.3ubuntu2 amd64
 dbskkd-cdb/bionic 1:3.00-1 amd64
 dbtoepub/bionic 0+svn9904-1 all
-dbus/bionic-updates,bionic-security 1.12.2-1ubuntu1.2 amd64 [upgradable from: 1.12.2-1ubuntu1.1]
+dbus/bionic-updates,bionic-security,now 1.12.2-1ubuntu1.2 amd64 [installed,automatic]
 dbus-1-doc/bionic-updates,bionic-security 1.12.2-1ubuntu1.2 all
 dbus-java-bin/bionic 2.8-9 all
 dbus-test-runner/bionic 15.04.0+16.10.20160906-0ubuntu1 amd64
@@ -19354,7 +19354,7 @@ libdbix-simple-perl/bionic 1.37-1 all
 libdbix-xml-rdb-perl/bionic 0.05-12 all
 libdbix-xmlmessage-perl/bionic 0.05-10 all
 libdbm-deep-perl/bionic 2.0014-1 all
-libdbus-1-3/bionic-updates,bionic-security 1.12.2-1ubuntu1.2 amd64 [upgradable from: 1.12.2-1ubuntu1.1]
+libdbus-1-3/bionic-updates,bionic-security,now 1.12.2-1ubuntu1.2 amd64 [installed,automatic]
 libdbus-1-dev/bionic-updates,bionic-security 1.12.2-1ubuntu1.2 amd64
 libdbus-c++-1-0v5/bionic 0.9.0-8.1 amd64
 libdbus-c++-bin/bionic 0.9.0-8.1 amd64
@@ -57685,7 +57685,7 @@ python3-unidiff/bionic 0.5.4-1 all
 python3-unittest2/bionic 1.1.0-6.1 all
 python3-uno/bionic-updates,bionic-security 1:6.0.7-0ubuntu0.18.04.10 amd64
 python3-unpaddedbase64/bionic 1.1.0-3 all
-python3-update-manager/bionic-updates 1:18.04.11.12 all [upgradable from: 1:18.04.11.10]
+python3-update-manager/bionic-updates 1:18.04.11.13 all [upgradable from: 1:18.04.11.10]
 python3-uranium/bionic 3.1.0-1 all
 python3-uritemplate/bionic 0.6-1ubuntu1 all
 python3-uritools/bionic 1.0.2-1 all
@@ -57943,27 +57943,27 @@ qdirstat/bionic 1.4-2 amd64
 qelectrotech/bionic 1:0.5-2 amd64
 qelectrotech-data/bionic 1:0.5-2 all
 qelectrotech-examples/bionic 1:0.5-2 all
-qemu/bionic-updates,bionic-security 1:2.11+dfsg-1ubuntu7.26 amd64
-qemu-block-extra/bionic-updates,bionic-security 1:2.11+dfsg-1ubuntu7.26 amd64
+qemu/bionic-updates 1:2.11+dfsg-1ubuntu7.27 amd64
+qemu-block-extra/bionic-updates 1:2.11+dfsg-1ubuntu7.27 amd64
 qemu-efi/bionic-updates,bionic-security 0~20180205.c0d9813c-2ubuntu0.2 all
 qemu-efi-aarch64/bionic-updates,bionic-security 0~20180205.c0d9813c-2ubuntu0.2 all
 qemu-efi-arm/bionic-updates,bionic-security 0~20180205.c0d9813c-2ubuntu0.2 all
-qemu-guest-agent/bionic-updates,bionic-security 1:2.11+dfsg-1ubuntu7.26 amd64
-qemu-kvm/bionic-updates,bionic-security 1:2.11+dfsg-1ubuntu7.26 amd64
+qemu-guest-agent/bionic-updates 1:2.11+dfsg-1ubuntu7.27 amd64
+qemu-kvm/bionic-updates 1:2.11+dfsg-1ubuntu7.27 amd64
 qemu-slof/bionic 20170724+dfsg-1ubuntu1 all
-qemu-system/bionic-updates,bionic-security 1:2.11+dfsg-1ubuntu7.26 amd64
-qemu-system-arm/bionic-updates,bionic-security 1:2.11+dfsg-1ubuntu7.26 amd64
-qemu-system-common/bionic-updates,bionic-security 1:2.11+dfsg-1ubuntu7.26 amd64
-qemu-system-mips/bionic-updates,bionic-security 1:2.11+dfsg-1ubuntu7.26 amd64
-qemu-system-misc/bionic-updates,bionic-security 1:2.11+dfsg-1ubuntu7.26 amd64
-qemu-system-ppc/bionic-updates,bionic-security 1:2.11+dfsg-1ubuntu7.26 amd64
-qemu-system-s390x/bionic-updates,bionic-security 1:2.11+dfsg-1ubuntu7.26 amd64
-qemu-system-sparc/bionic-updates,bionic-security 1:2.11+dfsg-1ubuntu7.26 amd64
-qemu-system-x86/bionic-updates,bionic-security 1:2.11+dfsg-1ubuntu7.26 amd64
-qemu-user/bionic-updates,bionic-security 1:2.11+dfsg-1ubuntu7.26 amd64
-qemu-user-binfmt/bionic-updates,bionic-security 1:2.11+dfsg-1ubuntu7.26 amd64
-qemu-user-static/bionic-updates,bionic-security 1:2.11+dfsg-1ubuntu7.26 amd64
-qemu-utils/bionic-updates,bionic-security 1:2.11+dfsg-1ubuntu7.26 amd64
+qemu-system/bionic-updates 1:2.11+dfsg-1ubuntu7.27 amd64
+qemu-system-arm/bionic-updates 1:2.11+dfsg-1ubuntu7.27 amd64
+qemu-system-common/bionic-updates 1:2.11+dfsg-1ubuntu7.27 amd64
+qemu-system-mips/bionic-updates 1:2.11+dfsg-1ubuntu7.27 amd64
+qemu-system-misc/bionic-updates 1:2.11+dfsg-1ubuntu7.27 amd64
+qemu-system-ppc/bionic-updates 1:2.11+dfsg-1ubuntu7.27 amd64
+qemu-system-s390x/bionic-updates 1:2.11+dfsg-1ubuntu7.27 amd64
+qemu-system-sparc/bionic-updates 1:2.11+dfsg-1ubuntu7.27 amd64
+qemu-system-x86/bionic-updates 1:2.11+dfsg-1ubuntu7.27 amd64
+qemu-user/bionic-updates 1:2.11+dfsg-1ubuntu7.27 amd64
+qemu-user-binfmt/bionic-updates 1:2.11+dfsg-1ubuntu7.27 amd64
+qemu-user-static/bionic-updates 1:2.11+dfsg-1ubuntu7.27 amd64
+qemu-utils/bionic-updates 1:2.11+dfsg-1ubuntu7.27 amd64
 qemubuilder/bionic 0.86 amd64
 qemuctl/bionic 0.3.1-4build1 amd64
 qevercloud-doc/bionic 3.0.3+ds-3 all
@@ -64300,8 +64300,8 @@ unyaffs/bionic 0.9.6-1build1 amd64
 unzip/bionic 6.0-21ubuntu1 amd64
 uoa-integration-tests/bionic 0.2+15.04.20150413.3-0ubuntu1 all
 update-inetd/bionic 4.44 all
-update-manager/bionic-updates 1:18.04.11.12 all
-update-manager-core/bionic-updates 1:18.04.11.12 all [upgradable from: 1:18.04.11.10]
+update-manager/bionic-updates 1:18.04.11.13 all
+update-manager-core/bionic-updates 1:18.04.11.13 all [upgradable from: 1:18.04.11.10]
 update-motd/bionic 3.6-0ubuntu1 all
 update-notifier/bionic-updates 3.192.1.7 amd64
 update-notifier-common/bionic-updates,now 3.192.1.7 all [installed,automatic]
