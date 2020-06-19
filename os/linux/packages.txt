@@ -43037,7 +43037,7 @@ python-django-celery-results-doc/stable 1.0.4-1 all
 python-django-channels-doc/stable 2.1.7-1 all
 python-django-classy-tags-doc/stable 0.8.0-1 all
 python-django-classy-tags/stable 0.8.0-1 all
-python-django-common/stable,stable 1:1.11.28-1~deb10u1 all
+python-django-common/stable 1:1.11.29-1~deb10u1 all
 python-django-compat/stable 1.0.15-2 all
 python-django-compressor/stable 2.2-4 all
 python-django-contact-form-doc/stable 1.4.2-2 all
@@ -43051,7 +43051,7 @@ python-django-debug-toolbar-doc/stable 1:1.9.1-1 all
 python-django-debug-toolbar/stable 1:1.9.1-1 all
 python-django-dirtyfields-doc/stable 1.3.1-1 all
 python-django-dirtyfields/stable 1.3.1-1 all
-python-django-doc/stable,stable 1:1.11.28-1~deb10u1 all
+python-django-doc/stable 1:1.11.29-1~deb10u1 all
 python-django-downloadview/stable 1.9-1 all
 python-django-environ/stable 0.4.4-1 all
 python-django-etcd-settings-doc/stable 0.1.13+dfsg-2 all
@@ -43136,7 +43136,7 @@ python-django-webpack-loader/stable 0.6.0-1 all
 python-django-websocket-redis/stable 0.4.7-1 all
 python-django-wkhtmltopdf/stable 3.2.0-1 all
 python-django-xmlrpc/stable 0.1.8-1 all
-python-django/stable,stable 1:1.11.28-1~deb10u1 all
+python-django/stable 1:1.11.29-1~deb10u1 all
 python-djangorestframework-doc/stable 3.9.0-1 all
 python-djangorestframework-generators/stable 0.2.8-2 all
 python-djangorestframework-gis/stable 0.14-1 all
@@ -46464,7 +46464,7 @@ python3-django-websocket-redis/stable 0.4.7-1 all
 python3-django-wkhtmltopdf/stable 3.2.0-1 all
 python3-django-x509/stable 0.4.1-1 all
 python3-django-xmlrpc/stable 0.1.8-1 all
-python3-django/stable,stable 1:1.11.28-1~deb10u1 all
+python3-django/stable 1:1.11.29-1~deb10u1 all
 python3-djangorestframework-extensions/stable 0.4.0-1.1 all
 python3-djangorestframework-filters/stable 0.10.2.post0-1 all
 python3-djangorestframework-generators/stable 0.2.8-2 all
