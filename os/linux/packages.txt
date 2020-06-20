@@ -33986,7 +33986,7 @@ mustang/oldstable 3.2.3-1 amd64
 mustang-plug/oldstable 1.2-1+b1 amd64
 mustang-testdata/oldstable 3.2.3-1 all
 mutrace/oldstable 0.2.0-3 amd64
-mutt/oldstable,oldstable 1.7.2-1+deb9u1 amd64
+mutt/oldstable 1.7.2-1+deb9u3 amd64
 mutt-vc-query/oldstable 002-6 amd64
 mutter/oldstable 3.22.3-2 amd64
 mutter-common/oldstable 3.22.3-2 all
