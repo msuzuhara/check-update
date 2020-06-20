@@ -37516,7 +37516,7 @@ mustang-testdata/stable 3.2.3-3 all
 mustang/stable 3.2.3-3 amd64
 mutrace/stable 0.2.0-3 amd64
 mutt-vc-query/stable 004-1 amd64
-mutt/stable 1.10.1-2.1 amd64
+mutt/stable 1.10.1-2.1+deb10u2 amd64
 mutter-common/stable 3.30.2-9~deb10u1 all
 mutter/stable 3.30.2-9~deb10u1 amd64
 muttprint-manual/stable 0.73-8 all
