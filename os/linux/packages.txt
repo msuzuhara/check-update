@@ -37794,7 +37794,7 @@ nemo/stable 3.8.5-1+b1 amd64
 neo4j-client/stable 2.2.0-1+b1 amd64
 neobio/stable 0.0.20030929-4 all
 neofetch/stable 6.0.0-2 all
-neomutt/stable 20180716+dfsg.1-1 amd64
+neomutt/stable 20180716+dfsg.1-1+deb10u1 amd64
 neopi/stable 0.0+git20120821.9ffff8-6 all
 neovim-qt/stable 0.2.12-1 amd64
 neovim-runtime/stable 0.3.4-3 all
