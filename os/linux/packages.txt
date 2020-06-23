@@ -12124,7 +12124,7 @@ kdoctools-dev/xenial 5.18.0-0ubuntu1 amd64
 kdoctools5/xenial 5.18.0-0ubuntu1 amd64
 kdoctools5-dbg/xenial 5.18.0-0ubuntu1 amd64
 kdrill/xenial 6.5deb2-11 amd64
-kdump-tools/xenial-updates 1:1.6.3-2~16.04.2 amd64
+kdump-tools/xenial-updates 1:1.6.3-2~16.04.3 amd64
 kea-admin/xenial 1.0.0-1build1 amd64
 kea-common/xenial 1.0.0-1build1 amd64
 kea-dev/xenial 1.0.0-1build1 amd64
@@ -41071,7 +41071,7 @@ makebootfat/xenial 1.4-5 amd64
 makedepf90/xenial 2.8.8-1 amd64
 makedev/xenial-updates,xenial-updates,now 2.3.1-93ubuntu2~ubuntu16.04.1 all [installed]
 makedic/xenial 6.5deb2-11 amd64
-makedumpfile/xenial-updates 1:1.6.3-2~16.04.2 amd64
+makedumpfile/xenial-updates 1:1.6.3-2~16.04.3 amd64
 makefs/xenial 20100306-6 amd64
 makehrtf/xenial 1:1.16.0-3 amd64
 makehuman/xenial,xenial 1.1.0~git20150707-1 all
@@ -42356,11 +42356,11 @@ mustang-plug/xenial 1.2-1 amd64
 mustang-testdata/xenial,xenial 3.2.2-1 all
 mutextrace/xenial 0.1.4-1 amd64
 mutrace/xenial 0.2.0-2 amd64
-mutt/xenial-updates,xenial-security 1.5.24-1ubuntu0.2 amd64
-mutt-dbg/xenial-updates,xenial-security 1.5.24-1ubuntu0.2 amd64
+mutt/xenial-updates,xenial-security 1.5.24-1ubuntu0.3 amd64
+mutt-dbg/xenial-updates,xenial-security 1.5.24-1ubuntu0.3 amd64
 mutt-kz/xenial 1.5.23.1-6build2 amd64
 mutt-kz-dbg/xenial 1.5.23.1-6build2 amd64
-mutt-patched/xenial-updates,xenial-security 1.5.24-1ubuntu0.2 amd64
+mutt-patched/xenial-updates,xenial-security 1.5.24-1ubuntu0.3 amd64
 mutter/xenial 3.18.3-0ubuntu2 amd64
 mutter-common/xenial,xenial 3.18.3-0ubuntu2 all
 mutter-dbg/xenial 3.18.3-0ubuntu2 amd64
@@ -42862,8 +42862,8 @@ nfdump-sflow/xenial 1.6.12-0.2 amd64
 nfoview/xenial,xenial 1.18-1 all
 nfqueue-bindings-perl/xenial 0.5-1build2 amd64
 nfqueue-bindings-python/xenial 0.5-1build2 amd64
-nfs-common/xenial-updates 1:1.2.8-9ubuntu12.2 amd64
-nfs-kernel-server/xenial-updates 1:1.2.8-9ubuntu12.2 amd64
+nfs-common/xenial-updates,xenial-security 1:1.2.8-9ubuntu12.3 amd64
+nfs-kernel-server/xenial-updates,xenial-security 1:1.2.8-9ubuntu12.3 amd64
 nfs4-acl-tools/xenial 0.3.3-3 amd64
 nfstrace/xenial 0.4.1-1build1 amd64
 nfstrace-doc/xenial,xenial 0.4.1-1build1 all
