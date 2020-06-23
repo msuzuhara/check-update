@@ -3816,10 +3816,10 @@ daemontools/bionic 1:0.76-6.1 amd64
 daemontools-run/bionic 1:0.76-6.1 all
 dafny/bionic 1.9.7-1 all
 dahdi/bionic 1:2.11.1-3ubuntu1 amd64
-dahdi-dkms/bionic-updates 1:2.11.1~dfsg-1ubuntu4.1 all
+dahdi-dkms/bionic-updates 1:2.11.1~dfsg-1ubuntu4.2 all
 dahdi-firmware-nonfree/bionic 2.11.1.0.20170917-1 all
-dahdi-linux/bionic-updates 1:2.11.1~dfsg-1ubuntu4.1 all
-dahdi-source/bionic-updates 1:2.11.1~dfsg-1ubuntu4.1 all
+dahdi-linux/bionic-updates 1:2.11.1~dfsg-1ubuntu4.2 all
+dahdi-source/bionic-updates 1:2.11.1~dfsg-1ubuntu4.2 all
 dailystrips/bionic 1.0.28-11 all
 daisy-player/bionic 11.3.2-1 amd64
 daligner/bionic 1.0+20180108-1 amd64
@@ -13879,7 +13879,7 @@ kdoctools/bionic-updates,bionic-security 4:4.14.38-0ubuntu3.1 amd64
 kdoctools-dev/bionic 5.44.0-0ubuntu1 amd64
 kdoctools5/bionic 5.44.0-0ubuntu1 amd64
 kdrill/bionic 6.5deb2-11build1 amd64
-kdump-tools/bionic-updates 1:1.6.5-1ubuntu1~18.04.4 amd64
+kdump-tools/bionic-updates 1:1.6.5-1ubuntu1~18.04.5 amd64
 kea-admin/bionic 1.1.0-1build2 amd64
 kea-common/bionic 1.1.0-1build2 amd64
 kea-dev/bionic 1.1.0-1build2 amd64
@@ -45190,7 +45190,7 @@ makebootfat/bionic 1.4-5.1 amd64
 makedepf90/bionic 2.8.9-1 amd64
 makedev/bionic 2.3.1-93ubuntu2 all
 makedic/bionic 6.5deb2-11build1 amd64
-makedumpfile/bionic-updates 1:1.6.5-1ubuntu1~18.04.4 amd64
+makedumpfile/bionic-updates 1:1.6.5-1ubuntu1~18.04.5 amd64
 makefs/bionic 20100306-6 amd64
 makehrtf/bionic 1:1.18.2-2 amd64
 makehuman/bionic 1.1.1-1 all
@@ -46455,7 +46455,7 @@ mustang-plug/bionic 1.2-1build1 amd64
 mustang-testdata/bionic 3.2.3-1ubuntu1 all
 mutextrace/bionic 0.1.4-1build1 amd64
 mutrace/bionic 0.2.0-3 amd64
-mutt/bionic-updates,bionic-security 1.9.4-3ubuntu0.1 amd64
+mutt/bionic-updates,bionic-security 1.9.4-3ubuntu0.2 amd64
 mutt-vc-query/bionic 003-3 amd64
 muttdown/bionic 0.2-1 all
 mutter/bionic-updates 3.28.4-0ubuntu18.04.2 amd64
@@ -46928,7 +46928,7 @@ nfdump-sflow/bionic 1.6.16-3 amd64
 nfoview/bionic 1.23-1 all
 nfqueue-bindings-perl/bionic 0.6-1build2 amd64
 nfqueue-bindings-python/bionic 0.6-1build2 amd64
-nfs-common/bionic-updates 1:1.3.4-2.1ubuntu5.2 amd64
+nfs-common/bionic-updates,bionic-security 1:1.3.4-2.1ubuntu5.3 amd64
 nfs-ganesha/bionic 2.6.0-2 amd64
 nfs-ganesha-ceph/bionic 2.6.0-2 amd64
 nfs-ganesha-doc/bionic 2.6.0-2 all
@@ -46940,7 +46940,7 @@ nfs-ganesha-nullfs/bionic 2.6.0-2 amd64
 nfs-ganesha-proxy/bionic 2.6.0-2 amd64
 nfs-ganesha-vfs/bionic 2.6.0-2 amd64
 nfs-ganesha-xfs/bionic 2.6.0-2 amd64
-nfs-kernel-server/bionic-updates 1:1.3.4-2.1ubuntu5.2 amd64
+nfs-kernel-server/bionic-updates,bionic-security 1:1.3.4-2.1ubuntu5.3 amd64
 nfs4-acl-tools/bionic 0.3.3-3 amd64
 nfstrace/bionic 0.4.3.1-3 amd64
 nfstrace-doc/bionic 0.4.3.1-3 all
@@ -66093,9 +66093,9 @@ xsunpinyin/bionic 2.0.3-4build2 amd64
 xsynth-dssi/bionic 0.9.4-3 amd64
 xsysinfo/bionic 1.7-9build1 amd64
 xsystem35/bionic 1.7.3-pre5-6 amd64
-xtables-addons-common/bionic-updates 3.0-0.1ubuntu3 amd64
-xtables-addons-dkms/bionic-updates 3.0-0.1ubuntu3 all
-xtables-addons-source/bionic-updates 3.0-0.1ubuntu3 all
+xtables-addons-common/bionic-updates 3.0-0.1ubuntu4 amd64
+xtables-addons-dkms/bionic-updates 3.0-0.1ubuntu4 all
+xtables-addons-source/bionic-updates 3.0-0.1ubuntu4 all
 xtail/bionic 2.1-6 amd64
 xtalk/bionic 1.3-15.3 all
 xteddy/bionic 2.2-2ubuntu2 amd64
