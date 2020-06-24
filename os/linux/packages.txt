@@ -44687,7 +44687,7 @@ ltsp-server-standalone/bionic 5.5.10-1build1 all
 ltspfs/bionic 1.5-1 amd64
 ltspfsd/bionic 1.5-1 all
 ltspfsd-core/bionic 1.5-1 amd64
-lttng-modules-dkms/bionic-updates 2.10.8-1ubuntu2~18.04.1 all
+lttng-modules-dkms/bionic-updates 2.10.8-1ubuntu2~18.04.2 all
 lttng-tools/bionic 2.10.2-1 amd64
 lttoolbox/bionic 3.3.3~r68466-2 amd64
 lttoolbox-dev/bionic 3.3.3~r68466-2 amd64
