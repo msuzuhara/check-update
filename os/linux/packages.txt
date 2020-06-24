@@ -1,3 +1,6 @@
+CentOS-8 - AppStream                            190 kB/s | 5.8 MB     00:31    
+CentOS-8 - Base                                 349 kB/s | 2.2 MB     00:06    
+CentOS-8 - Extras                               6.4 kB/s | 6.7 kB     00:01    
 Available Packages
 CUnit.i686                                           2.1.3-17.el8                                     AppStream
 CUnit.x86_64                                         2.1.3-17.el8                                     AppStream
@@ -839,7 +842,7 @@ file-libs.i686                                       5.33-13.el8                
 file-roller.x86_64                                   3.28.1-2.el8                                     AppStream
 fio.x86_64                                           3.7-3.el8                                        AppStream
 fipscheck-lib.i686                                   1.5.0-4.el8                                      BaseOS   
-firefox.x86_64                                       68.7.0-2.el8_1                                   AppStream
+firefox.x86_64                                       68.9.0-1.el8_2                                   AppStream
 firewall-applet.noarch                               0.8.0-4.el8                                      AppStream
 firewall-config.noarch                               0.8.0-4.el8                                      AppStream
 flac-libs.i686                                       1.3.2-9.el8                                      AppStream
@@ -1394,14 +1397,15 @@ gnu-free-sans-fonts.noarch                           20120503-18.el8.0.1        
 gnu-free-serif-fonts.noarch                          20120503-18.el8.0.1                              AppStream
 gnuplot.x86_64                                       5.2.4-1.el8                                      AppStream
 gnuplot-common.x86_64                                5.2.4-1.el8                                      AppStream
-gnutls.i686                                          3.6.8-10.el8_2                                   BaseOS   
-gnutls-c++.i686                                      3.6.8-10.el8_2                                   AppStream
-gnutls-c++.x86_64                                    3.6.8-10.el8_2                                   AppStream
-gnutls-dane.i686                                     3.6.8-10.el8_2                                   AppStream
-gnutls-dane.x86_64                                   3.6.8-10.el8_2                                   AppStream
-gnutls-devel.i686                                    3.6.8-10.el8_2                                   AppStream
-gnutls-devel.x86_64                                  3.6.8-10.el8_2                                   AppStream
-gnutls-utils.x86_64                                  3.6.8-10.el8_2                                   AppStream
+gnutls.i686                                          3.6.8-11.el8_2                                   BaseOS   
+gnutls.x86_64                                        3.6.8-11.el8_2                                   BaseOS   
+gnutls-c++.i686                                      3.6.8-11.el8_2                                   AppStream
+gnutls-c++.x86_64                                    3.6.8-11.el8_2                                   AppStream
+gnutls-dane.i686                                     3.6.8-11.el8_2                                   AppStream
+gnutls-dane.x86_64                                   3.6.8-11.el8_2                                   AppStream
+gnutls-devel.i686                                    3.6.8-11.el8_2                                   AppStream
+gnutls-devel.x86_64                                  3.6.8-11.el8_2                                   AppStream
+gnutls-utils.x86_64                                  3.6.8-11.el8_2                                   AppStream
 go-srpm-macros.noarch                                2-16.el8                                         AppStream
 go-toolset.x86_64                                    1.13.4-3.module_el8.2.0+306+4f5ea1ce             AppStream
 gobject-introspection.i686                           1.56.1-1.el8                                     BaseOS   
@@ -1553,20 +1557,20 @@ gpm.x86_64                                           1.20.7-15.el8              
 gpm-devel.i686                                       1.20.7-15.el8                                    AppStream
 gpm-devel.x86_64                                     1.20.7-15.el8                                    AppStream
 gpm-libs.i686                                        1.20.7-15.el8                                    AppStream
-grafana.x86_64                                       6.3.6-1.el8                                      AppStream
-grafana-azure-monitor.x86_64                         6.3.6-1.el8                                      AppStream
-grafana-cloudwatch.x86_64                            6.3.6-1.el8                                      AppStream
-grafana-elasticsearch.x86_64                         6.3.6-1.el8                                      AppStream
-grafana-graphite.x86_64                              6.3.6-1.el8                                      AppStream
-grafana-influxdb.x86_64                              6.3.6-1.el8                                      AppStream
-grafana-loki.x86_64                                  6.3.6-1.el8                                      AppStream
-grafana-mssql.x86_64                                 6.3.6-1.el8                                      AppStream
-grafana-mysql.x86_64                                 6.3.6-1.el8                                      AppStream
-grafana-opentsdb.x86_64                              6.3.6-1.el8                                      AppStream
+grafana.x86_64                                       6.3.6-2.el8_2                                    AppStream
+grafana-azure-monitor.x86_64                         6.3.6-2.el8_2                                    AppStream
+grafana-cloudwatch.x86_64                            6.3.6-2.el8_2                                    AppStream
+grafana-elasticsearch.x86_64                         6.3.6-2.el8_2                                    AppStream
+grafana-graphite.x86_64                              6.3.6-2.el8_2                                    AppStream
+grafana-influxdb.x86_64                              6.3.6-2.el8_2                                    AppStream
+grafana-loki.x86_64                                  6.3.6-2.el8_2                                    AppStream
+grafana-mssql.x86_64                                 6.3.6-2.el8_2                                    AppStream
+grafana-mysql.x86_64                                 6.3.6-2.el8_2                                    AppStream
+grafana-opentsdb.x86_64                              6.3.6-2.el8_2                                    AppStream
 grafana-pcp.noarch                                   1.0.5-3.el8                                      AppStream
-grafana-postgres.x86_64                              6.3.6-1.el8                                      AppStream
-grafana-prometheus.x86_64                            6.3.6-1.el8                                      AppStream
-grafana-stackdriver.x86_64                           6.3.6-1.el8                                      AppStream
+grafana-postgres.x86_64                              6.3.6-2.el8_2                                    AppStream
+grafana-prometheus.x86_64                            6.3.6-2.el8_2                                    AppStream
+grafana-stackdriver.x86_64                           6.3.6-2.el8_2                                    AppStream
 graphite2.i686                                       1.3.10-10.el8                                    AppStream
 graphite2.x86_64                                     1.3.10-10.el8                                    AppStream
 graphite2-devel.i686                                 1.3.10-10.el8                                    AppStream
