@@ -40636,7 +40636,7 @@ ltsp-server-standalone/xenial-updates,xenial-updates 5.5.7-1ubuntu1 all
 ltspfs/xenial 1.4-2 amd64
 ltspfsd/xenial,xenial 1.4-2 all
 ltspfsd-core/xenial 1.4-2 amd64
-lttng-modules-dkms/xenial-updates,xenial-updates 2.8.0-1ubuntu1~16.04.7 all
+lttng-modules-dkms/xenial-updates,xenial-updates 2.8.0-1ubuntu1~16.04.8 all
 lttng-tools/xenial-updates 2.7.1-2ubuntu1 amd64
 lttngtop/xenial 0.3-3build1 amd64
 lttoolbox/xenial 3.3.2~r63423-3 amd64
