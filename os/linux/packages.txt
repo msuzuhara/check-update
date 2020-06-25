@@ -1,6 +1,3 @@
-CentOS-8 - AppStream                            190 kB/s | 5.8 MB     00:31    
-CentOS-8 - Base                                 349 kB/s | 2.2 MB     00:06    
-CentOS-8 - Extras                               6.4 kB/s | 6.7 kB     00:01    
 Available Packages
 CUnit.i686                                           2.1.3-17.el8                                     AppStream
 CUnit.x86_64                                         2.1.3-17.el8                                     AppStream
