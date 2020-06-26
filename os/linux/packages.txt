@@ -4000,7 +4000,7 @@ mgetty.x86_64                              1.1.36-9.el6                  base
 mgetty-sendfax.x86_64                      1.1.36-9.el6                  base   
 mgetty-viewfax.x86_64                      1.1.36-9.el6                  base   
 mgetty-voice.x86_64                        1.1.36-9.el6                  base   
-microcode_ctl.x86_64                       2:1.17-33.26.el6_10           updates
+microcode_ctl.x86_64                       2:1.17-33.29.el6_10           updates
 migrationtools.noarch                      47-7.el6                      base   
 min12xxw.x86_64                            0.0.9-5.1.el6                 base   
 minicom.x86_64                             2.3-8.el6                     base   
