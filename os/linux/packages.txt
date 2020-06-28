@@ -1394,7 +1394,7 @@ gnu-free-sans-fonts.noarch                           20120503-18.el8.0.1        
 gnu-free-serif-fonts.noarch                          20120503-18.el8.0.1                              AppStream
 gnuplot.x86_64                                       5.2.4-1.el8                                      AppStream
 gnuplot-common.x86_64                                5.2.4-1.el8                                      AppStream
-gnutls.i686                                          3.6.8-10.el8_2                                   BaseOS   
+gnutls.i686                                          3.6.8-11.el8_2                                   BaseOS   
 gnutls-c++.i686                                      3.6.8-11.el8_2                                   AppStream
 gnutls-c++.x86_64                                    3.6.8-11.el8_2                                   AppStream
 gnutls-dane.i686                                     3.6.8-11.el8_2                                   AppStream
@@ -3578,6 +3578,7 @@ mesa-vulkan-drivers.i686                             19.3.4-2.el8               
 mesa-vulkan-drivers.x86_64                           19.3.4-2.el8                                     AppStream
 metacity.i686                                        3.28.0-1.el8                                     AppStream
 metacity.x86_64                                      3.28.0-1.el8                                     AppStream
+microcode_ctl.x86_64                                 4:20191115-4.20200609.1.el8_2                    BaseOS   
 microdnf.x86_64                                      3.0.1-8.el8                                      BaseOS   
 minicom.x86_64                                       2.7.1-9.el8                                      BaseOS   
 mksh.x86_64                                          56c-5.el8                                        BaseOS   
