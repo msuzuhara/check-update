@@ -3578,7 +3578,6 @@ mesa-vulkan-drivers.i686                             19.3.4-2.el8               
 mesa-vulkan-drivers.x86_64                           19.3.4-2.el8                                     AppStream
 metacity.i686                                        3.28.0-1.el8                                     AppStream
 metacity.x86_64                                      3.28.0-1.el8                                     AppStream
-microcode_ctl.x86_64                                 4:20191115-4.20200609.1.el8_2                    BaseOS   
 microdnf.x86_64                                      3.0.1-8.el8                                      BaseOS   
 minicom.x86_64                                       2.7.1-9.el8                                      BaseOS   
 mksh.x86_64                                          56c-5.el8                                        BaseOS   
