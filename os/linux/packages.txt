@@ -8529,11 +8529,11 @@ glee-dev/xenial 5.4.0-2 amd64
 glew-utils/xenial 1.13.0-2 amd64
 glfer/xenial 0.4.2-2 amd64
 glhack/xenial 1.2-3 amd64
-glib-networking/xenial-updates 2.48.2-1~ubuntu16.04.1 amd64
-glib-networking-common/xenial-updates,xenial-updates 2.48.2-1~ubuntu16.04.1 all
-glib-networking-dbg/xenial-updates 2.48.2-1~ubuntu16.04.1 amd64
-glib-networking-services/xenial-updates 2.48.2-1~ubuntu16.04.1 amd64
-glib-networking-tests/xenial-updates 2.48.2-1~ubuntu16.04.1 amd64
+glib-networking/xenial-updates,xenial-security 2.48.2-1~ubuntu16.04.2 amd64
+glib-networking-common/xenial-updates,xenial-updates,xenial-security,xenial-security 2.48.2-1~ubuntu16.04.2 all
+glib-networking-dbg/xenial-updates,xenial-security 2.48.2-1~ubuntu16.04.2 amd64
+glib-networking-services/xenial-updates,xenial-security 2.48.2-1~ubuntu16.04.2 amd64
+glib-networking-tests/xenial-updates,xenial-security 2.48.2-1~ubuntu16.04.2 amd64
 glibc-doc/xenial-updates,xenial-updates 2.23-0ubuntu11 all
 glibc-doc-reference/xenial,xenial 2.19-1 all
 glibc-source/xenial-updates,xenial-updates 2.23-0ubuntu11 all
