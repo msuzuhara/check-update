@@ -2952,7 +2952,7 @@ corosync-qdevice/oldstable,oldstable 2.4.2-3+deb9u1 amd64
 corosync-qnetd/oldstable,oldstable 2.4.2-3+deb9u1 amd64
 cortado/oldstable 0.6.0-3 all
 cortina/oldstable 1.1.1-1 amd64
-coturn/oldstable,oldstable 4.5.0.5-1+deb9u1 amd64
+coturn/oldstable 4.5.0.5-1+deb9u2 amd64
 couchapp/oldstable 1.0.2+dfsg1-1 all
 courier-authdaemon/oldstable 0.66.4-9 amd64
 courier-authlib/oldstable 0.66.4-9 amd64
