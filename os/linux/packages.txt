@@ -34610,8 +34610,8 @@ libsearchclient0v5/bionic 0.7.8-2.2 amd64
 libsearpc-dbg/bionic 3.0.8-1 amd64
 libsearpc-dev/bionic 3.0.8-1 amd64
 libsearpc1/bionic 3.0.8-1 amd64
-libseccomp-dev/bionic-updates,bionic-security 2.4.1-0ubuntu0.18.04.2 amd64
-libseccomp2/bionic-updates,bionic-security,now 2.4.1-0ubuntu0.18.04.2 amd64 [installed,automatic]
+libseccomp-dev/bionic-updates,bionic-security 2.4.3-1ubuntu3.18.04.2 amd64
+libseccomp2/bionic-updates,bionic-security 2.4.3-1ubuntu3.18.04.2 amd64 [upgradable from: 2.4.1-0ubuntu0.18.04.2]
 libsecp256k1-0/bionic 0.1~20170810-1 amd64
 libsecp256k1-dev/bionic 0.1~20170810-1 amd64
 libsecret-1-0/bionic 0.18.6-1 amd64
@@ -45324,7 +45324,7 @@ maildrop/bionic 2.9.3-1build1 amd64
 mailfilter/bionic 0.8.6-3 amd64
 mailfront/bionic 2.12-0.1 amd64
 mailgraph/bionic 1.14-15 all
-mailman/bionic-updates,bionic-security 1:2.1.26-1ubuntu0.2 amd64
+mailman/bionic-updates,bionic-security 1:2.1.26-1ubuntu0.3 amd64
 mailman-api/bionic 0.2.9-2 all
 mailman3/bionic 3.1.1-9 all
 mailman3-doc/bionic 3.1.1-9 all
@@ -61287,7 +61287,7 @@ searx/bionic 0.14.0+dfsg1-2 all
 seascope/bionic 0.8-3 all
 seaview/bionic 1:4.6.4-1 amd64
 sec/bionic 2.7.12-1 all
-seccomp/bionic-updates,bionic-security 2.4.1-0ubuntu0.18.04.2 amd64
+seccomp/bionic-updates,bionic-security 2.4.3-1ubuntu3.18.04.2 amd64
 seccure/bionic 0.5-1build1 amd64
 secilc/bionic 2.7-1 amd64
 secilc-doc/bionic 2.7-1 all
