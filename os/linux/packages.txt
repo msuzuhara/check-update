@@ -3033,7 +3033,7 @@ corosync-qdevice/stable 3.0.0-4+deb10u1 amd64
 corosync-qnetd/stable 3.0.0-4+deb10u1 amd64
 corosync/stable 3.0.1-2+deb10u1 amd64
 cortado/stable 0.6.0-4 all
-coturn/stable 4.5.1.1-1.1 amd64
+coturn/stable 4.5.1.1-1.1+deb10u1 amd64
 courier-authdaemon/stable 0.69.0-2 amd64
 courier-authlib-dev/stable 0.69.0-2 amd64
 courier-authlib-ldap/stable 0.69.0-2 amd64
