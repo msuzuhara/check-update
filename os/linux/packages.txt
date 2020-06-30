@@ -14493,12 +14493,12 @@ inhomog/focal 0.1.9.2-1 amd64
 init-system-helpers/focal,focal,now 1.57 all [installed]
 init/focal,now 1.57 amd64 [installed]
 init/focal 1.57 i386
-initramfs-tools-bin/focal-updates,now 0.136ubuntu6.1 amd64 [installed,automatic]
-initramfs-tools-bin/focal-updates 0.136ubuntu6.1 i386
-initramfs-tools-core/focal-updates,focal-updates,now 0.136ubuntu6.1 all [installed,automatic]
+initramfs-tools-bin/focal-updates 0.136ubuntu6.2 amd64 [upgradable from: 0.136ubuntu6.1]
+initramfs-tools-bin/focal-updates 0.136ubuntu6.2 i386
+initramfs-tools-core/focal-updates,focal-updates 0.136ubuntu6.2 all [upgradable from: 0.136ubuntu6.1]
 initramfs-tools-devices/focal,focal 0.4 all
 initramfs-tools-ubuntu-core/focal 0.7.50 amd64
-initramfs-tools/focal-updates,focal-updates,now 0.136ubuntu6.1 all [installed]
+initramfs-tools/focal-updates,focal-updates 0.136ubuntu6.2 all [upgradable from: 0.136ubuntu6.1]
 initz/focal,focal 0.0.11+20030603cvs-17.2 all
 ink-generator/focal,focal 0.4-2 all
 ink/focal 0.5.3-1 amd64
@@ -38832,10 +38832,10 @@ libsearch-queryparser-perl/focal,focal 0.94-1 all
 libsearch-xapian-perl/focal 1.2.25.2-1build2 amd64
 libsearpc-dev/focal 3.2.0-3 amd64
 libsearpc1/focal 3.2.0-3 amd64
-libseccomp-dev/focal 2.4.3-1ubuntu1 amd64
-libseccomp-dev/focal 2.4.3-1ubuntu1 i386
-libseccomp2/focal,now 2.4.3-1ubuntu1 amd64 [installed]
-libseccomp2/focal 2.4.3-1ubuntu1 i386
+libseccomp-dev/focal-updates,focal-security 2.4.3-1ubuntu3.20.04.2 amd64
+libseccomp-dev/focal-updates,focal-security 2.4.3-1ubuntu3.20.04.2 i386
+libseccomp2/focal-updates,focal-security 2.4.3-1ubuntu3.20.04.2 amd64 [upgradable from: 2.4.3-1ubuntu1]
+libseccomp2/focal-updates,focal-security 2.4.3-1ubuntu3.20.04.2 i386
 libsecp256k1-0/focal 0.1~20170810-2 amd64
 libsecp256k1-dev/focal 0.1~20170810-2 amd64
 libsecret-1-0/focal-updates 0.20.3-0ubuntu1 amd64
@@ -55519,8 +55519,8 @@ python3-seamicroclient/focal,focal 0.4.0+2016.05.20.git.40ee44c664-3ubuntu1 all
 python3-searchlightclient/focal,focal 1.6.0-2 all
 python3-searpc/focal,focal 3.2.0-3 all
 python3-searx/focal,focal 0.16.0+dfsg1-2 all
-python3-seccomp/focal 2.4.3-1ubuntu1 amd64
-python3-seccomp/focal 2.4.3-1ubuntu1 i386
+python3-seccomp/focal-updates,focal-security 2.4.3-1ubuntu3.20.04.2 amd64
+python3-seccomp/focal-updates,focal-security 2.4.3-1ubuntu3.20.04.2 i386
 python3-secretstorage/focal,focal 2.3.1-2ubuntu1 all
 python3-securesystemslib/focal,focal 0.11.3-2 all
 python3-segyio/focal 1.8.3-1build2 amd64
@@ -60090,8 +60090,8 @@ searchmonkey/focal 0.8.3-1build1 amd64
 searx/focal,focal 0.16.0+dfsg1-2 all
 seaview/focal 1:4.7-1build2 amd64
 sec/focal,focal 2.8.2-1 all
-seccomp/focal 2.4.3-1ubuntu1 amd64
-seccomp/focal 2.4.3-1ubuntu1 i386
+seccomp/focal-updates,focal-security 2.4.3-1ubuntu3.20.04.2 amd64
+seccomp/focal-updates,focal-security 2.4.3-1ubuntu3.20.04.2 i386
 seccure/focal 0.5-2 amd64
 secilc-doc/focal,focal 3.0-1build1 all
 secilc/focal 3.0-1build1 amd64
