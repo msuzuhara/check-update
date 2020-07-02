@@ -2804,7 +2804,6 @@ libnfnetlink.i686                                    1.0.1-13.el8               
 libnfsidmap.i686                                     1:2.3.3-31.el8                                   BaseOS   
 libnftnl.i686                                        1.1.5-4.el8                                      BaseOS   
 libnghttp2.i686                                      1.33.0-3.el8_2.1                                 BaseOS   
-libnghttp2.x86_64                                    1.33.0-3.el8_2.1                                 BaseOS   
 libnice.i686                                         0.1.14-7.20180504git34d6044.el8                  AppStream
 libnice.x86_64                                       0.1.14-7.20180504git34d6044.el8                  AppStream
 libnice-gstreamer1.i686                              0.1.14-7.20180504git34d6044.el8                  AppStream
