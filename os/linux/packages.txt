@@ -4277,9 +4277,9 @@ docbook/stable 4.5-6 all
 docdiff/stable 0.5.0+git20160313-1 all
 dochelp/stable 0.1.7 amd64
 docker-compose/stable 1.21.0-3 all
-docker-doc/stable,stable 18.09.1+dfsg1-7.1+deb10u1 all
+docker-doc/stable 18.09.1+dfsg1-7.1+deb10u2 all
 docker-registry/stable 2.6.2~ds1-2+b21 amd64
-docker.io/stable,stable 18.09.1+dfsg1-7.1+deb10u1 amd64
+docker.io/stable 18.09.1+dfsg1-7.1+deb10u2 amd64
 docker2aci/stable 0.17.2+dfsg-2+b10 amd64
 docker/stable 1.5-2 all
 doclava-aosp/stable 6.0.1+r55-1 all
@@ -9180,7 +9180,7 @@ golang-dbus-dev/stable 4.1.0-1 all
 golang-dns-dev/stable 1.0.4+ds-1 all
 golang-doc/stable 2:1.11~1 all
 golang-docker-credential-helpers/stable 0.6.1-2 amd64
-golang-docker-dev/stable,stable 18.09.1+dfsg1-7.1+deb10u1 all
+golang-docker-dev/stable 18.09.1+dfsg1-7.1+deb10u2 all
 golang-easyjson/stable 0.0~git20161103.0.159cdb8-1.1 amd64
 golang-ed25519-dev/stable 0~20140907.d2b94fd-4 all
 golang-etcd-server-dev/stable 3.2.26+dfsg-3 all
@@ -9376,7 +9376,7 @@ golang-github-dnaeon-go-vcr-dev/stable 0.0~git20180814.aafff18-2 all
 golang-github-dnephin-cobra-dev/stable 1.5.1+git20170113.0.0e9ca70-3 all
 golang-github-docker-distribution-dev/stable 2.6.2~ds1-2 all
 golang-github-docker-docker-credential-helpers-dev/stable 0.6.1-2 all
-golang-github-docker-docker-dev/stable,stable 18.09.1+dfsg1-7.1+deb10u1 all
+golang-github-docker-docker-dev/stable 18.09.1+dfsg1-7.1+deb10u2 all
 golang-github-docker-engine-api-dev/stable 0.4.0-4 all
 golang-github-docker-go-connections-dev/stable 0.3.0-3 all
 golang-github-docker-go-dev/stable 0.0~git20160303.0.d30aec9-3 all
@@ -55233,7 +55233,7 @@ vim-scripts/stable 20180807 all
 vim-snipmate/stable 0.87-3 all
 vim-snippets/stable 1.0.0-4 all
 vim-syntastic/stable 3.9.0-1 all
-vim-syntax-docker/stable,stable 18.09.1+dfsg1-7.1+deb10u1 all
+vim-syntax-docker/stable 18.09.1+dfsg1-7.1+deb10u2 all
 vim-syntax-gtk/stable 20110314-1 all
 vim-tabular/stable 1.0-3 all
 vim-tiny/stable,now 2:8.1.0875-5 amd64 [installed]
