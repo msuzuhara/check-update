@@ -909,7 +909,7 @@ fuse3.x86_64                                         3.2.1-12.el8               
 fuse3-devel.i686                                     3.2.1-12.el8                                     BaseOS   
 fuse3-devel.x86_64                                   3.2.1-12.el8                                     BaseOS   
 fuse3-libs.i686                                      3.2.1-12.el8                                     BaseOS   
-fwupd.x86_64                                         1.1.4-6.el8                                      BaseOS   
+fwupd.x86_64                                         1.1.4-6.el8.0.1                                  BaseOS   
 fwupdate.x86_64                                      11-3.el8                                         BaseOS   
 fwupdate-efi.x86_64                                  11-3.el8                                         BaseOS   
 fwupdate-libs.x86_64                                 11-3.el8                                         BaseOS   
