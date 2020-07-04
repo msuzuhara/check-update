@@ -27273,7 +27273,7 @@ libgnutls-openssl27/focal-updates 3.6.13-2ubuntu1.2 amd64
 libgnutls-openssl27/focal-updates 3.6.13-2ubuntu1.2 i386
 libgnutls28-dev/focal-updates 3.6.13-2ubuntu1.2 amd64
 libgnutls28-dev/focal-updates 3.6.13-2ubuntu1.2 i386
-libgnutls30/focal-updates 3.6.13-2ubuntu1.2 amd64 [upgradable from: 3.6.13-2ubuntu1.1]
+libgnutls30/focal-updates,now 3.6.13-2ubuntu1.2 amd64 [installed]
 libgnutls30/focal-updates 3.6.13-2ubuntu1.2 i386
 libgnutlsxx28/focal-updates 3.6.13-2ubuntu1.2 amd64
 libgnutlsxx28/focal-updates 3.6.13-2ubuntu1.2 i386
@@ -44518,7 +44518,7 @@ loggerhead-doc/focal,focal 1.19~bzr494-1 all
 loggerhead/focal,focal 1.19~bzr494-1 all
 logidee-tools/focal,focal 1.2.18 all
 login-duo/focal 1.11.3-1 amd64
-login/focal-updates 1:4.8.1-1ubuntu5.20.04 amd64 [upgradable from: 1:4.8.1-1ubuntu5]
+login/focal-updates,now 1:4.8.1-1ubuntu5.20.04 amd64 [installed]
 login/focal-updates 1:4.8.1-1ubuntu5.20.04 i386
 logisim/focal,focal 2.7.1~dfsg-2 all
 logitech-applet/focal 0.4~test1-0ubuntu3 amd64
@@ -49741,7 +49741,7 @@ pass/focal,focal 1.7.3-2 all
 passage/focal 4+dfsg1-3build1 amd64
 passenger-doc/focal,focal 5.0.30-1.1ubuntu3 all
 passenger/focal 5.0.30-1.1ubuntu3 amd64
-passwd/focal-updates 1:4.8.1-1ubuntu5.20.04 amd64 [upgradable from: 1:4.8.1-1ubuntu5]
+passwd/focal-updates,now 1:4.8.1-1ubuntu5.20.04 amd64 [installed]
 passwd/focal-updates 1:4.8.1-1ubuntu5.20.04 i386
 passwdqc/focal 1.3.0-1build1 amd64
 password-gorilla/focal,focal 1.6.0~git20180203.228bbbb-1 all
