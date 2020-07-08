@@ -1142,9 +1142,9 @@ autodock-test/focal,focal 4.2.6-7build1 all
 autodock-vina/focal 1.1.2-5build3 amd64
 autodock/focal 4.2.6-7build1 amd64
 autofdo/focal 0.19-2build1 amd64
-autofs-hesiod/focal 5.1.6-2 amd64
-autofs-ldap/focal 5.1.6-2 amd64
-autofs/focal 5.1.6-2 amd64
+autofs-hesiod/focal-updates 5.1.6-2ubuntu0.1 amd64
+autofs-ldap/focal-updates 5.1.6-2ubuntu0.1 amd64
+autofs/focal-updates 5.1.6-2ubuntu0.1 amd64
 autogen-doc/focal,focal 1:5.18.16-3 all
 autogen/focal 1:5.18.16-3 amd64
 autogen/focal 1:5.18.16-3 i386
@@ -2624,11 +2624,11 @@ cim-schema/focal,focal 2.48.0-0ubuntu1 all
 cimg-dev/focal,focal 2.4.5+dfsg-1 all
 cimg-doc/focal,focal 2.4.5+dfsg-1 all
 cimg-examples/focal,focal 2.4.5+dfsg-1 all
-cinder-api/focal-updates,focal-updates 2:16.0.0-0ubuntu0.20.04.1 all
-cinder-backup/focal-updates,focal-updates 2:16.0.0-0ubuntu0.20.04.1 all
-cinder-common/focal-updates,focal-updates 2:16.0.0-0ubuntu0.20.04.1 all
-cinder-scheduler/focal-updates,focal-updates 2:16.0.0-0ubuntu0.20.04.1 all
-cinder-volume/focal-updates,focal-updates 2:16.0.0-0ubuntu0.20.04.1 all
+cinder-api/focal-updates,focal-updates,focal-security,focal-security 2:16.1.0-0ubuntu1 all
+cinder-backup/focal-updates,focal-updates,focal-security,focal-security 2:16.1.0-0ubuntu1 all
+cinder-common/focal-updates,focal-updates,focal-security,focal-security 2:16.1.0-0ubuntu1 all
+cinder-scheduler/focal-updates,focal-updates,focal-security,focal-security 2:16.1.0-0ubuntu1 all
+cinder-volume/focal-updates,focal-updates,focal-security,focal-security 2:16.1.0-0ubuntu1 all
 cinnamon-common/focal,focal 4.4.8-4 all
 cinnamon-control-center-data/focal,focal 4.4.0-2 all
 cinnamon-control-center-goa/focal 4.4.0-2 amd64
@@ -9913,7 +9913,7 @@ gir1.2-gmime-3.0/focal 3.2.7-1 amd64
 gir1.2-gnomeautoar-0.1/focal 0.2.3-2 amd64
 gir1.2-gnomeautoargtk-0.1/focal 0.2.3-2 amd64
 gir1.2-gnomebluetooth-1.0/focal 3.34.1-1 amd64
-gir1.2-gnomedesktop-3.0/focal-updates 3.36.2-0ubuntu2 amd64
+gir1.2-gnomedesktop-3.0/focal-updates 3.36.3.1-0ubuntu1 amd64
 gir1.2-gnumeric/focal 1.12.46-1ubuntu2 amd64
 gir1.2-goa-1.0/focal 3.36.0-1ubuntu1 amd64
 gir1.2-goa-1.0/focal 3.36.0-1ubuntu1 i386
@@ -10610,8 +10610,8 @@ gnome-2048/focal 3.36.0-1 amd64
 gnome-accessibility-profiles/focal,focal 0.1.11-0ubuntu4 all
 gnome-accessibility-themes/focal,focal 3.28-1ubuntu1 all
 gnome-api-docs/focal,focal 1:3.30+2 all
-gnome-applets-data/focal,focal 3.36.2-1 all
-gnome-applets/focal 3.36.2-1 amd64
+gnome-applets-data/focal-updates,focal-updates 3.36.4-0ubuntu1 all
+gnome-applets/focal-updates 3.36.4-0ubuntu1 amd64
 gnome-audio/focal,focal 2.22.2-1 all
 gnome-backgrounds/focal,focal 3.36.0-1 all
 gnome-bluetooth/focal 3.34.1-1 amd64
@@ -10621,7 +10621,7 @@ gnome-brave-icon-theme/focal,focal 5.5.1-2ubuntu2 all
 gnome-breakout/focal 0.5.3-7 amd64
 gnome-builder/focal 3.36.0-3 amd64
 gnome-calculator/focal 1:3.36.0-1ubuntu1 amd64
-gnome-calendar/focal 3.36.1-1 amd64
+gnome-calendar/focal-updates 3.36.2-0ubuntu1 amd64
 gnome-cards-data/focal,focal 1:3.22.9-1 all
 gnome-characters/focal 3.34.0-1 amd64
 gnome-chess/focal 1:3.36.0-1 amd64
@@ -10637,7 +10637,7 @@ gnome-control-center-faces/focal-updates,focal-updates 1:3.36.2-0ubuntu1 all
 gnome-control-center/focal-updates 1:3.36.2-0ubuntu1 amd64
 gnome-core/focal 1:3.30+2 amd64
 gnome-desktop-testing/focal 2018.1-3 amd64
-gnome-desktop3-data/focal-updates,focal-updates 3.36.2-0ubuntu2 all
+gnome-desktop3-data/focal-updates,focal-updates 3.36.3.1-0ubuntu1 all
 gnome-devel-docs/focal,focal 3.32.1-1 all
 gnome-devel/focal,focal 1:3.30+2 all
 gnome-dictionary/focal 3.26.1-6 amd64
@@ -26758,20 +26758,20 @@ libglfw3/focal 3.3.2-1 amd64
 libglib-object-introspection-perl/focal 0.048-2build1 amd64
 libglib-perl/focal 3:1.329.2-1 amd64
 libglib-perl/focal 3:1.329.2-1 i386
-libglib2.0-0/focal,now 2.64.2-1~fakesync1 amd64 [installed]
-libglib2.0-0/focal 2.64.2-1~fakesync1 i386
-libglib2.0-bin/focal 2.64.2-1~fakesync1 amd64
-libglib2.0-bin/focal 2.64.2-1~fakesync1 i386
+libglib2.0-0/focal-updates 2.64.3-1~ubuntu20.04.1 amd64 [upgradable from: 2.64.2-1~fakesync1]
+libglib2.0-0/focal-updates 2.64.3-1~ubuntu20.04.1 i386
+libglib2.0-bin/focal-updates 2.64.3-1~ubuntu20.04.1 amd64
+libglib2.0-bin/focal-updates 2.64.3-1~ubuntu20.04.1 i386
 libglib2.0-cil-dev/focal 2.12.40-3 amd64
 libglib2.0-cil/focal 2.12.40-3 amd64
-libglib2.0-data/focal,focal,now 2.64.2-1~fakesync1 all [installed]
-libglib2.0-dev-bin/focal 2.64.2-1~fakesync1 amd64
-libglib2.0-dev-bin/focal 2.64.2-1~fakesync1 i386
-libglib2.0-dev/focal 2.64.2-1~fakesync1 amd64
-libglib2.0-dev/focal 2.64.2-1~fakesync1 i386
-libglib2.0-doc/focal,focal 2.64.2-1~fakesync1 all
-libglib2.0-tests/focal 2.64.2-1~fakesync1 amd64
-libglib2.0-tests/focal 2.64.2-1~fakesync1 i386
+libglib2.0-data/focal-updates,focal-updates 2.64.3-1~ubuntu20.04.1 all [upgradable from: 2.64.2-1~fakesync1]
+libglib2.0-dev-bin/focal-updates 2.64.3-1~ubuntu20.04.1 amd64
+libglib2.0-dev-bin/focal-updates 2.64.3-1~ubuntu20.04.1 i386
+libglib2.0-dev/focal-updates 2.64.3-1~ubuntu20.04.1 amd64
+libglib2.0-dev/focal-updates 2.64.3-1~ubuntu20.04.1 i386
+libglib2.0-doc/focal-updates,focal-updates 2.64.3-1~ubuntu20.04.1 all
+libglib2.0-tests/focal-updates 2.64.3-1~ubuntu20.04.1 amd64
+libglib2.0-tests/focal-updates 2.64.3-1~ubuntu20.04.1 i386
 libglib3.0-cil-dev/focal 2.99.3-4 amd64
 libglib3.0-cil/focal 2.99.3-4 amd64
 libglibd-2.0-0/focal 2.1.0-1build2 amd64
@@ -27199,8 +27199,8 @@ libgnome-autoar-gtk-0-0/focal 0.2.3-2 amd64
 libgnome-autoar-gtk-0-dev/focal 0.2.3-2 amd64
 libgnome-bluetooth-dev/focal 3.34.1-1 amd64
 libgnome-bluetooth13/focal 3.34.1-1 amd64
-libgnome-desktop-3-19/focal-updates 3.36.2-0ubuntu2 amd64
-libgnome-desktop-3-dev/focal-updates 3.36.2-0ubuntu2 amd64
+libgnome-desktop-3-19/focal-updates 3.36.3.1-0ubuntu1 amd64
+libgnome-desktop-3-dev/focal-updates 3.36.3.1-0ubuntu1 amd64
 libgnome-games-support-1-3/focal 1.6.1-1 amd64
 libgnome-games-support-1-dev/focal 1.6.1-1 amd64
 libgnome-games-support-common/focal,focal 1.6.1-1 all
@@ -27565,14 +27565,14 @@ libgphobos76-s390x-cross/focal,focal 9.3.0-10ubuntu1cross2 all
 libgphobos76-x32-cross/focal,focal 9.3.0-10ubuntu1cross1 all
 libgphobos76/focal 9.3.0-10ubuntu2 amd64
 libgphobos76/focal 9.3.0-10ubuntu2 i386
-libgphoto2-6/focal 2.5.24-1 amd64
-libgphoto2-6/focal 2.5.24-1 i386
-libgphoto2-dev-doc/focal,focal 2.5.24-1 all
-libgphoto2-dev/focal 2.5.24-1 amd64
-libgphoto2-dev/focal 2.5.24-1 i386
-libgphoto2-l10n/focal,focal 2.5.24-1 all
-libgphoto2-port12/focal 2.5.24-1 amd64
-libgphoto2-port12/focal 2.5.24-1 i386
+libgphoto2-6/focal-updates 2.5.25-0ubuntu0.1 amd64
+libgphoto2-6/focal-updates 2.5.25-0ubuntu0.1 i386
+libgphoto2-dev-doc/focal-updates,focal-updates 2.5.25-0ubuntu0.1 all
+libgphoto2-dev/focal-updates 2.5.25-0ubuntu0.1 amd64
+libgphoto2-dev/focal-updates 2.5.25-0ubuntu0.1 i386
+libgphoto2-l10n/focal-updates,focal-updates 2.5.25-0ubuntu0.1 all
+libgphoto2-port12/focal-updates 2.5.25-0ubuntu0.1 amd64
+libgphoto2-port12/focal-updates 2.5.25-0ubuntu0.1 i386
 libgpiod-dev/focal 1.4.1-4 amd64
 libgpiod-doc/focal,focal 1.4.1-4 all
 libgpiod2/focal 1.4.1-4 amd64
@@ -43639,20 +43639,20 @@ linux-azure-cloud-tools-5.4.0-1010/focal 5.4.0-1010.10 amd64
 linux-azure-cloud-tools-5.4.0-1012/focal-updates,focal-security 5.4.0-1012.12 amd64
 linux-azure-cloud-tools-5.4.0-1016/focal-updates,focal-security 5.4.0-1016.16 amd64
 linux-azure-cloud-tools-5.4.0-1019/focal-updates,focal-security 5.4.0-1019.19 amd64
-linux-azure-cloud-tools-5.4.0-1020/focal-updates 5.4.0-1020.20 amd64
+linux-azure-cloud-tools-5.4.0-1020/focal-updates,focal-security 5.4.0-1020.20 amd64
 linux-azure-headers-5.4.0-1010/focal,focal 5.4.0-1010.10 all
 linux-azure-headers-5.4.0-1012/focal-updates,focal-updates,focal-security,focal-security 5.4.0-1012.12 all
 linux-azure-headers-5.4.0-1016/focal-updates,focal-updates,focal-security,focal-security 5.4.0-1016.16 all
 linux-azure-headers-5.4.0-1019/focal-updates,focal-updates,focal-security,focal-security 5.4.0-1019.19 all
-linux-azure-headers-5.4.0-1020/focal-updates,focal-updates 5.4.0-1020.20 all
+linux-azure-headers-5.4.0-1020/focal-updates,focal-updates,focal-security,focal-security 5.4.0-1020.20 all
 linux-azure-tools-5.4.0-1010/focal 5.4.0-1010.10 amd64
 linux-azure-tools-5.4.0-1012/focal-updates,focal-security 5.4.0-1012.12 amd64
 linux-azure-tools-5.4.0-1016/focal-updates,focal-security 5.4.0-1016.16 amd64
 linux-azure-tools-5.4.0-1019/focal-updates,focal-security 5.4.0-1019.19 amd64
-linux-azure-tools-5.4.0-1020/focal-updates 5.4.0-1020.20 amd64
-linux-azure/focal-updates 5.4.0.1020.19 amd64
+linux-azure-tools-5.4.0-1020/focal-updates,focal-security 5.4.0-1020.20 amd64
+linux-azure/focal-updates,focal-security 5.4.0.1020.19 amd64
 linux-base-sgx/focal-updates,focal-updates,focal-security,focal-security 4.5ubuntu3.1 all
-linux-base/focal-updates,focal-updates,focal-security,focal-security 4.5ubuntu3.1 all [upgradable from: 4.5ubuntu3]
+linux-base/focal-updates,focal-updates,focal-security,focal-security,now 4.5ubuntu3.1 all [installed,automatic]
 linux-buildinfo-5.4.0-1009-aws/focal 5.4.0-1009.9 amd64
 linux-buildinfo-5.4.0-1009-gcp/focal 5.4.0-1009.9 amd64
 linux-buildinfo-5.4.0-1009-kvm/focal 5.4.0-1009.9 amd64
@@ -43676,7 +43676,7 @@ linux-buildinfo-5.4.0-1018-oracle/focal-updates,focal-security 5.4.0-1018.18 amd
 linux-buildinfo-5.4.0-1019-azure/focal-updates,focal-security 5.4.0-1019.19 amd64
 linux-buildinfo-5.4.0-1019-gcp/focal-updates,focal-security 5.4.0-1019.19 amd64
 linux-buildinfo-5.4.0-1019-oracle/focal-updates,focal-security 5.4.0-1019.19 amd64
-linux-buildinfo-5.4.0-1020-azure/focal-updates 5.4.0-1020.20 amd64
+linux-buildinfo-5.4.0-1020-azure/focal-updates,focal-security 5.4.0-1020.20 amd64
 linux-buildinfo-5.4.0-26-generic/focal 5.4.0-26.30 amd64
 linux-buildinfo-5.4.0-26-lowlatency/focal 5.4.0-26.30 amd64
 linux-buildinfo-5.4.0-28-generic/focal-updates,focal-security 5.4.0-28.32 amd64
@@ -43704,7 +43704,7 @@ linux-cloud-tools-5.4.0-1010-azure/focal 5.4.0-1010.10 amd64
 linux-cloud-tools-5.4.0-1012-azure/focal-updates,focal-security 5.4.0-1012.12 amd64
 linux-cloud-tools-5.4.0-1016-azure/focal-updates,focal-security 5.4.0-1016.16 amd64
 linux-cloud-tools-5.4.0-1019-azure/focal-updates,focal-security 5.4.0-1019.19 amd64
-linux-cloud-tools-5.4.0-1020-azure/focal-updates 5.4.0-1020.20 amd64
+linux-cloud-tools-5.4.0-1020-azure/focal-updates,focal-security 5.4.0-1020.20 amd64
 linux-cloud-tools-5.4.0-26-generic/focal 5.4.0-26.30 amd64
 linux-cloud-tools-5.4.0-26-lowlatency/focal 5.4.0-26.30 amd64
 linux-cloud-tools-5.4.0-26/focal 5.4.0-26.30 amd64
@@ -43729,7 +43729,7 @@ linux-cloud-tools-5.4.0-39/focal-updates,focal-security 5.4.0-39.43 amd64
 linux-cloud-tools-5.4.0-40-generic/focal-updates,focal-security 5.4.0-40.44 amd64
 linux-cloud-tools-5.4.0-40-lowlatency/focal-updates,focal-security 5.4.0-40.44 amd64
 linux-cloud-tools-5.4.0-40/focal-updates,focal-security 5.4.0-40.44 amd64
-linux-cloud-tools-azure/focal-updates 5.4.0.1020.19 amd64
+linux-cloud-tools-azure/focal-updates,focal-security 5.4.0.1020.19 amd64
 linux-cloud-tools-common/focal-updates,focal-updates,focal-security,focal-security 5.4.0-40.44 all
 linux-cloud-tools-generic-hwe-18.04-edge/focal-updates,focal-security 5.4.0.40.43 amd64
 linux-cloud-tools-generic-hwe-18.04/focal-updates,focal-security 5.4.0.40.43 amd64
@@ -43785,7 +43785,7 @@ linux-headers-5.4.0-1018-oracle/focal-updates,focal-security 5.4.0-1018.18 amd64
 linux-headers-5.4.0-1019-azure/focal-updates,focal-security 5.4.0-1019.19 amd64
 linux-headers-5.4.0-1019-gcp/focal-updates,focal-security 5.4.0-1019.19 amd64
 linux-headers-5.4.0-1019-oracle/focal-updates,focal-security 5.4.0-1019.19 amd64
-linux-headers-5.4.0-1020-azure/focal-updates 5.4.0-1020.20 amd64
+linux-headers-5.4.0-1020-azure/focal-updates,focal-security 5.4.0-1020.20 amd64
 linux-headers-5.4.0-26-generic/focal,now 5.4.0-26.30 amd64 [installed,auto-removable]
 linux-headers-5.4.0-26-lowlatency/focal 5.4.0-26.30 amd64
 linux-headers-5.4.0-26/focal,focal,now 5.4.0-26.30 all [installed,auto-removable]
@@ -43818,7 +43818,7 @@ linux-headers-5.6.0-1013-oem/focal-updates,focal-security 5.6.0-1013.13 amd64
 linux-headers-5.6.0-1017-oem/focal-updates,focal-security 5.6.0-1017.17 amd64
 linux-headers-5.6.0-1018-oem/focal-updates,focal-security 5.6.0-1018.18 amd64
 linux-headers-aws/focal-updates,focal-security 5.4.0.1018.19 amd64
-linux-headers-azure/focal-updates 5.4.0.1020.19 amd64
+linux-headers-azure/focal-updates,focal-security 5.4.0.1020.19 amd64
 linux-headers-gcp/focal-updates,focal-security 5.4.0.1019.17 amd64
 linux-headers-generic-hwe-18.04-edge/focal-updates,focal-security 5.4.0.40.43 amd64
 linux-headers-generic-hwe-18.04/focal-updates,focal-security 5.4.0.40.43 amd64
@@ -43861,7 +43861,7 @@ linux-image-5.4.0-1018-oracle/focal-updates,focal-security 5.4.0-1018.18 amd64
 linux-image-5.4.0-1019-azure/focal-updates,focal-security 5.4.0-1019.19 amd64
 linux-image-5.4.0-1019-gcp/focal-updates,focal-security 5.4.0-1019.19 amd64
 linux-image-5.4.0-1019-oracle/focal-updates,focal-security 5.4.0-1019.19 amd64
-linux-image-5.4.0-1020-azure/focal-updates 5.4.0-1020.20 amd64
+linux-image-5.4.0-1020-azure/focal-updates,focal-security 5.4.0-1020.20 amd64
 linux-image-5.4.0-26-generic/focal,now 5.4.0-26.30 amd64 [installed,auto-removable]
 linux-image-5.4.0-26-lowlatency/focal 5.4.0-26.30 amd64
 linux-image-5.4.0-28-generic/focal-updates,focal-security,now 5.4.0-28.32 amd64 [installed,auto-removable]
@@ -43886,7 +43886,7 @@ linux-image-5.6.0-1013-oem/focal-updates,focal-security 5.6.0-1013.13 amd64
 linux-image-5.6.0-1017-oem/focal-updates,focal-security 5.6.0-1017.17 amd64
 linux-image-5.6.0-1018-oem/focal-updates,focal-security 5.6.0-1018.18 amd64
 linux-image-aws/focal-updates,focal-security 5.4.0.1018.19 amd64
-linux-image-azure/focal-updates 5.4.0.1020.19 amd64
+linux-image-azure/focal-updates,focal-security 5.4.0.1020.19 amd64
 linux-image-extra-virtual-hwe-18.04-edge/focal-updates,focal-security 5.4.0.40.43 amd64
 linux-image-extra-virtual-hwe-18.04/focal-updates,focal-security 5.4.0.40.43 amd64
 linux-image-extra-virtual-hwe-20.04/focal-updates,focal-security 5.4.0.40.43 amd64
@@ -43921,7 +43921,7 @@ linux-image-unsigned-5.4.0-1018-oracle/focal-updates,focal-security 5.4.0-1018.1
 linux-image-unsigned-5.4.0-1019-azure/focal-updates,focal-security 5.4.0-1019.19 amd64
 linux-image-unsigned-5.4.0-1019-gcp/focal-updates,focal-security 5.4.0-1019.19 amd64
 linux-image-unsigned-5.4.0-1019-oracle/focal-updates,focal-security 5.4.0-1019.19 amd64
-linux-image-unsigned-5.4.0-1020-azure/focal-updates 5.4.0-1020.20 amd64
+linux-image-unsigned-5.4.0-1020-azure/focal-updates,focal-security 5.4.0-1020.20 amd64
 linux-image-unsigned-5.4.0-26-generic/focal 5.4.0-26.30 amd64
 linux-image-unsigned-5.4.0-26-lowlatency/focal 5.4.0-26.30 amd64
 linux-image-unsigned-5.4.0-28-generic/focal-updates,focal-security 5.4.0-28.32 amd64
@@ -44015,7 +44015,7 @@ linux-modules-5.4.0-1018-oracle/focal-updates,focal-security 5.4.0-1018.18 amd64
 linux-modules-5.4.0-1019-azure/focal-updates,focal-security 5.4.0-1019.19 amd64
 linux-modules-5.4.0-1019-gcp/focal-updates,focal-security 5.4.0-1019.19 amd64
 linux-modules-5.4.0-1019-oracle/focal-updates,focal-security 5.4.0-1019.19 amd64
-linux-modules-5.4.0-1020-azure/focal-updates 5.4.0-1020.20 amd64
+linux-modules-5.4.0-1020-azure/focal-updates,focal-security 5.4.0-1020.20 amd64
 linux-modules-5.4.0-26-generic/focal,now 5.4.0-26.30 amd64 [installed,auto-removable]
 linux-modules-5.4.0-26-lowlatency/focal 5.4.0-26.30 amd64
 linux-modules-5.4.0-28-generic/focal-updates,focal-security,now 5.4.0-28.32 amd64 [installed,auto-removable]
@@ -44058,7 +44058,7 @@ linux-modules-extra-5.4.0-1018-oracle/focal-updates,focal-security 5.4.0-1018.18
 linux-modules-extra-5.4.0-1019-azure/focal-updates,focal-security 5.4.0-1019.19 amd64
 linux-modules-extra-5.4.0-1019-gcp/focal-updates,focal-security 5.4.0-1019.19 amd64
 linux-modules-extra-5.4.0-1019-oracle/focal-updates,focal-security 5.4.0-1019.19 amd64
-linux-modules-extra-5.4.0-1020-azure/focal-updates 5.4.0-1020.20 amd64
+linux-modules-extra-5.4.0-1020-azure/focal-updates,focal-security 5.4.0-1020.20 amd64
 linux-modules-extra-5.4.0-26-generic/focal,now 5.4.0-26.30 amd64 [installed,auto-removable]
 linux-modules-extra-5.4.0-28-generic/focal-updates,focal-security,now 5.4.0-28.32 amd64 [installed,auto-removable]
 linux-modules-extra-5.4.0-29-generic/focal-updates,focal-security,now 5.4.0-29.33 amd64 [installed,auto-removable]
@@ -44068,7 +44068,7 @@ linux-modules-extra-5.4.0-37-generic/focal-updates,focal-security,now 5.4.0-37.4
 linux-modules-extra-5.4.0-39-generic/focal-updates,focal-security,now 5.4.0-39.43 amd64 [installed,automatic]
 linux-modules-extra-5.4.0-40-generic/focal-updates,focal-security,now 5.4.0-40.44 amd64 [installed,automatic]
 linux-modules-extra-aws/focal-updates,focal-security 5.4.0.1018.19 amd64
-linux-modules-extra-azure/focal-updates 5.4.0.1020.19 amd64
+linux-modules-extra-azure/focal-updates,focal-security 5.4.0.1020.19 amd64
 linux-modules-extra-gcp/focal-updates,focal-security 5.4.0.1019.17 amd64
 linux-modules-extra-gke/focal-updates,focal-security 5.4.0.1019.17 amd64
 linux-modules-nvidia-390-5.4.0-1009-aws/focal 5.4.0-1009.9 amd64
@@ -44090,7 +44090,7 @@ linux-modules-nvidia-390-5.4.0-1018-oracle/focal-updates,focal-security 5.4.0-10
 linux-modules-nvidia-390-5.4.0-1019-azure/focal-updates,focal-security 5.4.0-1019.19 amd64
 linux-modules-nvidia-390-5.4.0-1019-gcp/focal-updates,focal-security 5.4.0-1019.19 amd64
 linux-modules-nvidia-390-5.4.0-1019-oracle/focal-updates,focal-security 5.4.0-1019.19 amd64
-linux-modules-nvidia-390-5.4.0-1020-azure/focal-updates 5.4.0-1020.20 amd64
+linux-modules-nvidia-390-5.4.0-1020-azure/focal-updates,focal-security 5.4.0-1020.20 amd64
 linux-modules-nvidia-390-5.4.0-26-generic/focal 5.4.0-26.30+2 amd64
 linux-modules-nvidia-390-5.4.0-26-lowlatency/focal 5.4.0-26.30+2 amd64
 linux-modules-nvidia-390-5.4.0-28-generic/focal-updates,focal-security 5.4.0-28.32 amd64
@@ -44108,7 +44108,7 @@ linux-modules-nvidia-390-5.4.0-39-lowlatency/focal-updates,focal-security 5.4.0-
 linux-modules-nvidia-390-5.4.0-40-generic/focal-updates,focal-security 5.4.0-40.44 amd64
 linux-modules-nvidia-390-5.4.0-40-lowlatency/focal-updates,focal-security 5.4.0-40.44 amd64
 linux-modules-nvidia-390-aws/focal-updates,focal-security 5.4.0-1018.18 amd64
-linux-modules-nvidia-390-azure/focal-updates 5.4.0-1020.20 amd64
+linux-modules-nvidia-390-azure/focal-updates,focal-security 5.4.0-1020.20 amd64
 linux-modules-nvidia-390-gcp/focal-updates,focal-security 5.4.0-1019.19 amd64
 linux-modules-nvidia-390-generic-hwe-20.04/focal-updates,focal-security 5.4.0-40.44 amd64
 linux-modules-nvidia-390-generic/focal-updates,focal-security 5.4.0-40.44 amd64
@@ -44120,7 +44120,7 @@ linux-modules-nvidia-390-oracle/focal-updates,focal-security 5.4.0-1019.19 amd64
 linux-modules-nvidia-418-oem-osp1/focal-updates,focal-security 5.4.0-40.44 amd64
 linux-modules-nvidia-418-oem/focal-updates,focal-security 5.4.0-40.44 amd64
 linux-modules-nvidia-430-aws/focal-updates,focal-security 5.4.0-1018.18 amd64
-linux-modules-nvidia-430-azure/focal-updates 5.4.0-1020.20 amd64
+linux-modules-nvidia-430-azure/focal-updates,focal-security 5.4.0-1020.20 amd64
 linux-modules-nvidia-430-gcp/focal-updates,focal-security 5.4.0-1019.19 amd64
 linux-modules-nvidia-430-generic/focal-updates,focal-security 5.4.0-40.44 amd64
 linux-modules-nvidia-430-lowlatency/focal-updates,focal-security 5.4.0-40.44 amd64
@@ -44140,7 +44140,7 @@ linux-modules-nvidia-435-5.4.0-1018-oracle/focal-updates,focal-security 5.4.0-10
 linux-modules-nvidia-435-5.4.0-1019-azure/focal-updates,focal-security 5.4.0-1019.19 amd64
 linux-modules-nvidia-435-5.4.0-1019-gcp/focal-updates,focal-security 5.4.0-1019.19 amd64
 linux-modules-nvidia-435-5.4.0-1019-oracle/focal-updates,focal-security 5.4.0-1019.19 amd64
-linux-modules-nvidia-435-5.4.0-1020-azure/focal-updates 5.4.0-1020.20 amd64
+linux-modules-nvidia-435-5.4.0-1020-azure/focal-updates,focal-security 5.4.0-1020.20 amd64
 linux-modules-nvidia-435-5.4.0-29-generic/focal-updates,focal-security 5.4.0-29.33 amd64
 linux-modules-nvidia-435-5.4.0-29-lowlatency/focal-updates,focal-security 5.4.0-29.33 amd64
 linux-modules-nvidia-435-5.4.0-31-generic/focal-updates,focal-security 5.4.0-31.35 amd64
@@ -44154,7 +44154,7 @@ linux-modules-nvidia-435-5.4.0-39-lowlatency/focal-updates,focal-security 5.4.0-
 linux-modules-nvidia-435-5.4.0-40-generic/focal-updates,focal-security 5.4.0-40.44 amd64
 linux-modules-nvidia-435-5.4.0-40-lowlatency/focal-updates,focal-security 5.4.0-40.44 amd64
 linux-modules-nvidia-435-aws/focal-updates,focal-security 5.4.0-1018.18 amd64
-linux-modules-nvidia-435-azure/focal-updates 5.4.0-1020.20 amd64
+linux-modules-nvidia-435-azure/focal-updates,focal-security 5.4.0-1020.20 amd64
 linux-modules-nvidia-435-gcp/focal-updates,focal-security 5.4.0-1019.19 amd64
 linux-modules-nvidia-435-generic-hwe-20.04/focal-updates,focal-security 5.4.0-40.44 amd64
 linux-modules-nvidia-435-generic/focal-updates,focal-security 5.4.0-40.44 amd64
@@ -44180,7 +44180,7 @@ linux-modules-nvidia-440-5.4.0-1018-oracle/focal-updates,focal-security 5.4.0-10
 linux-modules-nvidia-440-5.4.0-1019-azure/focal-updates,focal-security 5.4.0-1019.19 amd64
 linux-modules-nvidia-440-5.4.0-1019-gcp/focal-updates,focal-security 5.4.0-1019.19 amd64
 linux-modules-nvidia-440-5.4.0-1019-oracle/focal-updates,focal-security 5.4.0-1019.19 amd64
-linux-modules-nvidia-440-5.4.0-1020-azure/focal-updates 5.4.0-1020.20 amd64
+linux-modules-nvidia-440-5.4.0-1020-azure/focal-updates,focal-security 5.4.0-1020.20 amd64
 linux-modules-nvidia-440-5.4.0-26-generic/focal 5.4.0-26.30+2 amd64
 linux-modules-nvidia-440-5.4.0-26-lowlatency/focal 5.4.0-26.30+2 amd64
 linux-modules-nvidia-440-5.4.0-28-generic/focal-updates,focal-security 5.4.0-28.32 amd64
@@ -44205,7 +44205,7 @@ linux-modules-nvidia-440-5.6.0-1013-oem/focal-updates,focal-security 5.6.0-1013.
 linux-modules-nvidia-440-5.6.0-1017-oem/focal-updates,focal-security 5.6.0-1017.17 amd64
 linux-modules-nvidia-440-5.6.0-1018-oem/focal-updates,focal-security 5.6.0-1018.18 amd64
 linux-modules-nvidia-440-aws/focal-updates,focal-security 5.4.0-1018.18 amd64
-linux-modules-nvidia-440-azure/focal-updates 5.4.0-1020.20 amd64
+linux-modules-nvidia-440-azure/focal-updates,focal-security 5.4.0-1020.20 amd64
 linux-modules-nvidia-440-gcp/focal-updates,focal-security 5.4.0-1019.19 amd64
 linux-modules-nvidia-440-generic-hwe-20.04/focal-updates,focal-security 5.4.0-40.44 amd64
 linux-modules-nvidia-440-generic/focal-updates,focal-security 5.4.0-40.44 amd64
@@ -44276,7 +44276,7 @@ linux-tools-5.4.0-1018-oracle/focal-updates,focal-security 5.4.0-1018.18 amd64
 linux-tools-5.4.0-1019-azure/focal-updates,focal-security 5.4.0-1019.19 amd64
 linux-tools-5.4.0-1019-gcp/focal-updates,focal-security 5.4.0-1019.19 amd64
 linux-tools-5.4.0-1019-oracle/focal-updates,focal-security 5.4.0-1019.19 amd64
-linux-tools-5.4.0-1020-azure/focal-updates 5.4.0-1020.20 amd64
+linux-tools-5.4.0-1020-azure/focal-updates,focal-security 5.4.0-1020.20 amd64
 linux-tools-5.4.0-26-generic/focal 5.4.0-26.30 amd64
 linux-tools-5.4.0-26-lowlatency/focal 5.4.0-26.30 amd64
 linux-tools-5.4.0-26/focal 5.4.0-26.30 amd64
@@ -44309,7 +44309,7 @@ linux-tools-5.6.0-1013-oem/focal-updates,focal-security 5.6.0-1013.13 amd64
 linux-tools-5.6.0-1017-oem/focal-updates,focal-security 5.6.0-1017.17 amd64
 linux-tools-5.6.0-1018-oem/focal-updates,focal-security 5.6.0-1018.18 amd64
 linux-tools-aws/focal-updates,focal-security 5.4.0.1018.19 amd64
-linux-tools-azure/focal-updates 5.4.0.1020.19 amd64
+linux-tools-azure/focal-updates,focal-security 5.4.0.1020.19 amd64
 linux-tools-common/focal-updates,focal-updates,focal-security,focal-security 5.4.0-40.44 all
 linux-tools-gcp/focal-updates,focal-security 5.4.0.1019.17 amd64
 linux-tools-generic-hwe-18.04-edge/focal-updates,focal-security 5.4.0.40.43 amd64
@@ -49463,7 +49463,7 @@ orthanc-webviewer/focal 2.5-2ubuntu4 amd64
 orthanc-wsi/focal 0.6-2ubuntu5 amd64
 orthanc/focal 1.5.8+dfsg-2ubuntu6 amd64
 orville-write/focal 2.55-3build1 amd64
-os-brick-common/focal,focal 3.0.1-0ubuntu1 all
+os-brick-common/focal-updates,focal-updates,focal-security,focal-security 3.0.1-0ubuntu1.2 all
 os-prober/focal,now 1.74ubuntu2 amd64 [installed,automatic]
 os8/focal,focal 2.1-7 all
 osc-plugins-dput/focal,focal 20200202+git31b4d60-1 all
@@ -51115,19 +51115,19 @@ post-el/focal,focal 1:2.6-2 all
 postal/focal 0.75build1 amd64
 poster/focal 1:20050907-1.1 amd64
 posterazor/focal 1.5.1-2build2 amd64
-postfix-cdb/focal 3.4.10-1ubuntu1 amd64
-postfix-doc/focal,focal 3.4.10-1ubuntu1 all
+postfix-cdb/focal-updates 3.4.13-0ubuntu1 amd64
+postfix-doc/focal-updates,focal-updates 3.4.13-0ubuntu1 all
 postfix-gld/focal 1.7-8build1 amd64
-postfix-ldap/focal 3.4.10-1ubuntu1 amd64
-postfix-lmdb/focal 3.4.10-1ubuntu1 amd64
+postfix-ldap/focal-updates 3.4.13-0ubuntu1 amd64
+postfix-lmdb/focal-updates 3.4.13-0ubuntu1 amd64
 postfix-mta-sts-resolver/focal,focal 0.7.5-1 all
-postfix-mysql/focal 3.4.10-1ubuntu1 amd64
-postfix-pcre/focal 3.4.10-1ubuntu1 amd64
-postfix-pgsql/focal 3.4.10-1ubuntu1 amd64
+postfix-mysql/focal-updates 3.4.13-0ubuntu1 amd64
+postfix-pcre/focal-updates 3.4.13-0ubuntu1 amd64
+postfix-pgsql/focal-updates 3.4.13-0ubuntu1 amd64
 postfix-policyd-spf-perl/focal,focal 2.011-1 all
 postfix-policyd-spf-python/focal,focal 2.9.2-1 all
-postfix-sqlite/focal 3.4.10-1ubuntu1 amd64
-postfix/focal 3.4.10-1ubuntu1 amd64
+postfix-sqlite/focal-updates 3.4.13-0ubuntu1 amd64
+postfix/focal-updates 3.4.13-0ubuntu1 amd64
 postfixadmin/focal,focal 3.2.1-3 all
 postfwd/focal,focal 1.35-5 all
 postgis-doc/focal,focal 3.0.0+dfsg-6ubuntu4 all
@@ -52460,7 +52460,7 @@ python-openstackclient-doc/focal,focal 5.2.0-0ubuntu1 all
 python-openstacksdk-doc/focal,focal 0.46.0-0ubuntu1 all
 python-openwsman/focal 2.6.5-0ubuntu5 amd64
 python-os-api-ref-common/focal,focal 2.0.1-0ubuntu1 all
-python-os-brick-doc/focal,focal 3.0.1-0ubuntu1 all
+python-os-brick-doc/focal-updates,focal-updates,focal-security,focal-security 3.0.1-0ubuntu1.2 all
 python-os-client-config-doc/focal,focal 1.31.2-0ubuntu2 all
 python-os-faults-doc/focal,focal 0.2.1-3 all
 python-os-service-types-doc/focal,focal 1.7.0-0ubuntu1 all
@@ -53305,7 +53305,7 @@ python3-cheroot/focal,focal 8.3.0+ds-1 all
 python3-cherrypy3/focal,focal 8.9.1-6 all
 python3-chm-dbg/focal 0.8.6-2build1 amd64
 python3-chm/focal 0.8.6-2build1 amd64
-python3-cinder/focal-updates,focal-updates 2:16.0.0-0ubuntu0.20.04.1 all
+python3-cinder/focal-updates,focal-updates,focal-security,focal-security 2:16.1.0-0ubuntu1 all
 python3-cinderclient/focal,focal 1:7.0.0-0ubuntu1 all
 python3-circuits/focal,focal 3.1.0+ds1-2 all
 python3-citeproc/focal,focal 0.3.0-6 all
@@ -54757,7 +54757,7 @@ python3-orderedattrdict/focal,focal 1.5.1-1 all
 python3-orderedmultidict/focal,focal 1.0-3 all
 python3-os-api-ref/focal,focal 2.0.1-0ubuntu1 all
 python3-os-apply-config/focal,focal 10.4.1-3build1 all
-python3-os-brick/focal,focal 3.0.1-0ubuntu1 all
+python3-os-brick/focal-updates,focal-updates,focal-security,focal-security 3.0.1-0ubuntu1.2 all
 python3-os-client-config/focal,focal 1.31.2-0ubuntu2 all
 python3-os-collect-config/focal,focal 10.4.0-2build1 all
 python3-os-faults/focal,focal 0.2.1-3 all
@@ -55732,7 +55732,7 @@ python3-socketpool/focal,focal 0.5.3-5 all
 python3-socks/focal,focal 1.6.8+dfsg-1ubuntu1 all
 python3-socksipychain/focal,focal 2.1.0-2 all
 python3-softlayer/focal,focal 5.8.5-1 all
-python3-software-properties/focal,focal 0.98.9 all
+python3-software-properties/focal-updates,focal-updates 0.98.9.1 all
 python3-solv/focal 0.6.36-2 amd64
 python3-sop/focal,focal 0.2.0-1 all
 python3-sorl-thumbnail/focal,focal 12.5.0-2 all
@@ -57829,7 +57829,7 @@ r8168-dkms/focal,focal 8.048.00-1 all
 rabbit-mode/focal,focal 3.0.0-3 all
 rabbit/focal,focal 3.0.0-3 all
 rabbiter/focal,focal 2.0.4-2 all
-rabbitmq-server/focal,focal 3.8.2-0ubuntu1 all
+rabbitmq-server/focal-updates,focal-updates 3.8.2-0ubuntu1.1 all
 rabbitsign/focal 2.1+dmca1-2 amd64
 rabbitvcs-cli/focal,focal 0.18-1ubuntu1 all
 rabbitvcs-core/focal,focal 0.18-1ubuntu1 all
@@ -60779,9 +60779,9 @@ softhsm2-common/focal 2.5.0-1build1 i386
 softhsm2/focal 2.5.0-1build1 amd64
 softhsm2/focal 2.5.0-1build1 i386
 softhsm/focal,focal 2.5.0-1build1 all
-software-properties-common/focal,focal 0.98.9 all
-software-properties-gtk/focal,focal 0.98.9 all
-software-properties-qt/focal,focal 0.98.9 all
+software-properties-common/focal-updates,focal-updates 0.98.9.1 all
+software-properties-gtk/focal-updates,focal-updates 0.98.9.1 all
+software-properties-qt/focal-updates,focal-updates 0.98.9.1 all
 sogo-common/focal,focal 4.3.0-1 all
 sogo/focal 4.3.0-1 amd64
 solaar-gnome3/focal,focal 1.0.1+dfsg-3 all
