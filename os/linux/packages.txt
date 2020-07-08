@@ -257,9 +257,10 @@ bind.x86_64                                          32:9.11.13-3.el8           
 bind-chroot.x86_64                                   32:9.11.13-3.el8                                 AppStream
 bind-devel.i686                                      32:9.11.13-3.el8                                 AppStream
 bind-devel.x86_64                                    32:9.11.13-3.el8                                 AppStream
-bind-export-devel.i686                               32:9.11.13-3.el8                                 BaseOS   
-bind-export-devel.x86_64                             32:9.11.13-3.el8                                 BaseOS   
-bind-export-libs.i686                                32:9.11.13-3.el8                                 BaseOS   
+bind-export-devel.i686                               32:9.11.13-5.el8_2                               BaseOS   
+bind-export-devel.x86_64                             32:9.11.13-5.el8_2                               BaseOS   
+bind-export-libs.i686                                32:9.11.13-5.el8_2                               BaseOS   
+bind-export-libs.x86_64                              32:9.11.13-5.el8_2                               BaseOS   
 bind-libs.i686                                       32:9.11.13-3.el8                                 AppStream
 bind-libs-lite.i686                                  32:9.11.13-3.el8                                 AppStream
 bind-lite-devel.i686                                 32:9.11.13-3.el8                                 AppStream
