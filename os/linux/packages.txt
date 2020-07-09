@@ -28579,7 +28579,7 @@ libshine-dev/oldstable 3.1.0-5 amd64
 libshine-ocaml/oldstable 0.2.0-1+b1 amd64
 libshine-ocaml-dev/oldstable 0.2.0-1+b1 amd64
 libshine3/oldstable 3.1.0-5 amd64
-libshiro-java/oldstable 1.3.2-1 all
+libshiro-java/oldstable 1.3.2-1+deb9u1 all
 libshisa-dev/oldstable 1.0.2-6+b2 amd64
 libshisa0/oldstable 1.0.2-6+b2 amd64
 libshishi-dev/oldstable 1.0.2-6+b2 amd64
