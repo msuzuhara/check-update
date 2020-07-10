@@ -6492,8 +6492,8 @@ fwknop-gui/oldstable 1.3+dfsg-1 amd64
 fwknop-server/oldstable 2.6.9-1+b1 amd64
 fwlogwatch/oldstable 1.4-1 amd64
 fwsnort/oldstable 1.6.5-4 all
-fwupd/oldstable 0.7.4-2 amd64
-fwupd-doc/oldstable 0.7.4-2 all
+fwupd/oldstable 0.7.4-2+deb9u1 amd64
+fwupd-doc/oldstable 0.7.4-2+deb9u1 all
 fwupdate/oldstable 8-3 amd64
 fxload/oldstable 0.0.20081013-1+b2 amd64
 fxt-tools/oldstable 0.3.2-2+b1 amd64
@@ -7596,7 +7596,7 @@ gir1.2-fcitx-1.0/oldstable 1:4.2.9.1-6 amd64
 gir1.2-flatpak-1.0/oldstable 0.8.9-0+deb9u3 amd64
 gir1.2-folks-0.6/oldstable 0.11.3-2 amd64
 gir1.2-freedesktop/oldstable 1.50.0-1+b1 amd64
-gir1.2-fwupd-1.0/oldstable 0.7.4-2 amd64
+gir1.2-fwupd-1.0/oldstable 0.7.4-2+deb9u1 amd64
 gir1.2-ganv-1.0/oldstable 1.4.2~dfsg0-2 amd64
 gir1.2-gck-1/oldstable 3.20.0-5.1 amd64
 gir1.2-gconf-2.0/oldstable 3.2.6-4+b1 amd64
@@ -15535,8 +15535,8 @@ libdevil1c2/oldstable 1.7.8-10+b2 amd64
 libdevmapper-dev/oldstable 2:1.02.137-2 amd64
 libdevmapper-event1.02.1/oldstable 2:1.02.137-2 amd64
 libdevmapper1.02.1/oldstable,now 2:1.02.137-2 amd64 [installed]
-libdfu-dev/oldstable 0.7.4-2 amd64
-libdfu1/oldstable 0.7.4-2 amd64
+libdfu-dev/oldstable 0.7.4-2+deb9u1 amd64
+libdfu1/oldstable 0.7.4-2+deb9u1 amd64
 libdhash-dev/oldstable 0.6.0-1 amd64
 libdhash1/oldstable 0.6.0-1 amd64
 libdiagnostic-msgs-dev/oldstable 1.12.5-2 all
@@ -15859,8 +15859,8 @@ libeb16/oldstable 4.4.3-11 amd64
 libeb16-dev/oldstable 4.4.3-11 amd64
 libebackend-1.2-10/oldstable 3.22.7-1 amd64
 libebackend1.2-dev/oldstable 3.22.7-1 amd64
-libebitdo-dev/oldstable 0.7.4-2 amd64
-libebitdo1/oldstable 0.7.4-2 amd64
+libebitdo-dev/oldstable 0.7.4-2+deb9u1 amd64
+libebitdo1/oldstable 0.7.4-2+deb9u1 amd64
 libebml-dev/oldstable 1.3.4-1+deb9u1 amd64
 libebml4v5/oldstable 1.3.4-1+deb9u1 amd64
 libebook-1.2-16/oldstable 3.22.7-1 amd64
@@ -16849,8 +16849,8 @@ libfwsi-dev/oldstable 20170117-1 amd64
 libfwsi1/oldstable 20170117-1 amd64
 libfwup-dev/oldstable 8-3 amd64
 libfwup1/oldstable 8-3 amd64
-libfwupd-dev/oldstable 0.7.4-2 amd64
-libfwupd1/oldstable 0.7.4-2 amd64
+libfwupd-dev/oldstable 0.7.4-2+deb9u1 amd64
+libfwupd1/oldstable 0.7.4-2+deb9u1 amd64
 libfxt-dev/oldstable 0.3.2-2+b1 amd64
 libfxt0/oldstable 0.3.2-2+b1 amd64
 libfyba-dev/oldstable 4.1.1-3 amd64
