@@ -2835,7 +2835,7 @@ closure-compiler/xenial,xenial 20130227+dfsg1-8 all
 closure-linter/xenial,xenial 2.3.19-1 all
 cloud-guest-utils/xenial-updates,xenial-updates,now 0.27-0ubuntu25.1 all [installed]
 cloud-image-utils/xenial-updates,xenial-updates 0.27-0ubuntu25.1 all
-cloud-init/xenial-updates,xenial-updates 19.4-33-gbb4131a2-0ubuntu1~16.04.1 all
+cloud-init/xenial-updates,xenial-updates 20.2-45-g5f7825e2-0ubuntu1~16.04.1 all
 cloud-initramfs-copymods/xenial-updates,xenial-updates,now 0.27ubuntu1.6 all [installed]
 cloud-initramfs-dyn-netconf/xenial-updates,xenial-updates,now 0.27ubuntu1.6 all [installed]
 cloud-initramfs-growroot/xenial-updates,xenial-updates 0.27ubuntu1.6 all
@@ -4744,7 +4744,7 @@ ebview/xenial 0.3.6.2-1.4ubuntu1 amd64
 ec2-ami-tools/xenial,xenial 1.4.0.9-0ubuntu2 all
 ec2-api-tools/xenial,xenial 1.6.14.1-0ubuntu1 all
 ec2-hibinit-agent/xenial-updates,xenial-updates 1.0.0-0ubuntu4~16.04.3 all
-ec2-init/xenial-updates,xenial-updates 19.4-33-gbb4131a2-0ubuntu1~16.04.1 all
+ec2-init/xenial-updates,xenial-updates 20.2-45-g5f7825e2-0ubuntu1~16.04.1 all
 ec2-instance-connect/xenial-updates,xenial-updates 1.1.12+dfsg1-0ubuntu3~16.04.0 all
 ecaccess/xenial,xenial 4.0.1-1 all
 ecasound/xenial 2.9.1-7build1 amd64
@@ -9570,7 +9570,7 @@ golang-github-shurcool-sanitized-anchor-name-dev/xenial,xenial 0.0~git20151028.0
 golang-github-sirupsen-logrus-dev/xenial,xenial 0.8.7-3 all
 golang-github-skratchdot-open-golang-dev/xenial,xenial 0.0~git20150221.0.c874831-1 all
 golang-github-smartystreets-goconvey-dev/xenial,xenial 1.5.0-1 all
-golang-github-snapcore-snapd-dev/xenial-updates,xenial-updates 2.45.1 all
+golang-github-snapcore-snapd-dev/xenial-updates,xenial-updates,xenial-security,xenial-security 2.45.1ubuntu0.2 all
 golang-github-spacejam-loghisto-dev/xenial,xenial 0.0~git20150819.0.3233097-1 all
 golang-github-spf13-afero-dev/xenial,xenial 0.0~git20160201.0.4c1d2aa-1 all
 golang-github-spf13-cast-dev/xenial,xenial 0.0~git20151218.0.ee7b3e0-1 all
@@ -9593,7 +9593,7 @@ golang-github-tent-http-link-go-dev/xenial,xenial 0.0~git20130702.0.ac974c6-1 al
 golang-github-tinylib-msgp-dev/xenial,xenial 1.0~beta-1 all
 golang-github-tobi-airbrake-go-dev/xenial,xenial 0.0~git20150109-1 all
 golang-github-ttacon-chalk-dev/xenial,xenial 0.1-1 all
-golang-github-ubuntu-core-snappy-dev/xenial-updates,xenial-updates 2.45.1 all
+golang-github-ubuntu-core-snappy-dev/xenial-updates,xenial-updates,xenial-security,xenial-security 2.45.1ubuntu0.2 all
 golang-github-ugorji-go-codec-dev/xenial,xenial 0.0~git20151130.0.357a44b-1 all
 golang-github-ugorji-go-msgpack-dev/xenial,xenial 0.0~git20130605.792643-1 all
 golang-github-unknwon-com-dev/xenial,xenial 0.0~git20151008.0.28b053d-1 all
@@ -10050,7 +10050,7 @@ grub-imageboot/xenial,xenial 0.6 all
 grub-invaders/xenial 1.0.0-13 amd64
 grub-ipxe/xenial-updates,xenial-updates 1.0.0+git-20150424.a25a16d-1ubuntu1.2 all
 grub-legacy-doc/xenial,xenial 0.97-29ubuntu68 all
-grub-legacy-ec2/xenial-updates,xenial-updates,now 19.4-33-gbb4131a2-0ubuntu1~16.04.1 all [installed]
+grub-legacy-ec2/xenial-updates,xenial-updates 20.2-45-g5f7825e2-0ubuntu1~16.04.1 all [upgradable from: 19.4-33-gbb4131a2-0ubuntu1~16.04.1]
 grub-linuxbios/xenial-updates 2.02~beta2-36ubuntu3.23 amd64
 grub-pc/xenial-updates,now 2.02~beta2-36ubuntu3.23 amd64 [installed]
 grub-pc-bin/xenial-updates,now 2.02~beta2-36ubuntu3.23 amd64 [installed,automatic]
@@ -54886,14 +54886,14 @@ snakefood/xenial,xenial 1.4-2 all
 snakemake/xenial,xenial 3.5.5+dfsg-1 all
 snap/xenial-updates 2013-11-29-1ubuntu2.16.04.1 amd64
 snap-aligner/xenial 0.18~1.0~beta.18+dfsg1-2 amd64
-snap-confine/xenial-updates 2.45.1 amd64
+snap-confine/xenial-updates,xenial-security 2.45.1ubuntu0.2 amd64
 snapcraft/xenial-updates,xenial-updates 2.43.1 all
 snapcraft-examples/xenial-updates,xenial-updates 2.43.1 all
 snapcraft-parser/xenial-updates,xenial-updates 2.43.1 all
-snapd/xenial-updates 2.45.1 amd64 [upgradable from: 2.42.1]
+snapd/xenial-updates,xenial-security 2.45.1ubuntu0.2 amd64 [upgradable from: 2.42.1]
 snapd-glib-tests/xenial-updates,xenial-security 1.49-0ubuntu0.16.04.2 amd64
 snapd-login-service/xenial-updates 1.33-0ubuntu0.16.04.1 amd64
-snapd-xdg-open/xenial-updates 2.45.1 amd64
+snapd-xdg-open/xenial-updates,xenial-security 2.45.1ubuntu0.2 amd64
 snaphu/xenial 1.4.2-2 amd64
 snappea/xenial 3.0d3-23ubuntu1 amd64
 snappea-dev/xenial 3.0d3-23ubuntu1 amd64
@@ -57094,7 +57094,7 @@ ubuntu-business-defaults/xenial,xenial 38 all
 ubuntu-cloud-keyring/xenial,xenial 2012.08.14 all
 ubuntu-cloudimage-keyring/xenial,xenial,now 2013.11.11 all [installed]
 ubuntu-core-config/xenial,xenial 0.6.40 all
-ubuntu-core-launcher/xenial-updates 2.45.1 amd64
+ubuntu-core-launcher/xenial-updates,xenial-security 2.45.1ubuntu0.2 amd64
 ubuntu-core-libs/xenial 0.6.13 amd64
 ubuntu-core-libs-dev/xenial 0.6.13 amd64
 ubuntu-core-security-apparmor/xenial,xenial 16.04.15.1 all
@@ -57258,8 +57258,8 @@ ubuntu-sdk-qmake-extras/xenial 3.5.2+16.04.20151118-0ubuntu1 amd64
 ubuntu-server/xenial-updates,now 1.361.4 amd64 [installed]
 ubuntu-session/xenial-updates,xenial-updates 3.18.1.2-1ubuntu1.16.04.2 all
 ubuntu-settings/xenial,xenial 15.10.8 all
-ubuntu-snappy/xenial-updates,xenial-updates 2.45.1 all
-ubuntu-snappy-cli/xenial-updates,xenial-updates 2.45.1 all
+ubuntu-snappy/xenial-updates,xenial-updates,xenial-security,xenial-security 2.45.1ubuntu0.2 all
+ubuntu-snappy-cli/xenial-updates,xenial-updates,xenial-security,xenial-security 2.45.1ubuntu0.2 all
 ubuntu-software/xenial-updates 3.20.5-0ubuntu0.16.04.13 amd64
 ubuntu-sounds/xenial,xenial 0.13 all
 ubuntu-sso-client/xenial,xenial 13.10-0ubuntu11 all
