@@ -10550,7 +10550,7 @@ idjc/oldstable 0.8.16-1 amd64
 idl-font-lock-el/oldstable 1.5-9 all
 idle/oldstable 2.7.13-2 all
 idle-python2.7/oldstable,oldstable 2.7.13-2+deb9u3 all
-idle-python3.5/oldstable,oldstable 3.5.3-1+deb9u1 all
+idle-python3.5/oldstable 3.5.3-1+deb9u2 all
 idle3/oldstable 3.5.3-1 all
 idle3-tools/oldstable 0.9.1-2 amd64
 idlestat/oldstable 0.7-2 amd64
@@ -27181,12 +27181,12 @@ libpython3-all-dev/oldstable 3.5.3-1 amd64
 libpython3-dbg/oldstable 3.5.3-1 amd64
 libpython3-dev/oldstable 3.5.3-1 amd64
 libpython3-stdlib/oldstable,now 3.5.3-1 amd64 [installed,automatic]
-libpython3.5/oldstable,oldstable 3.5.3-1+deb9u1 amd64
-libpython3.5-dbg/oldstable,oldstable 3.5.3-1+deb9u1 amd64
-libpython3.5-dev/oldstable,oldstable 3.5.3-1+deb9u1 amd64
-libpython3.5-minimal/oldstable,oldstable,now 3.5.3-1+deb9u1 amd64 [installed,automatic]
-libpython3.5-stdlib/oldstable,oldstable,now 3.5.3-1+deb9u1 amd64 [installed,automatic]
-libpython3.5-testsuite/oldstable,oldstable 3.5.3-1+deb9u1 all
+libpython3.5/oldstable 3.5.3-1+deb9u2 amd64
+libpython3.5-dbg/oldstable 3.5.3-1+deb9u2 amd64
+libpython3.5-dev/oldstable 3.5.3-1+deb9u2 amd64
+libpython3.5-minimal/oldstable 3.5.3-1+deb9u2 amd64 [upgradable from: 3.5.3-1+deb9u1]
+libpython3.5-stdlib/oldstable 3.5.3-1+deb9u2 amd64 [upgradable from: 3.5.3-1+deb9u1]
+libpython3.5-testsuite/oldstable 3.5.3-1+deb9u2 all
 libpythonqt-dev/oldstable 3.0-3 amd64
 libpythonqt3.0/oldstable 3.0-3 amd64
 libpyzy-1.0-0v5/oldstable 1.0.1-5 amd64
@@ -43212,13 +43212,13 @@ python3-zope.security/oldstable 4.0.3-2+b1 amd64
 python3-zope.testing/oldstable 4.6.0-1 all
 python3-zope.testrunner/oldstable 4.4.9-1 all
 python3-zzzeeksphinx/oldstable 1.0.18-2 all
-python3.5/oldstable,oldstable,now 3.5.3-1+deb9u1 amd64 [installed,automatic]
-python3.5-dbg/oldstable,oldstable 3.5.3-1+deb9u1 amd64
-python3.5-dev/oldstable,oldstable 3.5.3-1+deb9u1 amd64
-python3.5-doc/oldstable,oldstable 3.5.3-1+deb9u1 all
-python3.5-examples/oldstable,oldstable 3.5.3-1+deb9u1 all
-python3.5-minimal/oldstable,oldstable,now 3.5.3-1+deb9u1 amd64 [installed,automatic]
-python3.5-venv/oldstable,oldstable 3.5.3-1+deb9u1 amd64
+python3.5/oldstable 3.5.3-1+deb9u2 amd64 [upgradable from: 3.5.3-1+deb9u1]
+python3.5-dbg/oldstable 3.5.3-1+deb9u2 amd64
+python3.5-dev/oldstable 3.5.3-1+deb9u2 amd64
+python3.5-doc/oldstable 3.5.3-1+deb9u2 all
+python3.5-examples/oldstable 3.5.3-1+deb9u2 all
+python3.5-minimal/oldstable 3.5.3-1+deb9u2 amd64 [upgradable from: 3.5.3-1+deb9u1]
+python3.5-venv/oldstable 3.5.3-1+deb9u2 amd64
 pythoncad/oldstable 0.1.37.0-3 all
 pythoncard/oldstable 0.8.2-5 all
 pythoncard-doc/oldstable 0.8.2-5 all
