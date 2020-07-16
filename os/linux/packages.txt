@@ -2993,7 +2993,7 @@ cloop-utils/focal 3.14.1.2ubuntu3 amd64
 closure-compiler/focal,focal 20130227+dfsg1-10 all
 cloud-guest-utils/focal,focal 0.31-7-gd99b2d76-0ubuntu1 all
 cloud-image-utils/focal,focal 0.31-7-gd99b2d76-0ubuntu1 all
-cloud-init/focal,focal 20.1-10-g71af48df-0ubuntu5 all
+cloud-init/focal-updates,focal-updates 20.2-45-g5f7825e2-0ubuntu1~20.04.1 all
 cloud-initramfs-copymods/focal,focal 0.45ubuntu1 all
 cloud-initramfs-dyn-netconf/focal,focal 0.45ubuntu1 all
 cloud-initramfs-growroot/focal,focal 0.45ubuntu1 all
@@ -12495,7 +12495,7 @@ golang-github-smira-flag-dev/focal,focal 0.0~git20170926.695ea5e-1 all
 golang-github-smira-go-aws-auth-dev/focal,focal 0.0~git20160320.0070896-1 all
 golang-github-smira-go-ftp-protocol-dev/focal,focal 0.0~git20140829.066b75c-2 all
 golang-github-smira-go-xz-dev/focal,focal 0.0~git20150414.0c531f0-2 all
-golang-github-snapcore-snapd-dev/focal-updates,focal-updates 2.45.1+20.04 all
+golang-github-snapcore-snapd-dev/focal-updates,focal-updates,focal-security,focal-security 2.45.1+20.04.2 all
 golang-github-socketplane-libovsdb-dev/focal,focal 0.1+git20160503.9.d4b9e7a53548-2 all
 golang-github-soniah-dnsmadeeasy-dev/focal,focal 1.1+git20150117.5578a8c-2 all
 golang-github-soniah-gosnmp-dev/focal,focal 1.24.0-1 all
@@ -12592,7 +12592,7 @@ golang-github-twinj-uuid-dev/focal,focal 0.10.0+git20160909.96.7bbe408-4 all
 golang-github-twstrike-gotk3adapter-dev/focal,focal 0.0~git20170505.0.901a95d+ds-3 all
 golang-github-twstrike-otr3-dev/focal,focal 0.0~git20161015.0.744856d-3 all
 golang-github-uber-go-atomic-dev/focal,focal 1.3.2+git20181018.8dc6146-2 all
-golang-github-ubuntu-core-snappy-dev/focal-updates,focal-updates 2.45.1+20.04 all
+golang-github-ubuntu-core-snappy-dev/focal-updates,focal-updates,focal-security,focal-security 2.45.1+20.04.2 all
 golang-github-ubuntu-ubuntu-report-dev/focal,focal 1.6.1 all
 golang-github-ugorji-go-codec-dev/focal,focal 1.1.7-1ubuntu1 all
 golang-github-ugorji-go-codec/focal 1.1.7-1ubuntu1 amd64
@@ -60671,7 +60671,7 @@ snacc/focal 1.3.1-7build2 amd64
 snake4/focal 1.0.14-1build1 amd64
 snakemake/focal,focal 5.10.0-2 all
 snap-aligner/focal 1.0~beta.18+dfsg-3build1 amd64
-snap-confine/focal-updates 2.45.1+20.04 amd64
+snap-confine/focal-updates,focal-security 2.45.1+20.04.2 amd64
 snap-templates/focal 1.0.0.2-3build2 amd64
 snap/focal 2013-11-29-9 amd64
 snapclient/focal 0.18.1-1build1 amd64
@@ -60680,8 +60680,8 @@ snapcraft-parser/focal,focal 3.0ubuntu1 all
 snapcraft/focal,focal 3.0ubuntu1 all
 snapd-glib-tests/focal 1.57-0ubuntu3 amd64
 snapd-glib-tests/focal 1.57-0ubuntu3 i386
-snapd-xdg-open/focal-updates 2.45.1+20.04 amd64
-snapd/focal-updates 2.45.1+20.04 amd64
+snapd-xdg-open/focal-updates,focal-security 2.45.1+20.04.2 amd64
+snapd/focal-updates,focal-security 2.45.1+20.04.2 amd64
 snaphu/focal 2.0.3-1 amd64
 snapper-gui/focal,focal 0git.960a94834f-3 all
 snapper/focal 0.8.6-1build1 amd64
@@ -62831,8 +62831,8 @@ ubuntu-business-defaults/focal,focal 38 all
 ubuntu-cloud-keyring/focal,focal 2020.02.11.2 all
 ubuntu-cloudimage-keyring/focal,focal 2020.02.11.2 all
 ubuntu-core-config/focal,focal 0.6.40 all
-ubuntu-core-launcher/focal-updates 2.45.1+20.04 amd64
-ubuntu-core-snapd-units/focal-updates,focal-updates 2.45.1+20.04 all
+ubuntu-core-launcher/focal-updates,focal-security 2.45.1+20.04.2 amd64
+ubuntu-core-snapd-units/focal-updates,focal-updates,focal-security,focal-security 2.45.1+20.04.2 all
 ubuntu-dbgsym-keyring/focal,focal 2020.02.11.2 all
 ubuntu-defaults-builder/focal,focal 0.57 all
 ubuntu-defaults-it/focal,focal 0.2.3 all
@@ -62923,8 +62923,8 @@ ubuntu-restricted-extras/focal 67 amd64
 ubuntu-server/focal-updates 1.450.1 amd64
 ubuntu-session/focal,focal 3.36.0-2ubuntu1 all
 ubuntu-settings/focal,focal 20.04.5 all
-ubuntu-snappy-cli/focal-updates,focal-updates 2.45.1+20.04 all
-ubuntu-snappy/focal-updates,focal-updates 2.45.1+20.04 all
+ubuntu-snappy-cli/focal-updates,focal-updates,focal-security,focal-security 2.45.1+20.04.2 all
+ubuntu-snappy/focal-updates,focal-updates,focal-security,focal-security 2.45.1+20.04.2 all
 ubuntu-software/focal,focal 3.36.0-0ubuntu3 all
 ubuntu-sounds/focal,focal 0.14 all
 ubuntu-standard/focal-updates,now 1.450.1 amd64 [installed]
