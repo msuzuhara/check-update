@@ -1254,7 +1254,7 @@ awffull/bionic 3.10.2-5 amd64
 awit-dbackup/bionic 0.0.22-1 all
 awl-doc/bionic 0.59-1 all
 aws-shell/bionic 0.2.0-2 all
-awscli/bionic 1.14.44-1ubuntu1 all
+awscli/bionic-updates 1.18.69-1ubuntu0.18.04.1 all
 awstats/bionic 7.6+dfsg-2 all
 ax25-apps/bionic 0.0.8-rc4-2build1 amd64
 ax25-tools/bionic 0.0.10-rc4-3 amd64
@@ -2600,7 +2600,7 @@ cicero/bionic 0.7.2-3 all
 cider-doc/bionic 0.16.0+dfsg-2build1 all
 ciderwebmail/bionic 1.05+20150729-3 all
 cifer/bionic 1.2.0-0ubuntu4 amd64
-cifs-utils/bionic 2:6.8-1 amd64
+cifs-utils/bionic-updates 2:6.8-1ubuntu1 amd64
 cigi-ccl-examples/bionic 3.3.3a+svn818-10ubuntu2 amd64
 cil/bionic 0.07.00-11 all
 cim-schema/bionic 2.48.0-0ubuntu1 all
@@ -3713,8 +3713,8 @@ curry-libs-source/bionic 2.0.1-1 all
 curry-tools-source/bionic 2.0.1-1 all
 curseofwar/bionic 1.1.8-3build2 amd64
 curtain/bionic 0.3-1.1 amd64
-curtin/bionic-updates 19.3-26-g82f23e3d-0ubuntu1~18.04.1 all
-curtin-common/bionic-updates 19.3-26-g82f23e3d-0ubuntu1~18.04.1 all
+curtin/bionic-updates 20.1-2-g42a9667f-0ubuntu1~18.04.1 all
+curtin-common/bionic-updates 20.1-2-g42a9667f-0ubuntu1~18.04.1 all
 curvedns/bionic 0.87-4build1 amd64
 custodia/bionic 0.5.0-3 all
 customdeb/bionic 0.1 all
@@ -14896,7 +14896,7 @@ ldap-account-manager-lamdaemon/bionic 6.2-1 all
 ldap-auth-client/bionic 0.5.3 all
 ldap-auth-config/bionic 0.5.3 all
 ldap-git-backup/bionic 1.0.8-1 all
-ldap-utils/bionic-updates,bionic-security 2.4.45+dfsg-1ubuntu1.5 amd64
+ldap-utils/bionic-updates 2.4.45+dfsg-1ubuntu1.6 amd64
 ldap2dns/bionic 0.3.1-3.2 amd64
 ldap2zone/bionic 0.2-9 amd64
 ldapscripts/bionic 2.0.8-1ubuntu1 all
@@ -28687,11 +28687,11 @@ liblcmaps0/bionic 1.6.6-2build1 amd64
 liblcms2-2/bionic-updates,bionic-security 2.9-1ubuntu0.1 amd64
 liblcms2-dev/bionic-updates,bionic-security 2.9-1ubuntu0.1 amd64
 liblcms2-utils/bionic-updates,bionic-security 2.9-1ubuntu0.1 amd64
-libldap-2.4-2/bionic-updates,bionic-security,now 2.4.45+dfsg-1ubuntu1.5 amd64 [installed,automatic]
-libldap-common/bionic-updates,bionic-security,now 2.4.45+dfsg-1ubuntu1.5 all [installed,automatic]
+libldap-2.4-2/bionic-updates 2.4.45+dfsg-1ubuntu1.6 amd64 [upgradable from: 2.4.45+dfsg-1ubuntu1.5]
+libldap-common/bionic-updates 2.4.45+dfsg-1ubuntu1.6 all [upgradable from: 2.4.45+dfsg-1ubuntu1.5]
 libldap-java/bionic 4.19+dfsg1-1 all
 libldap-ocaml-dev/bionic 2.1.8-10build7 amd64
-libldap2-dev/bionic-updates,bionic-security 2.4.45+dfsg-1ubuntu1.5 amd64
+libldap2-dev/bionic-updates 2.4.45+dfsg-1ubuntu1.6 amd64
 libldb-dev/bionic-updates,bionic-security 2:1.2.3-1ubuntu0.1 amd64
 libldb1/bionic-updates,bionic-security 2:1.2.3-1ubuntu0.1 amd64
 libldl2/bionic 1:5.1.2-2 amd64
@@ -52398,7 +52398,7 @@ python-bootstrapform/bionic 3.3-1 all
 python-bootstrapform-doc/bionic 3.3-1 all
 python-boto/bionic-updates,bionic-security 2.44.0-1ubuntu2.18.04.1 all
 python-boto3/bionic 1.4.2-1 all
-python-botocore/bionic 1.8.48+repack-1 all
+python-botocore/bionic-updates 1.16.19+repack-1ubuntu0.18.04.1 all
 python-bottle/bionic 0.12.13-1 all
 python-bottle-beaker/bionic 0.1.3-2 all
 python-bottle-cork/bionic 0.12.0-3 all
@@ -52657,7 +52657,7 @@ python-cssutils/bionic 1.0.2-1 all
 python-cups/bionic 1.9.73-2 amd64
 python-cursive/bionic 0.2.1-0ubuntu1 all
 python-cursive-doc/bionic 0.2.1-0ubuntu1 all
-python-curtin/bionic-updates 19.3-26-g82f23e3d-0ubuntu1~18.04.1 all
+python-curtin/bionic-updates 20.1-2-g42a9667f-0ubuntu1~18.04.1 all
 python-curtsies/bionic 0.2.12-1 all
 python-custodia/bionic 0.5.0-3 all
 python-cutadapt/bionic 1.15-1 amd64
@@ -55107,7 +55107,7 @@ python-ruffus-doc/bionic 2.6.3+dfsg-5 all
 python-rviz/bionic 1.12.4+dfsg-3 amd64
 python-ryu/bionic 4.15-0ubuntu2 all
 python-ryu-doc/bionic 4.15-0ubuntu2 all
-python-s3transfer/bionic 0.1.13-1 all
+python-s3transfer/bionic-updates 0.3.3-1ubuntu0.18.04.1 all
 python-sabyenc/bionic 3.3.1-1 amd64
 python-saga/bionic 2.3.1+dfsg-3build7 amd64
 python-sagenb/bionic 1.0.1+ds1-2 all
@@ -56176,7 +56176,7 @@ python3-bootstrapform/bionic 3.3-1 all
 python3-botan/bionic 2.4.0-5ubuntu1 amd64
 python3-boto/bionic-updates,bionic-security 2.44.0-1ubuntu2.18.04.1 all
 python3-boto3/bionic 1.4.2-1 all
-python3-botocore/bionic 1.8.48+repack-1 all
+python3-botocore/bionic-updates 1.16.19+repack-1ubuntu0.18.04.1 all
 python3-bottle/bionic 0.12.13-1 all
 python3-bottle-beaker/bionic 0.1.3-2 all
 python3-bottle-cork/bionic 0.12.0-3 all
@@ -56344,7 +56344,7 @@ python3-cu2qu/bionic 1.3.0-1 all
 python3-cups/bionic 1.9.73-2 amd64
 python3-cupshelpers/bionic 1.5.11-1ubuntu2 all
 python3-cursive/bionic 0.2.1-0ubuntu1 all
-python3-curtin/bionic-updates 19.3-26-g82f23e3d-0ubuntu1~18.04.1 all
+python3-curtin/bionic-updates 20.1-2-g42a9667f-0ubuntu1~18.04.1 all
 python3-curtsies/bionic 0.2.12-1 all
 python3-custodia/bionic 0.5.0-3 all
 python3-cutadapt/bionic 1.15-1 amd64
@@ -57842,7 +57842,7 @@ python3-rtslib-fb/bionic 2.1.57+debian-4 all
 python3-ruamel.yaml/bionic 0.15.34-1 amd64
 python3-ruffus/bionic 2.6.3+dfsg-5 all
 python3-ryu/bionic 4.15-0ubuntu2 all
-python3-s3transfer/bionic 0.1.13-1 all
+python3-s3transfer/bionic-updates 0.3.3-1ubuntu0.18.04.1 all
 python3-sagenb-export/bionic 3.2-3 all
 python3-saharaclient/bionic 1.5.0-0ubuntu1 all
 python3-sane/bionic 2.8.3-1build3 amd64
@@ -58842,10 +58842,10 @@ quantlib-refman-html/bionic 1.12-1 all
 quantum-espresso/bionic 6.0-3.1 amd64
 quantum-espresso-data/bionic 6.0-3.1 all
 quarry/bionic 0.2.0.dfsg.1-4.1build1 amd64
-quassel/bionic-updates 1:0.12.4-3ubuntu1.18.04.1 amd64
-quassel-client/bionic-updates 1:0.12.4-3ubuntu1.18.04.1 amd64
-quassel-core/bionic-updates 1:0.12.4-3ubuntu1.18.04.1 amd64
-quassel-data/bionic-updates 1:0.12.4-3ubuntu1.18.04.1 all
+quassel/bionic-updates 1:0.12.4-3ubuntu1.18.04.2 amd64
+quassel-client/bionic-updates 1:0.12.4-3ubuntu1.18.04.2 amd64
+quassel-core/bionic-updates 1:0.12.4-3ubuntu1.18.04.2 amd64
+quassel-data/bionic-updates 1:0.12.4-3ubuntu1.18.04.2 all
 quaternion/bionic 0.0.5-1 amd64
 quelcom/bionic 0.4.0-13build1 amd64
 quickcal/bionic 2.1-1 all
@@ -59457,7 +59457,7 @@ r8168-dkms/bionic-updates 8.045.08-2ubuntu1 all
 rabbit/bionic 2.2.1-2 all
 rabbit-mode/bionic 2.2.1-2 all
 rabbiter/bionic 2.0.4-2 all
-rabbitmq-server/bionic-updates 3.6.10-1ubuntu0.1 all
+rabbitmq-server/bionic-updates 3.6.10-1ubuntu0.3 all
 rabbitsign/bionic 2.1+dmca1-1build2 amd64
 rabbitvcs-cli/bionic 0.16-1.1 all
 rabbitvcs-core/bionic 0.16-1.1 all
@@ -61967,8 +61967,8 @@ slang-sqlite/bionic 0.4.0-4 amd64
 slang-tess/bionic 0.3.0-7 all
 slang-wildcard/bionic 0.5.0-3 amd64
 slang-xfig/bionic 0.2.0~.117-2 amd64
-slapd/bionic-updates,bionic-security 2.4.45+dfsg-1ubuntu1.5 amd64
-slapd-smbk5pwd/bionic-updates,bionic-security 2.4.45+dfsg-1ubuntu1.5 amd64
+slapd/bionic-updates 2.4.45+dfsg-1ubuntu1.6 amd64
+slapd-smbk5pwd/bionic-updates 2.4.45+dfsg-1ubuntu1.6 amd64
 slapi-nis/bionic 0.56.1-1build1 amd64
 slapos-client/bionic 1.3.18-1 all
 slapos-node-unofficial/bionic 1.3.18-1 all
@@ -62233,7 +62233,7 @@ sortmerna/bionic 2.1-2 amd64
 sortsmill-tools/bionic 0.4-2 all
 sorune/bionic 0.5-1ubuntu1 all
 sosi2osm/bionic 1.0.0-3build1 amd64
-sosreport/bionic-updates 3.9.1-1ubuntu0.18.04.1 amd64 [upgradable from: 3.6-1ubuntu0.18.04.4]
+sosreport/bionic-updates 3.9.1-1ubuntu0.18.04.2 amd64 [upgradable from: 3.6-1ubuntu0.18.04.4]
 sound-icons/bionic 0.1-6 all
 sound-juicer/bionic 3.24.0-2 amd64
 sound-theme-freedesktop/bionic 0.8-2ubuntu1 all
@@ -62338,8 +62338,8 @@ spin/bionic 6.4.6+dfsg-2 amd64
 spinner/bionic 1.2.4-4 amd64
 spip/bionic 3.1.4-3 all
 spiped/bionic 1.6.0-2build1 amd64
-spl/bionic-updates 0.7.5-1ubuntu2.1 amd64
-spl-dkms/bionic-updates 0.7.5-1ubuntu2.1 all
+spl/bionic-updates 0.7.5-1ubuntu2.2 amd64
+spl-dkms/bionic-updates 0.7.5-1ubuntu2.2 all
 splash/bionic 2.8.0-1 amd64
 splat/bionic 1.4.0-3 amd64
 splatd/bionic 1.2-0ubuntu2 all
@@ -65155,20 +65155,20 @@ virt-viewer/bionic 6.0-2 amd64
 virt-what/bionic 1.18-2 amd64
 virtaal/bionic 0.7.1-5 all
 virtinst/bionic-updates 1:1.5.1-0ubuntu1.2 all
-virtualbox/bionic-updates 5.2.34-dfsg-0~ubuntu18.04.1 amd64
-virtualbox-dkms/bionic-updates 5.2.34-dfsg-0~ubuntu18.04.1 all
-virtualbox-ext-pack/bionic-updates 5.2.34-1~ubuntu18.04.1 all
-virtualbox-guest-additions-iso/bionic-updates 5.2.34-1~ubuntu18.04.1 all
-virtualbox-guest-dkms/bionic-updates 5.2.34-dfsg-0~ubuntu18.04.1 all
-virtualbox-guest-dkms-hwe/bionic-updates 5.2.34-dfsg-0~ubuntu18.04.1 all
-virtualbox-guest-source/bionic-updates 5.2.34-dfsg-0~ubuntu18.04.1 all
-virtualbox-guest-source-hwe/bionic-updates 5.2.34-dfsg-0~ubuntu18.04.1 all
-virtualbox-guest-utils/bionic-updates 5.2.34-dfsg-0~ubuntu18.04.1 amd64
-virtualbox-guest-utils-hwe/bionic-updates 5.2.34-dfsg-0~ubuntu18.04.1 amd64
-virtualbox-guest-x11/bionic-updates 5.2.34-dfsg-0~ubuntu18.04.1 amd64
-virtualbox-guest-x11-hwe/bionic-updates 5.2.34-dfsg-0~ubuntu18.04.1 amd64
-virtualbox-qt/bionic-updates 5.2.34-dfsg-0~ubuntu18.04.1 amd64
-virtualbox-source/bionic-updates 5.2.34-dfsg-0~ubuntu18.04.1 all
+virtualbox/bionic-updates 5.2.42-dfsg-0~ubuntu1.18.04.1 amd64
+virtualbox-dkms/bionic-updates 5.2.42-dfsg-0~ubuntu1.18.04.1 all
+virtualbox-ext-pack/bionic-updates 5.2.42-1~ubuntu1.18.04.1 all
+virtualbox-guest-additions-iso/bionic-updates 5.2.42-1~ubuntu1.18.04.1 all
+virtualbox-guest-dkms/bionic-updates 5.2.42-dfsg-0~ubuntu1.18.04.1 all
+virtualbox-guest-dkms-hwe/bionic-updates 5.2.42-dfsg-0~ubuntu1.18.04.1 all
+virtualbox-guest-source/bionic-updates 5.2.42-dfsg-0~ubuntu1.18.04.1 all
+virtualbox-guest-source-hwe/bionic-updates 5.2.42-dfsg-0~ubuntu1.18.04.1 all
+virtualbox-guest-utils/bionic-updates 5.2.42-dfsg-0~ubuntu1.18.04.1 amd64
+virtualbox-guest-utils-hwe/bionic-updates 5.2.42-dfsg-0~ubuntu1.18.04.1 amd64
+virtualbox-guest-x11/bionic-updates 5.2.42-dfsg-0~ubuntu1.18.04.1 amd64
+virtualbox-guest-x11-hwe/bionic-updates 5.2.42-dfsg-0~ubuntu1.18.04.1 amd64
+virtualbox-qt/bionic-updates 5.2.42-dfsg-0~ubuntu1.18.04.1 amd64
+virtualbox-source/bionic-updates 5.2.42-dfsg-0~ubuntu1.18.04.1 all
 virtualenv/bionic 15.1.0+ds-1.1 all
 virtualenv-clone/bionic 0.2.5-1 all
 virtualenvwrapper/bionic 4.3.1-2 all
@@ -66364,7 +66364,7 @@ xorg-docs/bionic 1:1.7.1-1.1 all
 xorg-docs-core/bionic 1:1.7.1-1.1 all
 xorg-server-source/bionic-updates 2:1.19.6-1ubuntu4.4 all
 xorg-server-source-hwe-16.04/bionic 3:14.1 amd64
-xorg-server-source-hwe-18.04/bionic-updates 2:1.20.8-2ubuntu2.1~18.04.1 all
+xorg-server-source-hwe-18.04/bionic-updates 2:1.20.8-2ubuntu2.2~18.04.1 all
 xorg-sgml-doctools/bionic 1:1.11-1 all
 xorgxrdp/bionic 0.9.5-2 amd64
 xorgxrdp-hwe-18.04/bionic-updates 0.9.5-2~18.04.1 amd64
@@ -66435,14 +66435,14 @@ xsensors/bionic 0.70-3build1 amd64
 xserver-common/bionic-updates 2:1.19.6-1ubuntu4.4 all
 xserver-xephyr/bionic-updates 2:1.19.6-1ubuntu4.4 amd64
 xserver-xephyr-hwe-16.04/bionic 3:14.1 amd64
-xserver-xephyr-hwe-18.04/bionic-updates 2:1.20.8-2ubuntu2.1~18.04.1 amd64
+xserver-xephyr-hwe-18.04/bionic-updates 2:1.20.8-2ubuntu2.2~18.04.1 amd64
 xserver-xorg/bionic-updates 1:7.7+19ubuntu7.1 amd64
 xserver-xorg-core/bionic-updates 2:1.19.6-1ubuntu4.4 amd64
 xserver-xorg-core-hwe-16.04/bionic 3:14.1 amd64
-xserver-xorg-core-hwe-18.04/bionic-updates 2:1.20.8-2ubuntu2.1~18.04.1 amd64
+xserver-xorg-core-hwe-18.04/bionic-updates 2:1.20.8-2ubuntu2.2~18.04.1 amd64
 xserver-xorg-dev/bionic-updates 2:1.19.6-1ubuntu4.4 amd64
 xserver-xorg-dev-hwe-16.04/bionic 3:14.1 amd64
-xserver-xorg-dev-hwe-18.04/bionic-updates 2:1.20.8-2ubuntu2.1~18.04.1 amd64
+xserver-xorg-dev-hwe-18.04/bionic-updates 2:1.20.8-2ubuntu2.2~18.04.1 amd64
 xserver-xorg-hwe-16.04/bionic 3:14.1 amd64
 xserver-xorg-hwe-18.04/bionic-updates 1:7.7+19ubuntu8~18.04.3 amd64
 xserver-xorg-input-aiptek/bionic 1:1.4.1-2build1 amd64
@@ -66491,7 +66491,7 @@ xserver-xorg-input-wacom-hwe-18.04/bionic-updates 1:0.36.1-0ubuntu1~18.04.1 amd6
 xserver-xorg-input-xwiimote/bionic 0.5-1build3 amd64
 xserver-xorg-legacy/bionic-updates 2:1.19.6-1ubuntu4.4 amd64
 xserver-xorg-legacy-hwe-16.04/bionic 3:14.1 amd64
-xserver-xorg-legacy-hwe-18.04/bionic-updates 2:1.20.8-2ubuntu2.1~18.04.1 amd64
+xserver-xorg-legacy-hwe-18.04/bionic-updates 2:1.20.8-2ubuntu2.2~18.04.1 amd64
 xserver-xorg-video-all/bionic-updates 1:7.7+19ubuntu7.1 amd64
 xserver-xorg-video-all-hwe-16.04/bionic 3:14.1 amd64
 xserver-xorg-video-all-hwe-18.04/bionic-updates 1:7.7+19ubuntu8~18.04.3 amd64
@@ -66667,7 +66667,7 @@ xwatch/bionic 2.11-15build2 amd64
 xwax/bionic 1.6-2fakesync1 amd64
 xwayland/bionic-updates 2:1.19.6-1ubuntu4.4 amd64
 xwayland-hwe-16.04/bionic 3:14.1 amd64
-xwayland-hwe-18.04/bionic-updates 2:1.20.8-2ubuntu2.1~18.04.1 amd64
+xwayland-hwe-18.04/bionic-updates 2:1.20.8-2ubuntu2.2~18.04.1 amd64
 xwelltris/bionic 1.0.1-17 amd64
 xwiimote/bionic 2-3build1 amd64
 xwit/bionic 3.4-15build1 amd64
