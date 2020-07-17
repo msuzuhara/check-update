@@ -2181,7 +2181,7 @@ cernlib-core/oldstable 20061220+dfsg3-4.3+deb9u2 all
 cernlib-core-dev/oldstable 20061220+dfsg3-4.3+deb9u2 all
 cernlib-extras/oldstable 20061220+dfsg3-4.3+deb9u2 all
 cernlib-montecarlo/oldstable 20061220+dfsg3-3.1 all
-certbot/oldstable,oldstable-updates 0.28.0-1~deb9u2 all
+certbot/oldstable 0.28.0-1~deb9u2 all
 certmonger/oldstable 0.78.6-4 amd64
 cervisia/oldstable 4:16.08.2-1+b1 amd64
 cewl/oldstable 5.3-1 all
@@ -3477,7 +3477,7 @@ debdry/oldstable 0.2.2-1 all
 debfoster/oldstable 2.7-2.1+b1 amd64
 debget/oldstable 1.6+nmu4 all
 debhelper/oldstable 10.2.5 all
-debian-archive-keyring/oldstable,oldstable-updates,now 2017.5+deb9u1 all [installed]
+debian-archive-keyring/oldstable,now 2017.5+deb9u1 all [installed]
 debian-astro-logo/oldstable 1.0 all
 debian-builder/oldstable 1.8 all
 debian-cd/oldstable 3.1.20 all
@@ -4019,7 +4019,7 @@ dnstop/oldstable 20120611-2+b2 amd64
 dnstracer/oldstable 1.9-5 amd64
 dnsutils/oldstable 1:9.10.3.dfsg.P4-12.3+deb9u6 amd64
 dnsvi/oldstable 1.0 all
-dnsviz/oldstable,oldstable-updates 0.6.4-1+deb9u1 all
+dnsviz/oldstable 0.6.4-1+deb9u1 all
 dnswalk/oldstable 2.0.2.dfsg.1-1 all
 doc-base/oldstable 0.10.7 all
 doc-central/oldstable 1.8.3 all
@@ -5002,10 +5002,10 @@ evince-hwp/oldstable 0.1.1-2+b1 amd64
 evince-hwp-dbg/oldstable 0.1.1-2+b1 amd64
 evolution/oldstable,oldstable 3.22.6-1+deb9u2 amd64
 evolution-common/oldstable,oldstable 3.22.6-1+deb9u2 all
-evolution-data-server/oldstable 3.22.7-1 amd64
-evolution-data-server-common/oldstable 3.22.7-1 all
-evolution-data-server-dev/oldstable 3.22.7-1 amd64
-evolution-data-server-doc/oldstable 3.22.7-1 all
+evolution-data-server/oldstable 3.22.7-1+deb9u1 amd64
+evolution-data-server-common/oldstable 3.22.7-1+deb9u1 all
+evolution-data-server-dev/oldstable 3.22.7-1+deb9u1 amd64
+evolution-data-server-doc/oldstable 3.22.7-1+deb9u1 all
 evolution-dev/oldstable,oldstable 3.22.6-1+deb9u2 amd64
 evolution-ews/oldstable 3.22.6-1 amd64
 evolution-plugins/oldstable,oldstable 3.22.6-1+deb9u2 amd64
@@ -5419,14 +5419,14 @@ firefox-esr-l10n-af/oldstable 68.10.0esr-1~deb9u1 all
 firefox-esr-l10n-all/oldstable 68.10.0esr-1~deb9u1 all
 firefox-esr-l10n-an/oldstable 68.10.0esr-1~deb9u1 all
 firefox-esr-l10n-ar/oldstable 68.10.0esr-1~deb9u1 all
-firefox-esr-l10n-as/oldstable-updates 60.6.3esr-1~deb9u1 all
+firefox-esr-l10n-as/oldstable 52.9.0esr-1~deb9u1 all
 firefox-esr-l10n-ast/oldstable 68.10.0esr-1~deb9u1 all
 firefox-esr-l10n-az/oldstable 68.10.0esr-1~deb9u1 all
 firefox-esr-l10n-be/oldstable 68.10.0esr-1~deb9u1 all
 firefox-esr-l10n-bg/oldstable 68.10.0esr-1~deb9u1 all
 firefox-esr-l10n-bn/oldstable 68.10.0esr-1~deb9u1 all
-firefox-esr-l10n-bn-bd/oldstable-updates 60.6.3esr-1~deb9u1 all
-firefox-esr-l10n-bn-in/oldstable-updates 60.6.3esr-1~deb9u1 all
+firefox-esr-l10n-bn-bd/oldstable 52.9.0esr-1~deb9u1 all
+firefox-esr-l10n-bn-in/oldstable 52.9.0esr-1~deb9u1 all
 firefox-esr-l10n-br/oldstable 68.10.0esr-1~deb9u1 all
 firefox-esr-l10n-bs/oldstable 68.10.0esr-1~deb9u1 all
 firefox-esr-l10n-ca/oldstable 68.10.0esr-1~deb9u1 all
@@ -5439,7 +5439,7 @@ firefox-esr-l10n-dsb/oldstable 68.10.0esr-1~deb9u1 all
 firefox-esr-l10n-el/oldstable 68.10.0esr-1~deb9u1 all
 firefox-esr-l10n-en-ca/oldstable 68.10.0esr-1~deb9u1 all
 firefox-esr-l10n-en-gb/oldstable 68.10.0esr-1~deb9u1 all
-firefox-esr-l10n-en-za/oldstable-updates 60.6.3esr-1~deb9u1 all
+firefox-esr-l10n-en-za/oldstable 52.9.0esr-1~deb9u1 all
 firefox-esr-l10n-eo/oldstable 68.10.0esr-1~deb9u1 all
 firefox-esr-l10n-es-ar/oldstable 68.10.0esr-1~deb9u1 all
 firefox-esr-l10n-es-cl/oldstable 68.10.0esr-1~deb9u1 all
@@ -5477,9 +5477,9 @@ firefox-esr-l10n-ko/oldstable 68.10.0esr-1~deb9u1 all
 firefox-esr-l10n-lij/oldstable 68.10.0esr-1~deb9u1 all
 firefox-esr-l10n-lt/oldstable 68.10.0esr-1~deb9u1 all
 firefox-esr-l10n-lv/oldstable 68.10.0esr-1~deb9u1 all
-firefox-esr-l10n-mai/oldstable-updates 60.6.3esr-1~deb9u1 all
+firefox-esr-l10n-mai/oldstable 52.9.0esr-1~deb9u1 all
 firefox-esr-l10n-mk/oldstable 68.10.0esr-1~deb9u1 all
-firefox-esr-l10n-ml/oldstable-updates 60.6.3esr-1~deb9u1 all
+firefox-esr-l10n-ml/oldstable 52.9.0esr-1~deb9u1 all
 firefox-esr-l10n-mr/oldstable 68.10.0esr-1~deb9u1 all
 firefox-esr-l10n-ms/oldstable 68.10.0esr-1~deb9u1 all
 firefox-esr-l10n-my/oldstable 68.10.0esr-1~deb9u1 all
@@ -5488,7 +5488,7 @@ firefox-esr-l10n-ne-np/oldstable 68.10.0esr-1~deb9u1 all
 firefox-esr-l10n-nl/oldstable 68.10.0esr-1~deb9u1 all
 firefox-esr-l10n-nn-no/oldstable 68.10.0esr-1~deb9u1 all
 firefox-esr-l10n-oc/oldstable 68.10.0esr-1~deb9u1 all
-firefox-esr-l10n-or/oldstable-updates 60.6.3esr-1~deb9u1 all
+firefox-esr-l10n-or/oldstable 52.9.0esr-1~deb9u1 all
 firefox-esr-l10n-pa-in/oldstable 68.10.0esr-1~deb9u1 all
 firefox-esr-l10n-pl/oldstable 68.10.0esr-1~deb9u1 all
 firefox-esr-l10n-pt-br/oldstable 68.10.0esr-1~deb9u1 all
@@ -7584,9 +7584,9 @@ gir1.2-dbusmenu-gtk-0.4/oldstable 12.10.2-2 amd64
 gir1.2-dbusmenu-gtk3-0.4/oldstable 12.10.2-2 amd64
 gir1.2-dee-1.0/oldstable 1.0.10-3.1+b2 amd64
 gir1.2-diodon-1.0/oldstable 1.3.0-1 amd64
-gir1.2-ebook-1.2/oldstable 3.22.7-1 amd64
-gir1.2-ebookcontacts-1.2/oldstable 3.22.7-1 amd64
-gir1.2-edataserver-1.2/oldstable 3.22.7-1 amd64
+gir1.2-ebook-1.2/oldstable 3.22.7-1+deb9u1 amd64
+gir1.2-ebookcontacts-1.2/oldstable 3.22.7-1+deb9u1 amd64
+gir1.2-edataserver-1.2/oldstable 3.22.7-1+deb9u1 amd64
 gir1.2-entangle-0.1/oldstable 0.7.1-1+b1 amd64
 gir1.2-eom/oldstable 1.16.1-1 amd64
 gir1.2-evd-0.1/oldstable 0.1.28-4+b3 amd64
@@ -10392,14 +10392,14 @@ iceweasel-l10n-af/oldstable 1:68.10.0esr-1~deb9u1 all
 iceweasel-l10n-all/oldstable 1:68.10.0esr-1~deb9u1 all
 iceweasel-l10n-an/oldstable 1:68.10.0esr-1~deb9u1 all
 iceweasel-l10n-ar/oldstable 1:68.10.0esr-1~deb9u1 all
-iceweasel-l10n-as/oldstable-updates 1:60.6.3esr-1~deb9u1 all
+iceweasel-l10n-as/oldstable 1:52.9.0esr-1~deb9u1 all
 iceweasel-l10n-ast/oldstable 1:68.10.0esr-1~deb9u1 all
 iceweasel-l10n-az/oldstable 1:68.10.0esr-1~deb9u1 all
 iceweasel-l10n-be/oldstable 1:68.10.0esr-1~deb9u1 all
 iceweasel-l10n-bg/oldstable 1:68.10.0esr-1~deb9u1 all
 iceweasel-l10n-bn/oldstable 1:68.10.0esr-1~deb9u1 all
-iceweasel-l10n-bn-bd/oldstable-updates 1:60.6.3esr-1~deb9u1 all
-iceweasel-l10n-bn-in/oldstable-updates 1:60.6.3esr-1~deb9u1 all
+iceweasel-l10n-bn-bd/oldstable 1:52.9.0esr-1~deb9u1 all
+iceweasel-l10n-bn-in/oldstable 1:52.9.0esr-1~deb9u1 all
 iceweasel-l10n-br/oldstable 1:68.10.0esr-1~deb9u1 all
 iceweasel-l10n-bs/oldstable 1:68.10.0esr-1~deb9u1 all
 iceweasel-l10n-ca/oldstable 1:68.10.0esr-1~deb9u1 all
@@ -10412,7 +10412,7 @@ iceweasel-l10n-dsb/oldstable 1:68.10.0esr-1~deb9u1 all
 iceweasel-l10n-el/oldstable 1:68.10.0esr-1~deb9u1 all
 iceweasel-l10n-en-ca/oldstable 1:68.10.0esr-1~deb9u1 all
 iceweasel-l10n-en-gb/oldstable 1:68.10.0esr-1~deb9u1 all
-iceweasel-l10n-en-za/oldstable-updates 1:60.6.3esr-1~deb9u1 all
+iceweasel-l10n-en-za/oldstable 1:52.9.0esr-1~deb9u1 all
 iceweasel-l10n-eo/oldstable 1:68.10.0esr-1~deb9u1 all
 iceweasel-l10n-es-ar/oldstable 1:68.10.0esr-1~deb9u1 all
 iceweasel-l10n-es-cl/oldstable 1:68.10.0esr-1~deb9u1 all
@@ -10450,9 +10450,9 @@ iceweasel-l10n-ko/oldstable 1:68.10.0esr-1~deb9u1 all
 iceweasel-l10n-lij/oldstable 1:68.10.0esr-1~deb9u1 all
 iceweasel-l10n-lt/oldstable 1:68.10.0esr-1~deb9u1 all
 iceweasel-l10n-lv/oldstable 1:68.10.0esr-1~deb9u1 all
-iceweasel-l10n-mai/oldstable-updates 1:60.6.3esr-1~deb9u1 all
+iceweasel-l10n-mai/oldstable 1:52.9.0esr-1~deb9u1 all
 iceweasel-l10n-mk/oldstable 1:68.10.0esr-1~deb9u1 all
-iceweasel-l10n-ml/oldstable-updates 1:60.6.3esr-1~deb9u1 all
+iceweasel-l10n-ml/oldstable 1:52.9.0esr-1~deb9u1 all
 iceweasel-l10n-mr/oldstable 1:68.10.0esr-1~deb9u1 all
 iceweasel-l10n-ms/oldstable 1:68.10.0esr-1~deb9u1 all
 iceweasel-l10n-my/oldstable 1:68.10.0esr-1~deb9u1 all
@@ -10461,7 +10461,7 @@ iceweasel-l10n-ne-np/oldstable 1:68.10.0esr-1~deb9u1 all
 iceweasel-l10n-nl/oldstable 1:68.10.0esr-1~deb9u1 all
 iceweasel-l10n-nn-no/oldstable 1:68.10.0esr-1~deb9u1 all
 iceweasel-l10n-oc/oldstable 1:68.10.0esr-1~deb9u1 all
-iceweasel-l10n-or/oldstable-updates 1:60.6.3esr-1~deb9u1 all
+iceweasel-l10n-or/oldstable 1:52.9.0esr-1~deb9u1 all
 iceweasel-l10n-pa-in/oldstable 1:68.10.0esr-1~deb9u1 all
 iceweasel-l10n-pl/oldstable 1:68.10.0esr-1~deb9u1 all
 iceweasel-l10n-pt-br/oldstable 1:68.10.0esr-1~deb9u1 all
@@ -12135,7 +12135,7 @@ lemonldap-ng-handler/oldstable 1.9.7-3+deb9u2 all
 leocad/oldstable 0.83.1-1 amd64
 leptonica-progs/oldstable 1.74.1-1 amd64
 less/oldstable,now 481-2.1 amd64 [installed]
-letsencrypt/oldstable,oldstable-updates 0.28.0-1~deb9u2 all
+letsencrypt/oldstable 0.28.0-1~deb9u2 all
 letsencrypt.sh/oldstable 0.6.2-2+deb10u1~deb9u1 all
 letsencrypt.sh-apache2/oldstable 0.6.2-2+deb10u1~deb9u1 all
 letterize/oldstable 1.4-1+b1 amd64
@@ -13812,8 +13812,8 @@ libcalendar-simple-perl/oldstable 1.21-2 all
 libcalendarsupport4/oldstable 4:4.14.10-7+b2 amd64
 libcam-pdf-perl/oldstable 1.60-3 all
 libcamd2/oldstable 1:4.5.4-1 amd64
-libcamel-1.2-59/oldstable 3.22.7-1 amd64
-libcamel1.2-dev/oldstable 3.22.7-1 amd64
+libcamel-1.2-59/oldstable 3.22.7-1+deb9u1 amd64
+libcamel1.2-dev/oldstable 3.22.7-1+deb9u1 amd64
 libcamera-calibration-parsers-dev/oldstable 1.11.11-2 amd64
 libcamera-calibration-parsers0d/oldstable 1.11.11-2 amd64
 libcamera-info-manager-dev/oldstable 1.11.11-2 amd64
@@ -15267,7 +15267,7 @@ libdatetime-incomplete-perl/oldstable 0.08-1 all
 libdatetime-locale-perl/oldstable 1:1.11-1 all
 libdatetime-perl/oldstable 2:1.42-1 amd64
 libdatetime-set-perl/oldstable 0.3900-1 all
-libdatetime-timezone-perl/oldstable,oldstable-updates 1:2.09-1+2019c all
+libdatetime-timezone-perl/oldstable 1:2.09-1+2019c all
 libdatetime-timezone-systemv-perl/oldstable 0.009-2 all
 libdatetime-timezone-tzfile-perl/oldstable 0.010-2 all
 libdatetime-tiny-perl/oldstable 1.06-1 all
@@ -15857,23 +15857,23 @@ libeasymock-java-doc/oldstable 3.4+ds-1 all
 libeatmydata1/oldstable 105-5 amd64
 libeb16/oldstable 4.4.3-11 amd64
 libeb16-dev/oldstable 4.4.3-11 amd64
-libebackend-1.2-10/oldstable 3.22.7-1 amd64
-libebackend1.2-dev/oldstable 3.22.7-1 amd64
+libebackend-1.2-10/oldstable 3.22.7-1+deb9u1 amd64
+libebackend1.2-dev/oldstable 3.22.7-1+deb9u1 amd64
 libebitdo-dev/oldstable 0.7.4-2+deb9u1 amd64
 libebitdo1/oldstable 0.7.4-2+deb9u1 amd64
 libebml-dev/oldstable 1.3.4-1+deb9u1 amd64
 libebml4v5/oldstable 1.3.4-1+deb9u1 amd64
-libebook-1.2-16/oldstable 3.22.7-1 amd64
-libebook-contacts-1.2-2/oldstable 3.22.7-1 amd64
-libebook-contacts1.2-dev/oldstable 3.22.7-1 amd64
+libebook-1.2-16/oldstable 3.22.7-1+deb9u1 amd64
+libebook-contacts-1.2-2/oldstable 3.22.7-1+deb9u1 amd64
+libebook-contacts1.2-dev/oldstable 3.22.7-1+deb9u1 amd64
 libebook-tools-perl/oldstable 0.5.4-1.3 amd64
-libebook1.2-dev/oldstable 3.22.7-1 amd64
+libebook1.2-dev/oldstable 3.22.7-1+deb9u1 amd64
 libebur128-1/oldstable 1.2.2-2 amd64
 libebur128-dev/oldstable 1.2.2-2 amd64
 libec-dev/oldstable 20160720-2 amd64
 libec2/oldstable 20160720-2 amd64
-libecal-1.2-19/oldstable 3.22.7-1 amd64
-libecal1.2-dev/oldstable 3.22.7-1 amd64
+libecal-1.2-19/oldstable 3.22.7-1+deb9u1 amd64
+libecal1.2-dev/oldstable 3.22.7-1+deb9u1 amd64
 libecap3/oldstable 1.0.1-3.2 amd64
 libecap3-dev/oldstable 1.0.1-3.2 amd64
 libecasoundc-dev/oldstable 2.9.1-7+b2 amd64
@@ -15918,14 +15918,14 @@ libedac-dev/oldstable 0.18-1+b1 amd64
 libedac1/oldstable 0.18-1+b1 amd64
 libedac1-dbg/oldstable 0.18-1+b1 amd64
 libedasqlite0/oldstable 0.44.15-1+b1 amd64
-libedata-book-1.2-25/oldstable 3.22.7-1 amd64
-libedata-book1.2-dev/oldstable 3.22.7-1 amd64
-libedata-cal-1.2-28/oldstable 3.22.7-1 amd64
-libedata-cal1.2-dev/oldstable 3.22.7-1 amd64
-libedataserver-1.2-22/oldstable 3.22.7-1 amd64
-libedataserver1.2-dev/oldstable 3.22.7-1 amd64
-libedataserverui-1.2-1/oldstable 3.22.7-1 amd64
-libedataserverui1.2-dev/oldstable 3.22.7-1 amd64
+libedata-book-1.2-25/oldstable 3.22.7-1+deb9u1 amd64
+libedata-book1.2-dev/oldstable 3.22.7-1+deb9u1 amd64
+libedata-cal-1.2-28/oldstable 3.22.7-1+deb9u1 amd64
+libedata-cal1.2-dev/oldstable 3.22.7-1+deb9u1 amd64
+libedataserver-1.2-22/oldstable 3.22.7-1+deb9u1 amd64
+libedataserver1.2-dev/oldstable 3.22.7-1+deb9u1 amd64
+libedataserverui-1.2-1/oldstable 3.22.7-1+deb9u1 amd64
+libedataserverui1.2-dev/oldstable 3.22.7-1+deb9u1 amd64
 libedbus-dev/oldstable 1.7.10-1 amd64
 libedbus1/oldstable 1.7.10-1 amd64
 libedf-dev/oldstable 1.11-2 amd64
@@ -38084,8 +38084,8 @@ python-aalib/oldstable 0.3.2-1 all
 python-abstract-rendering/oldstable 0.5.1-1+b2 amd64
 python-abstract-rendering-doc/oldstable 0.5.1-1 all
 python-acidobasic/oldstable 2.5-1 all
-python-acme/oldstable,oldstable-updates 0.28.0-1~deb9u2 all
-python-acme-doc/oldstable,oldstable-updates 0.28.0-1~deb9u2 all
+python-acme/oldstable 0.28.0-1~deb9u2 all
+python-acme-doc/oldstable 0.28.0-1~deb9u2 all
 python-acora/oldstable 2.0-2 amd64
 python-acoustid/oldstable 1.1.2-2 all
 python-actdiag/oldstable 0.5.4+dfsg-1 all
@@ -38358,11 +38358,11 @@ python-cement-doc/oldstable 2.10.0-1 all
 python-ceph/oldstable,oldstable 10.2.11-2 all
 python-cephfs/oldstable,oldstable 10.2.11-2 amd64
 python-cerealizer/oldstable 0.8.1-1+deb9u1 all
-python-certbot-apache/oldstable,oldstable-updates 0.28.0-1~deb9u1 all
-python-certbot-apache-doc/oldstable,oldstable-updates 0.28.0-1~deb9u1 all
-python-certbot-doc/oldstable,oldstable-updates 0.28.0-1~deb9u2 all
-python-certbot-nginx/oldstable,oldstable-updates 0.28.0-1~deb9u1 all
-python-certbot-nginx-doc/oldstable,oldstable-updates 0.28.0-1~deb9u1 all
+python-certbot-apache/oldstable 0.28.0-1~deb9u1 all
+python-certbot-apache-doc/oldstable 0.28.0-1~deb9u1 all
+python-certbot-doc/oldstable 0.28.0-1~deb9u2 all
+python-certbot-nginx/oldstable 0.28.0-1~deb9u1 all
+python-certbot-nginx-doc/oldstable 0.28.0-1~deb9u1 all
 python-certifi/oldstable 2016.2.28-1 all
 python-cf/oldstable 1.3.2+dfsg1-4 amd64
 python-cf-doc/oldstable 1.3.2+dfsg1-4 all
@@ -39289,8 +39289,8 @@ python-jinja2-doc/oldstable 2.8-1 all
 python-jinja2-time/oldstable 0.2.0-1 all
 python-jmespath/oldstable 0.9.0-2 all
 python-joblib/oldstable 0.10.3+git55-g660fe5d-1 all
-python-josepy/oldstable,oldstable-updates 1.1.0-2~deb9u1 all
-python-josepy-doc/oldstable,oldstable-updates 1.1.0-2~deb9u1 all
+python-josepy/oldstable 1.1.0-2~deb9u1 all
+python-josepy-doc/oldstable 1.1.0-2~deb9u1 all
 python-jpy/oldstable 0.8-5 amd64
 python-jpylyzer/oldstable 1.17.0-1 all
 python-jpylyzer-doc/oldstable 1.17.0-1 all
@@ -39955,7 +39955,7 @@ python-parallel/oldstable 0.2.2-2 all
 python-paramiko/oldstable 2.0.0-1 all
 python-park/oldstable 1.0.0-1 all
 python-parse/oldstable 1.6.6-0.1 all
-python-parsedatetime/oldstable,oldstable-updates 2.1-3+deb9u1 all
+python-parsedatetime/oldstable 2.1-3+deb9u1 all
 python-parsel/oldstable 1.0.3-2 all
 python-parsley/oldstable 1.2-1 all
 python-parted/oldstable 3.10.7-3 amd64
@@ -41408,7 +41408,7 @@ python2.7-minimal/oldstable,oldstable,now 2.7.13-2+deb9u3 amd64 [installed,autom
 python3/oldstable,now 3.5.3-1 amd64 [installed,automatic]
 python3-aalib/oldstable 0.3.2-1 all
 python3-abstract-rendering/oldstable 0.5.1-1+b2 amd64
-python3-acme/oldstable,oldstable-updates 0.28.0-1~deb9u2 all
+python3-acme/oldstable 0.28.0-1~deb9u2 all
 python3-acora/oldstable 2.0-2 amd64
 python3-acoustid/oldstable 1.1.2-2 all
 python3-actdiag/oldstable 0.5.4+dfsg-1 all
@@ -41574,9 +41574,9 @@ python3-ceilometermiddleware/oldstable 0.5.0-3 all
 python3-celery/oldstable 3.1.23-7 all
 python3-cement/oldstable 2.10.0-1 all
 python3-cerealizer/oldstable 0.8.1-1+deb9u1 all
-python3-certbot/oldstable,oldstable-updates 0.28.0-1~deb9u2 all
-python3-certbot-apache/oldstable,oldstable-updates 0.28.0-1~deb9u1 all
-python3-certbot-nginx/oldstable,oldstable-updates 0.28.0-1~deb9u1 all
+python3-certbot/oldstable 0.28.0-1~deb9u2 all
+python3-certbot-apache/oldstable 0.28.0-1~deb9u1 all
+python3-certbot-nginx/oldstable 0.28.0-1~deb9u1 all
 python3-certifi/oldstable 2016.2.28-1 all
 python3-cffi/oldstable 1.9.1-2 all
 python3-cffi-backend/oldstable 1.9.1-2 amd64
@@ -42081,7 +42081,7 @@ python3-jinja2/oldstable 2.8-1 all
 python3-jinja2-time/oldstable 0.2.0-1 all
 python3-jmespath/oldstable 0.9.0-2 all
 python3-joblib/oldstable 0.10.3+git55-g660fe5d-1 all
-python3-josepy/oldstable,oldstable-updates 1.1.0-2~deb9u1 all
+python3-josepy/oldstable 1.1.0-2~deb9u1 all
 python3-jpy/oldstable 0.8-5 amd64
 python3-jsbeautifier/oldstable 1.6.4-6 all
 python3-jsmin/oldstable 2.2.1-2 all
@@ -42416,7 +42416,7 @@ python3-parallax/oldstable 1.0.1-3 all
 python3-parallel/oldstable 0.2.2-2 all
 python3-paramiko/oldstable 2.0.0-1 all
 python3-parse/oldstable 1.6.6-0.1 all
-python3-parsedatetime/oldstable,oldstable-updates 2.1-3+deb9u1 all
+python3-parsedatetime/oldstable 2.1-3+deb9u1 all
 python3-parsel/oldstable 1.0.3-2 all
 python3-partd/oldstable 0.3.7-1 all
 python3-parted/oldstable 3.10.7-3 amd64
@@ -48272,10 +48272,10 @@ topmenu-gtk2/oldstable 0.3-1 amd64
 topmenu-gtk3/oldstable 0.3-1 amd64
 toppler/oldstable 1.1.6-2+b1 amd64
 toppred/oldstable 1.10-4 amd64
-tor/oldstable,oldstable-updates 0.2.9.16-1 amd64
+tor/oldstable 0.2.9.16-1 amd64
 tor-arm/oldstable 1.4.5.0-1.1 all
-tor-dbg/oldstable,oldstable-updates 0.2.9.16-1 amd64
-tor-geoipdb/oldstable,oldstable-updates 0.2.9.16-1 all
+tor-dbg/oldstable 0.2.9.16-1 amd64
+tor-geoipdb/oldstable 0.2.9.16-1 all
 tora/oldstable 2.1.3-3 amd64
 tora-dbg/oldstable 2.1.3-3 amd64
 torchat/oldstable 0.9.9.553-2 all
@@ -48676,7 +48676,7 @@ typecatcher/oldstable 0.2-2 all
 typespeed/oldstable 0.6.5-2.1+b2 amd64
 tz-converter/oldstable 1.0.0-1 all
 tzc/oldstable 2.6.15-5.4 amd64
-tzdata/oldstable,oldstable-updates,now 2019c-0+deb9u1 all [installed]
+tzdata/oldstable,now 2019c-0+deb9u1 all [installed]
 tzwatch/oldstable 1.4.4-10 all
 u-boot-tools/oldstable 2016.11+dfsg1-4 amd64
 u1db-tools/oldstable 13.10-6.2 amd64
