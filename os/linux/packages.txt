@@ -2450,13 +2450,15 @@ kdewebdev-libs.i686                        6:3.5.10-14.el6               base
 kdewebdev-libs.x86_64                      6:3.5.10-14.el6               base   
 kdm.x86_64                                 4.3.4-37.el6                  base   
 keepalived.x86_64                          1.2.13-5.el6_6                base   
-kernel-abi-whitelists.noarch               2.6.32-754.30.2.el6           updates
-kernel-debug.x86_64                        2.6.32-754.30.2.el6           updates
-kernel-debug-devel.i686                    2.6.32-754.30.2.el6           updates
-kernel-debug-devel.x86_64                  2.6.32-754.30.2.el6           updates
-kernel-devel.x86_64                        2.6.32-754.30.2.el6           updates
-kernel-doc.noarch                          2.6.32-754.30.2.el6           updates
-kernel-headers.x86_64                      2.6.32-754.30.2.el6           updates
+kernel.x86_64                              2.6.32-754.31.1.el6           updates
+kernel-abi-whitelists.noarch               2.6.32-754.31.1.el6           updates
+kernel-debug.x86_64                        2.6.32-754.31.1.el6           updates
+kernel-debug-devel.i686                    2.6.32-754.31.1.el6           updates
+kernel-debug-devel.x86_64                  2.6.32-754.31.1.el6           updates
+kernel-devel.x86_64                        2.6.32-754.31.1.el6           updates
+kernel-doc.noarch                          2.6.32-754.31.1.el6           updates
+kernel-firmware.noarch                     2.6.32-754.31.1.el6           updates
+kernel-headers.x86_64                      2.6.32-754.31.1.el6           updates
 kexec-tools.x86_64                         2.0.0-310.el6                 base   
 kexec-tools-eppic.x86_64                   2.0.0-310.el6                 base   
 keyutils.x86_64                            1.4-5.el6                     base   
@@ -4592,7 +4594,7 @@ pentaho-libxml-javadoc.noarch              1.0.0-2.OOo31.1.el6           base
 pentaho-reporting-flow-engine.x86_64       1:0.9.2-5.OOo31.el6           base   
 pentaho-reporting-flow-engine-javadoc.noarch
                                            1:0.9.2-5.OOo31.el6           base   
-perf.x86_64                                2.6.32-754.30.2.el6           updates
+perf.x86_64                                2.6.32-754.31.1.el6           updates
 perftest.x86_64                            3.0-2.0.16.gb2f2e82.el6       base   
 perl-Algorithm-Diff.noarch                 1.1902-9.el6                  base   
 perl-AppConfig.noarch                      1.66-6.el6                    base   
@@ -5227,7 +5229,7 @@ python-peak-util-addons.noarch             0.6-4.1.el6                   base
 python-peak-util-assembler.noarch          0.5.1-1.el6                   base   
 python-peak-util-extremes.noarch           1.1-4.1.el6                   base   
 python-peak-util-symbols.noarch            1.0-4.1.el6                   base   
-python-perf.x86_64                         2.6.32-754.30.2.el6           updates
+python-perf.x86_64                         2.6.32-754.31.1.el6           updates
 python-prettytable.noarch                  0.7.2-11.el6                  base   
 python-prioritized-methods.noarch          0.2.1-5.2.el6                 base   
 python-psycopg2.x86_64                     2.0.14-2.el6                  base   
@@ -6003,7 +6005,7 @@ thai-scalable-tlwgtypo-fonts.noarch        0.4.12-2.1.el6                base
 thai-scalable-umpush-fonts.noarch          0.4.12-2.1.el6                base   
 thai-scalable-waree-fonts.noarch           0.4.12-2.1.el6                base   
 theora-tools.x86_64                        1:1.1.0-2.el6                 base   
-thunderbird.x86_64                         68.9.0-1.el6.centos           updates
+thunderbird.x86_64                         68.10.0-1.el6.centos          updates
 tibetan-machine-uni-fonts.noarch           1.901-5.el6                   base   
 tidy.x86_64                                0.99.0-19.20070615.1.el6      base   
 tigervnc.x86_64                            1.1.0-24.el6                  base   
