@@ -4787,7 +4787,6 @@ engrampa-common/oldstable 1.16.0-2 all
 enigma/oldstable 1.20-dfsg.1-2.1+b1 amd64
 enigma-data/oldstable 1.20-dfsg.1-2.1 all
 enigma-doc/oldstable 1.20-dfsg.1-2.1 all
-enigmail/oldstable 2:1.9.9-1~deb9u1 all
 enjarify/oldstable 1:1.0.3-3 all
 enscribe/oldstable 0.1.0-2 amd64
 enscript/oldstable 1.6.5.90-3 amd64
@@ -36429,7 +36428,6 @@ pdns-backend-pipe/oldstable,oldstable 4.0.3-1+deb9u5 amd64
 pdns-backend-remote/oldstable,oldstable 4.0.3-1+deb9u5 amd64
 pdns-backend-sqlite3/oldstable,oldstable 4.0.3-1+deb9u5 amd64
 pdns-backend-tinydns/oldstable,oldstable 4.0.3-1+deb9u5 amd64
-pdns-recursor/oldstable 4.0.4-1+deb9u3 amd64
 pdns-server/oldstable,oldstable 4.0.3-1+deb9u5 amd64
 pdns-tools/oldstable,oldstable 4.0.3-1+deb9u5 amd64
 pdsh/oldstable 2.31-3+b1 amd64
