@@ -1325,7 +1325,7 @@ barrier/focal 2.3.2+dfsg-1build1 amd64
 barrnap/focal,focal 0.9+dfsg-1 all
 bart-view/focal 0.1.00-2 amd64
 bart/focal 0.5.00-1 amd64
-base-files/focal-updates 11ubuntu5.1 amd64 [upgradable from: 11ubuntu5]
+base-files/focal-updates,now 11ubuntu5.1 amd64 [installed]
 base-files/focal-updates 11ubuntu5.1 i386
 base-passwd/focal,now 3.5.47 amd64 [installed]
 base-passwd/focal 3.5.47 i386
@@ -1970,39 +1970,39 @@ bubblewrap/focal 0.4.0-1ubuntu4 i386
 bucardo/focal,focal 5.5.0-1 all
 bucklespring-data/focal,focal 1.4.0-2 all
 bucklespring/focal 1.4.0-2 amd64
-budgie-app-launcher-applet/focal,focal 1.0.1-2 all
-budgie-applications-menu-applet/focal 1.0.1-2 amd64
+budgie-app-launcher-applet/focal-updates,focal-updates 1.0.2-0ubuntu1 all
+budgie-applications-menu-applet/focal-updates 1.0.2-0ubuntu1 amd64
 budgie-appmenu-applet/focal 0.7.3+dfsg1-2 amd64
-budgie-brightness-controller-applet/focal 1.0.1-2 amd64
-budgie-clockworks-applet/focal,focal 1.0.1-2 all
+budgie-brightness-controller-applet/focal-updates 1.0.2-0ubuntu1 amd64
+budgie-clockworks-applet/focal-updates,focal-updates 1.0.2-0ubuntu1 all
 budgie-core-dev/focal 10.5.1-6 amd64
 budgie-core/focal 10.5.1-6 amd64
-budgie-countdown-applet/focal,focal 1.0.1-2 all
+budgie-countdown-applet/focal-updates,focal-updates 1.0.2-0ubuntu1 all
 budgie-desktop-doc/focal,focal 10.5.1-6 all
 budgie-desktop-environment/focal,focal 0.13.7 all
 budgie-desktop/focal,focal 10.5.1-6 all
-budgie-dropby-applet/focal,focal 1.0.1-2 all
-budgie-extras-common/focal 1.0.1-2 amd64
-budgie-extras-daemon/focal 1.0.1-2 amd64
-budgie-fuzzyclock-applet/focal 1.0.1-2 amd64
-budgie-hotcorners-applet/focal 1.0.1-2 amd64
+budgie-dropby-applet/focal-updates,focal-updates 1.0.2-0ubuntu1 all
+budgie-extras-common/focal-updates 1.0.2-0ubuntu1 amd64
+budgie-extras-daemon/focal-updates 1.0.2-0ubuntu1 amd64
+budgie-fuzzyclock-applet/focal-updates 1.0.2-0ubuntu1 amd64
+budgie-hotcorners-applet/focal-updates 1.0.2-0ubuntu1 amd64
 budgie-indicator-applet/focal 0.6.2-1ubuntu1 amd64
-budgie-kangaroo-applet/focal,focal 1.0.1-2 all
-budgie-keyboard-autoswitch-applet/focal,focal 1.0.1-2 all
+budgie-kangaroo-applet/focal-updates,focal-updates 1.0.2-0ubuntu1 all
+budgie-keyboard-autoswitch-applet/focal-updates,focal-updates 1.0.2-0ubuntu1 all
 budgie-lightdm-theme-base/focal,focal 0.12.3 all
 budgie-lightdm-theme/focal,focal 0.12.3 all
-budgie-network-manager-applet/focal 1.0.1-2 amd64
-budgie-previews-applet/focal,focal 1.0.1-2 all
-budgie-previews/focal 1.0.1-2 amd64
-budgie-quickchar/focal,focal 1.0.1-2 all
-budgie-quicknote-applet/focal 1.0.1-2 amd64
-budgie-recentlyused-applet/focal 1.0.1-2 amd64
-budgie-rotation-lock-applet/focal,focal 1.0.1-2 all
-budgie-showtime-applet/focal 1.0.1-2 amd64
+budgie-network-manager-applet/focal-updates 1.0.2-0ubuntu1 amd64
+budgie-previews-applet/focal-updates,focal-updates 1.0.2-0ubuntu1 all
+budgie-previews/focal-updates 1.0.2-0ubuntu1 amd64
+budgie-quickchar/focal-updates,focal-updates 1.0.2-0ubuntu1 all
+budgie-quicknote-applet/focal-updates 1.0.2-0ubuntu1 amd64
+budgie-recentlyused-applet/focal-updates 1.0.2-0ubuntu1 amd64
+budgie-rotation-lock-applet/focal-updates,focal-updates 1.0.2-0ubuntu1 all
+budgie-showtime-applet/focal-updates 1.0.2-0ubuntu1 amd64
 budgie-sntray-plugin/focal 0.4.12-2 amd64
-budgie-takeabreak-applet/focal,focal 1.0.1-2 all
-budgie-trash-applet/focal 1.0.1-2 amd64
-budgie-visualspace-applet/focal 1.0.1-2 amd64
+budgie-takeabreak-applet/focal-updates,focal-updates 1.0.2-0ubuntu1 all
+budgie-trash-applet/focal-updates 1.0.2-0ubuntu1 amd64
+budgie-visualspace-applet/focal-updates 1.0.2-0ubuntu1 amd64
 budgie-wallpapers-artful/focal,focal 20.04 all
 budgie-wallpapers-bionic/focal,focal 20.04 all
 budgie-wallpapers-cosmic/focal,focal 20.04 all
@@ -2013,14 +2013,14 @@ budgie-wallpapers-xenial/focal,focal 20.04 all
 budgie-wallpapers-yakkety/focal,focal 20.04 all
 budgie-wallpapers-zesty/focal,focal 20.04 all
 budgie-wallpapers/focal,focal 20.04 all
-budgie-wallstreet/focal 1.0.1-2 amd64
-budgie-weathershow-applet/focal 1.0.1-2 amd64
+budgie-wallstreet/focal-updates 1.0.2-0ubuntu1 amd64
+budgie-weathershow-applet/focal-updates 1.0.2-0ubuntu1 amd64
 budgie-welcome/focal,focal 0.6.1 all
-budgie-window-mover-applet/focal,focal 1.0.1-2 all
-budgie-window-shuffler/focal 1.0.1-2 amd64
-budgie-workspace-overview-applet/focal,focal 1.0.1-2 all
-budgie-workspace-stopwatch-applet/focal,focal 1.0.1-2 all
-budgie-workspace-wallpaper-applet/focal,focal 1.0.1-2 all
+budgie-window-mover-applet/focal-updates,focal-updates 1.0.2-0ubuntu1 all
+budgie-window-shuffler/focal-updates 1.0.2-0ubuntu1 amd64
+budgie-workspace-overview-applet/focal-updates,focal-updates 1.0.2-0ubuntu1 all
+budgie-workspace-stopwatch-applet/focal-updates,focal-updates 1.0.2-0ubuntu1 all
+budgie-workspace-wallpaper-applet/focal-updates,focal-updates 1.0.2-0ubuntu1 all
 buffer/focal 1.19-12build1 amd64
 bugsquish/focal 0.0.6-9 amd64
 bugwarrior/focal,focal 1.7.0-1 all
@@ -15852,8 +15852,8 @@ language-pack-dz-base/focal-updates,focal-updates 1:20.04+20200709 all
 language-pack-dz/focal-updates,focal-updates 1:20.04+20200709 all
 language-pack-el-base/focal-updates,focal-updates 1:20.04+20200709 all
 language-pack-el/focal-updates,focal-updates 1:20.04+20200709 all
-language-pack-en-base/focal-updates,focal-updates 1:20.04+20200709 all [upgradable from: 1:20.04+20200416]
-language-pack-en/focal-updates,focal-updates 1:20.04+20200709 all [upgradable from: 1:20.04+20200416]
+language-pack-en-base/focal-updates,focal-updates,now 1:20.04+20200709 all [installed,automatic]
+language-pack-en/focal-updates,focal-updates,now 1:20.04+20200709 all [installed]
 language-pack-eo-base/focal-updates,focal-updates 1:20.04+20200709 all
 language-pack-eo/focal-updates,focal-updates 1:20.04+20200709 all
 language-pack-es-base/focal-updates,focal-updates 1:20.04+20200709 all
@@ -15918,8 +15918,8 @@ language-pack-gnome-dz-base/focal-updates,focal-updates 1:20.04+20200709 all
 language-pack-gnome-dz/focal-updates,focal-updates 1:20.04+20200709 all
 language-pack-gnome-el-base/focal-updates,focal-updates 1:20.04+20200709 all
 language-pack-gnome-el/focal-updates,focal-updates 1:20.04+20200709 all
-language-pack-gnome-en-base/focal-updates,focal-updates 1:20.04+20200709 all [upgradable from: 1:20.04+20200416]
-language-pack-gnome-en/focal-updates,focal-updates 1:20.04+20200709 all [upgradable from: 1:20.04+20200416]
+language-pack-gnome-en-base/focal-updates,focal-updates,now 1:20.04+20200709 all [installed,automatic]
+language-pack-gnome-en/focal-updates,focal-updates,now 1:20.04+20200709 all [installed]
 language-pack-gnome-eo-base/focal-updates,focal-updates 1:20.04+20200709 all
 language-pack-gnome-eo/focal-updates,focal-updates 1:20.04+20200709 all
 language-pack-gnome-es-base/focal-updates,focal-updates 1:20.04+20200709 all
@@ -33592,7 +33592,7 @@ libnss-resolve/focal-updates 245.4-4ubuntu3.2 amd64
 libnss-resolve/focal-updates 245.4-4ubuntu3.2 i386
 libnss-securepass/focal 0.5-1 amd64
 libnss-sss/focal 2.2.3-3 amd64
-libnss-systemd/focal-updates 245.4-4ubuntu3.2 amd64 [upgradable from: 245.4-4ubuntu3.1]
+libnss-systemd/focal-updates,now 245.4-4ubuntu3.2 amd64 [installed]
 libnss-systemd/focal-updates 245.4-4ubuntu3.2 i386
 libnss-unknown/focal 0.0.2-2 amd64
 libnss-winbind/focal-updates,focal-security 2:4.11.6+dfsg-0ubuntu1.3 amd64
@@ -34762,7 +34762,7 @@ libpam-snapper/focal 0.8.6-1build1 amd64
 libpam-ssh-agent-auth/focal 0.10.3-3ubuntu1 amd64
 libpam-ssh/focal 2.3+ds-1 amd64
 libpam-sss/focal 2.2.3-3 amd64
-libpam-systemd/focal-updates 245.4-4ubuntu3.2 amd64 [upgradable from: 245.4-4ubuntu3.1]
+libpam-systemd/focal-updates,now 245.4-4ubuntu3.2 amd64 [installed]
 libpam-systemd/focal-updates 245.4-4ubuntu3.2 i386
 libpam-tacplus/focal 1.3.8-2 amd64
 libpam-tmpdir/focal 0.09build1 amd64
@@ -38861,7 +38861,7 @@ libsearpc-dev/focal 3.2.0-3 amd64
 libsearpc1/focal 3.2.0-3 amd64
 libseccomp-dev/focal-updates,focal-security 2.4.3-1ubuntu3.20.04.3 amd64
 libseccomp-dev/focal-updates,focal-security 2.4.3-1ubuntu3.20.04.3 i386
-libseccomp2/focal-updates,focal-security 2.4.3-1ubuntu3.20.04.3 amd64 [upgradable from: 2.4.3-1ubuntu3.20.04.2]
+libseccomp2/focal-updates,focal-security,now 2.4.3-1ubuntu3.20.04.3 amd64 [installed]
 libseccomp2/focal-updates,focal-security 2.4.3-1ubuntu3.20.04.3 i386
 libsecp256k1-0/focal 0.1~20170810-2 amd64
 libsecp256k1-dev/focal 0.1~20170810-2 amd64
@@ -40270,7 +40270,7 @@ libsystemc-doc/focal,focal 2.3.3-4build1 all
 libsystemc/focal 2.3.3-4build1 amd64
 libsystemd-dev/focal-updates 245.4-4ubuntu3.2 amd64
 libsystemd-dev/focal-updates 245.4-4ubuntu3.2 i386
-libsystemd0/focal-updates 245.4-4ubuntu3.2 amd64 [upgradable from: 245.4-4ubuntu3.1]
+libsystemd0/focal-updates,now 245.4-4ubuntu3.2 amd64 [installed]
 libsystemd0/focal-updates 245.4-4ubuntu3.2 i386
 libsz2/focal 1.0.4-1 amd64
 libt-digest-java-doc/focal,focal 1:3.0-3 all
@@ -41386,7 +41386,7 @@ libucto-dev/focal 0.14-2build2 amd64
 libucto3/focal 0.14-2build2 amd64
 libudev-dev/focal-updates 245.4-4ubuntu3.2 amd64
 libudev-dev/focal-updates 245.4-4ubuntu3.2 i386
-libudev1/focal-updates 245.4-4ubuntu3.2 amd64 [upgradable from: 245.4-4ubuntu3.1]
+libudev1/focal-updates,now 245.4-4ubuntu3.2 amd64 [installed]
 libudev1/focal-updates 245.4-4ubuntu3.2 i386
 libudf-dev/focal 2.0.0-2 amd64
 libudf-dev/focal 2.0.0-2 i386
@@ -43789,7 +43789,7 @@ linux-cloud-tools-virtual-hwe-20.04/focal-updates,focal-security 5.4.0.42.45 amd
 linux-cloud-tools-virtual/focal-updates,focal-security 5.4.0.42.45 amd64
 linux-crashdump/focal-updates,focal-security 5.4.0.42.45 amd64
 linux-doc/focal-updates,focal-updates,focal-security,focal-security 5.4.0-42.46 all
-linux-firmware/focal-updates,focal-updates 1.187.2 all [upgradable from: 1.187.1]
+linux-firmware/focal-updates,focal-updates,now 1.187.2 all [installed,automatic]
 linux-gcp-headers-5.4.0-1009/focal 5.4.0-1009.9 amd64
 linux-gcp-headers-5.4.0-1011/focal-updates,focal-security 5.4.0-1011.11 amd64
 linux-gcp-headers-5.4.0-1015/focal-updates,focal-security 5.4.0-1015.15 amd64
@@ -44522,8 +44522,8 @@ live-manual-pdf/focal,focal 2:20151217.1 all
 live-manual-txt/focal,focal 2:20151217.1 all
 live-manual/focal,focal 2:20151217.1 all
 live-tools/focal,focal 1:20190831 all
-livecd-rootfs/focal-updates 2.664.3 amd64
-livecd-rootfs/focal-updates 2.664.3 i386
+livecd-rootfs/focal-updates 2.664.4 amd64
+livecd-rootfs/focal-updates 2.664.4 i386
 livemedia-utils/focal 2020.01.19-1build1 amd64
 livemedia-utils/focal 2020.01.19-1build1 i386
 lives-data/focal,focal 3.0.2-1 all
@@ -49088,10 +49088,18 @@ oem-config-slideshow-ubuntu-mate/focal,focal 160 all
 oem-config-slideshow-ubuntu/focal,focal 160 all
 oem-config/focal-updates,focal-updates 20.04.15.2 all
 oem-qemu-meta/focal,focal 20.04~ubuntu3 all
+oem-somerville-bulbasaur-meta/focal-updates,focal-updates 20.04~ubuntu1 all
+oem-somerville-meera-tgl-meta/focal-updates,focal-updates 20.04~ubuntu1 all
 oem-somerville-melisa-meta/focal-updates,focal-updates 20.04~ubuntu3 all
+oem-somerville-samwell-tgl-meta/focal-updates,focal-updates 20.04~ubuntu1 all
 oem-somerville-three-eyed-raven-meta/focal,focal 20.04~ubuntu2 all
 oem-stella.cmit-abra-meta/focal-updates,focal-updates 20.04~ubuntu2 all
+oem-stella.cmit-charizard-meta/focal-updates,focal-updates 20.04~ubuntu1 all
 oem-sutton.newell-ace-meta/focal-updates,focal-updates 20.04~ubuntu1 all
+oem-sutton.newell-cadby-meta/focal-updates,focal-updates 20.04~ubuntu1 all
+oem-sutton.newell-cade-meta/focal-updates,focal-updates 20.04~ubuntu1 all
+oem-sutton.newell-cadee-meta/focal-updates,focal-updates 20.04~ubuntu1 all
+oem-sutton.newell-cadence-meta/focal-updates,focal-updates 20.04~ubuntu1 all
 office2003-schemas/focal,focal 1.0-1 all
 offlineimap/focal,focal 7.2.3+dfsg1-1ubuntu1 all
 ofono-dev/focal,focal 1.31-2ubuntu1 all
@@ -52068,13 +52076,13 @@ python-apptools-doc/focal,focal 4.5.0-1 all
 python-apsw-dbg/focal 3.28.0-r1-1ubuntu4 amd64
 python-apsw-doc/focal,focal 3.28.0-r1-1ubuntu4 all
 python-apsw/focal 3.28.0-r1-1ubuntu4 amd64
-python-apt-common/focal,focal,now 2.0.0 all [installed]
-python-apt-dbg/focal 2.0.0 amd64
-python-apt-dbg/focal 2.0.0 i386
-python-apt-dev/focal,focal 2.0.0 all
-python-apt-doc/focal,focal 2.0.0 all
-python-apt/focal 2.0.0 amd64
-python-apt/focal 2.0.0 i386
+python-apt-common/focal-updates,focal-updates 2.0.0ubuntu0.20.04.1 all [upgradable from: 2.0.0]
+python-apt-dbg/focal-updates 2.0.0ubuntu0.20.04.1 amd64
+python-apt-dbg/focal-updates 2.0.0ubuntu0.20.04.1 i386
+python-apt-dev/focal-updates,focal-updates 2.0.0ubuntu0.20.04.1 all
+python-apt-doc/focal-updates,focal-updates 2.0.0ubuntu0.20.04.1 all
+python-apt/focal-updates 2.0.0ubuntu0.20.04.1 amd64
+python-apt/focal-updates 2.0.0ubuntu0.20.04.1 i386
 python-argon2-doc/focal,focal 18.3.0-2build1 all
 python-ariapy/focal 2.8.0+repack-1.2ubuntu3 amd64
 python-arrayfire-doc/focal,focal 3.3.20160624-3 all
@@ -53166,10 +53174,10 @@ python3-apriltag/focal 0.10.0-6build1 amd64
 python3-apscheduler/focal,focal 3.6.3-1 all
 python3-apsw-dbg/focal 3.28.0-r1-1ubuntu4 amd64
 python3-apsw/focal 3.28.0-r1-1ubuntu4 amd64
-python3-apt-dbg/focal 2.0.0 amd64
-python3-apt-dbg/focal 2.0.0 i386
-python3-apt/focal,now 2.0.0 amd64 [installed]
-python3-apt/focal 2.0.0 i386
+python3-apt-dbg/focal-updates 2.0.0ubuntu0.20.04.1 amd64
+python3-apt-dbg/focal-updates 2.0.0ubuntu0.20.04.1 i386
+python3-apt/focal-updates 2.0.0ubuntu0.20.04.1 amd64 [upgradable from: 2.0.0]
+python3-apt/focal-updates 2.0.0ubuntu0.20.04.1 i386
 python3-aptdaemon.gtk3widgets/focal-updates,focal-updates 1.1.1+bzr982-0ubuntu32.1 all
 python3-aptdaemon.test/focal-updates,focal-updates 1.1.1+bzr982-0ubuntu32.1 all
 python3-aptdaemon/focal-updates,focal-updates 1.1.1+bzr982-0ubuntu32.1 all
@@ -53668,7 +53676,7 @@ python3-distorm3/focal,focal 3.4.1-4 all
 python3-distributed/focal,focal 1.25.0+ds.1-1 all
 python3-distro-info/focal,focal,now 0.23ubuntu1 all [installed]
 python3-distro/focal,focal,now 1.4.0-1 all [installed]
-python3-distupgrade/focal-updates,focal-updates 1:20.04.23 all [upgradable from: 1:20.04.21]
+python3-distupgrade/focal-updates,focal-updates,now 1:20.04.23 all [installed]
 python3-distutils-extra/focal,focal 2.43 all
 python3-distutils/focal,focal 3.8.2-1ubuntu1 all
 python3-dj-database-url/focal,focal 0.5.0-2 all
@@ -61677,13 +61685,13 @@ systemd-coredump/focal-updates 245.4-4ubuntu3.2 i386
 systemd-cron/focal 1.5.14-2 amd64
 systemd-journal-remote/focal-updates 245.4-4ubuntu3.2 amd64
 systemd-journal-remote/focal-updates 245.4-4ubuntu3.2 i386
-systemd-sysv/focal-updates 245.4-4ubuntu3.2 amd64 [upgradable from: 245.4-4ubuntu3.1]
+systemd-sysv/focal-updates,now 245.4-4ubuntu3.2 amd64 [installed]
 systemd-sysv/focal-updates 245.4-4ubuntu3.2 i386
 systemd-tests/focal-updates 245.4-4ubuntu3.2 amd64
 systemd-tests/focal-updates 245.4-4ubuntu3.2 i386
-systemd-timesyncd/focal-updates 245.4-4ubuntu3.2 amd64 [upgradable from: 245.4-4ubuntu3.1]
+systemd-timesyncd/focal-updates,now 245.4-4ubuntu3.2 amd64 [installed]
 systemd-timesyncd/focal-updates 245.4-4ubuntu3.2 i386
-systemd/focal-updates 245.4-4ubuntu3.2 amd64 [upgradable from: 245.4-4ubuntu3.1]
+systemd/focal-updates,now 245.4-4ubuntu3.2 amd64 [installed]
 systemd/focal-updates 245.4-4ubuntu3.2 i386
 systempreferences.app-dbg/focal 1.2.0-2build5 amd64
 systempreferences.app/focal 1.2.0-2build5 amd64
@@ -63061,7 +63069,7 @@ ubuntu-packaging-guide-pdf-uk/focal,focal 1.0.2 all
 ubuntu-packaging-guide-pdf/focal,focal 1.0.2 all
 ubuntu-packaging-guide/focal,focal 1.0.2 all
 ubuntu-policy/focal,focal 3.8.2.0ubuntu3 all
-ubuntu-release-upgrader-core/focal-updates,focal-updates 1:20.04.23 all [upgradable from: 1:20.04.21]
+ubuntu-release-upgrader-core/focal-updates,focal-updates,now 1:20.04.23 all [installed]
 ubuntu-release-upgrader-gtk/focal-updates,focal-updates 1:20.04.23 all
 ubuntu-release-upgrader-qt/focal-updates,focal-updates 1:20.04.23 all
 ubuntu-report/focal 1.6.1 amd64
@@ -63177,7 +63185,7 @@ ucspi-unix/focal 1.0-1 amd64
 ucto/focal 0.14-2build2 amd64
 uctodata/focal,focal 0.8-2 all
 udav/focal 2.4.4-6 amd64
-udev/focal-updates 245.4-4ubuntu3.2 amd64 [upgradable from: 245.4-4ubuntu3.1]
+udev/focal-updates,now 245.4-4ubuntu3.2 amd64 [installed]
 udev/focal-updates 245.4-4ubuntu3.2 i386
 udevil/focal 0.4.4-2 amd64
 udfclient/focal 0.8.9-1 amd64
