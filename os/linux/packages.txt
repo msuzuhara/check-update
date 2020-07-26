@@ -4386,7 +4386,6 @@ perl-IO-Compress.noarch                              2.081-1.el8                
 perl-IO-HTML.noarch                                  1.001-11.module_el8.3.0+416+dee7bcef             Stream-AppStream
 perl-IO-Multiplex.noarch                             1.16-9.el8                                       AppStream       
 perl-IO-Socket-INET6.noarch                          2.72-12.el8                                      AppStream       
-perl-IO-Socket-SSL.noarch                            2.066-4.module_el8.3.0+410+ff426aa3              Stream-AppStream
 perl-IO-Zlib.noarch                                  1:1.10-416.el8                                   AppStream       
 perl-IPC-Cmd.noarch                                  2:1.02-1.el8                                     AppStream       
 perl-IPC-SysV.x86_64                                 2.07-397.el8                                     AppStream       
@@ -4419,14 +4418,12 @@ perl-Module-Loaded.noarch                            1:0.08-416.el8             
 perl-Module-Metadata.noarch                          1.000033-395.el8                                 AppStream       
 perl-Module-Pluggable.noarch                         2:5.2-7.el8                                      AppStream       
 perl-Module-Runtime.noarch                           0.016-2.el8                                      AppStream       
-perl-Mozilla-CA.noarch                               20160104-7.module_el8.3.0+416+dee7bcef           Stream-AppStream
 perl-Mozilla-LDAP.x86_64                             1.5.3-25.el8                                     AppStream       
 perl-NTLM.noarch                                     1.09-17.module_el8.3.0+416+dee7bcef              Stream-AppStream
 perl-Net-DNS.noarch                                  1.15-1.el8                                       AppStream       
 perl-Net-HTTP.noarch                                 6.17-2.module_el8.3.0+416+dee7bcef               Stream-AppStream
 perl-Net-Ping.noarch                                 2.55-416.el8                                     AppStream       
 perl-Net-SMTP-SSL.noarch                             1.04-5.el8                                       AppStream       
-perl-Net-SSLeay.x86_64                               1.88-1.module_el8.3.0+410+ff426aa3               Stream-AppStream
 perl-Net-Server.noarch                               2.009-3.el8                                      AppStream       
 perl-NetAddr-IP.x86_64                               4.079-7.el8                                      AppStream       
 perl-PCP-LogImport.x86_64                            5.1.1-1.el8                                      Stream-AppStream
