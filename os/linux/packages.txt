@@ -52076,7 +52076,7 @@ python-apptools-doc/focal,focal 4.5.0-1 all
 python-apsw-dbg/focal 3.28.0-r1-1ubuntu4 amd64
 python-apsw-doc/focal,focal 3.28.0-r1-1ubuntu4 all
 python-apsw/focal 3.28.0-r1-1ubuntu4 amd64
-python-apt-common/focal-updates,focal-updates 2.0.0ubuntu0.20.04.1 all [upgradable from: 2.0.0]
+python-apt-common/focal-updates,focal-updates,now 2.0.0ubuntu0.20.04.1 all [installed]
 python-apt-dbg/focal-updates 2.0.0ubuntu0.20.04.1 amd64
 python-apt-dbg/focal-updates 2.0.0ubuntu0.20.04.1 i386
 python-apt-dev/focal-updates,focal-updates 2.0.0ubuntu0.20.04.1 all
@@ -53176,7 +53176,7 @@ python3-apsw-dbg/focal 3.28.0-r1-1ubuntu4 amd64
 python3-apsw/focal 3.28.0-r1-1ubuntu4 amd64
 python3-apt-dbg/focal-updates 2.0.0ubuntu0.20.04.1 amd64
 python3-apt-dbg/focal-updates 2.0.0ubuntu0.20.04.1 i386
-python3-apt/focal-updates 2.0.0ubuntu0.20.04.1 amd64 [upgradable from: 2.0.0]
+python3-apt/focal-updates,now 2.0.0ubuntu0.20.04.1 amd64 [installed]
 python3-apt/focal-updates 2.0.0ubuntu0.20.04.1 i386
 python3-aptdaemon.gtk3widgets/focal-updates,focal-updates 1.1.1+bzr982-0ubuntu32.1 all
 python3-aptdaemon.test/focal-updates,focal-updates 1.1.1+bzr982-0ubuntu32.1 all
