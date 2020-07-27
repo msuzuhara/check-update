@@ -2816,7 +2816,7 @@ colortest/oldstable 20110624-6 all
 colortest-python/oldstable 2.2-1 all
 colossal-cave-adventure/oldstable 1.4-1 all
 colplot/oldstable 5.0.1-4 all
-comerr-dev/oldstable,oldstable 2.1-1.43.4-2+deb9u1 amd64
+comerr-dev/oldstable 2.1-1.43.4-2+deb9u2 amd64
 comet-ms/oldstable 2014022-3+b2 amd64
 comet-ms-dbg/oldstable 2014022-3+b2 amd64
 comgt/oldstable 0.32-3 amd64
@@ -4325,10 +4325,10 @@ e17/oldstable 0.17.6-1.1+b1 amd64
 e17-data/oldstable 0.17.6-1.1 all
 e17-dbg/oldstable 0.17.6-1.1+b1 amd64
 e17-dev/oldstable 0.17.6-1.1+b1 amd64
-e2fsck-static/oldstable,oldstable 1.43.4-2+deb9u1 amd64
-e2fslibs/oldstable,oldstable,now 1.43.4-2+deb9u1 amd64 [installed]
-e2fslibs-dev/oldstable,oldstable 1.43.4-2+deb9u1 amd64
-e2fsprogs/oldstable,oldstable,now 1.43.4-2+deb9u1 amd64 [installed]
+e2fsck-static/oldstable 1.43.4-2+deb9u2 amd64
+e2fslibs/oldstable 1.43.4-2+deb9u2 amd64 [upgradable from: 1.43.4-2+deb9u1]
+e2fslibs-dev/oldstable 1.43.4-2+deb9u2 amd64
+e2fsprogs/oldstable 1.43.4-2+deb9u2 amd64 [upgradable from: 1.43.4-2+deb9u1]
 e2guardian/oldstable 3.4.0.3-2 amd64
 e2ps/oldstable 4.34-5 amd64
 e2tools/oldstable 0.0.16-6.1+b2 amd64
@@ -6364,7 +6364,7 @@ fuse-emulator-sdl/oldstable 1.3.2+dfsg1-1 amd64
 fuse-emulator-utils/oldstable 1.3.1-1 amd64
 fuse-posixovl/oldstable 1.2.20120215+gitf5bfe35-1 amd64
 fuse-zip/oldstable 0.4.0-2+deb9u1 amd64
-fuse2fs/oldstable,oldstable 1.43.4-2+deb9u1 amd64
+fuse2fs/oldstable 1.43.4-2+deb9u2 amd64
 fusedav/oldstable 0.2-3.1+b2 amd64
 fuseext2/oldstable 0.4-1.1+b1 amd64
 fusefat/oldstable 0.1a-1.1+b1 amd64
@@ -14603,7 +14603,7 @@ libcolt-free-java-doc/oldstable 1.2.0+dfsg-4 all
 libcom-hypirion-io-clojure/oldstable 0.3.1-1 all
 libcomedi-dev/oldstable 0.10.2-4+b3 amd64
 libcomedi0/oldstable 0.10.2-4+b3 amd64
-libcomerr2/oldstable,oldstable,now 1.43.4-2+deb9u1 amd64 [installed]
+libcomerr2/oldstable 1.43.4-2+deb9u2 amd64 [upgradable from: 1.43.4-2+deb9u1]
 libcomment-preprocessor-java/oldstable 6.0.1-1 all
 libcommon-sense-perl/oldstable 3.74-2 amd64
 libcommoncpp2-dbg/oldstable 1.8.1-6.1 amd64
@@ -29078,7 +29078,7 @@ libsrtp2-1-dbg/oldstable 2.0.0+20170123-1 amd64
 libsrtp2-dev/oldstable 2.0.0+20170123-1 amd64
 libsrtp2-docs/oldstable 2.0.0+20170123-1 all
 libsru-perl/oldstable 1.01-2 all
-libss2/oldstable,oldstable,now 1.43.4-2+deb9u1 amd64 [installed]
+libss2/oldstable 1.43.4-2+deb9u2 amd64 [upgradable from: 1.43.4-2+deb9u1]
 libss7-2.0/oldstable 2.0.0-2 amd64
 libss7-dev/oldstable 2.0.0-2 amd64
 libsscm-dev/oldstable 0.8.5-5 amd64
@@ -46842,7 +46842,7 @@ srs/oldstable 0.31-5 all
 srst2/oldstable 0.2.0-4 amd64
 srtp-docs/oldstable 1.4.5~20130609~dfsg-2 all
 srtp-utils/oldstable 1.4.5~20130609~dfsg-2 amd64
-ss-dev/oldstable,oldstable 2.0-1.43.4-2+deb9u1 amd64
+ss-dev/oldstable 2.0-1.43.4-2+deb9u2 amd64
 ssake/oldstable 3.8.4-1 all
 ssake-examples/oldstable 3.8.4-1 all
 ssdeep/oldstable 2.13-3 amd64
