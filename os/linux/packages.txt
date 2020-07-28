@@ -2830,15 +2830,15 @@ cl-zip/focal,focal 20150608-1 all
 cl-zpb-ttf/focal,focal 0.7-3 all
 cl-zs3/focal,focal 1.3.1-1 all
 clamassassin/focal,focal 1.2.4-1 all
-clamav-base/focal-updates,focal-updates,focal-security,focal-security 0.102.3+dfsg-0ubuntu0.20.04.1 all
-clamav-daemon/focal-updates,focal-security 0.102.3+dfsg-0ubuntu0.20.04.1 amd64
-clamav-docs/focal-updates,focal-updates,focal-security,focal-security 0.102.3+dfsg-0ubuntu0.20.04.1 all
-clamav-freshclam/focal-updates,focal-security 0.102.3+dfsg-0ubuntu0.20.04.1 amd64
-clamav-milter/focal-updates,focal-security 0.102.3+dfsg-0ubuntu0.20.04.1 amd64
-clamav-testfiles/focal-updates,focal-updates,focal-security,focal-security 0.102.3+dfsg-0ubuntu0.20.04.1 all
+clamav-base/focal-updates,focal-updates,focal-security,focal-security 0.102.4+dfsg-0ubuntu0.20.04.1 all
+clamav-daemon/focal-updates,focal-security 0.102.4+dfsg-0ubuntu0.20.04.1 amd64
+clamav-docs/focal-updates,focal-updates,focal-security,focal-security 0.102.4+dfsg-0ubuntu0.20.04.1 all
+clamav-freshclam/focal-updates,focal-security 0.102.4+dfsg-0ubuntu0.20.04.1 amd64
+clamav-milter/focal-updates,focal-security 0.102.4+dfsg-0ubuntu0.20.04.1 amd64
+clamav-testfiles/focal-updates,focal-updates,focal-security,focal-security 0.102.4+dfsg-0ubuntu0.20.04.1 all
 clamav-unofficial-sigs/focal,focal 3.7.2-2build1 all
-clamav/focal-updates,focal-security 0.102.3+dfsg-0ubuntu0.20.04.1 amd64
-clamdscan/focal-updates,focal-security 0.102.3+dfsg-0ubuntu0.20.04.1 amd64
+clamav/focal-updates,focal-security 0.102.4+dfsg-0ubuntu0.20.04.1 amd64
+clamdscan/focal-updates,focal-security 0.102.4+dfsg-0ubuntu0.20.04.1 amd64
 clamfs/focal 1.2.0-2build1 amd64
 clamsmtp/focal 1.10-17ubuntu1 amd64
 clamtk-gnome/focal,focal 6.02-1 all
@@ -4302,7 +4302,7 @@ dh-make-perl/focal,focal 0.109 all
 dh-make/focal,focal 2.201903 all
 dh-metainit/focal,focal 0.0.5 all
 dh-migrations/focal,focal 0.3.5 all
-dh-modaliases/focal-updates,focal-updates 1:0.8.1.1 all
+dh-modaliases/focal-updates,focal-updates 1:0.8.4~0.20.04.2 all
 dh-ocaml/focal,focal 1.1.1 all
 dh-octave-autopkgtest/focal,focal 0.7.4 all
 dh-octave/focal,focal 0.7.4 all
@@ -6340,7 +6340,7 @@ fftw-docs/focal,focal 2.1.5-4.2build2 all
 fftw2/focal 2.1.5-4.2build2 amd64
 fgallery/focal,focal 1.8.2-2 all
 fgetty/focal 0.7-6 amd64
-fglrx-pxpress/focal-updates 1:0.8.1.1 amd64
+fglrx-pxpress/focal-updates 1:0.8.4~0.20.04.2 amd64
 fh2odg/focal 0.9.6-2build1 amd64
 fheroes2-pkg/focal,focal 0+svn20150122r3274-2-2 all
 fhist/focal 1.18-2build1 amd64
@@ -16361,8 +16361,8 @@ legit/focal,focal 1.2.0-2 all
 lego/focal 3.2.0-1 amd64
 leiningen/focal,focal 2.9.1-2 all
 lektor/focal,focal 3.1.3-1 all
-lemon/focal-updates,focal-security 3.31.1-4ubuntu0.1 amd64
-lemon/focal-updates,focal-security 3.31.1-4ubuntu0.1 i386
+lemon/focal-updates,focal-security 3.31.1-4ubuntu0.2 amd64
+lemon/focal-updates,focal-security 3.31.1-4ubuntu0.2 i386
 lemonbar/focal 1.3-2 amd64
 lemonldap-ng-doc/focal,focal 2.0.7+ds-2 all
 lemonldap-ng-fastcgi-server/focal,focal 2.0.7+ds-2 all
@@ -19637,8 +19637,8 @@ libckyapplet1/focal 1.1.0-15ubuntu1 amd64
 libclalsadrv-dev/focal,focal 2.0.0-3build1 all
 libclalsadrv2/focal 2.0.0-3build1 amd64
 libclamav-client-perl/focal,focal 0.11-2 all
-libclamav-dev/focal-updates,focal-security 0.102.3+dfsg-0ubuntu0.20.04.1 amd64
-libclamav9/focal-updates,focal-security 0.102.3+dfsg-0ubuntu0.20.04.1 amd64
+libclamav-dev/focal-updates,focal-security 0.102.4+dfsg-0ubuntu0.20.04.1 amd64
+libclamav9/focal-updates,focal-security 0.102.4+dfsg-0ubuntu0.20.04.1 amd64
 libclamunrar9/focal 0.101.2-1build1 amd64
 libclanapp-1.0v5/focal 1.0~svn3827-8 amd64
 libclang-10-dev/focal 1:10.0.0-4ubuntu1 amd64
@@ -39201,8 +39201,8 @@ libslicot-doc/focal,focal 5.0+20101122-4build1 all
 libslicot-pic/focal 5.0+20101122-4build1 amd64
 libslicot0/focal 5.0+20101122-4build1 amd64
 libslingshot-clojure/focal,focal 0.12.2-2 all
-libslirp-dev/focal 4.1.0-2ubuntu2 amd64
-libslirp0/focal 4.1.0-2ubuntu2 amd64
+libslirp-dev/focal-updates,focal-security 4.1.0-2ubuntu2.1 amd64
+libslirp0/focal-updates,focal-security 4.1.0-2ubuntu2.1 amd64
 libslurm-dev/focal 19.05.5-1 amd64
 libslurm-perl/focal 19.05.5-1 amd64
 libslurm34/focal 19.05.5-1 amd64
@@ -39594,10 +39594,10 @@ libsqlclient1.8/focal 1.8.1-3build5 amd64
 libsqlite-tcl/focal 2.8.17-15fakesync1build1 amd64
 libsqlite0-dev/focal 2.8.17-15fakesync1build1 amd64
 libsqlite0/focal 2.8.17-15fakesync1build1 amd64
-libsqlite3-0/focal-updates,focal-security,now 3.31.1-4ubuntu0.1 amd64 [installed]
-libsqlite3-0/focal-updates,focal-security 3.31.1-4ubuntu0.1 i386
-libsqlite3-dev/focal-updates,focal-security 3.31.1-4ubuntu0.1 amd64
-libsqlite3-dev/focal-updates,focal-security 3.31.1-4ubuntu0.1 i386
+libsqlite3-0/focal-updates,focal-security 3.31.1-4ubuntu0.2 amd64 [upgradable from: 3.31.1-4ubuntu0.1]
+libsqlite3-0/focal-updates,focal-security 3.31.1-4ubuntu0.2 i386
+libsqlite3-dev/focal-updates,focal-security 3.31.1-4ubuntu0.2 amd64
+libsqlite3-dev/focal-updates,focal-security 3.31.1-4ubuntu0.2 i386
 libsqlite3-gst/focal 3.2.5-1.3build3 amd64
 libsqlite3-gst/focal 3.2.5-1.3build3 i386
 libsqlite3-mod-blobtoxy/focal 0.9996-3 amd64
@@ -39610,8 +39610,8 @@ libsqlite3-mod-xpath/focal 0.9996-3 amd64
 libsqlite3-mod-zipfile/focal 0.9996-3 amd64
 libsqlite3-ocaml-dev/focal 5.0.1-1build1 amd64
 libsqlite3-ocaml/focal 5.0.1-1build1 amd64
-libsqlite3-tcl/focal-updates,focal-security 3.31.1-4ubuntu0.1 amd64
-libsqlite3-tcl/focal-updates,focal-security 3.31.1-4ubuntu0.1 i386
+libsqlite3-tcl/focal-updates,focal-security 3.31.1-4ubuntu0.2 amd64
+libsqlite3-tcl/focal-updates,focal-security 3.31.1-4ubuntu0.2 i386
 libsqliteodbc/focal 0.9996-3 amd64
 libsqljet-java-doc/focal,focal 1.1.10-1 all
 libsqljet-java/focal,focal 1.1.10-1 all
@@ -48758,7 +48758,7 @@ nvidia-cg-dev/focal 3.1.0013-5 i386
 nvidia-cg-doc/focal,focal 3.1.0013-5 all
 nvidia-cg-toolkit/focal 3.1.0013-5 amd64
 nvidia-cg-toolkit/focal 3.1.0013-5 i386
-nvidia-common/focal-updates 1:0.8.1.1 amd64
+nvidia-common/focal-updates 1:0.8.4~0.20.04.2 amd64
 nvidia-compute-utils-390/focal-updates,focal-security 390.138-0ubuntu0.20.04.1 amd64
 nvidia-compute-utils-390/focal-updates,focal-security 390.138-0ubuntu0.20.04.1 i386
 nvidia-compute-utils-418-server/focal-updates 418.152.00-0ubuntu0.20.04.1 amd64
@@ -49088,6 +49088,7 @@ oem-config-slideshow-ubuntu-mate/focal,focal 160 all
 oem-config-slideshow-ubuntu/focal,focal 160 all
 oem-config/focal-updates,focal-updates 20.04.15.2 all
 oem-qemu-meta/focal,focal 20.04~ubuntu3 all
+oem-somerville-beric-icl-meta/focal-updates,focal-updates 20.04~ubuntu1 all
 oem-somerville-bulbasaur-meta/focal-updates,focal-updates 20.04~ubuntu1 all
 oem-somerville-meera-tgl-meta/focal-updates,focal-updates 20.04~ubuntu1 all
 oem-somerville-melisa-meta/focal-updates,focal-updates 20.04~ubuntu3 all
@@ -49095,6 +49096,7 @@ oem-somerville-samwell-tgl-meta/focal-updates,focal-updates 20.04~ubuntu1 all
 oem-somerville-three-eyed-raven-meta/focal,focal 20.04~ubuntu2 all
 oem-stella.cmit-abra-meta/focal-updates,focal-updates 20.04~ubuntu2 all
 oem-stella.cmit-charizard-meta/focal-updates,focal-updates 20.04~ubuntu1 all
+oem-sutton.bachman-banaing-meta/focal-updates,focal-updates 20.04~ubuntu1 all
 oem-sutton.newell-ace-meta/focal-updates,focal-updates 20.04~ubuntu1 all
 oem-sutton.newell-cadby-meta/focal-updates,focal-updates 20.04~ubuntu1 all
 oem-sutton.newell-cade-meta/focal-updates,focal-updates 20.04~ubuntu1 all
@@ -61128,10 +61130,10 @@ sqldeveloper-package/focal,focal 0.5.4 all
 sqlformat/focal,focal 0.2.4-3 all
 sqlgrey/focal,focal 1:1.8.0-4 all
 sqlite-doc/focal,focal 2.8.17-15fakesync1build1 all
-sqlite3-doc/focal-updates,focal-updates,focal-security,focal-security 3.31.1-4ubuntu0.1 all
+sqlite3-doc/focal-updates,focal-updates,focal-security,focal-security 3.31.1-4ubuntu0.2 all
 sqlite3-pcre/focal 0~git20070120091816+4229ecc-1 amd64
-sqlite3/focal-updates,focal-security 3.31.1-4ubuntu0.1 amd64
-sqlite3/focal-updates,focal-security 3.31.1-4ubuntu0.1 i386
+sqlite3/focal-updates,focal-security 3.31.1-4ubuntu0.2 amd64
+sqlite3/focal-updates,focal-security 3.31.1-4ubuntu0.2 i386
 sqlite/focal 2.8.17-15fakesync1build1 amd64
 sqlitebrowser/focal 3.11.2-1build2 amd64
 sqlline/focal,focal 1.0.2-8 all
@@ -62999,7 +63001,7 @@ ubuntu-desktop/focal-updates 1.450.1 amd64
 ubuntu-dev-tools/focal,focal 0.176 all
 ubuntu-developer-tools-center/focal,focal 18.09+disco1 all
 ubuntu-docs/focal-updates,focal-updates 20.04.3 all
-ubuntu-drivers-common/focal-updates 1:0.8.1.1 amd64
+ubuntu-drivers-common/focal-updates 1:0.8.4~0.20.04.2 amd64
 ubuntu-fan/focal,focal 0.12.13 all
 ubuntu-gnome-default-settings/focal,focal 20.04.1 all
 ubuntu-gnome-desktop/focal 0.87 amd64
