@@ -12691,7 +12691,7 @@ libapache2-mod-auth-kerb/oldstable 5.4-2.3 amd64
 libapache2-mod-auth-mellon/oldstable,oldstable 0.12.0-2+deb9u1 amd64
 libapache2-mod-auth-ntlm-winbind/oldstable 0.0.0.lorikeet+svn+801-4 amd64
 libapache2-mod-auth-openid/oldstable 0.8-3 amd64
-libapache2-mod-auth-openidc/oldstable 2.1.6-1 amd64
+libapache2-mod-auth-openidc/oldstable 2.1.6-1+deb9u1 amd64
 libapache2-mod-auth-pgsql/oldstable 2.0.3-6.1 amd64
 libapache2-mod-auth-plain/oldstable 2.0.52 amd64
 libapache2-mod-auth-pubtkt/oldstable 0.10-1 amd64
