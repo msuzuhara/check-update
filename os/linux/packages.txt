@@ -10558,46 +10558,46 @@ grpn/stable 1.4.1-1 amd64
 grr.app/stable 1.0-1+b5 amd64
 grsync/stable 1.2.6-2 amd64
 grub-cloud-amd64/stable 0.0.4 amd64
-grub-common/stable 2.02+dfsg1-20+deb10u1 amd64 [upgradable from: 2.02+dfsg1-20]
-grub-coreboot-bin/stable 2.02+dfsg1-20+deb10u1 amd64
-grub-coreboot-dbg/stable 2.02+dfsg1-20+deb10u1 amd64
-grub-coreboot/stable 2.02+dfsg1-20+deb10u1 amd64
+grub-common/stable 2.02+dfsg1-20+deb10u2 amd64 [upgradable from: 2.02+dfsg1-20+deb10u1]
+grub-coreboot-bin/stable 2.02+dfsg1-20+deb10u2 amd64
+grub-coreboot-dbg/stable 2.02+dfsg1-20+deb10u2 amd64
+grub-coreboot/stable 2.02+dfsg1-20+deb10u2 amd64
 grub-customizer/stable 5.1.0-1 amd64
 grub-disk/stable 0.97-75 amd64
 grub-doc/stable 0.97-75 all
-grub-efi-amd64-bin/stable 2.02+dfsg1-20+deb10u1 amd64
-grub-efi-amd64-dbg/stable 2.02+dfsg1-20+deb10u1 amd64
-grub-efi-amd64-signed-template/stable 2.02+dfsg1-20+deb10u1 amd64
-grub-efi-amd64-signed/stable 1+2.02+dfsg1+20+deb10u1 amd64
-grub-efi-amd64/stable 2.02+dfsg1-20+deb10u1 amd64
-grub-efi-ia32-bin/stable 2.02+dfsg1-20+deb10u1 amd64
-grub-efi-ia32-dbg/stable 2.02+dfsg1-20+deb10u1 amd64
-grub-efi-ia32/stable 2.02+dfsg1-20+deb10u1 amd64
-grub-efi/stable 2.02+dfsg1-20+deb10u1 amd64
-grub-emu-dbg/stable 2.02+dfsg1-20+deb10u1 amd64
-grub-emu/stable 2.02+dfsg1-20+deb10u1 amd64
-grub-firmware-qemu/stable 2.02+dfsg1-20+deb10u1 amd64
-grub-ieee1275-bin/stable 2.02+dfsg1-20+deb10u1 amd64
-grub-ieee1275-dbg/stable 2.02+dfsg1-20+deb10u1 amd64
-grub-ieee1275/stable 2.02+dfsg1-20+deb10u1 amd64
+grub-efi-amd64-bin/stable 2.02+dfsg1-20+deb10u2 amd64
+grub-efi-amd64-dbg/stable 2.02+dfsg1-20+deb10u2 amd64
+grub-efi-amd64-signed-template/stable 2.02+dfsg1-20+deb10u2 amd64
+grub-efi-amd64-signed/stable 1+2.02+dfsg1+20+deb10u2 amd64
+grub-efi-amd64/stable 2.02+dfsg1-20+deb10u2 amd64
+grub-efi-ia32-bin/stable 2.02+dfsg1-20+deb10u2 amd64
+grub-efi-ia32-dbg/stable 2.02+dfsg1-20+deb10u2 amd64
+grub-efi-ia32/stable 2.02+dfsg1-20+deb10u2 amd64
+grub-efi/stable 2.02+dfsg1-20+deb10u2 amd64
+grub-emu-dbg/stable 2.02+dfsg1-20+deb10u2 amd64
+grub-emu/stable 2.02+dfsg1-20+deb10u2 amd64
+grub-firmware-qemu/stable 2.02+dfsg1-20+deb10u2 amd64
+grub-ieee1275-bin/stable 2.02+dfsg1-20+deb10u2 amd64
+grub-ieee1275-dbg/stable 2.02+dfsg1-20+deb10u2 amd64
+grub-ieee1275/stable 2.02+dfsg1-20+deb10u2 amd64
 grub-imageboot/stable 0.6 all
 grub-invaders/stable 1.0.0-13 amd64
 grub-legacy-doc/stable 0.97-75 all
 grub-legacy/stable 0.97-75 amd64
-grub-linuxbios/stable 2.02+dfsg1-20+deb10u1 amd64
-grub-pc-bin/stable 2.02+dfsg1-20+deb10u1 amd64 [upgradable from: 2.02+dfsg1-20]
-grub-pc-dbg/stable 2.02+dfsg1-20+deb10u1 amd64
-grub-pc/stable 2.02+dfsg1-20+deb10u1 amd64 [upgradable from: 2.02+dfsg1-20]
-grub-rescue-pc/stable 2.02+dfsg1-20+deb10u1 amd64
+grub-linuxbios/stable 2.02+dfsg1-20+deb10u2 amd64
+grub-pc-bin/stable 2.02+dfsg1-20+deb10u2 amd64 [upgradable from: 2.02+dfsg1-20+deb10u1]
+grub-pc-dbg/stable 2.02+dfsg1-20+deb10u2 amd64
+grub-pc/stable 2.02+dfsg1-20+deb10u2 amd64 [upgradable from: 2.02+dfsg1-20+deb10u1]
+grub-rescue-pc/stable 2.02+dfsg1-20+deb10u2 amd64
 grub-splashimages/stable 1.2.3 all
-grub-theme-starfield/stable 2.02+dfsg1-20+deb10u1 amd64
-grub-xen-bin/stable 2.02+dfsg1-20+deb10u1 amd64
-grub-xen-dbg/stable 2.02+dfsg1-20+deb10u1 amd64
-grub-xen-host/stable 2.02+dfsg1-20+deb10u1 amd64
-grub-xen/stable 2.02+dfsg1-20+deb10u1 amd64
-grub2-common/stable 2.02+dfsg1-20+deb10u1 amd64 [upgradable from: 2.02+dfsg1-20]
+grub-theme-starfield/stable 2.02+dfsg1-20+deb10u2 amd64
+grub-xen-bin/stable 2.02+dfsg1-20+deb10u2 amd64
+grub-xen-dbg/stable 2.02+dfsg1-20+deb10u2 amd64
+grub-xen-host/stable 2.02+dfsg1-20+deb10u2 amd64
+grub-xen/stable 2.02+dfsg1-20+deb10u2 amd64
+grub2-common/stable 2.02+dfsg1-20+deb10u2 amd64 [upgradable from: 2.02+dfsg1-20+deb10u1]
 grub2-splashimages/stable 1.0.1+nmu1 all
-grub2/stable 2.02+dfsg1-20+deb10u1 amd64
+grub2/stable 2.02+dfsg1-20+deb10u2 amd64
 grun/stable 0.9.3-2+b1 amd64
 grunt/stable 1.0.1-8 all
 gsalliere/stable 0.10-3 all
