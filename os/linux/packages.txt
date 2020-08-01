@@ -748,7 +748,7 @@ aribas/stable 1.64-6 amd64
 ario-common/stable 1.6-1 all
 ario/stable 1.6-1 amd64
 arj/stable 3.10.22-18 amd64
-ark/stable 4:18.08.3-1 amd64
+ark/stable 4:18.08.3-1+deb10u1 amd64
 armagetronad-common/stable 0.2.8.3.4-2 all
 armagetronad-dedicated/stable 0.2.8.3.4-2 amd64
 armagetronad/stable 0.2.8.3.4-2 amd64
@@ -10558,7 +10558,7 @@ grpn/stable 1.4.1-1 amd64
 grr.app/stable 1.0-1+b5 amd64
 grsync/stable 1.2.6-2 amd64
 grub-cloud-amd64/stable 0.0.4 amd64
-grub-common/stable 2.02+dfsg1-20+deb10u2 amd64 [upgradable from: 2.02+dfsg1-20+deb10u1]
+grub-common/stable,now 2.02+dfsg1-20+deb10u2 amd64 [installed]
 grub-coreboot-bin/stable 2.02+dfsg1-20+deb10u2 amd64
 grub-coreboot-dbg/stable 2.02+dfsg1-20+deb10u2 amd64
 grub-coreboot/stable 2.02+dfsg1-20+deb10u2 amd64
@@ -10585,9 +10585,9 @@ grub-invaders/stable 1.0.0-13 amd64
 grub-legacy-doc/stable 0.97-75 all
 grub-legacy/stable 0.97-75 amd64
 grub-linuxbios/stable 2.02+dfsg1-20+deb10u2 amd64
-grub-pc-bin/stable 2.02+dfsg1-20+deb10u2 amd64 [upgradable from: 2.02+dfsg1-20+deb10u1]
+grub-pc-bin/stable,now 2.02+dfsg1-20+deb10u2 amd64 [installed,automatic]
 grub-pc-dbg/stable 2.02+dfsg1-20+deb10u2 amd64
-grub-pc/stable 2.02+dfsg1-20+deb10u2 amd64 [upgradable from: 2.02+dfsg1-20+deb10u1]
+grub-pc/stable,now 2.02+dfsg1-20+deb10u2 amd64 [installed]
 grub-rescue-pc/stable 2.02+dfsg1-20+deb10u2 amd64
 grub-splashimages/stable 1.2.3 all
 grub-theme-starfield/stable 2.02+dfsg1-20+deb10u2 amd64
@@ -10595,7 +10595,7 @@ grub-xen-bin/stable 2.02+dfsg1-20+deb10u2 amd64
 grub-xen-dbg/stable 2.02+dfsg1-20+deb10u2 amd64
 grub-xen-host/stable 2.02+dfsg1-20+deb10u2 amd64
 grub-xen/stable 2.02+dfsg1-20+deb10u2 amd64
-grub2-common/stable 2.02+dfsg1-20+deb10u2 amd64 [upgradable from: 2.02+dfsg1-20+deb10u1]
+grub2-common/stable,now 2.02+dfsg1-20+deb10u2 amd64 [installed,automatic]
 grub2-splashimages/stable 1.0.1+nmu1 all
 grub2/stable 2.02+dfsg1-20+deb10u2 amd64
 grun/stable 0.9.3-2+b1 amd64
