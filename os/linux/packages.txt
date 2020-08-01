@@ -11800,43 +11800,43 @@ grr-client-templates-installer/bionic 3.1.0.2+dfsg-4 all
 grr-server/bionic 3.1.0.2+dfsg-4 amd64
 grr.app/bionic 1.0-1build3 amd64
 grsync/bionic 1.2.6-1 amd64
-grub-common/bionic-updates 2.02-2ubuntu8.16 amd64 [upgradable from: 2.02-2ubuntu8.14]
-grub-coreboot/bionic-updates 2.02-2ubuntu8.16 amd64
-grub-coreboot-bin/bionic-updates 2.02-2ubuntu8.16 amd64
-grub-coreboot-dbg/bionic-updates 2.02-2ubuntu8.16 amd64
-grub-efi/bionic-updates 2.02-2ubuntu8.16 amd64
-grub-efi-amd64/bionic-updates 2.02-2ubuntu8.16 amd64
-grub-efi-amd64-bin/bionic-updates 2.02-2ubuntu8.16 amd64
-grub-efi-amd64-dbg/bionic-updates 2.02-2ubuntu8.16 amd64
-grub-efi-amd64-signed/bionic-updates 1.93.18+2.02-2ubuntu8.16 amd64
-grub-efi-ia32/bionic-updates 2.02-2ubuntu8.16 amd64
-grub-efi-ia32-bin/bionic-updates 2.02-2ubuntu8.16 amd64
-grub-efi-ia32-dbg/bionic-updates 2.02-2ubuntu8.16 amd64
-grub-emu/bionic-updates 2.02-2ubuntu8.16 amd64
-grub-emu-dbg/bionic-updates 2.02-2ubuntu8.16 amd64
-grub-firmware-qemu/bionic-updates 2.02-2ubuntu8.16 amd64
+grub-common/bionic-updates 2.02-2ubuntu8.17 amd64 [upgradable from: 2.02-2ubuntu8.14]
+grub-coreboot/bionic-updates 2.02-2ubuntu8.17 amd64
+grub-coreboot-bin/bionic-updates 2.02-2ubuntu8.17 amd64
+grub-coreboot-dbg/bionic-updates 2.02-2ubuntu8.17 amd64
+grub-efi/bionic-updates 2.02-2ubuntu8.17 amd64
+grub-efi-amd64/bionic-updates 2.02-2ubuntu8.17 amd64
+grub-efi-amd64-bin/bionic-updates 2.02-2ubuntu8.17 amd64
+grub-efi-amd64-dbg/bionic-updates 2.02-2ubuntu8.17 amd64
+grub-efi-amd64-signed/bionic-updates 1.93.19+2.02-2ubuntu8.17 amd64
+grub-efi-ia32/bionic-updates 2.02-2ubuntu8.17 amd64
+grub-efi-ia32-bin/bionic-updates 2.02-2ubuntu8.17 amd64
+grub-efi-ia32-dbg/bionic-updates 2.02-2ubuntu8.17 amd64
+grub-emu/bionic-updates 2.02-2ubuntu8.17 amd64
+grub-emu-dbg/bionic-updates 2.02-2ubuntu8.17 amd64
+grub-firmware-qemu/bionic-updates 2.02-2ubuntu8.17 amd64
 grub-gfxpayload-lists/bionic,now 0.7 amd64 [installed,automatic]
-grub-ieee1275/bionic-updates 2.02-2ubuntu8.16 amd64
-grub-ieee1275-bin/bionic-updates 2.02-2ubuntu8.16 amd64
-grub-ieee1275-dbg/bionic-updates 2.02-2ubuntu8.16 amd64
+grub-ieee1275/bionic-updates 2.02-2ubuntu8.17 amd64
+grub-ieee1275-bin/bionic-updates 2.02-2ubuntu8.17 amd64
+grub-ieee1275-dbg/bionic-updates 2.02-2ubuntu8.17 amd64
 grub-imageboot/bionic 0.6 all
 grub-invaders/bionic 1.0.0-13 amd64
 grub-ipxe/bionic-updates 1.0.0+git-20180124.fbe8c52d-0ubuntu2.2 all
 grub-legacy-ec2/bionic,now 1:1 all [installed,automatic]
-grub-linuxbios/bionic-updates 2.02-2ubuntu8.16 amd64
-grub-pc/bionic-updates 2.02-2ubuntu8.16 amd64 [upgradable from: 2.02-2ubuntu8.14]
-grub-pc-bin/bionic-updates 2.02-2ubuntu8.16 amd64 [upgradable from: 2.02-2ubuntu8.14]
-grub-pc-dbg/bionic-updates 2.02-2ubuntu8.16 amd64
-grub-rescue-pc/bionic-updates 2.02-2ubuntu8.16 amd64
+grub-linuxbios/bionic-updates 2.02-2ubuntu8.17 amd64
+grub-pc/bionic-updates 2.02-2ubuntu8.17 amd64 [upgradable from: 2.02-2ubuntu8.14]
+grub-pc-bin/bionic-updates 2.02-2ubuntu8.17 amd64 [upgradable from: 2.02-2ubuntu8.14]
+grub-pc-dbg/bionic-updates 2.02-2ubuntu8.17 amd64
+grub-rescue-pc/bionic-updates 2.02-2ubuntu8.17 amd64
 grub-splashimages/bionic 1.2.3 all
 grub-theme-breeze/bionic 5.12.4-0ubuntu1 amd64
-grub-theme-starfield/bionic-updates 2.02-2ubuntu8.16 amd64
-grub-xen/bionic-updates 2.02-2ubuntu8.16 amd64
-grub-xen-bin/bionic-updates 2.02-2ubuntu8.16 amd64
-grub-xen-dbg/bionic-updates 2.02-2ubuntu8.16 amd64
-grub-xen-host/bionic-updates 2.02-2ubuntu8.16 amd64
-grub2/bionic-updates 2.02-2ubuntu8.16 amd64
-grub2-common/bionic-updates 2.02-2ubuntu8.16 amd64 [upgradable from: 2.02-2ubuntu8.14]
+grub-theme-starfield/bionic-updates 2.02-2ubuntu8.17 amd64
+grub-xen/bionic-updates 2.02-2ubuntu8.17 amd64
+grub-xen-bin/bionic-updates 2.02-2ubuntu8.17 amd64
+grub-xen-dbg/bionic-updates 2.02-2ubuntu8.17 amd64
+grub-xen-host/bionic-updates 2.02-2ubuntu8.17 amd64
+grub2/bionic-updates 2.02-2ubuntu8.17 amd64
+grub2-common/bionic-updates 2.02-2ubuntu8.17 amd64 [upgradable from: 2.02-2ubuntu8.14]
 grub2-splashimages/bionic 1.0.1+nmu1 all
 grub2-themes-ubuntu-mate/bionic 0.3.7 all
 grun/bionic 0.9.3-2 amd64
@@ -14423,7 +14423,7 @@ language-pack-cy/bionic-updates 1:18.04+20180712 all
 language-pack-cy-base/bionic-updates 1:18.04+20180712 all
 language-pack-da/bionic-updates 1:18.04+20180712 all
 language-pack-da-base/bionic-updates 1:18.04+20180712 all
-language-pack-de/bionic-updates 1:18.04+20190117 all
+language-pack-de/bionic-updates 1:18.04+20200702 all
 language-pack-de-base/bionic-updates 1:18.04+20180712 all
 language-pack-dz/bionic-updates 1:18.04+20180712 all
 language-pack-dz-base/bionic-updates 1:18.04+20180712 all
@@ -14433,7 +14433,7 @@ language-pack-en/bionic-updates 1:18.04+20190718 all
 language-pack-en-base/bionic-updates 1:18.04+20180712 all
 language-pack-eo/bionic-updates 1:18.04+20180712 all
 language-pack-eo-base/bionic-updates 1:18.04+20180712 all
-language-pack-es/bionic-updates 1:18.04+20180712 all
+language-pack-es/bionic-updates 1:18.04+20200702 all
 language-pack-es-base/bionic-updates 1:18.04+20180712 all
 language-pack-et/bionic-updates 1:18.04+20180712 all
 language-pack-et-base/bionic-updates 1:18.04+20180712 all
@@ -14441,9 +14441,9 @@ language-pack-eu/bionic-updates 1:18.04+20180712 all
 language-pack-eu-base/bionic-updates 1:18.04+20180712 all
 language-pack-fa/bionic-updates 1:18.04+20180712 all
 language-pack-fa-base/bionic-updates 1:18.04+20180712 all
-language-pack-fi/bionic-updates 1:18.04+20190718 all
+language-pack-fi/bionic-updates 1:18.04+20200702 all
 language-pack-fi-base/bionic-updates 1:18.04+20180712 all
-language-pack-fr/bionic-updates 1:18.04+20200123 all
+language-pack-fr/bionic-updates 1:18.04+20200702 all
 language-pack-fr-base/bionic-updates 1:18.04+20180712 all
 language-pack-fur/bionic-updates 1:18.04+20180712 all
 language-pack-fur-base/bionic-updates 1:18.04+20180712 all
@@ -14487,7 +14487,7 @@ language-pack-gnome-cy/bionic-updates 1:18.04+20180712 all
 language-pack-gnome-cy-base/bionic-updates 1:18.04+20180712 all
 language-pack-gnome-da/bionic-updates 1:18.04+20180712 all
 language-pack-gnome-da-base/bionic-updates 1:18.04+20180712 all
-language-pack-gnome-de/bionic-updates 1:18.04+20190117 all
+language-pack-gnome-de/bionic-updates 1:18.04+20200702 all
 language-pack-gnome-de-base/bionic-updates 1:18.04+20180712 all
 language-pack-gnome-dz/bionic-updates 1:18.04+20180712 all
 language-pack-gnome-dz-base/bionic-updates 1:18.04+20180712 all
@@ -14497,7 +14497,7 @@ language-pack-gnome-en/bionic-updates 1:18.04+20190718 all
 language-pack-gnome-en-base/bionic-updates 1:18.04+20180712 all
 language-pack-gnome-eo/bionic-updates 1:18.04+20180712 all
 language-pack-gnome-eo-base/bionic-updates 1:18.04+20180712 all
-language-pack-gnome-es/bionic-updates 1:18.04+20180712 all
+language-pack-gnome-es/bionic-updates 1:18.04+20200702 all
 language-pack-gnome-es-base/bionic-updates 1:18.04+20180712 all
 language-pack-gnome-et/bionic-updates 1:18.04+20180712 all
 language-pack-gnome-et-base/bionic-updates 1:18.04+20180712 all
@@ -14505,9 +14505,9 @@ language-pack-gnome-eu/bionic-updates 1:18.04+20180712 all
 language-pack-gnome-eu-base/bionic-updates 1:18.04+20180712 all
 language-pack-gnome-fa/bionic-updates 1:18.04+20180712 all
 language-pack-gnome-fa-base/bionic-updates 1:18.04+20180712 all
-language-pack-gnome-fi/bionic-updates 1:18.04+20190718 all
+language-pack-gnome-fi/bionic-updates 1:18.04+20200702 all
 language-pack-gnome-fi-base/bionic-updates 1:18.04+20180712 all
-language-pack-gnome-fr/bionic-updates 1:18.04+20200123 all
+language-pack-gnome-fr/bionic-updates 1:18.04+20200702 all
 language-pack-gnome-fr-base/bionic-updates 1:18.04+20180712 all
 language-pack-gnome-fur/bionic-updates 1:18.04+20180712 all
 language-pack-gnome-fur-base/bionic-updates 1:18.04+20180712 all
@@ -14599,7 +14599,7 @@ language-pack-gnome-sq/bionic-updates 1:18.04+20180712 all
 language-pack-gnome-sq-base/bionic-updates 1:18.04+20180712 all
 language-pack-gnome-sr/bionic-updates 1:18.04+20180712 all
 language-pack-gnome-sr-base/bionic-updates 1:18.04+20180712 all
-language-pack-gnome-sv/bionic-updates 1:18.04+20200123 all
+language-pack-gnome-sv/bionic-updates 1:18.04+20200702 all
 language-pack-gnome-sv-base/bionic-updates 1:18.04+20180712 all
 language-pack-gnome-ta/bionic-updates 1:18.04+20180712 all
 language-pack-gnome-ta-base/bionic-updates 1:18.04+20180712 all
@@ -14758,7 +14758,7 @@ language-pack-sq/bionic-updates 1:18.04+20180712 all
 language-pack-sq-base/bionic-updates 1:18.04+20180712 all
 language-pack-sr/bionic-updates 1:18.04+20180712 all
 language-pack-sr-base/bionic-updates 1:18.04+20180712 all
-language-pack-sv/bionic-updates 1:18.04+20200123 all
+language-pack-sv/bionic-updates 1:18.04+20200702 all
 language-pack-sv-base/bionic-updates 1:18.04+20180712 all
 language-pack-ta/bionic-updates 1:18.04+20180712 all
 language-pack-ta-base/bionic-updates 1:18.04+20180712 all
@@ -45259,7 +45259,7 @@ live-manual-txt/bionic 2:20151217.1 all
 live-tools/bionic 1:20171207 all
 live-wrapper/bionic 0.7 all
 live-wrapper-doc/bionic 0.7 all
-livecd-rootfs/bionic-updates 2.525.44 amd64
+livecd-rootfs/bionic-updates 2.525.45 amd64
 livemedia-utils/bionic 2018.02.18-1 amd64
 livemix/bionic 0.49~rc5-0ubuntu3 amd64
 lives/bionic 2.8.7-1 amd64
