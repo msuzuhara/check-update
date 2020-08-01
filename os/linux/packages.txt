@@ -349,7 +349,6 @@ boost-type_erasure.i686                              1.66.0-7.el8               
 boost-type_erasure.x86_64                            1.66.0-7.el8                                     AppStream
 boost-wave.i686                                      1.66.0-7.el8                                     AppStream
 boost-wave.x86_64                                    1.66.0-7.el8                                     AppStream
-bpftool.x86_64                                       4.18.0-193.14.2.el8_2                            BaseOS   
 bpftrace.x86_64                                      0.9.2-1.el8                                      AppStream
 bpg-algeti-fonts.noarch                              2.005-10.el8                                     AppStream
 bpg-chveulebrivi-fonts.noarch                        3.002-10.el8                                     AppStream
@@ -1580,7 +1579,6 @@ graphviz.x86_64                                      2.40.1-40.el8              
 grilo.i686                                           0.3.6-2.el8                                      AppStream
 grilo.x86_64                                         0.3.6-2.el8                                      AppStream
 grilo-plugins.x86_64                                 0.3.8-1.el8                                      AppStream
-grub2-common.noarch                                  1:2.02-87.el8_2                                  BaseOS   
 grub2-efi-aa64-modules.noarch                        1:2.02-87.el8_2                                  BaseOS   
 grub2-efi-ia32.x86_64                                1:2.02-87.el8_2                                  BaseOS   
 grub2-efi-ia32-cdboot.x86_64                         1:2.02-87.el8_2                                  BaseOS   
@@ -1588,13 +1586,7 @@ grub2-efi-ia32-modules.noarch                        1:2.02-87.el8_2            
 grub2-efi-x64.x86_64                                 1:2.02-87.el8_2                                  BaseOS   
 grub2-efi-x64-cdboot.x86_64                          1:2.02-87.el8_2                                  BaseOS   
 grub2-efi-x64-modules.noarch                         1:2.02-87.el8_2                                  BaseOS   
-grub2-pc.x86_64                                      1:2.02-87.el8_2                                  BaseOS   
-grub2-pc-modules.noarch                              1:2.02-87.el8_2                                  BaseOS   
 grub2-ppc64le-modules.noarch                         1:2.02-87.el8_2                                  BaseOS   
-grub2-tools.x86_64                                   1:2.02-87.el8_2                                  BaseOS   
-grub2-tools-efi.x86_64                               1:2.02-87.el8_2                                  BaseOS   
-grub2-tools-extra.x86_64                             1:2.02-87.el8_2                                  BaseOS   
-grub2-tools-minimal.x86_64                           1:2.02-87.el8_2                                  BaseOS   
 gsettings-desktop-schemas.i686                       3.32.0-4.el8                                     AppStream
 gsettings-desktop-schemas-devel.i686                 3.32.0-4.el8                                     AppStream
 gsettings-desktop-schemas-devel.x86_64               3.32.0-4.el8                                     AppStream
@@ -2121,9 +2113,7 @@ kacst-title-fonts.noarch                             2.0-19.el8                 
 kacst-titlel-fonts.noarch                            2.0-19.el8                                       AppStream
 kdump-anaconda-addon.noarch                          003-2.20181107git443d7ed.el8                     AppStream
 keepalived.x86_64                                    2.0.10-10.el8                                    AppStream
-kernel.x86_64                                        4.18.0-193.14.2.el8_2                            BaseOS   
 kernel-abi-whitelists.noarch                         4.18.0-193.14.2.el8_2                            BaseOS   
-kernel-core.x86_64                                   4.18.0-193.14.2.el8_2                            BaseOS   
 kernel-cross-headers.x86_64                          4.18.0-193.14.2.el8_2                            BaseOS   
 kernel-debug.x86_64                                  4.18.0-193.14.2.el8_2                            BaseOS   
 kernel-debug-core.x86_64                             4.18.0-193.14.2.el8_2                            BaseOS   
@@ -2133,11 +2123,8 @@ kernel-debug-modules-extra.x86_64                    4.18.0-193.14.2.el8_2      
 kernel-devel.x86_64                                  4.18.0-193.14.2.el8_2                            BaseOS   
 kernel-doc.noarch                                    4.18.0-193.14.2.el8_2                            BaseOS   
 kernel-headers.x86_64                                4.18.0-193.14.2.el8_2                            BaseOS   
-kernel-modules.x86_64                                4.18.0-193.14.2.el8_2                            BaseOS   
 kernel-modules-extra.x86_64                          4.18.0-193.14.2.el8_2                            BaseOS   
 kernel-rpm-macros.noarch                             122-1.el8                                        AppStream
-kernel-tools.x86_64                                  4.18.0-193.14.2.el8_2                            BaseOS   
-kernel-tools-libs.x86_64                             4.18.0-193.14.2.el8_2                            BaseOS   
 kernelshark.x86_64                                   2.7-8.el8                                        AppStream
 keybinder3.i686                                      0.3.2-4.el8                                      AppStream
 keybinder3.x86_64                                    0.3.2-4.el8                                      AppStream
@@ -4628,7 +4615,6 @@ python3-ordered-set.noarch                           2.0.2-4.el8                
 python3-osa-common.noarch                            5.11.99-8.module_el8.1.0+210+a3d63f21            AppStream
 python3-osad.noarch                                  5.11.99-8.module_el8.1.0+210+a3d63f21            AppStream
 python3-pcp.x86_64                                   5.0.2-5.el8                                      AppStream
-python3-perf.x86_64                                  4.18.0-193.14.2.el8_2                            BaseOS   
 python3-pexpect.noarch                               4.3.1-3.el8                                      AppStream
 python3-pid.noarch                                   2.1.1-7.el8                                      AppStream
 python3-pillow.x86_64                                5.1.1-10.el8_1                                   AppStream
