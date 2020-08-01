@@ -21979,10 +21979,10 @@ libjpathwatch-java/oldstable 0.95-4 all
 libjpathwatch-java-doc/oldstable 0.95-4 all
 libjpathwatch-java-jni/oldstable 0.95-4 amd64
 libjpedal-jbig2-java/oldstable 20100117-1 all
-libjpeg-dev/oldstable 1:1.5.1-2 all
-libjpeg-turbo-progs/oldstable 1:1.5.1-2 amd64
-libjpeg62-turbo/oldstable 1:1.5.1-2 amd64
-libjpeg62-turbo-dev/oldstable 1:1.5.1-2 amd64
+libjpeg-dev/oldstable 1:1.5.1-2+deb9u1 all
+libjpeg-turbo-progs/oldstable 1:1.5.1-2+deb9u1 amd64
+libjpeg62-turbo/oldstable 1:1.5.1-2+deb9u1 amd64
+libjpeg62-turbo-dev/oldstable 1:1.5.1-2+deb9u1 amd64
 libjpf-java/oldstable 1.5.1+dfsg-4 all
 libjpfcodegen-java/oldstable 0.4+dfsg1-1 all
 libjpgalleg4-dev/oldstable 2:4.4.2-10 amd64
@@ -29083,11 +29083,11 @@ libss7-2.0/oldstable 2.0.0-2 amd64
 libss7-dev/oldstable 2.0.0-2 amd64
 libsscm-dev/oldstable 0.8.5-5 amd64
 libsscm3/oldstable 0.8.5-5 amd64
-libssh-4/oldstable 0.7.3-2+deb9u2 amd64
-libssh-dev/oldstable 0.7.3-2+deb9u2 amd64
-libssh-doc/oldstable 0.7.3-2+deb9u2 all
-libssh-gcrypt-4/oldstable 0.7.3-2+deb9u2 amd64
-libssh-gcrypt-dev/oldstable 0.7.3-2+deb9u2 amd64
+libssh-4/oldstable 0.7.3-2+deb9u3 amd64
+libssh-dev/oldstable 0.7.3-2+deb9u3 amd64
+libssh-doc/oldstable 0.7.3-2+deb9u3 all
+libssh-gcrypt-4/oldstable 0.7.3-2+deb9u3 amd64
+libssh-gcrypt-dev/oldstable 0.7.3-2+deb9u3 amd64
 libssh2-1/oldstable,oldstable,now 1.7.0-1+deb9u1 amd64 [installed,automatic]
 libssh2-1-dbg/oldstable,oldstable 1.7.0-1+deb9u1 amd64
 libssh2-1-dev/oldstable,oldstable 1.7.0-1+deb9u1 amd64
@@ -30335,8 +30335,8 @@ libtulip-python-4.8/oldstable 4.8.0dfsg-2+b7 amd64
 libtumbler-1-0/oldstable 0.1.31-2+b3 amd64
 libtumbler-1-dbg/oldstable 0.1.31-2+b3 amd64
 libtumbler-1-dev/oldstable 0.1.31-2+b3 amd64
-libturbojpeg0/oldstable 1:1.5.1-2 amd64
-libturbojpeg0-dev/oldstable 1:1.5.1-2 amd64
+libturbojpeg0/oldstable 1:1.5.1-2+deb9u1 amd64
+libturbojpeg0-dev/oldstable 1:1.5.1-2+deb9u1 amd64
 libtut-dev/oldstable 0.0.20070706-1 all
 libtuxcap-dev/oldstable 1.4.0.dfsg2-2.3+b2 amd64
 libtuxcap4.0/oldstable 1.4.0.dfsg2-2.3+b2 amd64
