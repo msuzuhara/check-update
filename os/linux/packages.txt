@@ -13211,48 +13211,48 @@ grpn/focal 1.4.1-1 amd64
 grr-client-templates/focal,focal 3.1.0.2-2 all
 grr.app/focal 1.0-1build5 amd64
 grsync/focal 1.2.6-2 amd64
-grub-common/focal-updates,now 2.04-1ubuntu26.1 amd64 [installed]
-grub-coreboot-bin/focal-updates 2.04-1ubuntu26.1 amd64
-grub-coreboot-dbg/focal-updates 2.04-1ubuntu26.1 amd64
-grub-coreboot/focal-updates 2.04-1ubuntu26.1 amd64
+grub-common/focal-updates 2.04-1ubuntu26.2 amd64 [upgradable from: 2.04-1ubuntu26.1]
+grub-coreboot-bin/focal-updates 2.04-1ubuntu26.2 amd64
+grub-coreboot-dbg/focal-updates 2.04-1ubuntu26.2 amd64
+grub-coreboot/focal-updates 2.04-1ubuntu26.2 amd64
 grub-customizer/focal 5.1.0-2 amd64
-grub-efi-amd64-bin/focal-updates 2.04-1ubuntu26.1 amd64
-grub-efi-amd64-dbg/focal-updates 2.04-1ubuntu26.1 amd64
-grub-efi-amd64-signed-template/focal-updates 2.04-1ubuntu26.1 amd64
-grub-efi-amd64-signed/focal-updates 1.142.3+2.04-1ubuntu26.1 amd64
-grub-efi-amd64/focal-updates 2.04-1ubuntu26.1 amd64
-grub-efi-ia32-bin/focal-updates 2.04-1ubuntu26.1 amd64
-grub-efi-ia32-dbg/focal-updates 2.04-1ubuntu26.1 amd64
-grub-efi-ia32/focal-updates 2.04-1ubuntu26.1 amd64
-grub-efi/focal-updates 2.04-1ubuntu26.1 amd64
-grub-emu-dbg/focal-updates 2.04-1ubuntu26.1 amd64
-grub-emu/focal-updates 2.04-1ubuntu26.1 amd64
-grub-firmware-qemu/focal-updates 2.04-1ubuntu26.1 amd64
+grub-efi-amd64-bin/focal-updates 2.04-1ubuntu26.2 amd64
+grub-efi-amd64-dbg/focal-updates 2.04-1ubuntu26.2 amd64
+grub-efi-amd64-signed-template/focal-updates 2.04-1ubuntu26.2 amd64
+grub-efi-amd64-signed/focal-updates 1.142.4+2.04-1ubuntu26.2 amd64
+grub-efi-amd64/focal-updates 2.04-1ubuntu26.2 amd64
+grub-efi-ia32-bin/focal-updates 2.04-1ubuntu26.2 amd64
+grub-efi-ia32-dbg/focal-updates 2.04-1ubuntu26.2 amd64
+grub-efi-ia32/focal-updates 2.04-1ubuntu26.2 amd64
+grub-efi/focal-updates 2.04-1ubuntu26.2 amd64
+grub-emu-dbg/focal-updates 2.04-1ubuntu26.2 amd64
+grub-emu/focal-updates 2.04-1ubuntu26.2 amd64
+grub-firmware-qemu/focal-updates 2.04-1ubuntu26.2 amd64
 grub-gfxpayload-lists/focal,now 0.7 amd64 [installed,automatic]
-grub-ieee1275-bin/focal-updates 2.04-1ubuntu26.1 amd64
-grub-ieee1275-dbg/focal-updates 2.04-1ubuntu26.1 amd64
-grub-ieee1275/focal-updates 2.04-1ubuntu26.1 amd64
+grub-ieee1275-bin/focal-updates 2.04-1ubuntu26.2 amd64
+grub-ieee1275-dbg/focal-updates 2.04-1ubuntu26.2 amd64
+grub-ieee1275/focal-updates 2.04-1ubuntu26.2 amd64
 grub-imageboot/focal,focal 0.6 all
 grub-invaders/focal 1.0.0-13 amd64
 grub-ipxe/focal,focal 1.0.0+git-20190109.133f4c4-0ubuntu3 all
 grub-legacy-ec2/focal,focal 1:1ubuntu1 all
-grub-linuxbios/focal-updates 2.04-1ubuntu26.1 amd64
-grub-pc-bin/focal-updates,now 2.04-1ubuntu26.1 amd64 [installed,automatic]
-grub-pc-dbg/focal-updates 2.04-1ubuntu26.1 amd64
-grub-pc/focal-updates,now 2.04-1ubuntu26.1 amd64 [installed]
-grub-rescue-pc/focal-updates 2.04-1ubuntu26.1 amd64
+grub-linuxbios/focal-updates 2.04-1ubuntu26.2 amd64
+grub-pc-bin/focal-updates 2.04-1ubuntu26.2 amd64 [upgradable from: 2.04-1ubuntu26.1]
+grub-pc-dbg/focal-updates 2.04-1ubuntu26.2 amd64
+grub-pc/focal-updates 2.04-1ubuntu26.2 amd64 [upgradable from: 2.04-1ubuntu26.1]
+grub-rescue-pc/focal-updates 2.04-1ubuntu26.2 amd64
 grub-splashimages/focal,focal 1.2.3 all
 grub-theme-breeze/focal 5.18.4.1-0ubuntu1 amd64
-grub-theme-starfield/focal-updates 2.04-1ubuntu26.1 amd64
-grub-xen-bin/focal-updates 2.04-1ubuntu26.1 amd64
-grub-xen-dbg/focal-updates 2.04-1ubuntu26.1 amd64
-grub-xen-host/focal-updates 2.04-1ubuntu26.1 amd64
-grub-xen/focal-updates 2.04-1ubuntu26.1 amd64
-grub2-common/focal-updates,now 2.04-1ubuntu26.1 amd64 [installed,automatic]
+grub-theme-starfield/focal-updates 2.04-1ubuntu26.2 amd64
+grub-xen-bin/focal-updates 2.04-1ubuntu26.2 amd64
+grub-xen-dbg/focal-updates 2.04-1ubuntu26.2 amd64
+grub-xen-host/focal-updates 2.04-1ubuntu26.2 amd64
+grub-xen/focal-updates 2.04-1ubuntu26.2 amd64
+grub2-common/focal-updates 2.04-1ubuntu26.2 amd64 [upgradable from: 2.04-1ubuntu26.1]
 grub2-splashimages/focal,focal 1.0.1+nmu1 all
 grub2-themes-ubuntu-mate/focal,focal 0.3.7 all
 grub2-themes-ubuntustudio/focal,focal 0.3 all
-grub2/focal-updates 2.04-1ubuntu26.1 amd64
+grub2/focal-updates 2.04-1ubuntu26.2 amd64
 grubzfs-testsuite/focal 0.4.10 amd64
 grun/focal 0.9.3-2 amd64
 grunt/focal,focal 1.0.4-2 all
