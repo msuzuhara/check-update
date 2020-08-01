@@ -10025,45 +10025,45 @@ grpn/xenial 1.1.2-3.2 amd64
 grr.app/xenial 0.9.0-1build3 amd64
 grsync/xenial 1.2.5-1 amd64
 grub/xenial 0.97-29ubuntu68 amd64
-grub-common/xenial-updates 2.02~beta2-36ubuntu3.26 amd64 [upgradable from: 2.02~beta2-36ubuntu3.23]
-grub-coreboot/xenial-updates 2.02~beta2-36ubuntu3.26 amd64
-grub-coreboot-bin/xenial-updates 2.02~beta2-36ubuntu3.26 amd64
-grub-coreboot-dbg/xenial-updates 2.02~beta2-36ubuntu3.26 amd64
+grub-common/xenial-updates 2.02~beta2-36ubuntu3.27 amd64 [upgradable from: 2.02~beta2-36ubuntu3.23]
+grub-coreboot/xenial-updates 2.02~beta2-36ubuntu3.27 amd64
+grub-coreboot-bin/xenial-updates 2.02~beta2-36ubuntu3.27 amd64
+grub-coreboot-dbg/xenial-updates 2.02~beta2-36ubuntu3.27 amd64
 grub-disk/xenial,xenial 0.97-29ubuntu68 all
 grub-doc/xenial,xenial 0.97-29ubuntu68 all
-grub-efi/xenial-updates 2.02~beta2-36ubuntu3.26 amd64
-grub-efi-amd64/xenial-updates 2.02~beta2-36ubuntu3.26 amd64
-grub-efi-amd64-bin/xenial-updates 2.02~beta2-36ubuntu3.26 amd64
-grub-efi-amd64-dbg/xenial-updates 2.02~beta2-36ubuntu3.26 amd64
-grub-efi-amd64-signed/xenial-updates 1.66.26+2.02~beta2-36ubuntu3.26 amd64
-grub-efi-ia32/xenial-updates 2.02~beta2-36ubuntu3.26 amd64
-grub-efi-ia32-bin/xenial-updates 2.02~beta2-36ubuntu3.26 amd64
-grub-efi-ia32-dbg/xenial-updates 2.02~beta2-36ubuntu3.26 amd64
-grub-emu/xenial-updates 2.02~beta2-36ubuntu3.26 amd64
-grub-emu-dbg/xenial-updates 2.02~beta2-36ubuntu3.26 amd64
-grub-firmware-qemu/xenial-updates 2.02~beta2-36ubuntu3.26 amd64
+grub-efi/xenial-updates 2.02~beta2-36ubuntu3.27 amd64
+grub-efi-amd64/xenial-updates 2.02~beta2-36ubuntu3.27 amd64
+grub-efi-amd64-bin/xenial-updates 2.02~beta2-36ubuntu3.27 amd64
+grub-efi-amd64-dbg/xenial-updates 2.02~beta2-36ubuntu3.27 amd64
+grub-efi-amd64-signed/xenial-updates 1.66.27+2.02~beta2-36ubuntu3.27 amd64
+grub-efi-ia32/xenial-updates 2.02~beta2-36ubuntu3.27 amd64
+grub-efi-ia32-bin/xenial-updates 2.02~beta2-36ubuntu3.27 amd64
+grub-efi-ia32-dbg/xenial-updates 2.02~beta2-36ubuntu3.27 amd64
+grub-emu/xenial-updates 2.02~beta2-36ubuntu3.27 amd64
+grub-emu-dbg/xenial-updates 2.02~beta2-36ubuntu3.27 amd64
+grub-firmware-qemu/xenial-updates 2.02~beta2-36ubuntu3.27 amd64
 grub-gfxpayload-lists/xenial,now 0.7 amd64 [installed,automatic]
-grub-ieee1275/xenial-updates 2.02~beta2-36ubuntu3.26 amd64
-grub-ieee1275-bin/xenial-updates 2.02~beta2-36ubuntu3.26 amd64
-grub-ieee1275-dbg/xenial-updates 2.02~beta2-36ubuntu3.26 amd64
+grub-ieee1275/xenial-updates 2.02~beta2-36ubuntu3.27 amd64
+grub-ieee1275-bin/xenial-updates 2.02~beta2-36ubuntu3.27 amd64
+grub-ieee1275-dbg/xenial-updates 2.02~beta2-36ubuntu3.27 amd64
 grub-imageboot/xenial,xenial 0.6 all
 grub-invaders/xenial 1.0.0-13 amd64
 grub-ipxe/xenial-updates,xenial-updates 1.0.0+git-20150424.a25a16d-1ubuntu1.2 all
 grub-legacy-doc/xenial,xenial 0.97-29ubuntu68 all
 grub-legacy-ec2/xenial-updates,xenial-updates 20.2-45-g5f7825e2-0ubuntu1~16.04.1 all [upgradable from: 19.4-33-gbb4131a2-0ubuntu1~16.04.1]
-grub-linuxbios/xenial-updates 2.02~beta2-36ubuntu3.26 amd64
-grub-pc/xenial-updates 2.02~beta2-36ubuntu3.26 amd64 [upgradable from: 2.02~beta2-36ubuntu3.23]
-grub-pc-bin/xenial-updates 2.02~beta2-36ubuntu3.26 amd64 [upgradable from: 2.02~beta2-36ubuntu3.23]
-grub-pc-dbg/xenial-updates 2.02~beta2-36ubuntu3.26 amd64
-grub-rescue-pc/xenial-updates 2.02~beta2-36ubuntu3.26 amd64
+grub-linuxbios/xenial-updates 2.02~beta2-36ubuntu3.27 amd64
+grub-pc/xenial-updates 2.02~beta2-36ubuntu3.27 amd64 [upgradable from: 2.02~beta2-36ubuntu3.23]
+grub-pc-bin/xenial-updates 2.02~beta2-36ubuntu3.27 amd64 [upgradable from: 2.02~beta2-36ubuntu3.23]
+grub-pc-dbg/xenial-updates 2.02~beta2-36ubuntu3.27 amd64
+grub-rescue-pc/xenial-updates 2.02~beta2-36ubuntu3.27 amd64
 grub-splashimages/xenial,xenial 1.2.3 all
-grub-theme-starfield/xenial-updates 2.02~beta2-36ubuntu3.26 amd64
-grub-xen/xenial-updates 2.02~beta2-36ubuntu3.26 amd64
-grub-xen-bin/xenial-updates 2.02~beta2-36ubuntu3.26 amd64
-grub-xen-dbg/xenial-updates 2.02~beta2-36ubuntu3.26 amd64
-grub-xen-host/xenial-updates 2.02~beta2-36ubuntu3.26 amd64
-grub2/xenial-updates 2.02~beta2-36ubuntu3.26 amd64
-grub2-common/xenial-updates 2.02~beta2-36ubuntu3.26 amd64 [upgradable from: 2.02~beta2-36ubuntu3.23]
+grub-theme-starfield/xenial-updates 2.02~beta2-36ubuntu3.27 amd64
+grub-xen/xenial-updates 2.02~beta2-36ubuntu3.27 amd64
+grub-xen-bin/xenial-updates 2.02~beta2-36ubuntu3.27 amd64
+grub-xen-dbg/xenial-updates 2.02~beta2-36ubuntu3.27 amd64
+grub-xen-host/xenial-updates 2.02~beta2-36ubuntu3.27 amd64
+grub2/xenial-updates 2.02~beta2-36ubuntu3.27 amd64
+grub2-common/xenial-updates 2.02~beta2-36ubuntu3.27 amd64 [upgradable from: 2.02~beta2-36ubuntu3.23]
 grub2-splashimages/xenial,xenial 1.0.1+nmu1 all
 grub2-themes-ubuntu-mate/xenial,xenial 0.3.7 all
 grun/xenial 0.9.3-2 amd64
