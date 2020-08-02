@@ -25847,11 +25847,11 @@ libopenlibm-dev/oldstable 0.5.4+dfsg-3 amd64
 libopenlibm2/oldstable 0.5.4+dfsg-3 amd64
 libopenmpi-dev/oldstable 2.0.2-2 amd64
 libopenmpi2/oldstable 2.0.2-2 amd64
-libopenmpt-dev/oldstable 0.2.7386~beta20.3-3+deb9u3 amd64
-libopenmpt-doc/oldstable 0.2.7386~beta20.3-3+deb9u3 all
-libopenmpt-modplug-dev/oldstable 0.2.7386~beta20.3-3+deb9u3 amd64
-libopenmpt-modplug1/oldstable 0.2.7386~beta20.3-3+deb9u3 amd64
-libopenmpt0/oldstable 0.2.7386~beta20.3-3+deb9u3 amd64
+libopenmpt-dev/oldstable 0.2.7386~beta20.3-3+deb9u4 amd64
+libopenmpt-doc/oldstable 0.2.7386~beta20.3-3+deb9u4 all
+libopenmpt-modplug-dev/oldstable 0.2.7386~beta20.3-3+deb9u4 amd64
+libopenmpt-modplug1/oldstable 0.2.7386~beta20.3-3+deb9u4 amd64
+libopenmpt0/oldstable 0.2.7386~beta20.3-3+deb9u4 amd64
 libopenni-dev/oldstable 1.5.4.0-14+b1 amd64
 libopenni-java/oldstable 1.5.4.0-14+b1 amd64
 libopenni-sensor-pointclouds-dev/oldstable 5.1.0.41.7-1 amd64
@@ -26222,7 +26222,7 @@ libpam-pwdfile/oldstable 1.0-1 amd64
 libpam-pwquality/oldstable 1.3.0-1+b1 amd64
 libpam-python/oldstable,oldstable 1.0.6-1.1+deb9u1 amd64
 libpam-python-doc/oldstable,oldstable 1.0.6-1.1+deb9u1 all
-libpam-radius-auth/oldstable 1.3.16-5 amd64
+libpam-radius-auth/oldstable 1.3.16-5+deb9u1 amd64
 libpam-runtime/oldstable,now 1.1.8-3.6 all [installed]
 libpam-script/oldstable 1.1.8.1-1-1 amd64
 libpam-securepass/oldstable 0.4-2 amd64
@@ -26591,7 +26591,7 @@ libphp-jabber/oldstable 0.4.3-5 all
 libphp-jpgraph/oldstable 1.5.2-13 all
 libphp-jpgraph-examples/oldstable 1.5.2-13 all
 libphp-magpierss/oldstable 0.72-11 all
-libphp-phpmailer/oldstable,oldstable 5.2.14+dfsg-2.3+deb9u1 all
+libphp-phpmailer/oldstable 5.2.14+dfsg-2.3+deb9u2 all
 libphp-predis/oldstable 0.8.3-1 amd64
 libphp-serialization-perl/oldstable 0.34-1 all
 libphp-simplepie/oldstable 1.3.1+dfsg-3.1 all
@@ -35807,7 +35807,7 @@ openmolar/oldstable 1.0.15-gd81f9e5-1 all
 openmpi-bin/oldstable 2.0.2-2 amd64
 openmpi-common/oldstable 2.0.2-2 all
 openmpi-doc/oldstable 2.0.2-2 all
-openmpt123/oldstable 0.2.7386~beta20.3-3+deb9u3 amd64
+openmpt123/oldstable 0.2.7386~beta20.3-3+deb9u4 amd64
 openmsx/oldstable 0.13.0-1+b1 amd64
 openmsx-catapult/oldstable 0.13.0-1+b1 amd64
 openmsx-data/oldstable 0.13.0-1 all
@@ -45692,7 +45692,7 @@ ruby-yajl/oldstable 1.2.0-3+b3 amd64
 ruby-yaml-db/oldstable 0.3.0-1 all
 ruby-yell/oldstable 2.0.7-1 all
 ruby-zentest/oldstable 4.11.0-2 all
-ruby-zip/oldstable 1.2.0-1.1 amd64
+ruby-zip/oldstable 1.2.0-1.1+deb9u1 amd64
 ruby-zip-zip/oldstable 0.3+gh-1 all
 ruby-zoom/oldstable 0.5.0-1 amd64
 ruby2.3/oldstable 2.3.3-1+deb9u8 amd64
@@ -48353,12 +48353,12 @@ translate-docformat/oldstable 0.6-5 all
 translate-toolkit/oldstable 2.0.0-1 all
 translate-toolkit-doc/oldstable 2.0.0-1 all
 transmageddon/oldstable 1.5-3 all
-transmission/oldstable,oldstable 2.92-2+deb9u1 all
-transmission-cli/oldstable,oldstable 2.92-2+deb9u1 amd64
-transmission-common/oldstable,oldstable 2.92-2+deb9u1 all
-transmission-daemon/oldstable,oldstable 2.92-2+deb9u1 amd64
-transmission-gtk/oldstable,oldstable 2.92-2+deb9u1 amd64
-transmission-qt/oldstable,oldstable 2.92-2+deb9u1 amd64
+transmission/oldstable 2.92-2+deb9u2 all
+transmission-cli/oldstable 2.92-2+deb9u2 amd64
+transmission-common/oldstable 2.92-2+deb9u2 all
+transmission-daemon/oldstable 2.92-2+deb9u2 amd64
+transmission-gtk/oldstable 2.92-2+deb9u2 amd64
+transmission-qt/oldstable 2.92-2+deb9u2 amd64
 transmission-remote-cli/oldstable 1.7.0-1 all
 transmission-remote-gtk/oldstable 1.3.1-2 amd64
 transrate-tools/oldstable 1.0.0-1+b1 amd64
