@@ -1262,7 +1262,7 @@ barrier/stable 2.1.2+dfsg-1 amd64
 barrnap/stable 0.9+dfsg-1 all
 bart-view/stable 0.1.00-2 amd64
 bart/stable 0.4.04-2 amd64
-base-files/stable 10.3+deb10u5 amd64 [upgradable from: 10.3+deb10u4]
+base-files/stable,now 10.3+deb10u5 amd64 [installed]
 base-passwd/stable,now 3.5.46 amd64 [installed]
 base58/stable 1.0.3-1 all
 basex/stable 9.0.1+ds-1 all
@@ -3524,7 +3524,7 @@ dbus-test-runner/stable 16.10.0~bzr100+repack1-4 amd64
 dbus-tests/stable 1.12.20-0+deb10u1 amd64
 dbus-user-session/stable 1.12.20-0+deb10u1 amd64
 dbus-x11/stable 1.12.20-0+deb10u1 amd64
-dbus/stable 1.12.20-0+deb10u1 amd64 [upgradable from: 1.12.16-1]
+dbus/stable,now 1.12.20-0+deb10u1 amd64 [installed]
 dbview/stable 1.0.4-1+b2 amd64
 dc3dd/stable 7.2.646-3 amd64
 dc/stable 1.07.1-2+b1 amd64
@@ -4341,22 +4341,22 @@ doublecmd-plugins/stable 0.9.1-1 amd64
 doublecmd-qt/stable 0.9.1-1 amd64
 dov4l/stable 0.9+repack-1+b1 amd64
 dovecot-antispam/stable 2.0+20171229-1+b4 amd64
-dovecot-auth-lua/stable,stable 1:2.3.4.1-5+deb10u2 amd64
-dovecot-core/stable,stable 1:2.3.4.1-5+deb10u2 amd64
-dovecot-dev/stable,stable 1:2.3.4.1-5+deb10u2 amd64
-dovecot-gssapi/stable,stable 1:2.3.4.1-5+deb10u2 amd64
-dovecot-imapd/stable,stable 1:2.3.4.1-5+deb10u2 amd64
-dovecot-ldap/stable,stable 1:2.3.4.1-5+deb10u2 amd64
-dovecot-lmtpd/stable,stable 1:2.3.4.1-5+deb10u2 amd64
-dovecot-lucene/stable,stable 1:2.3.4.1-5+deb10u2 amd64
-dovecot-managesieved/stable,stable 1:2.3.4.1-5+deb10u2 amd64
-dovecot-mysql/stable,stable 1:2.3.4.1-5+deb10u2 amd64
-dovecot-pgsql/stable,stable 1:2.3.4.1-5+deb10u2 amd64
-dovecot-pop3d/stable,stable 1:2.3.4.1-5+deb10u2 amd64
-dovecot-sieve/stable,stable 1:2.3.4.1-5+deb10u2 amd64
-dovecot-solr/stable,stable 1:2.3.4.1-5+deb10u2 amd64
-dovecot-sqlite/stable,stable 1:2.3.4.1-5+deb10u2 amd64
-dovecot-submissiond/stable,stable 1:2.3.4.1-5+deb10u2 amd64
+dovecot-auth-lua/stable 1:2.3.4.1-5+deb10u3 amd64
+dovecot-core/stable 1:2.3.4.1-5+deb10u3 amd64
+dovecot-dev/stable 1:2.3.4.1-5+deb10u3 amd64
+dovecot-gssapi/stable 1:2.3.4.1-5+deb10u3 amd64
+dovecot-imapd/stable 1:2.3.4.1-5+deb10u3 amd64
+dovecot-ldap/stable 1:2.3.4.1-5+deb10u3 amd64
+dovecot-lmtpd/stable 1:2.3.4.1-5+deb10u3 amd64
+dovecot-lucene/stable 1:2.3.4.1-5+deb10u3 amd64
+dovecot-managesieved/stable 1:2.3.4.1-5+deb10u3 amd64
+dovecot-mysql/stable 1:2.3.4.1-5+deb10u3 amd64
+dovecot-pgsql/stable 1:2.3.4.1-5+deb10u3 amd64
+dovecot-pop3d/stable 1:2.3.4.1-5+deb10u3 amd64
+dovecot-sieve/stable 1:2.3.4.1-5+deb10u3 amd64
+dovecot-solr/stable 1:2.3.4.1-5+deb10u3 amd64
+dovecot-sqlite/stable 1:2.3.4.1-5+deb10u3 amd64
+dovecot-submissiond/stable 1:2.3.4.1-5+deb10u3 amd64
 downtimed/stable 1.0-2 amd64
 doxygen-doc/stable 1.8.13-10 all
 doxygen-gui/stable 1.8.13-10 amd64
@@ -5878,8 +5878,8 @@ firehol-doc/stable 3.1.6+ds-8 all
 firehol-tools-doc/stable 3.1.6+ds-8 all
 firehol-tools/stable 3.1.6+ds-8 all
 firehol/stable 3.1.6+ds-8 all
-firejail-profiles/stable 0.9.58.2-2 all
-firejail/stable 0.9.58.2-2 amd64
+firejail-profiles/stable 0.9.58.2-2+deb10u1 all
+firejail/stable 0.9.58.2-2+deb10u1 amd64
 fireqos-doc/stable 3.1.6+ds-8 all
 fireqos/stable 3.1.6+ds-8 all
 firetools/stable 0.9.58-1 amd64
@@ -8259,7 +8259,7 @@ gir1.2-ical-3.0/stable 3.0.4-3 amd64
 gir1.2-input-pad-1.0/stable 1.0.3-3 amd64
 gir1.2-isocodes-1.2/stable 1.2.2-2 amd64
 gir1.2-itl-1.0/stable 0.3-1 amd64
-gir1.2-javascriptcoregtk-4.0/stable,stable 2.28.3-2~deb10u1 amd64
+gir1.2-javascriptcoregtk-4.0/stable 2.28.4-1~deb10u1 amd64
 gir1.2-json-1.0/stable 1.4.4-2 amd64
 gir1.2-jsonrpc-1.0/stable 3.30.1-2 amd64
 gir1.2-keybinder-0.0/stable 0.3.1-1 amd64
@@ -8336,7 +8336,7 @@ gir1.2-upowerglib-1.0/stable 0.99.10-1 amd64
 gir1.2-urfkill-0.5/stable 0.5.0-6 amd64
 gir1.2-vips-8.0/stable 8.7.4-1 amd64
 gir1.2-vte-2.91/stable 0.54.2-2 amd64
-gir1.2-webkit2-4.0/stable,stable 2.28.3-2~deb10u1 amd64
+gir1.2-webkit2-4.0/stable 2.28.4-1~deb10u1 amd64
 gir1.2-wnck-1.0/stable 2.30.7-6 amd64
 gir1.2-wnck-3.0/stable 3.30.0-2 amd64
 gir1.2-xapp-1.0/stable 1.2.2-1 amd64
@@ -16747,7 +16747,7 @@ libdbix-simple-perl/stable 1.37-1 all
 libdbix-xml-rdb-perl/stable 0.05-12 all
 libdbix-xmlmessage-perl/stable 0.05-10 all
 libdbm-deep-perl/stable 2.0016-1 all
-libdbus-1-3/stable 1.12.20-0+deb10u1 amd64 [upgradable from: 1.12.16-1]
+libdbus-1-3/stable,now 1.12.20-0+deb10u1 amd64 [installed,automatic]
 libdbus-1-dev/stable 1.12.20-0+deb10u1 amd64
 libdbus-c++-1-0v5/stable 0.9.0-8.1 amd64
 libdbus-c++-bin/stable 0.9.0-8.1 amd64
@@ -22257,7 +22257,7 @@ libgnustep-gui0.27/stable 0.27.0-5 amd64
 libgnutls-dane0/stable 3.6.7-4+deb10u5 amd64
 libgnutls-openssl27/stable 3.6.7-4+deb10u5 amd64
 libgnutls28-dev/stable 3.6.7-4+deb10u5 amd64
-libgnutls30/stable 3.6.7-4+deb10u5 amd64 [upgradable from: 3.6.7-4+deb10u4]
+libgnutls30/stable,now 3.6.7-4+deb10u5 amd64 [installed]
 libgnutlsxx28/stable 3.6.7-4+deb10u5 amd64
 libgo-perl/stable 0.15-7 all
 libgo11-dbg/stable 7.4.0-6 amd64
@@ -23717,9 +23717,9 @@ libjavascript-minifier-perl/stable 1.14-1 all
 libjavascript-minifier-xs-perl/stable 0.11-1+b5 amd64
 libjavascript-packer-perl/stable 2.04-1 all
 libjavascript-rpc-perl/stable 0.10-1.3 all
-libjavascriptcoregtk-4.0-18/stable,stable 2.28.3-2~deb10u1 amd64
-libjavascriptcoregtk-4.0-bin/stable,stable 2.28.3-2~deb10u1 amd64
-libjavascriptcoregtk-4.0-dev/stable,stable 2.28.3-2~deb10u1 amd64
+libjavascriptcoregtk-4.0-18/stable 2.28.4-1~deb10u1 amd64
+libjavascriptcoregtk-4.0-bin/stable 2.28.4-1~deb10u1 amd64
+libjavascriptcoregtk-4.0-dev/stable 2.28.4-1~deb10u1 amd64
 libjavassist-java-doc/stable 1:3.23.1-1 all
 libjavassist-java/stable 1:3.23.1-1 all
 libjavatuples-java/stable 1.2-1 all
@@ -24323,9 +24323,9 @@ libjsf-java-doc/stable 2.2.8-6 all
 libjsilver-aosp-java/stable 6.0.1+r55-1 all
 libjsmpp-java/stable 2.1.2-4 all
 libjson-any-perl/stable 1.39-1 all
-libjson-c-dev/stable 0.12.1+ds-2 amd64
-libjson-c-doc/stable 0.12.1+ds-2 all
-libjson-c3/stable,now 0.12.1+ds-2 amd64 [installed]
+libjson-c-dev/stable 0.12.1+ds-2+deb10u1 amd64
+libjson-c-doc/stable 0.12.1+ds-2+deb10u1 all
+libjson-c3/stable 0.12.1+ds-2+deb10u1 amd64 [upgradable from: 0.12.1+ds-2]
 libjson-glib-1.0-0/stable 1.4.4-2 amd64
 libjson-glib-1.0-common/stable 1.4.4-2 all
 libjson-glib-dev/stable 1.4.4-2 amd64
@@ -28755,7 +28755,7 @@ libperl4-corelibs-perl/stable 0.004-1+deb10u1 all
 libperl4caml-ocaml-dev/stable 0.9.5-5+b4 amd64
 libperl4caml-ocaml-doc/stable 0.9.5-5 all
 libperl4caml-ocaml/stable 0.9.5-5+b4 amd64
-libperl5.28/stable 5.28.1-6+deb10u1 amd64 [upgradable from: 5.28.1-6]
+libperl5.28/stable,now 5.28.1-6+deb10u1 amd64 [installed,automatic]
 libperl5i-perl/stable 2.13.2-1 amd64
 libperl6-caller-perl/stable 0.100-3 all
 libperl6-export-attrs-perl/stable 0.000006-1 all
@@ -29459,8 +29459,8 @@ libpython3-dev/stable 3.7.3-1 amd64
 libpython3-stdlib/stable,now 3.7.3-1 amd64 [installed,automatic]
 libpython3.7-dbg/stable 3.7.3-2+deb10u2 amd64
 libpython3.7-dev/stable 3.7.3-2+deb10u2 amd64
-libpython3.7-minimal/stable 3.7.3-2+deb10u2 amd64 [upgradable from: 3.7.3-2+deb10u1]
-libpython3.7-stdlib/stable 3.7.3-2+deb10u2 amd64 [upgradable from: 3.7.3-2+deb10u1]
+libpython3.7-minimal/stable,now 3.7.3-2+deb10u2 amd64 [installed,automatic]
+libpython3.7-stdlib/stable,now 3.7.3-2+deb10u2 amd64 [installed,automatic]
 libpython3.7-testsuite/stable 3.7.3-2+deb10u2 all
 libpython3.7/stable 3.7.3-2+deb10u2 amd64
 libpyzy-1.0-0v5/stable 1.0.1-6 amd64
@@ -34482,10 +34482,10 @@ libwebjars-locator-java/stable 0.32-1 all
 libwebkdc-perl/stable 4.7.0-7 all
 libwebkit2-sharp-4.0-cil-dev/stable 2.10.9+git20160917-1.1 amd64
 libwebkit2-sharp-4.0-cil/stable 2.10.9+git20160917-1.1 amd64
-libwebkit2gtk-4.0-37-gtk2/stable,stable 2.28.3-2~deb10u1 all
-libwebkit2gtk-4.0-37/stable,stable 2.28.3-2~deb10u1 amd64
-libwebkit2gtk-4.0-dev/stable,stable 2.28.3-2~deb10u1 amd64
-libwebkit2gtk-4.0-doc/stable,stable 2.28.3-2~deb10u1 all
+libwebkit2gtk-4.0-37-gtk2/stable 2.28.4-1~deb10u1 all
+libwebkit2gtk-4.0-37/stable 2.28.4-1~deb10u1 amd64
+libwebkit2gtk-4.0-dev/stable 2.28.4-1~deb10u1 amd64
+libwebkit2gtk-4.0-doc/stable 2.28.4-1~deb10u1 all
 libwebp-dev/stable 0.6.1-2 amd64
 libwebp6/stable 0.6.1-2 amd64
 libwebpdemux2/stable 0.6.1-2 amd64
@@ -35514,64 +35514,64 @@ lightdm-remote-session-x2go/stable 0.0.2.0-2 amd64
 lightdm-vala/stable 1.26.0-4 amd64
 lightdm/stable 1.26.0-4 amd64
 lightify-util/stable 0~git20160911-1 amd64
-lightning-l10n-ar/stable,stable 1:68.10.0-1~deb10u1 all
-lightning-l10n-ast/stable,stable 1:68.10.0-1~deb10u1 all
-lightning-l10n-be/stable,stable 1:68.10.0-1~deb10u1 all
-lightning-l10n-bg/stable,stable 1:68.10.0-1~deb10u1 all
-lightning-l10n-br/stable,stable 1:68.10.0-1~deb10u1 all
-lightning-l10n-ca/stable,stable 1:68.10.0-1~deb10u1 all
-lightning-l10n-cs/stable,stable 1:68.10.0-1~deb10u1 all
-lightning-l10n-cy/stable,stable 1:68.10.0-1~deb10u1 all
-lightning-l10n-da/stable,stable 1:68.10.0-1~deb10u1 all
-lightning-l10n-de/stable,stable 1:68.10.0-1~deb10u1 all
-lightning-l10n-dsb/stable,stable 1:68.10.0-1~deb10u1 all
-lightning-l10n-el/stable,stable 1:68.10.0-1~deb10u1 all
-lightning-l10n-en-gb/stable,stable 1:68.10.0-1~deb10u1 all
-lightning-l10n-es-ar/stable,stable 1:68.10.0-1~deb10u1 all
-lightning-l10n-es-es/stable,stable 1:68.10.0-1~deb10u1 all
-lightning-l10n-et/stable,stable 1:68.10.0-1~deb10u1 all
-lightning-l10n-eu/stable,stable 1:68.10.0-1~deb10u1 all
-lightning-l10n-fi/stable,stable 1:68.10.0-1~deb10u1 all
-lightning-l10n-fr/stable,stable 1:68.10.0-1~deb10u1 all
-lightning-l10n-fy-nl/stable,stable 1:68.10.0-1~deb10u1 all
-lightning-l10n-ga-ie/stable,stable 1:68.10.0-1~deb10u1 all
-lightning-l10n-gd/stable,stable 1:68.10.0-1~deb10u1 all
-lightning-l10n-gl/stable,stable 1:68.10.0-1~deb10u1 all
-lightning-l10n-he/stable,stable 1:68.10.0-1~deb10u1 all
-lightning-l10n-hr/stable,stable 1:68.10.0-1~deb10u1 all
-lightning-l10n-hsb/stable,stable 1:68.10.0-1~deb10u1 all
-lightning-l10n-hu/stable,stable 1:68.10.0-1~deb10u1 all
-lightning-l10n-hy-am/stable,stable 1:68.10.0-1~deb10u1 all
-lightning-l10n-id/stable,stable 1:68.10.0-1~deb10u1 all
-lightning-l10n-is/stable,stable 1:68.10.0-1~deb10u1 all
-lightning-l10n-it/stable,stable 1:68.10.0-1~deb10u1 all
-lightning-l10n-ja/stable,stable 1:68.10.0-1~deb10u1 all
-lightning-l10n-kab/stable,stable 1:68.10.0-1~deb10u1 all
-lightning-l10n-kk/stable,stable 1:68.10.0-1~deb10u1 all
-lightning-l10n-ko/stable,stable 1:68.10.0-1~deb10u1 all
-lightning-l10n-lt/stable,stable 1:68.10.0-1~deb10u1 all
-lightning-l10n-ms/stable,stable 1:68.10.0-1~deb10u1 all
-lightning-l10n-nb-no/stable,stable 1:68.10.0-1~deb10u1 all
-lightning-l10n-nl/stable,stable 1:68.10.0-1~deb10u1 all
-lightning-l10n-nn-no/stable,stable 1:68.10.0-1~deb10u1 all
-lightning-l10n-pl/stable,stable 1:68.10.0-1~deb10u1 all
-lightning-l10n-pt-br/stable,stable 1:68.10.0-1~deb10u1 all
-lightning-l10n-pt-pt/stable,stable 1:68.10.0-1~deb10u1 all
-lightning-l10n-rm/stable,stable 1:68.10.0-1~deb10u1 all
-lightning-l10n-ro/stable,stable 1:68.10.0-1~deb10u1 all
-lightning-l10n-ru/stable,stable 1:68.10.0-1~deb10u1 all
-lightning-l10n-si/stable,stable 1:68.10.0-1~deb10u1 all
-lightning-l10n-sk/stable,stable 1:68.10.0-1~deb10u1 all
-lightning-l10n-sl/stable,stable 1:68.10.0-1~deb10u1 all
-lightning-l10n-sq/stable,stable 1:68.10.0-1~deb10u1 all
-lightning-l10n-sr/stable,stable 1:68.10.0-1~deb10u1 all
-lightning-l10n-sv-se/stable,stable 1:68.10.0-1~deb10u1 all
-lightning-l10n-tr/stable,stable 1:68.10.0-1~deb10u1 all
-lightning-l10n-uk/stable,stable 1:68.10.0-1~deb10u1 all
-lightning-l10n-vi/stable,stable 1:68.10.0-1~deb10u1 all
-lightning-l10n-zh-cn/stable,stable 1:68.10.0-1~deb10u1 all
-lightning-l10n-zh-tw/stable,stable 1:68.10.0-1~deb10u1 all
-lightning/stable,stable 1:68.10.0-1~deb10u1 all
+lightning-l10n-ar/stable 1:68.11.0-1~deb10u1 all
+lightning-l10n-ast/stable 1:68.11.0-1~deb10u1 all
+lightning-l10n-be/stable 1:68.11.0-1~deb10u1 all
+lightning-l10n-bg/stable 1:68.11.0-1~deb10u1 all
+lightning-l10n-br/stable 1:68.11.0-1~deb10u1 all
+lightning-l10n-ca/stable 1:68.11.0-1~deb10u1 all
+lightning-l10n-cs/stable 1:68.11.0-1~deb10u1 all
+lightning-l10n-cy/stable 1:68.11.0-1~deb10u1 all
+lightning-l10n-da/stable 1:68.11.0-1~deb10u1 all
+lightning-l10n-de/stable 1:68.11.0-1~deb10u1 all
+lightning-l10n-dsb/stable 1:68.11.0-1~deb10u1 all
+lightning-l10n-el/stable 1:68.11.0-1~deb10u1 all
+lightning-l10n-en-gb/stable 1:68.11.0-1~deb10u1 all
+lightning-l10n-es-ar/stable 1:68.11.0-1~deb10u1 all
+lightning-l10n-es-es/stable 1:68.11.0-1~deb10u1 all
+lightning-l10n-et/stable 1:68.11.0-1~deb10u1 all
+lightning-l10n-eu/stable 1:68.11.0-1~deb10u1 all
+lightning-l10n-fi/stable 1:68.11.0-1~deb10u1 all
+lightning-l10n-fr/stable 1:68.11.0-1~deb10u1 all
+lightning-l10n-fy-nl/stable 1:68.11.0-1~deb10u1 all
+lightning-l10n-ga-ie/stable 1:68.11.0-1~deb10u1 all
+lightning-l10n-gd/stable 1:68.11.0-1~deb10u1 all
+lightning-l10n-gl/stable 1:68.11.0-1~deb10u1 all
+lightning-l10n-he/stable 1:68.11.0-1~deb10u1 all
+lightning-l10n-hr/stable 1:68.11.0-1~deb10u1 all
+lightning-l10n-hsb/stable 1:68.11.0-1~deb10u1 all
+lightning-l10n-hu/stable 1:68.11.0-1~deb10u1 all
+lightning-l10n-hy-am/stable 1:68.11.0-1~deb10u1 all
+lightning-l10n-id/stable 1:68.11.0-1~deb10u1 all
+lightning-l10n-is/stable 1:68.11.0-1~deb10u1 all
+lightning-l10n-it/stable 1:68.11.0-1~deb10u1 all
+lightning-l10n-ja/stable 1:68.11.0-1~deb10u1 all
+lightning-l10n-kab/stable 1:68.11.0-1~deb10u1 all
+lightning-l10n-kk/stable 1:68.11.0-1~deb10u1 all
+lightning-l10n-ko/stable 1:68.11.0-1~deb10u1 all
+lightning-l10n-lt/stable 1:68.11.0-1~deb10u1 all
+lightning-l10n-ms/stable 1:68.11.0-1~deb10u1 all
+lightning-l10n-nb-no/stable 1:68.11.0-1~deb10u1 all
+lightning-l10n-nl/stable 1:68.11.0-1~deb10u1 all
+lightning-l10n-nn-no/stable 1:68.11.0-1~deb10u1 all
+lightning-l10n-pl/stable 1:68.11.0-1~deb10u1 all
+lightning-l10n-pt-br/stable 1:68.11.0-1~deb10u1 all
+lightning-l10n-pt-pt/stable 1:68.11.0-1~deb10u1 all
+lightning-l10n-rm/stable 1:68.11.0-1~deb10u1 all
+lightning-l10n-ro/stable 1:68.11.0-1~deb10u1 all
+lightning-l10n-ru/stable 1:68.11.0-1~deb10u1 all
+lightning-l10n-si/stable 1:68.11.0-1~deb10u1 all
+lightning-l10n-sk/stable 1:68.11.0-1~deb10u1 all
+lightning-l10n-sl/stable 1:68.11.0-1~deb10u1 all
+lightning-l10n-sq/stable 1:68.11.0-1~deb10u1 all
+lightning-l10n-sr/stable 1:68.11.0-1~deb10u1 all
+lightning-l10n-sv-se/stable 1:68.11.0-1~deb10u1 all
+lightning-l10n-tr/stable 1:68.11.0-1~deb10u1 all
+lightning-l10n-uk/stable 1:68.11.0-1~deb10u1 all
+lightning-l10n-vi/stable 1:68.11.0-1~deb10u1 all
+lightning-l10n-zh-cn/stable 1:68.11.0-1~deb10u1 all
+lightning-l10n-zh-tw/stable 1:68.11.0-1~deb10u1 all
+lightning/stable 1:68.11.0-1~deb10u1 all
 lightsoff/stable 1:3.30.0-2 amd64
 lightspeed/stable 1.2a.debian.1-2 amd64
 lightsquid/stable 1.8-6 all
@@ -35686,7 +35686,7 @@ linux-headers-cloud-amd64/stable 4.19+105+deb10u5 amd64
 linux-headers-rt-amd64/stable 4.19+105+deb10u5 amd64
 linux-image-4.19.0-10-amd64-dbg/stable 4.19.132-1 amd64
 linux-image-4.19.0-10-amd64-unsigned/stable 4.19.132-1 amd64
-linux-image-4.19.0-10-amd64/stable 4.19.132-1 amd64
+linux-image-4.19.0-10-amd64/stable,now 4.19.132-1 amd64 [installed,automatic]
 linux-image-4.19.0-10-cloud-amd64-dbg/stable 4.19.132-1 amd64
 linux-image-4.19.0-10-cloud-amd64-unsigned/stable 4.19.132-1 amd64
 linux-image-4.19.0-10-cloud-amd64/stable 4.19.132-1 amd64
@@ -35704,7 +35704,7 @@ linux-image-4.19.0-6-rt-amd64-unsigned/stable 4.19.67-2+deb10u2 amd64
 linux-image-4.19.0-6-rt-amd64/stable 4.19.67-2+deb10u2 amd64
 linux-image-4.19.0-8-amd64-dbg/stable 4.19.98-1+deb10u1 amd64
 linux-image-4.19.0-8-amd64-unsigned/stable 4.19.98-1+deb10u1 amd64
-linux-image-4.19.0-8-amd64/stable,now 4.19.98-1+deb10u1 amd64 [installed,automatic]
+linux-image-4.19.0-8-amd64/stable,now 4.19.98-1+deb10u1 amd64 [installed,auto-removable]
 linux-image-4.19.0-8-cloud-amd64-dbg/stable 4.19.98-1+deb10u1 amd64
 linux-image-4.19.0-8-cloud-amd64-unsigned/stable 4.19.98-1+deb10u1 amd64
 linux-image-4.19.0-8-cloud-amd64/stable 4.19.98-1+deb10u1 amd64
@@ -35722,7 +35722,7 @@ linux-image-4.19.0-9-rt-amd64-unsigned/stable,stable 4.19.118-2+deb10u1 amd64
 linux-image-4.19.0-9-rt-amd64/stable,stable 4.19.118-2+deb10u1 amd64
 linux-image-amd64-dbg/stable 4.19+105+deb10u5 amd64
 linux-image-amd64-signed-template/stable 4.19.132-1 amd64
-linux-image-amd64/stable 4.19+105+deb10u5 amd64 [upgradable from: 4.19+105+deb10u4]
+linux-image-amd64/stable,now 4.19+105+deb10u5 amd64 [installed]
 linux-image-cloud-amd64-dbg/stable 4.19+105+deb10u5 amd64
 linux-image-cloud-amd64/stable 4.19+105+deb10u5 amd64
 linux-image-rt-amd64-dbg/stable 4.19+105+deb10u5 amd64
@@ -40782,13 +40782,13 @@ perforate/stable 1.2-5.1 amd64
 performous-tools/stable 1.1+git20181118-2 amd64
 performous/stable 1.1+git20181118-2 amd64
 perftest/stable 4.4+0.5-1 amd64
-perl-base/stable 5.28.1-6+deb10u1 amd64 [upgradable from: 5.28.1-6]
+perl-base/stable,now 5.28.1-6+deb10u1 amd64 [installed]
 perl-byacc/stable 2.0-8+b1 amd64
 perl-cross-debian/stable 0.0.5 all
 perl-debug/stable 5.28.1-6+deb10u1 amd64
 perl-depends/stable 2016.1029+git8f67695-1 all
 perl-doc/stable 5.28.1-6+deb10u1 all
-perl-modules-5.28/stable 5.28.1-6+deb10u1 all [upgradable from: 5.28.1-6]
+perl-modules-5.28/stable,now 5.28.1-6+deb10u1 all [installed]
 perl-openssl-defaults/stable 3 amd64
 perl-stacktrace/stable 0.09-3+b1 amd64
 perl-tk/stable 1:804.033-2+b3 amd64
@@ -40796,7 +40796,7 @@ perl6-readline/stable 0.1.4-3 all
 perl6-tap-harness/stable 0.20180925-1 all
 perl6-zef/stable 0.6.2-2 all
 perl6/stable 6.d-2 all
-perl/stable 5.28.1-6+deb10u1 amd64 [upgradable from: 5.28.1-6]
+perl/stable,now 5.28.1-6+deb10u1 amd64 [installed]
 perlbal/stable 1.80-3 all
 perlbrew/stable 0.86-1 all
 perlconsole/stable 0.4-4 all
@@ -48660,9 +48660,9 @@ python3.7-dbg/stable 3.7.3-2+deb10u2 amd64
 python3.7-dev/stable 3.7.3-2+deb10u2 amd64
 python3.7-doc/stable 3.7.3-2+deb10u2 all
 python3.7-examples/stable 3.7.3-2+deb10u2 all
-python3.7-minimal/stable 3.7.3-2+deb10u2 amd64 [upgradable from: 3.7.3-2+deb10u1]
+python3.7-minimal/stable,now 3.7.3-2+deb10u2 amd64 [installed,automatic]
 python3.7-venv/stable 3.7.3-2+deb10u2 amd64
-python3.7/stable 3.7.3-2+deb10u2 amd64 [upgradable from: 3.7.3-2+deb10u1]
+python3.7/stable,now 3.7.3-2+deb10u2 amd64 [installed,automatic]
 python3/stable,now 3.7.3-1 amd64 [installed,automatic]
 python/stable,now 2.7.16-1 amd64 [installed]
 pythoncad/stable 0.1.37.0-3 all
@@ -50321,13 +50321,13 @@ rosout/stable 1.14.3+ds1-5+deb10u1 amd64
 rospack-tools/stable 2.5.2-1+b1 amd64
 rotix/stable 0.83-5+b2 amd64
 rotter/stable 0.9-3+b2 amd64
-roundcube-core/stable,stable 1.3.14+dfsg.1-1~deb10u1 all
-roundcube-mysql/stable,stable 1.3.14+dfsg.1-1~deb10u1 all
-roundcube-pgsql/stable,stable 1.3.14+dfsg.1-1~deb10u1 all
+roundcube-core/stable 1.3.15+dfsg.1-1~deb10u1 all
+roundcube-mysql/stable 1.3.15+dfsg.1-1~deb10u1 all
+roundcube-pgsql/stable 1.3.15+dfsg.1-1~deb10u1 all
 roundcube-plugins-extra/stable 1.3.8-20190219 all
-roundcube-plugins/stable,stable 1.3.14+dfsg.1-1~deb10u1 all
-roundcube-sqlite3/stable,stable 1.3.14+dfsg.1-1~deb10u1 all
-roundcube/stable,stable 1.3.14+dfsg.1-1~deb10u1 all
+roundcube-plugins/stable 1.3.15+dfsg.1-1~deb10u1 all
+roundcube-sqlite3/stable 1.3.15+dfsg.1-1~deb10u1 all
+roundcube/stable 1.3.15+dfsg.1-1~deb10u1 all
 routino-common/stable 3.2-5 all
 routino-www/stable 3.2-5 all
 routino/stable 3.2-5 amd64
@@ -50947,7 +50947,7 @@ ruby-kitchen-docker/stable 2.7.0-1 all
 ruby-kitchen-salt/stable 0.4.0-2 all
 ruby-kpeg/stable 1.0.0-1 all
 ruby-kramdown-rfc2629/stable 1.2.9-2 all
-ruby-kramdown/stable 1.17.0-1 all
+ruby-kramdown/stable 1.17.0-1+deb10u1 all
 ruby-kubeclient/stable 4.2.0-2 all
 ruby-kyotocabinet/stable 1.32-2+b5 amd64
 ruby-lapack/stable 1.8.1-1+b1 amd64
@@ -54015,65 +54015,65 @@ thunar-vcs-plugin/stable 0.2.0-1 amd64
 thunar-volman/stable 0.9.1-1 amd64
 thunar/stable 1.8.4-1 amd64
 thunderbird-bidiui/stable 0.9.7-2 all
-thunderbird-l10n-all/stable,stable 1:68.10.0-1~deb10u1 all
-thunderbird-l10n-ar/stable,stable 1:68.10.0-1~deb10u1 all
-thunderbird-l10n-ast/stable,stable 1:68.10.0-1~deb10u1 all
-thunderbird-l10n-be/stable,stable 1:68.10.0-1~deb10u1 all
-thunderbird-l10n-bg/stable,stable 1:68.10.0-1~deb10u1 all
-thunderbird-l10n-br/stable,stable 1:68.10.0-1~deb10u1 all
-thunderbird-l10n-ca/stable,stable 1:68.10.0-1~deb10u1 all
-thunderbird-l10n-cs/stable,stable 1:68.10.0-1~deb10u1 all
-thunderbird-l10n-cy/stable,stable 1:68.10.0-1~deb10u1 all
-thunderbird-l10n-da/stable,stable 1:68.10.0-1~deb10u1 all
-thunderbird-l10n-de/stable,stable 1:68.10.0-1~deb10u1 all
-thunderbird-l10n-dsb/stable,stable 1:68.10.0-1~deb10u1 all
-thunderbird-l10n-el/stable,stable 1:68.10.0-1~deb10u1 all
-thunderbird-l10n-en-gb/stable,stable 1:68.10.0-1~deb10u1 all
-thunderbird-l10n-es-ar/stable,stable 1:68.10.0-1~deb10u1 all
-thunderbird-l10n-es-es/stable,stable 1:68.10.0-1~deb10u1 all
-thunderbird-l10n-et/stable,stable 1:68.10.0-1~deb10u1 all
-thunderbird-l10n-eu/stable,stable 1:68.10.0-1~deb10u1 all
-thunderbird-l10n-fi/stable,stable 1:68.10.0-1~deb10u1 all
-thunderbird-l10n-fr/stable,stable 1:68.10.0-1~deb10u1 all
-thunderbird-l10n-fy-nl/stable,stable 1:68.10.0-1~deb10u1 all
-thunderbird-l10n-ga-ie/stable,stable 1:68.10.0-1~deb10u1 all
-thunderbird-l10n-gd/stable,stable 1:68.10.0-1~deb10u1 all
-thunderbird-l10n-gl/stable,stable 1:68.10.0-1~deb10u1 all
-thunderbird-l10n-he/stable,stable 1:68.10.0-1~deb10u1 all
-thunderbird-l10n-hr/stable,stable 1:68.10.0-1~deb10u1 all
-thunderbird-l10n-hsb/stable,stable 1:68.10.0-1~deb10u1 all
-thunderbird-l10n-hu/stable,stable 1:68.10.0-1~deb10u1 all
-thunderbird-l10n-hy-am/stable,stable 1:68.10.0-1~deb10u1 all
-thunderbird-l10n-id/stable,stable 1:68.10.0-1~deb10u1 all
-thunderbird-l10n-is/stable,stable 1:68.10.0-1~deb10u1 all
-thunderbird-l10n-it/stable,stable 1:68.10.0-1~deb10u1 all
-thunderbird-l10n-ja/stable,stable 1:68.10.0-1~deb10u1 all
-thunderbird-l10n-kab/stable,stable 1:68.10.0-1~deb10u1 all
-thunderbird-l10n-kk/stable,stable 1:68.10.0-1~deb10u1 all
-thunderbird-l10n-ko/stable,stable 1:68.10.0-1~deb10u1 all
-thunderbird-l10n-lt/stable,stable 1:68.10.0-1~deb10u1 all
-thunderbird-l10n-ms/stable,stable 1:68.10.0-1~deb10u1 all
-thunderbird-l10n-nb-no/stable,stable 1:68.10.0-1~deb10u1 all
-thunderbird-l10n-nl/stable,stable 1:68.10.0-1~deb10u1 all
-thunderbird-l10n-nn-no/stable,stable 1:68.10.0-1~deb10u1 all
-thunderbird-l10n-pl/stable,stable 1:68.10.0-1~deb10u1 all
-thunderbird-l10n-pt-br/stable,stable 1:68.10.0-1~deb10u1 all
-thunderbird-l10n-pt-pt/stable,stable 1:68.10.0-1~deb10u1 all
-thunderbird-l10n-rm/stable,stable 1:68.10.0-1~deb10u1 all
-thunderbird-l10n-ro/stable,stable 1:68.10.0-1~deb10u1 all
-thunderbird-l10n-ru/stable,stable 1:68.10.0-1~deb10u1 all
-thunderbird-l10n-si/stable,stable 1:68.10.0-1~deb10u1 all
-thunderbird-l10n-sk/stable,stable 1:68.10.0-1~deb10u1 all
-thunderbird-l10n-sl/stable,stable 1:68.10.0-1~deb10u1 all
-thunderbird-l10n-sq/stable,stable 1:68.10.0-1~deb10u1 all
-thunderbird-l10n-sr/stable,stable 1:68.10.0-1~deb10u1 all
-thunderbird-l10n-sv-se/stable,stable 1:68.10.0-1~deb10u1 all
-thunderbird-l10n-tr/stable,stable 1:68.10.0-1~deb10u1 all
-thunderbird-l10n-uk/stable,stable 1:68.10.0-1~deb10u1 all
-thunderbird-l10n-vi/stable,stable 1:68.10.0-1~deb10u1 all
-thunderbird-l10n-zh-cn/stable,stable 1:68.10.0-1~deb10u1 all
-thunderbird-l10n-zh-tw/stable,stable 1:68.10.0-1~deb10u1 all
-thunderbird/stable,stable 1:68.10.0-1~deb10u1 amd64
+thunderbird-l10n-all/stable 1:68.11.0-1~deb10u1 all
+thunderbird-l10n-ar/stable 1:68.11.0-1~deb10u1 all
+thunderbird-l10n-ast/stable 1:68.11.0-1~deb10u1 all
+thunderbird-l10n-be/stable 1:68.11.0-1~deb10u1 all
+thunderbird-l10n-bg/stable 1:68.11.0-1~deb10u1 all
+thunderbird-l10n-br/stable 1:68.11.0-1~deb10u1 all
+thunderbird-l10n-ca/stable 1:68.11.0-1~deb10u1 all
+thunderbird-l10n-cs/stable 1:68.11.0-1~deb10u1 all
+thunderbird-l10n-cy/stable 1:68.11.0-1~deb10u1 all
+thunderbird-l10n-da/stable 1:68.11.0-1~deb10u1 all
+thunderbird-l10n-de/stable 1:68.11.0-1~deb10u1 all
+thunderbird-l10n-dsb/stable 1:68.11.0-1~deb10u1 all
+thunderbird-l10n-el/stable 1:68.11.0-1~deb10u1 all
+thunderbird-l10n-en-gb/stable 1:68.11.0-1~deb10u1 all
+thunderbird-l10n-es-ar/stable 1:68.11.0-1~deb10u1 all
+thunderbird-l10n-es-es/stable 1:68.11.0-1~deb10u1 all
+thunderbird-l10n-et/stable 1:68.11.0-1~deb10u1 all
+thunderbird-l10n-eu/stable 1:68.11.0-1~deb10u1 all
+thunderbird-l10n-fi/stable 1:68.11.0-1~deb10u1 all
+thunderbird-l10n-fr/stable 1:68.11.0-1~deb10u1 all
+thunderbird-l10n-fy-nl/stable 1:68.11.0-1~deb10u1 all
+thunderbird-l10n-ga-ie/stable 1:68.11.0-1~deb10u1 all
+thunderbird-l10n-gd/stable 1:68.11.0-1~deb10u1 all
+thunderbird-l10n-gl/stable 1:68.11.0-1~deb10u1 all
+thunderbird-l10n-he/stable 1:68.11.0-1~deb10u1 all
+thunderbird-l10n-hr/stable 1:68.11.0-1~deb10u1 all
+thunderbird-l10n-hsb/stable 1:68.11.0-1~deb10u1 all
+thunderbird-l10n-hu/stable 1:68.11.0-1~deb10u1 all
+thunderbird-l10n-hy-am/stable 1:68.11.0-1~deb10u1 all
+thunderbird-l10n-id/stable 1:68.11.0-1~deb10u1 all
+thunderbird-l10n-is/stable 1:68.11.0-1~deb10u1 all
+thunderbird-l10n-it/stable 1:68.11.0-1~deb10u1 all
+thunderbird-l10n-ja/stable 1:68.11.0-1~deb10u1 all
+thunderbird-l10n-kab/stable 1:68.11.0-1~deb10u1 all
+thunderbird-l10n-kk/stable 1:68.11.0-1~deb10u1 all
+thunderbird-l10n-ko/stable 1:68.11.0-1~deb10u1 all
+thunderbird-l10n-lt/stable 1:68.11.0-1~deb10u1 all
+thunderbird-l10n-ms/stable 1:68.11.0-1~deb10u1 all
+thunderbird-l10n-nb-no/stable 1:68.11.0-1~deb10u1 all
+thunderbird-l10n-nl/stable 1:68.11.0-1~deb10u1 all
+thunderbird-l10n-nn-no/stable 1:68.11.0-1~deb10u1 all
+thunderbird-l10n-pl/stable 1:68.11.0-1~deb10u1 all
+thunderbird-l10n-pt-br/stable 1:68.11.0-1~deb10u1 all
+thunderbird-l10n-pt-pt/stable 1:68.11.0-1~deb10u1 all
+thunderbird-l10n-rm/stable 1:68.11.0-1~deb10u1 all
+thunderbird-l10n-ro/stable 1:68.11.0-1~deb10u1 all
+thunderbird-l10n-ru/stable 1:68.11.0-1~deb10u1 all
+thunderbird-l10n-si/stable 1:68.11.0-1~deb10u1 all
+thunderbird-l10n-sk/stable 1:68.11.0-1~deb10u1 all
+thunderbird-l10n-sl/stable 1:68.11.0-1~deb10u1 all
+thunderbird-l10n-sq/stable 1:68.11.0-1~deb10u1 all
+thunderbird-l10n-sr/stable 1:68.11.0-1~deb10u1 all
+thunderbird-l10n-sv-se/stable 1:68.11.0-1~deb10u1 all
+thunderbird-l10n-tr/stable 1:68.11.0-1~deb10u1 all
+thunderbird-l10n-uk/stable 1:68.11.0-1~deb10u1 all
+thunderbird-l10n-vi/stable 1:68.11.0-1~deb10u1 all
+thunderbird-l10n-zh-cn/stable 1:68.11.0-1~deb10u1 all
+thunderbird-l10n-zh-tw/stable 1:68.11.0-1~deb10u1 all
+thunderbird/stable 1:68.11.0-1~deb10u1 amd64
 thunderbolt-tools/stable 0.9.3-4+b1 amd64
 tiarra-conf-el/stable 20100212+r39209-7 all
 tiarra/stable 20100212+r39209-7 all
@@ -55550,7 +55550,7 @@ webhook/stable 2.6.9-1 amd64
 webhttrack-common/stable 3.49.2-1 all
 webhttrack/stable 3.49.2-1 amd64
 webissues/stable 1.1.5-3 amd64
-webkit2gtk-driver/stable,stable 2.28.3-2~deb10u1 amd64
+webkit2gtk-driver/stable 2.28.4-1~deb10u1 amd64
 weblint-perl/stable 2.32+dfsg-1 all
 webmagick/stable 2.02-11 all
 weborf-daemon/stable 0.15-1 all
