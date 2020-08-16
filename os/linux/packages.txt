@@ -438,7 +438,6 @@ c-ares.i686                                            1.13.0-5.el8             
 c-ares-devel.i686                                      1.13.0-5.el8                                     BaseOS          
 c-ares-devel.x86_64                                    1.13.0-5.el8                                     BaseOS          
 c2esp.x86_64                                           2.7-14.el8                                       AppStream       
-ca-certificates.noarch                                 2020.2.41-80.0.el8_2                             BaseOS          
 cachefilesd.x86_64                                     0.10.10-4.el8                                    BaseOS          
 cairo.i686                                             1.15.12-3.el8                                    AppStream       
 cairo.x86_64                                           1.15.12-3.el8                                    AppStream       
@@ -665,17 +664,12 @@ daxctl-devel.x86_64                                    67-2.el8                 
 daxctl-libs.i686                                       67-2.el8                                         BaseOS          
 daxctl-libs.x86_64                                     67-2.el8                                         BaseOS          
 daxio.x86_64                                           1.6.1-1.el8                                      AppStream       
-dbus.x86_64                                            1:1.12.8-10.el8_2                                BaseOS          
-dbus-common.noarch                                     1:1.12.8-10.el8_2                                BaseOS          
-dbus-daemon.x86_64                                     1:1.12.8-10.el8_2                                BaseOS          
 dbus-devel.i686                                        1:1.12.8-10.el8_2                                AppStream       
 dbus-devel.x86_64                                      1:1.12.8-10.el8_2                                AppStream       
 dbus-glib.i686                                         0.110-2.el8                                      BaseOS          
 dbus-glib-devel.i686                                   0.110-2.el8                                      AppStream       
 dbus-glib-devel.x86_64                                 0.110-2.el8                                      AppStream       
 dbus-libs.i686                                         1:1.12.8-10.el8_2                                BaseOS          
-dbus-libs.x86_64                                       1:1.12.8-10.el8_2                                BaseOS          
-dbus-tools.x86_64                                      1:1.12.8-10.el8_2                                BaseOS          
 dbus-x11.x86_64                                        1:1.12.8-10.el8_2                                AppStream       
 dbxtool.x86_64                                         8-5.el8                                          BaseOS          
 dconf.i686                                             0.28.0-3.el8                                     AppStream       
