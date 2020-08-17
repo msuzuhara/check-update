@@ -11117,7 +11117,7 @@ jquery-alternative-doc/oldstable 1.7+dfsg-1 all
 jquery-jplayer-bluemonday/oldstable 2.7.0-1 all
 jquery-jplayer-circleplayer/oldstable 2.7.0-1 all
 jquery-jplayer-pinkflag/oldstable 2.7.0-1 all
-jruby/oldstable,oldstable 1.7.26-1+deb9u1 all
+jruby/oldstable 1.7.26-1+deb9u2 all
 jruby-maven-plugins/oldstable 1.1.5+ds1-1 all
 jruby-openssl/oldstable 0.9.11-2 all
 js-of-ocaml/oldstable 2.5-2+b4 amd64
@@ -16123,10 +16123,10 @@ libethumb-dev/oldstable 1.8.6-2.5+b2 amd64
 libethumb1/oldstable 1.8.6-2.5+b2 amd64
 libetonyek-0.1-1/oldstable 0.1.6-5 amd64
 libetonyek-dev/oldstable 0.1.6-5 amd64
-libetpan-dbg/oldstable 1.6-3 amd64
-libetpan-dev/oldstable 1.6-3 amd64
-libetpan-doc/oldstable 1.6-3 all
-libetpan17/oldstable 1.6-3 amd64
+libetpan-dbg/oldstable 1.6-3+deb9u1 amd64
+libetpan-dev/oldstable 1.6-3+deb9u1 amd64
+libetpan-doc/oldstable 1.6-3+deb9u1 all
+libetpan17/oldstable 1.6-3+deb9u1 amd64
 libetsf-io-dev/oldstable 1.0.4-1.1+b1 amd64
 libetsf-io-doc/oldstable 1.0.4-1.1 all
 libeurodec1-dev/oldstable 20061220+dfsg3-3.1+b3 amd64
