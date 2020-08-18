@@ -28269,10 +28269,10 @@ libsamplerate-ocaml/oldstable 0.1.2-2+b2 amd64
 libsamplerate-ocaml-dev/oldstable 0.1.2-2+b2 amd64
 libsamplerate0/oldstable 0.1.8-8+b2 amd64
 libsamplerate0-dev/oldstable 0.1.8-8+b2 amd64
-libsane/oldstable 1.0.25-4.1 amd64
-libsane-common/oldstable 1.0.25-4.1 all
-libsane-dbg/oldstable 1.0.25-4.1 amd64
-libsane-dev/oldstable 1.0.25-4.1 amd64
+libsane/oldstable 1.0.25-4.1+deb9u1 amd64
+libsane-common/oldstable 1.0.25-4.1+deb9u1 all
+libsane-dbg/oldstable 1.0.25-4.1+deb9u1 amd64
+libsane-dev/oldstable 1.0.25-4.1+deb9u1 amd64
 libsane-extras/oldstable 1.0.22.4 amd64
 libsane-extras-common/oldstable 1.0.22.4 amd64
 libsane-extras-dev/oldstable 1.0.22.4 amd64
@@ -45870,7 +45870,7 @@ samtools-test/oldstable 1.3.1-3 all
 sanduhr/oldstable 1.93-4+b2 amd64
 sane/oldstable 1.0.14-12 amd64
 sane-dbg/oldstable 1.0.14-12 amd64
-sane-utils/oldstable 1.0.25-4.1 amd64
+sane-utils/oldstable 1.0.25-4.1+deb9u1 amd64
 sanitizer/oldstable 1.76-5 all
 sanlock/oldstable 3.3.0-2.1 amd64
 saods9/oldstable 7.5+repack1-2 all
