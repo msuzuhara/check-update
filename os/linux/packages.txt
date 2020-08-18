@@ -793,7 +793,7 @@ aribas/focal 1.64-6 amd64
 ario-common/focal,focal 1.6-1 all
 ario/focal 1.6-1 amd64
 arj/focal 3.10.22-23 amd64
-ark/focal 4:19.12.3-0ubuntu1 amd64
+ark/focal-security 4:19.12.3-0ubuntu1.1 amd64
 armagetronad-common/focal,focal 0.2.8.3.5-1 all
 armagetronad-dedicated/focal 0.2.8.3.5-1 amd64
 armagetronad/focal 0.2.8.3.5-1 amd64
@@ -58585,7 +58585,7 @@ rtklib/focal 2.4.3+dfsg1-2.1build1 amd64
 rtl-433/focal 20.02-1 amd64
 rtl-sdr/focal 0.6.0-3 amd64
 rtl8812au-dkms/focal,focal 4.3.8.12175.20140902+dfsg-0ubuntu12 all
-rtl8821ce-dkms/focal,focal 5.5.2.1-0ubuntu3 all
+rtl8821ce-dkms/focal-updates,focal-updates 5.5.2.1-0ubuntu4~20.04.2 all
 rtmpdump/focal 2.4+20151223.gitfa8646d.1-2build1 amd64
 rtmpdump/focal 2.4+20151223.gitfa8646d.1-2build1 i386
 rtorrent/focal 0.9.8-1build1 amd64
