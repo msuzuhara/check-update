@@ -793,7 +793,7 @@ aribas/focal 1.64-6 amd64
 ario-common/focal,focal 1.6-1 all
 ario/focal 1.6-1 amd64
 arj/focal 3.10.22-23 amd64
-ark/focal-security 4:19.12.3-0ubuntu1.1 amd64
+ark/focal-updates,focal-security 4:19.12.3-0ubuntu1.1 amd64
 armagetronad-common/focal,focal 0.2.8.3.5-1 all
 armagetronad-dedicated/focal 0.2.8.3.5-1 amd64
 armagetronad/focal 0.2.8.3.5-1 amd64
@@ -10760,7 +10760,7 @@ gnome-session/focal,focal 3.36.0-2ubuntu1 all
 gnome-settings-daemon-common/focal-updates,focal-updates 3.36.1-0ubuntu1 all
 gnome-settings-daemon-dev/focal-updates 3.36.1-0ubuntu1 amd64
 gnome-settings-daemon/focal-updates 3.36.1-0ubuntu1 amd64
-gnome-shell-common/focal-updates,focal-updates 3.36.4-1ubuntu1~20.04.1 all
+gnome-shell-common/focal-updates,focal-updates,focal-security,focal-security 3.36.4-1ubuntu1~20.04.2 all
 gnome-shell-extension-appindicator/focal,focal 33-1 all
 gnome-shell-extension-arc-menu/focal,focal 45-1 all
 gnome-shell-extension-autohidetopbar/focal,focal 20200322-1 all
@@ -10785,7 +10785,7 @@ gnome-shell-extension-multi-monitors/focal,focal 19-1 all
 gnome-shell-extension-no-annoyance/focal,focal 0+20170928-f21d09a-2 all
 gnome-shell-extension-onboard/focal,focal 1.4.1-2ubuntu7 all
 gnome-shell-extension-pixelsaver/focal,focal 1.20-1 all
-gnome-shell-extension-prefs/focal-updates 3.36.4-1ubuntu1~20.04.1 amd64
+gnome-shell-extension-prefs/focal-updates,focal-security 3.36.4-1ubuntu1~20.04.2 amd64
 gnome-shell-extension-redshift/focal,focal 3.20.1-2 all
 gnome-shell-extension-remove-dropdown-arrows/focal,focal 13-1 all
 gnome-shell-extension-shortcuts/focal,focal 1.1.1-1 all
@@ -10806,7 +10806,7 @@ gnome-shell-mailnag/focal 3.28.0-0.1 amd64
 gnome-shell-pomodoro-data/focal,focal 0.16.0-1 all
 gnome-shell-pomodoro/focal 0.16.0-1 amd64
 gnome-shell-timer/focal,focal 0.3.20+20171025-4 all
-gnome-shell/focal-updates 3.36.4-1ubuntu1~20.04.1 amd64
+gnome-shell/focal-updates,focal-security 3.36.4-1ubuntu1~20.04.2 amd64
 gnome-software-common/focal-updates,focal-updates 3.36.1-0ubuntu0.20.04.0 all
 gnome-software-dev/focal-updates 3.36.1-0ubuntu0.20.04.0 amd64
 gnome-software-doc/focal-updates,focal-updates 3.36.1-0ubuntu0.20.04.0 all
@@ -31366,11 +31366,11 @@ liblz4-dev/focal 1.9.2-2 i386
 liblz4-java/focal,focal 1.5.1-2 all
 liblz4-jni/focal 1.5.1-2 amd64
 liblz4-tool/focal,focal 1.9.2-2 all
-liblzma-dev/focal 5.2.4-1 amd64
-liblzma-dev/focal 5.2.4-1 i386
-liblzma-doc/focal,focal 5.2.4-1 all
-liblzma5/focal,now 5.2.4-1 amd64 [installed]
-liblzma5/focal 5.2.4-1 i386
+liblzma-dev/focal-updates 5.2.4-1ubuntu1 amd64
+liblzma-dev/focal-updates 5.2.4-1ubuntu1 i386
+liblzma-doc/focal-updates,focal-updates 5.2.4-1ubuntu1 all
+liblzma5/focal-updates 5.2.4-1ubuntu1 amd64 [upgradable from: 5.2.4-1]
+liblzma5/focal-updates 5.2.4-1ubuntu1 i386
 liblzo2-2/focal 2.10-2 amd64
 liblzo2-2/focal 2.10-2 i386
 liblzo2-dev/focal 2.10-2 amd64
@@ -65365,10 +65365,10 @@ xymon-client/focal 4.3.30-1 amd64
 xymon/focal 4.3.30-1 amd64
 xymonq/focal,focal 0.8-1 all
 xyscan/focal 4.30-2build2 amd64
-xz-utils/focal,now 5.2.4-1 amd64 [installed]
-xz-utils/focal 5.2.4-1 i386
-xzdec/focal 5.2.4-1 amd64
-xzdec/focal 5.2.4-1 i386
+xz-utils/focal-updates 5.2.4-1ubuntu1 amd64 [upgradable from: 5.2.4-1]
+xz-utils/focal-updates 5.2.4-1ubuntu1 i386
+xzdec/focal-updates 5.2.4-1ubuntu1 amd64
+xzdec/focal-updates 5.2.4-1ubuntu1 i386
 xzgv/focal 0.9.2-2 amd64
 xzip/focal 1:1.8.2-4build1 amd64
 xzoom/focal 0.3-25 amd64
