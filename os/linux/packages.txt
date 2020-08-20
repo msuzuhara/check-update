@@ -45701,7 +45701,7 @@ ruby-webkit-gtk/oldstable 3.1.0-1+deb9u1 all
 ruby-webmock/oldstable 1.22.6-1 all
 ruby-webrobots/oldstable 0.1.2-1 all
 ruby-websocket-driver/oldstable 0.6.3-2 amd64
-ruby-websocket-extensions/oldstable 0.1.2-1 all
+ruby-websocket-extensions/oldstable 0.1.2-1+deb9u1 all
 ruby-websocket-parser/oldstable 1.0.0-1 all
 ruby-whenever/oldstable 0.9.4-1 all
 ruby-whitewash/oldstable 2.1-1 all
