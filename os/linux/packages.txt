@@ -3769,8 +3769,8 @@ cupt-dbg/focal 2.10.4ubuntu1 amd64
 cupt/focal 2.10.4ubuntu1 amd64
 cura-engine/focal 1:4.4.1-2 amd64
 cura/focal,focal 4.4.1-1 all
-curl/focal-updates,focal-security 7.68.0-1ubuntu2.1 amd64
-curl/focal-updates,focal-security 7.68.0-1ubuntu2.1 i386
+curl/focal-updates,focal-security 7.68.0-1ubuntu2.2 amd64
+curl/focal-updates,focal-security 7.68.0-1ubuntu2.2 i386
 curlftpfs/focal 0.9.2-9build1 amd64
 curry-frontend/focal 1.0.4-4 amd64
 curry-libs-source/focal,focal 2.2.0-1 all
@@ -20531,19 +20531,19 @@ libcurator-recipes-java/focal,focal 2.7.1-2 all
 libcurator-test-java/focal,focal 2.7.1-2 all
 libcurl-ocaml-dev/focal 0.9.0-2build1 amd64
 libcurl-ocaml/focal 0.9.0-2build1 amd64
-libcurl3-gnutls/focal-updates,focal-security,now 7.68.0-1ubuntu2.1 amd64 [installed,automatic]
-libcurl3-gnutls/focal-updates,focal-security 7.68.0-1ubuntu2.1 i386
-libcurl3-nss/focal-updates,focal-security 7.68.0-1ubuntu2.1 amd64
-libcurl3-nss/focal-updates,focal-security 7.68.0-1ubuntu2.1 i386
-libcurl4-doc/focal-updates,focal-updates,focal-security,focal-security 7.68.0-1ubuntu2.1 all
-libcurl4-gnutls-dev/focal-updates,focal-security 7.68.0-1ubuntu2.1 amd64
-libcurl4-gnutls-dev/focal-updates,focal-security 7.68.0-1ubuntu2.1 i386
-libcurl4-nss-dev/focal-updates,focal-security 7.68.0-1ubuntu2.1 amd64
-libcurl4-nss-dev/focal-updates,focal-security 7.68.0-1ubuntu2.1 i386
-libcurl4-openssl-dev/focal-updates,focal-security 7.68.0-1ubuntu2.1 amd64
-libcurl4-openssl-dev/focal-updates,focal-security 7.68.0-1ubuntu2.1 i386
-libcurl4/focal-updates,focal-security 7.68.0-1ubuntu2.1 amd64
-libcurl4/focal-updates,focal-security 7.68.0-1ubuntu2.1 i386
+libcurl3-gnutls/focal-updates,focal-security 7.68.0-1ubuntu2.2 amd64 [upgradable from: 7.68.0-1ubuntu2.1]
+libcurl3-gnutls/focal-updates,focal-security 7.68.0-1ubuntu2.2 i386
+libcurl3-nss/focal-updates,focal-security 7.68.0-1ubuntu2.2 amd64
+libcurl3-nss/focal-updates,focal-security 7.68.0-1ubuntu2.2 i386
+libcurl4-doc/focal-updates,focal-updates,focal-security,focal-security 7.68.0-1ubuntu2.2 all
+libcurl4-gnutls-dev/focal-updates,focal-security 7.68.0-1ubuntu2.2 amd64
+libcurl4-gnutls-dev/focal-updates,focal-security 7.68.0-1ubuntu2.2 i386
+libcurl4-nss-dev/focal-updates,focal-security 7.68.0-1ubuntu2.2 amd64
+libcurl4-nss-dev/focal-updates,focal-security 7.68.0-1ubuntu2.2 i386
+libcurl4-openssl-dev/focal-updates,focal-security 7.68.0-1ubuntu2.2 amd64
+libcurl4-openssl-dev/focal-updates,focal-security 7.68.0-1ubuntu2.2 i386
+libcurl4/focal-updates,focal-security 7.68.0-1ubuntu2.2 amd64
+libcurl4/focal-updates,focal-security 7.68.0-1ubuntu2.2 i386
 libcurlpp-dev/focal 0.8.1-2build2 amd64
 libcurlpp0/focal 0.8.1-2build2 amd64
 libcurry-perl/focal,focal 1.001000-1 all
@@ -31369,7 +31369,7 @@ liblz4-tool/focal,focal 1.9.2-2 all
 liblzma-dev/focal-updates 5.2.4-1ubuntu1 amd64
 liblzma-dev/focal-updates 5.2.4-1ubuntu1 i386
 liblzma-doc/focal-updates,focal-updates 5.2.4-1ubuntu1 all
-liblzma5/focal-updates 5.2.4-1ubuntu1 amd64 [upgradable from: 5.2.4-1]
+liblzma5/focal-updates,now 5.2.4-1ubuntu1 amd64 [installed]
 liblzma5/focal-updates 5.2.4-1ubuntu1 i386
 liblzo2-2/focal 2.10-2 amd64
 liblzo2-2/focal 2.10-2 i386
@@ -56548,31 +56548,31 @@ qdoc-qt5/focal 5.12.8-0ubuntu1 i386
 qelectrotech-data/focal,focal 1:0.7.0-1build1 all
 qelectrotech-examples/focal,focal 1:0.7.0-1build1 all
 qelectrotech/focal 1:0.7.0-1build1 amd64
-qemu-block-extra/focal-updates 1:4.2-3ubuntu6.3 amd64
+qemu-block-extra/focal-updates,focal-security 1:4.2-3ubuntu6.4 amd64
 qemu-efi-aarch64/focal,focal 0~20191122.bd85bf54-2ubuntu3 all
 qemu-efi-arm/focal,focal 0~20191122.bd85bf54-2ubuntu3 all
 qemu-efi/focal,focal 0~20191122.bd85bf54-2ubuntu3 all
-qemu-guest-agent/focal-updates 1:4.2-3ubuntu6.3 amd64
-qemu-kvm/focal-updates 1:4.2-3ubuntu6.3 amd64
+qemu-guest-agent/focal-updates,focal-security 1:4.2-3ubuntu6.4 amd64
+qemu-kvm/focal-updates,focal-security 1:4.2-3ubuntu6.4 amd64
 qemu-slof/focal,focal 20191209+dfsg-1 all
-qemu-system-arm/focal-updates 1:4.2-3ubuntu6.3 amd64
-qemu-system-common/focal-updates 1:4.2-3ubuntu6.3 amd64
-qemu-system-data/focal-updates,focal-updates 1:4.2-3ubuntu6.3 all
-qemu-system-gui/focal-updates 1:4.2-3ubuntu6.3 amd64
-qemu-system-mips/focal-updates 1:4.2-3ubuntu6.3 amd64
-qemu-system-misc/focal-updates 1:4.2-3ubuntu6.3 amd64
-qemu-system-ppc/focal-updates 1:4.2-3ubuntu6.3 amd64
-qemu-system-s390x/focal-updates 1:4.2-3ubuntu6.3 amd64
-qemu-system-sparc/focal-updates 1:4.2-3ubuntu6.3 amd64
-qemu-system-x86-microvm/focal-updates 1:4.2-3ubuntu6.3 amd64
-qemu-system-x86-xen/focal-updates 1:4.2-3ubuntu6.3 amd64
-qemu-system-x86/focal-updates 1:4.2-3ubuntu6.3 amd64
-qemu-system/focal-updates 1:4.2-3ubuntu6.3 amd64
-qemu-user-binfmt/focal-updates 1:4.2-3ubuntu6.3 amd64
-qemu-user-static/focal-updates 1:4.2-3ubuntu6.3 amd64
-qemu-user/focal-updates 1:4.2-3ubuntu6.3 amd64
-qemu-utils/focal-updates 1:4.2-3ubuntu6.3 amd64
-qemu/focal-updates 1:4.2-3ubuntu6.3 amd64
+qemu-system-arm/focal-updates,focal-security 1:4.2-3ubuntu6.4 amd64
+qemu-system-common/focal-updates,focal-security 1:4.2-3ubuntu6.4 amd64
+qemu-system-data/focal-updates,focal-updates,focal-security,focal-security 1:4.2-3ubuntu6.4 all
+qemu-system-gui/focal-updates,focal-security 1:4.2-3ubuntu6.4 amd64
+qemu-system-mips/focal-updates,focal-security 1:4.2-3ubuntu6.4 amd64
+qemu-system-misc/focal-updates,focal-security 1:4.2-3ubuntu6.4 amd64
+qemu-system-ppc/focal-updates,focal-security 1:4.2-3ubuntu6.4 amd64
+qemu-system-s390x/focal-updates,focal-security 1:4.2-3ubuntu6.4 amd64
+qemu-system-sparc/focal-updates,focal-security 1:4.2-3ubuntu6.4 amd64
+qemu-system-x86-microvm/focal-updates,focal-security 1:4.2-3ubuntu6.4 amd64
+qemu-system-x86-xen/focal-updates,focal-security 1:4.2-3ubuntu6.4 amd64
+qemu-system-x86/focal-updates,focal-security 1:4.2-3ubuntu6.4 amd64
+qemu-system/focal-updates,focal-security 1:4.2-3ubuntu6.4 amd64
+qemu-user-binfmt/focal-updates,focal-security 1:4.2-3ubuntu6.4 amd64
+qemu-user-static/focal-updates,focal-security 1:4.2-3ubuntu6.4 amd64
+qemu-user/focal-updates,focal-security 1:4.2-3ubuntu6.4 amd64
+qemu-utils/focal-updates,focal-security 1:4.2-3ubuntu6.4 amd64
+qemu/focal-updates,focal-security 1:4.2-3ubuntu6.4 amd64
 qemubuilder/focal 0.88 amd64
 qevercloud-doc/focal,focal 3.0.3+ds-6 all
 qfits-tools/focal 6.2.0-8ubuntu2 amd64
@@ -65365,7 +65365,7 @@ xymon-client/focal 4.3.30-1 amd64
 xymon/focal 4.3.30-1 amd64
 xymonq/focal,focal 0.8-1 all
 xyscan/focal 4.30-2build2 amd64
-xz-utils/focal-updates 5.2.4-1ubuntu1 amd64 [upgradable from: 5.2.4-1]
+xz-utils/focal-updates,now 5.2.4-1ubuntu1 amd64 [installed]
 xz-utils/focal-updates 5.2.4-1ubuntu1 i386
 xzdec/focal-updates 5.2.4-1ubuntu1 amd64
 xzdec/focal-updates 5.2.4-1ubuntu1 i386
