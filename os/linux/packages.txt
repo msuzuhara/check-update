@@ -7481,10 +7481,10 @@ ghextris/oldstable 0.9.0-3 all
 ghi/oldstable 1.2.0-1 all
 ghkl/oldstable 5.0.0.2173-2 amd64
 ghostess/oldstable 20120105-1+b2 amd64
-ghostscript/oldstable,oldstable 9.26a~dfsg-0+deb9u6 amd64
-ghostscript-dbg/oldstable,oldstable 9.26a~dfsg-0+deb9u6 amd64
-ghostscript-doc/oldstable,oldstable 9.26a~dfsg-0+deb9u6 all
-ghostscript-x/oldstable,oldstable 9.26a~dfsg-0+deb9u6 amd64
+ghostscript/oldstable 9.26a~dfsg-0+deb9u7 amd64
+ghostscript-dbg/oldstable 9.26a~dfsg-0+deb9u7 amd64
+ghostscript-doc/oldstable 9.26a~dfsg-0+deb9u7 all
+ghostscript-x/oldstable 9.26a~dfsg-0+deb9u7 amd64
 ghp-import/oldstable 0.5.4-1 all
 giada/oldstable 0.13.2~dfsg1-1 amd64
 giblib-dev/oldstable 1.2.4-11 amd64
@@ -20489,9 +20489,9 @@ libgroupsock8/oldstable,oldstable 2016.11.28-1+deb9u2 amd64
 libgrss-dev/oldstable 0.7.0-2 amd64
 libgrss0/oldstable 0.7.0-2 amd64
 libgs-collections-java/oldstable 5.1.0-2 all
-libgs-dev/oldstable,oldstable 9.26a~dfsg-0+deb9u6 amd64
-libgs9/oldstable,oldstable 9.26a~dfsg-0+deb9u6 amd64
-libgs9-common/oldstable,oldstable 9.26a~dfsg-0+deb9u6 all
+libgs-dev/oldstable 9.26a~dfsg-0+deb9u7 amd64
+libgs9/oldstable 9.26a~dfsg-0+deb9u7 amd64
+libgs9-common/oldstable 9.26a~dfsg-0+deb9u7 all
 libgsasl7/oldstable,now 1.8.0-8+b2 amd64 [installed,automatic]
 libgsasl7-dev/oldstable 1.8.0-8+b2 amd64
 libgsecuredelete-dev/oldstable 0.3-1 amd64
