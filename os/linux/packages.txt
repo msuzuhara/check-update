@@ -1471,19 +1471,19 @@ biloba/focal 0.9.3-9 amd64
 bin86/focal 0.16.17-3.3 amd64
 binaryen/focal 91-1 amd64
 binclock/focal 1.5-6build1 amd64
-bind9-dnsutils/focal-updates,focal-security,now 1:9.16.1-0ubuntu2.2 amd64 [installed]
-bind9-dnsutils/focal-updates,focal-security 1:9.16.1-0ubuntu2.2 i386
-bind9-doc/focal-updates,focal-updates,focal-security,focal-security 1:9.16.1-0ubuntu2.2 all
+bind9-dnsutils/focal-updates,focal-security 1:9.16.1-0ubuntu2.3 amd64 [upgradable from: 1:9.16.1-0ubuntu2.2]
+bind9-dnsutils/focal-updates,focal-security 1:9.16.1-0ubuntu2.3 i386
+bind9-doc/focal-updates,focal-updates,focal-security,focal-security 1:9.16.1-0ubuntu2.3 all
 bind9-dyndb-ldap/focal 11.2-1build2 amd64
-bind9-host/focal-updates,focal-security,now 1:9.16.1-0ubuntu2.2 amd64 [installed]
-bind9-host/focal-updates,focal-security 1:9.16.1-0ubuntu2.2 i386
-bind9-libs/focal-updates,focal-security,now 1:9.16.1-0ubuntu2.2 amd64 [installed]
-bind9-libs/focal-updates,focal-security 1:9.16.1-0ubuntu2.2 i386
-bind9-utils/focal-updates,focal-security 1:9.16.1-0ubuntu2.2 amd64
-bind9-utils/focal-updates,focal-security 1:9.16.1-0ubuntu2.2 i386
-bind9/focal-updates,focal-security 1:9.16.1-0ubuntu2.2 amd64
-bind9/focal-updates,focal-security 1:9.16.1-0ubuntu2.2 i386
-bind9utils/focal-updates,focal-updates,focal-security,focal-security 1:9.16.1-0ubuntu2.2 all
+bind9-host/focal-updates,focal-security 1:9.16.1-0ubuntu2.3 amd64 [upgradable from: 1:9.16.1-0ubuntu2.2]
+bind9-host/focal-updates,focal-security 1:9.16.1-0ubuntu2.3 i386
+bind9-libs/focal-updates,focal-security 1:9.16.1-0ubuntu2.3 amd64 [upgradable from: 1:9.16.1-0ubuntu2.2]
+bind9-libs/focal-updates,focal-security 1:9.16.1-0ubuntu2.3 i386
+bind9-utils/focal-updates,focal-security 1:9.16.1-0ubuntu2.3 amd64
+bind9-utils/focal-updates,focal-security 1:9.16.1-0ubuntu2.3 i386
+bind9/focal-updates,focal-security 1:9.16.1-0ubuntu2.3 amd64
+bind9/focal-updates,focal-security 1:9.16.1-0ubuntu2.3 i386
+bind9utils/focal-updates,focal-updates,focal-security,focal-security 1:9.16.1-0ubuntu2.3 all
 bindechexascii/focal 0.0+20140524.git7dcd86-4 amd64
 bindfs/focal 1.14.1-1 amd64
 bindgraph/focal,focal 0.2a-6 all
@@ -4710,7 +4710,7 @@ dnssec-trigger/focal 0.17+repack-3 amd64
 dnstap-ldns/focal 0.2.0-4 amd64
 dnstop/focal 20120611-2build3 amd64
 dnstracer/focal 1.9-5 amd64
-dnsutils/focal-updates,focal-updates,focal-security,focal-security 1:9.16.1-0ubuntu2.2 all
+dnsutils/focal-updates,focal-updates,focal-security,focal-security 1:9.16.1-0ubuntu2.3 all
 dnsvi/focal,focal 1.3 all
 dnsviz/focal,focal 0.8.0-1.1 all
 dnswalk/focal,focal 2.0.2.dfsg.1-2 all
@@ -58555,7 +58555,7 @@ rsyslog-mysql/focal-updates 8.2001.0-1ubuntu1.1 amd64
 rsyslog-openssl/focal-updates 8.2001.0-1ubuntu1.1 amd64
 rsyslog-pgsql/focal-updates 8.2001.0-1ubuntu1.1 amd64
 rsyslog-relp/focal-updates 8.2001.0-1ubuntu1.1 amd64
-rsyslog/focal-updates 8.2001.0-1ubuntu1.1 amd64 [upgradable from: 8.2001.0-1ubuntu1]
+rsyslog/focal-updates,now 8.2001.0-1ubuntu1.1 amd64 [installed]
 rt-app/focal 0.3-2ubuntu3 amd64
 rt-tests/focal 1.5-2 amd64
 rt4-apache2/focal,focal 4.4.3-2 all
