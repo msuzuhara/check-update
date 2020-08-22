@@ -1537,11 +1537,11 @@ biloba/bionic 0.9.3-7 amd64
 biloba-data/bionic 0.9.3-7 all
 bin86/bionic 0.16.17-3.3 amd64
 binclock/bionic 1.5-6build1 amd64
-bind9/bionic-updates,bionic-security 1:9.11.3+dfsg-1ubuntu1.12 amd64
-bind9-doc/bionic-updates,bionic-security 1:9.11.3+dfsg-1ubuntu1.12 all
+bind9/bionic-updates,bionic-security 1:9.11.3+dfsg-1ubuntu1.13 amd64
+bind9-doc/bionic-updates,bionic-security 1:9.11.3+dfsg-1ubuntu1.13 all
 bind9-dyndb-ldap/bionic 11.1-3ubuntu1 amd64
-bind9-host/bionic-updates,bionic-security,now 1:9.11.3+dfsg-1ubuntu1.12 amd64 [installed,automatic]
-bind9utils/bionic-updates,bionic-security 1:9.11.3+dfsg-1ubuntu1.12 amd64
+bind9-host/bionic-updates,bionic-security 1:9.11.3+dfsg-1ubuntu1.13 amd64 [upgradable from: 1:9.11.3+dfsg-1ubuntu1.12]
+bind9utils/bionic-updates,bionic-security 1:9.11.3+dfsg-1ubuntu1.13 amd64
 bindechexascii/bionic 0.0+20140524.git7dcd86-4 amd64
 bindfs/bionic 1.13.7-1 amd64
 bindgraph/bionic 0.2a-5.1 all
@@ -4561,7 +4561,7 @@ dnssec-trigger/bionic 0.13-6build1 amd64
 dnstap-ldns/bionic 0.2.0-3 amd64
 dnstop/bionic 20120611-2build2 amd64
 dnstracer/bionic 1.9-5 amd64
-dnsutils/bionic-updates,bionic-security,now 1:9.11.3+dfsg-1ubuntu1.12 amd64 [installed,automatic]
+dnsutils/bionic-updates,bionic-security 1:9.11.3+dfsg-1ubuntu1.13 amd64 [upgradable from: 1:9.11.3+dfsg-1ubuntu1.12]
 dnsvi/bionic 1.2 all
 dnsviz/bionic 0.6.6-1 all
 dnswalk/bionic 2.0.2.dfsg.1-1 all
@@ -16985,9 +16985,9 @@ libbin-prot-ocaml/bionic 113.33.03-3 amd64
 libbin-prot-ocaml-dev/bionic 113.33.03-3 amd64
 libbind-config-parser-perl/bionic 0.01-1 all
 libbind-confparser-perl/bionic 0.95-4 all
-libbind-dev/bionic-updates,bionic-security 1:9.11.3+dfsg-1ubuntu1.12 amd64
-libbind-export-dev/bionic-updates,bionic-security 1:9.11.3+dfsg-1ubuntu1.12 amd64
-libbind9-160/bionic-updates,bionic-security,now 1:9.11.3+dfsg-1ubuntu1.12 amd64 [installed,automatic]
+libbind-dev/bionic-updates,bionic-security 1:9.11.3+dfsg-1ubuntu1.13 amd64
+libbind-export-dev/bionic-updates,bionic-security 1:9.11.3+dfsg-1ubuntu1.13 amd64
+libbind9-160/bionic-updates,bionic-security 1:9.11.3+dfsg-1ubuntu1.13 amd64 [upgradable from: 1:9.11.3+dfsg-1ubuntu1.12]
 libbindex-java/bionic-updates,bionic-security 2.2+svn101-4~18.04 all
 libbinio-dev/bionic 1.4+dfsg1-5 amd64
 libbinio1v5/bionic 1.4+dfsg1-5 amd64
@@ -19685,9 +19685,9 @@ libdmx1/bionic 1:1.1.3-1 amd64
 libdmx1-dbg/bionic 1:1.1.3-1 amd64
 libdnet/bionic 2.65 amd64
 libdnet-dev/bionic 2.65 amd64
-libdns-export1100/bionic-updates,bionic-security,now 1:9.11.3+dfsg-1ubuntu1.12 amd64 [installed,automatic]
+libdns-export1100/bionic-updates,bionic-security 1:9.11.3+dfsg-1ubuntu1.13 amd64 [upgradable from: 1:9.11.3+dfsg-1ubuntu1.12]
 libdns-zoneparse-perl/bionic 1.10-1 all
-libdns1100/bionic-updates,bionic-security,now 1:9.11.3+dfsg-1ubuntu1.12 amd64 [installed,automatic]
+libdns1100/bionic-updates,bionic-security 1:9.11.3+dfsg-1ubuntu1.13 amd64 [upgradable from: 1:9.11.3+dfsg-1ubuntu1.12]
 libdnsjava-java/bionic 2.1.8-2 all
 libdnssec5/bionic 2.6.5-3 amd64
 libdnssecjava-java/bionic 1.1.3-2 all
@@ -26925,20 +26925,20 @@ libirrlicht-dev/bionic 1.8.4+dfsg1-1 amd64
 libirrlicht-doc/bionic 1.8.4+dfsg1-1 all
 libirrlicht1.8/bionic 1.8.4+dfsg1-1 amd64
 libirrlicht1.8-dbg/bionic 1.8.4+dfsg1-1 amd64
-libirs-export160/bionic-updates,bionic-security 1:9.11.3+dfsg-1ubuntu1.12 amd64
-libirs160/bionic-updates,bionic-security,now 1:9.11.3+dfsg-1ubuntu1.12 amd64 [installed,automatic]
+libirs-export160/bionic-updates,bionic-security 1:9.11.3+dfsg-1ubuntu1.13 amd64
+libirs160/bionic-updates,bionic-security 1:9.11.3+dfsg-1ubuntu1.13 amd64 [upgradable from: 1:9.11.3+dfsg-1ubuntu1.12]
 libirstlm-dev/bionic 6.00.05-2 amd64
 libirstlm1/bionic 6.00.05-2 amd64
 libisajet758-3-dev/bionic 20061220+dfsg3-3.1build1 amd64
 libisajet758-3-gfortran/bionic 20061220+dfsg3-3.1build1 amd64
 libisal-dev/bionic 2.21.0-1 amd64
 libisal2/bionic 2.21.0-1 amd64
-libisc-export169/bionic-updates,bionic-security,now 1:9.11.3+dfsg-1ubuntu1.12 amd64 [installed,automatic]
-libisc169/bionic-updates,bionic-security,now 1:9.11.3+dfsg-1ubuntu1.12 amd64 [installed,automatic]
-libisccc-export160/bionic-updates,bionic-security 1:9.11.3+dfsg-1ubuntu1.12 amd64
-libisccc160/bionic-updates,bionic-security,now 1:9.11.3+dfsg-1ubuntu1.12 amd64 [installed,automatic]
-libisccfg-export160/bionic-updates,bionic-security 1:9.11.3+dfsg-1ubuntu1.12 amd64
-libisccfg160/bionic-updates,bionic-security,now 1:9.11.3+dfsg-1ubuntu1.12 amd64 [installed,automatic]
+libisc-export169/bionic-updates,bionic-security 1:9.11.3+dfsg-1ubuntu1.13 amd64 [upgradable from: 1:9.11.3+dfsg-1ubuntu1.12]
+libisc169/bionic-updates,bionic-security 1:9.11.3+dfsg-1ubuntu1.13 amd64 [upgradable from: 1:9.11.3+dfsg-1ubuntu1.12]
+libisccc-export160/bionic-updates,bionic-security 1:9.11.3+dfsg-1ubuntu1.13 amd64
+libisccc160/bionic-updates,bionic-security 1:9.11.3+dfsg-1ubuntu1.13 amd64 [upgradable from: 1:9.11.3+dfsg-1ubuntu1.12]
+libisccfg-export160/bionic-updates,bionic-security 1:9.11.3+dfsg-1ubuntu1.13 amd64
+libisccfg160/bionic-updates,bionic-security 1:9.11.3+dfsg-1ubuntu1.13 amd64 [upgradable from: 1:9.11.3+dfsg-1ubuntu1.12]
 libiscsi-bin/bionic 1.17.0-1.1 amd64
 libiscsi-dev/bionic 1.17.0-1.1 amd64
 libiscsi7/bionic 1.17.0-1.1 amd64
@@ -29154,7 +29154,7 @@ liblwp-useragent-chicaching-perl/bionic 0.04-1 all
 liblwp-useragent-determined-perl/bionic 1.07-1 all
 liblwp-useragent-progressbar-perl/bionic 1.100810-2 all
 liblwpx-paranoidagent-perl/bionic 1.12-1 all
-liblwres160/bionic-updates,bionic-security,now 1:9.11.3+dfsg-1ubuntu1.12 amd64 [installed,automatic]
+liblwres160/bionic-updates,bionic-security 1:9.11.3+dfsg-1ubuntu1.13 amd64 [upgradable from: 1:9.11.3+dfsg-1ubuntu1.12]
 liblwt-glib-ocaml/bionic 2.7.1-4build1 amd64
 liblwt-glib-ocaml-dev/bionic 2.7.1-4build1 amd64
 liblwt-ocaml/bionic 2.7.1-4build1 amd64
