@@ -1497,11 +1497,11 @@ biloba/xenial 0.9.3-5 amd64
 biloba-data/xenial,xenial 0.9.3-5 all
 bin86/xenial 0.16.17-3.1ubuntu3 amd64
 binclock/xenial 1.5-6 amd64
-bind9/xenial-updates,xenial-security 1:9.10.3.dfsg.P4-8ubuntu1.16 amd64
-bind9-doc/xenial-updates,xenial-updates,xenial-security,xenial-security 1:9.10.3.dfsg.P4-8ubuntu1.16 all
+bind9/xenial-updates,xenial-security 1:9.10.3.dfsg.P4-8ubuntu1.17 amd64
+bind9-doc/xenial-updates,xenial-updates,xenial-security,xenial-security 1:9.10.3.dfsg.P4-8ubuntu1.17 all
 bind9-dyndb-ldap/xenial 8.0-4 amd64
-bind9-host/xenial-updates,xenial-security,now 1:9.10.3.dfsg.P4-8ubuntu1.16 amd64 [installed]
-bind9utils/xenial-updates,xenial-security 1:9.10.3.dfsg.P4-8ubuntu1.16 amd64
+bind9-host/xenial-updates,xenial-security 1:9.10.3.dfsg.P4-8ubuntu1.17 amd64 [upgradable from: 1:9.10.3.dfsg.P4-8ubuntu1.16]
+bind9utils/xenial-updates,xenial-security 1:9.10.3.dfsg.P4-8ubuntu1.17 amd64
 bindechexascii/xenial 0.0+20140524.git7dcd86-3 amd64
 bindfs/xenial 1.12.6-2 amd64
 bindgraph/xenial,xenial 0.2a-5.1 all
@@ -4329,7 +4329,7 @@ dnssec-tools/xenial,xenial 2.2-2 all
 dnssec-trigger/xenial 0.13~svn685-4 amd64
 dnstop/xenial 20120611-2build1 amd64
 dnstracer/xenial 1.9-4 amd64
-dnsutils/xenial-updates,xenial-security,now 1:9.10.3.dfsg.P4-8ubuntu1.16 amd64 [installed]
+dnsutils/xenial-updates,xenial-security 1:9.10.3.dfsg.P4-8ubuntu1.17 amd64 [upgradable from: 1:9.10.3.dfsg.P4-8ubuntu1.16]
 dnswalk/xenial,xenial 2.0.2.dfsg.1-1 all
 doc-base/xenial,xenial 0.10.7 all
 doc-central/xenial,xenial 1.8.3 all
@@ -10595,7 +10595,7 @@ horae/xenial,xenial 071~svn537-2ubuntu1 all
 horgand/xenial 1.14-5build1 amd64
 horgand-data/xenial,xenial 1.14-5build1 all
 horst/xenial 4.2-1build1 amd64
-host/xenial-updates,xenial-updates,xenial-security,xenial-security 1:9.10.3.dfsg.P4-8ubuntu1.16 all
+host/xenial-updates,xenial-updates,xenial-security,xenial-security 1:9.10.3.dfsg.P4-8ubuntu1.17 all
 hostap-utils/xenial 1:0.4.7-1ubuntu1 amd64
 hostapd/xenial-updates,xenial-security 1:2.4-0ubuntu6.6 amd64
 hostname/xenial,now 3.16ubuntu2 amd64 [installed]
@@ -14671,9 +14671,9 @@ libbibutils2/xenial 4.12-5 amd64
 libbin-prot-camlp4-dev/xenial 113.00.00-1 amd64
 libbind-config-parser-perl/xenial,xenial 0.01-1 all
 libbind-confparser-perl/xenial,xenial 0.95-4 all
-libbind-dev/xenial-updates,xenial-security 1:9.10.3.dfsg.P4-8ubuntu1.16 amd64
-libbind-export-dev/xenial-updates,xenial-security 1:9.10.3.dfsg.P4-8ubuntu1.16 amd64
-libbind9-140/xenial-updates,xenial-security,now 1:9.10.3.dfsg.P4-8ubuntu1.16 amd64 [installed,automatic]
+libbind-dev/xenial-updates,xenial-security 1:9.10.3.dfsg.P4-8ubuntu1.17 amd64
+libbind-export-dev/xenial-updates,xenial-security 1:9.10.3.dfsg.P4-8ubuntu1.17 amd64
+libbind9-140/xenial-updates,xenial-security 1:9.10.3.dfsg.P4-8ubuntu1.17 amd64 [upgradable from: 1:9.10.3.dfsg.P4-8ubuntu1.16]
 libbindex-java/xenial,xenial 2.2+svn101-3 all
 libbinio-dev/xenial 1.4+dfsg1-4.1 amd64
 libbinio1v5/xenial 1.4+dfsg1-4.1 amd64
@@ -17178,9 +17178,9 @@ libdmx1/xenial 1:1.1.3-1 amd64
 libdmx1-dbg/xenial 1:1.1.3-1 amd64
 libdnet/xenial 2.64build2 amd64
 libdnet-dev/xenial 2.64build2 amd64
-libdns-export162/xenial-updates,xenial-security,now 1:9.10.3.dfsg.P4-8ubuntu1.16 amd64 [installed]
+libdns-export162/xenial-updates,xenial-security 1:9.10.3.dfsg.P4-8ubuntu1.17 amd64 [upgradable from: 1:9.10.3.dfsg.P4-8ubuntu1.16]
 libdns-zoneparse-perl/xenial,xenial 1.10-1 all
-libdns162/xenial-updates,xenial-security,now 1:9.10.3.dfsg.P4-8ubuntu1.16 amd64 [installed,automatic]
+libdns162/xenial-updates,xenial-security 1:9.10.3.dfsg.P4-8ubuntu1.17 amd64 [upgradable from: 1:9.10.3.dfsg.P4-8ubuntu1.16]
 libdnsjava-java/xenial,xenial 2.1.7+dfsg-1 all
 libdnssec0/xenial 2.1.1-1build1 amd64
 libdockapp-dbg/xenial 1:0.7.2-1 amd64
@@ -23228,18 +23228,18 @@ libirrlicht-dev/xenial 1.8.3+dfsg1-1 amd64
 libirrlicht-doc/xenial,xenial 1.8.3+dfsg1-1 all
 libirrlicht1.8/xenial 1.8.3+dfsg1-1 amd64
 libirrlicht1.8-dbg/xenial 1.8.3+dfsg1-1 amd64
-libirs-export141/xenial-updates,xenial-security 1:9.10.3.dfsg.P4-8ubuntu1.16 amd64
-libirs141/xenial-updates,xenial-security 1:9.10.3.dfsg.P4-8ubuntu1.16 amd64
+libirs-export141/xenial-updates,xenial-security 1:9.10.3.dfsg.P4-8ubuntu1.17 amd64
+libirs141/xenial-updates,xenial-security 1:9.10.3.dfsg.P4-8ubuntu1.17 amd64
 libirstlm-dev/xenial 5.80.03-2 amd64
 libirstlm0/xenial 5.80.03-2 amd64
 libisajet758-3-dev/xenial 20061220+dfsg3-3 amd64
 libisajet758-3-gfortran/xenial 20061220+dfsg3-3 amd64
-libisc-export160/xenial-updates,xenial-security,now 1:9.10.3.dfsg.P4-8ubuntu1.16 amd64 [installed]
-libisc160/xenial-updates,xenial-security,now 1:9.10.3.dfsg.P4-8ubuntu1.16 amd64 [installed,automatic]
-libisccc-export140/xenial-updates,xenial-security 1:9.10.3.dfsg.P4-8ubuntu1.16 amd64
-libisccc140/xenial-updates,xenial-security,now 1:9.10.3.dfsg.P4-8ubuntu1.16 amd64 [installed,automatic]
-libisccfg-export140/xenial-updates,xenial-security 1:9.10.3.dfsg.P4-8ubuntu1.16 amd64
-libisccfg140/xenial-updates,xenial-security,now 1:9.10.3.dfsg.P4-8ubuntu1.16 amd64 [installed,automatic]
+libisc-export160/xenial-updates,xenial-security 1:9.10.3.dfsg.P4-8ubuntu1.17 amd64 [upgradable from: 1:9.10.3.dfsg.P4-8ubuntu1.16]
+libisc160/xenial-updates,xenial-security 1:9.10.3.dfsg.P4-8ubuntu1.17 amd64 [upgradable from: 1:9.10.3.dfsg.P4-8ubuntu1.16]
+libisccc-export140/xenial-updates,xenial-security 1:9.10.3.dfsg.P4-8ubuntu1.17 amd64
+libisccc140/xenial-updates,xenial-security 1:9.10.3.dfsg.P4-8ubuntu1.17 amd64 [upgradable from: 1:9.10.3.dfsg.P4-8ubuntu1.16]
+libisccfg-export140/xenial-updates,xenial-security 1:9.10.3.dfsg.P4-8ubuntu1.17 amd64
+libisccfg140/xenial-updates,xenial-security 1:9.10.3.dfsg.P4-8ubuntu1.17 amd64 [upgradable from: 1:9.10.3.dfsg.P4-8ubuntu1.16]
 libiscsi-bin/xenial 1.12.0-2 amd64
 libiscsi-dev/xenial 1.12.0-2 amd64
 libiscsi2/xenial 1.12.0-2 amd64
@@ -25351,7 +25351,7 @@ liblwp-useragent-chicaching-perl/xenial,xenial 0.03-2 all
 liblwp-useragent-determined-perl/xenial,xenial 1.07-1 all
 liblwp-useragent-progressbar-perl/xenial,xenial 1.100810-1 all
 liblwpx-paranoidagent-perl/xenial,xenial 1.10-6 all
-liblwres141/xenial-updates,xenial-security,now 1:9.10.3.dfsg.P4-8ubuntu1.16 amd64 [installed,automatic]
+liblwres141/xenial-updates,xenial-security 1:9.10.3.dfsg.P4-8ubuntu1.17 amd64 [upgradable from: 1:9.10.3.dfsg.P4-8ubuntu1.16]
 liblwt-glib-ocaml/xenial 2.5.0+1-1 amd64
 liblwt-glib-ocaml-dev/xenial 2.5.0+1-1 amd64
 liblwt-ocaml/xenial 2.5.0+1-1 amd64
@@ -41086,7 +41086,7 @@ lvtk-tools/xenial 1.2.0~dfsg0-1build1 amd64
 lwatch/xenial 0.6.2-1 amd64
 lwatch-dbg/xenial 0.6.2-1 amd64
 lwm/xenial 1.2.2-5 amd64
-lwresd/xenial-updates,xenial-security 1:9.10.3.dfsg.P4-8ubuntu1.16 amd64
+lwresd/xenial-updates,xenial-security 1:9.10.3.dfsg.P4-8ubuntu1.17 amd64
 lx-gdb/xenial 1.03-16 amd64
 lxappearance/xenial 0.6.2-1 amd64
 lxappearance-dbg/xenial 0.6.2-1 amd64
