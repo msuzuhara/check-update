@@ -5517,7 +5517,7 @@ firehol-common/oldstable 3.1.1+ds-1 all
 firehol-doc/oldstable 3.1.1+ds-1 all
 firehol-tools/oldstable 3.1.1+ds-1 all
 firehol-tools-doc/oldstable 3.1.1+ds-1 all
-firejail/oldstable 0.9.44.8-2 amd64
+firejail/oldstable 0.9.44.8-2+deb9u1 amd64
 fireqos/oldstable 3.1.1+ds-1 all
 fireqos-doc/oldstable 3.1.1+ds-1 all
 firetools/oldstable 0.9.44-1 amd64
@@ -10545,7 +10545,7 @@ ideviceinstaller-dbg/oldstable 1.0.1-0.3+b2 amd64
 idjc/oldstable 0.8.16-1 amd64
 idl-font-lock-el/oldstable 1.5-9 all
 idle/oldstable 2.7.13-2 all
-idle-python2.7/oldstable,oldstable 2.7.13-2+deb9u3 all
+idle-python2.7/oldstable 2.7.13-2+deb9u4 all
 idle-python3.5/oldstable 3.5.3-1+deb9u2 all
 idle3/oldstable 3.5.3-1 all
 idle3-tools/oldstable 0.9.1-2 amd64
@@ -12119,7 +12119,7 @@ leds-alix-source/oldstable 0.0.1-1.1 all
 lefse/oldstable 1.0+20160802-1 all
 legit/oldstable 0.1.1-4 all
 lego/oldstable 0.3.1-4+b3 amd64
-lemon/oldstable 3.16.2-5+deb9u1 amd64
+lemon/oldstable 3.16.2-5+deb9u2 amd64
 lemonbar/oldstable 1.2-2 amd64
 lemonldap-ng/oldstable 1.9.7-3+deb9u2 all
 lemonldap-ng-doc/oldstable 1.9.7-3+deb9u2 all
@@ -27158,12 +27158,12 @@ libpython-all-dev/oldstable 2.7.13-2 amd64
 libpython-dbg/oldstable 2.7.13-2 amd64
 libpython-dev/oldstable 2.7.13-2 amd64
 libpython-stdlib/oldstable,now 2.7.13-2 amd64 [installed,automatic]
-libpython2.7/oldstable,oldstable,now 2.7.13-2+deb9u3 amd64 [installed,automatic]
-libpython2.7-dbg/oldstable,oldstable 2.7.13-2+deb9u3 amd64
-libpython2.7-dev/oldstable,oldstable 2.7.13-2+deb9u3 amd64
-libpython2.7-minimal/oldstable,oldstable,now 2.7.13-2+deb9u3 amd64 [installed,automatic]
-libpython2.7-stdlib/oldstable,oldstable,now 2.7.13-2+deb9u3 amd64 [installed,automatic]
-libpython2.7-testsuite/oldstable,oldstable 2.7.13-2+deb9u3 all
+libpython2.7/oldstable 2.7.13-2+deb9u4 amd64 [upgradable from: 2.7.13-2+deb9u3]
+libpython2.7-dbg/oldstable 2.7.13-2+deb9u4 amd64
+libpython2.7-dev/oldstable 2.7.13-2+deb9u4 amd64
+libpython2.7-minimal/oldstable 2.7.13-2+deb9u4 amd64 [upgradable from: 2.7.13-2+deb9u3]
+libpython2.7-stdlib/oldstable 2.7.13-2+deb9u4 amd64 [upgradable from: 2.7.13-2+deb9u3]
+libpython2.7-testsuite/oldstable 2.7.13-2+deb9u4 all
 libpython3-all-dbg/oldstable 3.5.3-1 amd64
 libpython3-all-dev/oldstable 3.5.3-1 amd64
 libpython3-dbg/oldstable 3.5.3-1 amd64
@@ -29041,9 +29041,9 @@ libsqlexpr-ocaml-dev/oldstable 0.5.5-2+b6 amd64
 libsqlite-tcl/oldstable 2.8.17-14 amd64
 libsqlite0/oldstable 2.8.17-14 amd64
 libsqlite0-dev/oldstable 2.8.17-14 amd64
-libsqlite3-0/oldstable,now 3.16.2-5+deb9u1 amd64 [installed]
-libsqlite3-0-dbg/oldstable 3.16.2-5+deb9u1 amd64
-libsqlite3-dev/oldstable 3.16.2-5+deb9u1 amd64
+libsqlite3-0/oldstable 3.16.2-5+deb9u2 amd64 [upgradable from: 3.16.2-5+deb9u1]
+libsqlite3-0-dbg/oldstable 3.16.2-5+deb9u2 amd64
+libsqlite3-dev/oldstable 3.16.2-5+deb9u2 amd64
 libsqlite3-gst/oldstable 3.2.5-1+b3 amd64
 libsqlite3-mod-blobtoxy/oldstable 0.9995-1 amd64
 libsqlite3-mod-csvtable/oldstable 0.9995-1 amd64
@@ -29054,7 +29054,7 @@ libsqlite3-mod-xpath/oldstable 0.9995-1 amd64
 libsqlite3-mod-zipfile/oldstable 0.9995-1 amd64
 libsqlite3-ocaml/oldstable 4.0.5-1 amd64
 libsqlite3-ocaml-dev/oldstable 4.0.5-1 amd64
-libsqlite3-tcl/oldstable 3.16.2-5+deb9u1 amd64
+libsqlite3-tcl/oldstable 3.16.2-5+deb9u2 amd64
 libsqliteodbc/oldstable 0.9995-1 amd64
 libsqljet-java/oldstable 1.1.10-1 all
 libsqljet-java-doc/oldstable 1.1.10-1 all
@@ -37680,21 +37680,21 @@ profphd-net/oldstable 1.0.22-4 amd64
 profphd-utils/oldstable 1.0.10-3+b1 amd64
 proftmb/oldstable 1.1.12-6+b1 amd64
 proftmb-dbg/oldstable 1.1.12-6+b1 amd64
-proftpd-basic/oldstable 1.3.5b-4+deb9u5 amd64
-proftpd-dev/oldstable 1.3.5b-4+deb9u5 amd64
-proftpd-doc/oldstable 1.3.5b-4+deb9u5 all
+proftpd-basic/oldstable 1.3.5e+r1.3.5b-4+deb9u1 amd64
+proftpd-dev/oldstable 1.3.5e+r1.3.5b-4+deb9u1 amd64
+proftpd-doc/oldstable 1.3.5e+r1.3.5b-4+deb9u1 all
 proftpd-mod-autohost/oldstable 0.4-1+b6 amd64
 proftpd-mod-case/oldstable 0.7-1+b5 amd64
 proftpd-mod-clamav/oldstable 0.14~rc2-1 amd64
 proftpd-mod-dnsbl/oldstable 0.1.5-4 amd64
 proftpd-mod-fsync/oldstable 0.2-1+b6 amd64
-proftpd-mod-geoip/oldstable 1.3.5b-4+deb9u5 amd64
-proftpd-mod-ldap/oldstable 1.3.5b-4+deb9u5 amd64
+proftpd-mod-geoip/oldstable 1.3.5e+r1.3.5b-4+deb9u1 amd64
+proftpd-mod-ldap/oldstable 1.3.5e+r1.3.5b-4+deb9u1 amd64
 proftpd-mod-msg/oldstable 0.4.1-1.1+b5 amd64
-proftpd-mod-mysql/oldstable 1.3.5b-4+deb9u5 amd64
-proftpd-mod-odbc/oldstable 1.3.5b-4+deb9u5 amd64
-proftpd-mod-pgsql/oldstable 1.3.5b-4+deb9u5 amd64
-proftpd-mod-sqlite/oldstable 1.3.5b-4+deb9u5 amd64
+proftpd-mod-mysql/oldstable 1.3.5e+r1.3.5b-4+deb9u1 amd64
+proftpd-mod-odbc/oldstable 1.3.5e+r1.3.5b-4+deb9u1 amd64
+proftpd-mod-pgsql/oldstable 1.3.5e+r1.3.5b-4+deb9u1 amd64
+proftpd-mod-sqlite/oldstable 1.3.5e+r1.3.5b-4+deb9u1 amd64
 proftpd-mod-tar/oldstable 0.3.3-1+b6 amd64
 proftpd-mod-vroot/oldstable 0.9.4-1 amd64
 progress/oldstable 0.13.1-1 amd64
@@ -41421,12 +41421,12 @@ python-zzzeeksphinx/oldstable 1.0.18-2 all
 python2-pyro4/oldstable 4.53-3 all
 python2-selectors34/oldstable 1.1.0-1 all
 python2-serpent/oldstable 1.16-1 all
-python2.7/oldstable,oldstable,now 2.7.13-2+deb9u3 amd64 [installed]
-python2.7-dbg/oldstable,oldstable 2.7.13-2+deb9u3 amd64
-python2.7-dev/oldstable,oldstable 2.7.13-2+deb9u3 amd64
-python2.7-doc/oldstable,oldstable 2.7.13-2+deb9u3 all
-python2.7-examples/oldstable,oldstable 2.7.13-2+deb9u3 all
-python2.7-minimal/oldstable,oldstable,now 2.7.13-2+deb9u3 amd64 [installed,automatic]
+python2.7/oldstable 2.7.13-2+deb9u4 amd64 [upgradable from: 2.7.13-2+deb9u3]
+python2.7-dbg/oldstable 2.7.13-2+deb9u4 amd64
+python2.7-dev/oldstable 2.7.13-2+deb9u4 amd64
+python2.7-doc/oldstable 2.7.13-2+deb9u4 all
+python2.7-examples/oldstable 2.7.13-2+deb9u4 all
+python2.7-minimal/oldstable 2.7.13-2+deb9u4 amd64 [upgradable from: 2.7.13-2+deb9u3]
 python3/oldstable,now 3.5.3-1 amd64 [installed,automatic]
 python3-aalib/oldstable 0.3.2-1 all
 python3-abstract-rendering/oldstable 0.5.1-1+b2 amd64
@@ -42929,7 +42929,7 @@ python3-socketpool/oldstable 0.5.3-3 all
 python3-sockjs-tornado/oldstable 1.0.3-1 all
 python3-socks/oldstable 1.6.5-1 all
 python3-softlayer/oldstable 5.2.1-1 all
-python3-software-properties/oldstable 0.96.20.2-1 all
+python3-software-properties/oldstable 0.96.20.2-1+deb9u1 all
 python3-solv/oldstable 0.6.24-1+deb9u2 amd64
 python3-sorl-thumbnail/oldstable 12.3+git20160928-2+deb9u1 all
 python3-sortedcontainers/oldstable 1.5.7-1 all
@@ -46655,9 +46655,9 @@ softhsm/oldstable 2.2.0-3 all
 softhsm-common/oldstable 2.2.0-3 all
 softhsm2/oldstable 2.2.0-3 amd64
 softhsm2-common/oldstable 2.2.0-3 amd64
-software-properties-common/oldstable 0.96.20.2-1 all
-software-properties-gtk/oldstable 0.96.20.2-1 all
-software-properties-kde/oldstable 0.96.20.2-1 all
+software-properties-common/oldstable 0.96.20.2-1+deb9u1 all
+software-properties-gtk/oldstable 0.96.20.2-1+deb9u1 all
+software-properties-kde/oldstable 0.96.20.2-1+deb9u1 all
 sogo/oldstable 3.2.6-2 amd64
 sogo-common/oldstable 3.2.6-2 all
 solaar/oldstable 0.9.2+dfsg-7 all
@@ -46822,8 +46822,8 @@ sqlformat/oldstable 0.2.2-1 all
 sqlgrey/oldstable 1:1.8.0-1 all
 sqlite/oldstable 2.8.17-14 amd64
 sqlite-doc/oldstable 2.8.17-14 all
-sqlite3/oldstable 3.16.2-5+deb9u1 amd64
-sqlite3-doc/oldstable 3.16.2-5+deb9u1 all
+sqlite3/oldstable 3.16.2-5+deb9u2 amd64
+sqlite3-doc/oldstable 3.16.2-5+deb9u2 all
 sqlite3-pcre/oldstable 0~git20070120091816+4229ecc-1 amd64
 sqlitebrowser/oldstable 3.9.1-2 amd64
 sqlline/oldstable 1.0.2-5 all
