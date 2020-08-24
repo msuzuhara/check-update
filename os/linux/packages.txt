@@ -11552,11 +11552,11 @@ icinga2-ido-mysql/stable 2.10.3-2 amd64
 icinga2-ido-pgsql/stable 2.10.3-2 amd64
 icinga2/stable 2.10.3-2 amd64
 icinga/stable 1.14.2+ds-3+b1 amd64
-icingacli/stable 2.6.2-3 all
-icingaweb2-common/stable 2.6.2-3 all
-icingaweb2-module-doc/stable 2.6.2-3 all
-icingaweb2-module-monitoring/stable 2.6.2-3 all
-icingaweb2/stable 2.6.2-3 all
+icingacli/stable 2.6.2-3+deb10u1 all
+icingaweb2-common/stable 2.6.2-3+deb10u1 all
+icingaweb2-module-doc/stable 2.6.2-3+deb10u1 all
+icingaweb2-module-monitoring/stable 2.6.2-3+deb10u1 all
+icingaweb2/stable 2.6.2-3+deb10u1 all
 icli/stable 0.48-1 all
 icmake-doc/stable 9.02.08-2 all
 icmake/stable 9.02.08-2 amd64
@@ -41091,7 +41091,7 @@ php-htmlpurifier/stable 4.10.0-1 all
 php-http-request/stable 1.4.4-5 all
 php-http-webdav-server/stable 1.0.0RC8-1 all
 php-http/stable 3.2.0+2.6.0-2+b1 amd64
-php-icinga/stable 2.6.2-3 all
+php-icinga/stable 2.6.2-3+deb10u1 all
 php-igbinary/stable 3.0.0-1 amd64
 php-illuminate-container/stable 5.7.27-1 all
 php-illuminate-contracts/stable 5.7.27-1 all
