@@ -8052,10 +8052,10 @@ ghi/stable 1.2.0-1 all
 ghkl/stable 5.0.0.2456-1 amd64
 ghmm/stable 0.9~rc3-2 amd64
 ghostess/stable 20120105-1+b2 amd64
-ghostscript-dbg/stable,stable 9.27~dfsg-2+deb10u3 amd64
-ghostscript-doc/stable,stable 9.27~dfsg-2+deb10u3 all
-ghostscript-x/stable,stable 9.27~dfsg-2+deb10u3 amd64
-ghostscript/stable,stable 9.27~dfsg-2+deb10u3 amd64
+ghostscript-dbg/stable 9.27~dfsg-2+deb10u4 amd64
+ghostscript-doc/stable 9.27~dfsg-2+deb10u4 all
+ghostscript-x/stable 9.27~dfsg-2+deb10u4 amd64
+ghostscript/stable 9.27~dfsg-2+deb10u4 amd64
 ghostwriter/stable 1.7.4-2 amd64
 ghp-import/stable 0.5.5-1 all
 giac-doc/stable 1.4.9.69+dfsg1-2 all
@@ -22507,9 +22507,9 @@ libgrpc6/stable 1.16.1-1 amd64
 libgrss-dev/stable 0.7.0-2+b11 amd64
 libgrss0/stable 0.7.0-2+b11 amd64
 libgs-collections-java/stable 5.1.0-3 all
-libgs-dev/stable,stable 9.27~dfsg-2+deb10u3 amd64
-libgs9-common/stable,stable 9.27~dfsg-2+deb10u3 all
-libgs9/stable,stable 9.27~dfsg-2+deb10u3 amd64
+libgs-dev/stable 9.27~dfsg-2+deb10u4 amd64
+libgs9-common/stable 9.27~dfsg-2+deb10u4 all
+libgs9/stable 9.27~dfsg-2+deb10u4 amd64
 libgsasl7-dev/stable 1.8.0-8+b2 amd64
 libgsasl7/stable 1.8.0-8+b2 amd64
 libgsecuredelete-dev/stable 0.3-1 amd64
