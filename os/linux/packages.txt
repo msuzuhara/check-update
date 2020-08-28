@@ -673,13 +673,13 @@ appmenu-gtk-module-common/bionic 0.6.94-1 all
 appmenu-gtk2-module/bionic 0.6.94-1 amd64
 appmenu-gtk3-module/bionic 0.6.94-1 amd64
 appmenu-qt/bionic 0.2.7+14.04.20140305-0ubuntu2 amd64
-apport/bionic-updates,bionic-security 2.20.9-0ubuntu7.16 all [upgradable from: 2.20.9-0ubuntu7.14]
-apport-gtk/bionic-updates,bionic-security 2.20.9-0ubuntu7.16 all
-apport-kde/bionic-updates,bionic-security 2.20.9-0ubuntu7.16 all
-apport-noui/bionic-updates,bionic-security 2.20.9-0ubuntu7.16 all
-apport-retrace/bionic-updates,bionic-security 2.20.9-0ubuntu7.16 all
+apport/bionic-updates 2.20.9-0ubuntu7.17 all [upgradable from: 2.20.9-0ubuntu7.14]
+apport-gtk/bionic-updates 2.20.9-0ubuntu7.17 all
+apport-kde/bionic-updates 2.20.9-0ubuntu7.17 all
+apport-noui/bionic-updates 2.20.9-0ubuntu7.17 all
+apport-retrace/bionic-updates 2.20.9-0ubuntu7.17 all
 apport-symptoms/bionic,now 0.20 all [installed,automatic]
-apport-valgrind/bionic-updates,bionic-security 2.20.9-0ubuntu7.16 all
+apport-valgrind/bionic-updates 2.20.9-0ubuntu7.17 all
 apprecommender/bionic 0.7.5-2 all
 approx/bionic 5.10-1 amd64
 appstream/bionic-updates 0.12.0-3ubuntu1 amd64
@@ -2592,7 +2592,7 @@ chromium-lwn4chrome/bionic 1.0-2 all
 chromium-tt-rss-notifier/bionic 0.5.2-1 all
 chromium-ublock-origin/bionic 1.13.8+dfsg-1 all
 chronicle/bionic 4.6-2 all
-chrony/bionic-updates 3.2-4ubuntu4.4 amd64
+chrony/bionic-updates,bionic-security 3.2-4ubuntu4.5 amd64
 chrootuid/bionic 1.3-6build1 amd64
 chrpath/bionic 0.16-2 amd64
 chuck/bionic 1.2.0.8.dfsg-1.5 amd64
@@ -4192,7 +4192,7 @@ dgit-infrastructure/bionic 4.3 all
 dh-acc/bionic 2.2-2ubuntu1 all
 dh-ada-library/bionic 6.12 amd64
 dh-apparmor/bionic-updates,bionic-security 2.12-4ubuntu5.1 all
-dh-apport/bionic-updates,bionic-security 2.20.9-0ubuntu7.16 all
+dh-apport/bionic-updates 2.20.9-0ubuntu7.17 all
 dh-autoreconf/bionic 17 all
 dh-buildinfo/bionic 0.11+nmu2 all
 dh-cargo/bionic 2 all
@@ -31190,10 +31190,10 @@ libnss-sss/bionic-updates 1.16.1-1ubuntu1.6 amd64
 libnss-systemd/bionic-updates 237-3ubuntu10.42 amd64 [upgradable from: 237-3ubuntu10.38]
 libnss-winbind/bionic-updates,bionic-security 2:4.7.6+dfsg~ubuntu-0ubuntu2.18 amd64
 libnss-wrapper/bionic 1.1.3-1 amd64
-libnss3/bionic-updates,bionic-security 2:3.35-2ubuntu2.11 amd64
-libnss3-dbg/bionic-updates,bionic-security 2:3.35-2ubuntu2.11 amd64
-libnss3-dev/bionic-updates,bionic-security 2:3.35-2ubuntu2.11 amd64
-libnss3-tools/bionic-updates,bionic-security 2:3.35-2ubuntu2.11 amd64
+libnss3/bionic-updates,bionic-security 2:3.35-2ubuntu2.12 amd64
+libnss3-dbg/bionic-updates,bionic-security 2:3.35-2ubuntu2.12 amd64
+libnss3-dev/bionic-updates,bionic-security 2:3.35-2ubuntu2.12 amd64
+libnss3-tools/bionic-updates,bionic-security 2:3.35-2ubuntu2.12 amd64
 libnsspem/bionic 1.0.3-0ubuntu2 amd64
 libntdb-dev/bionic 1.0-9build1 amd64
 libntdb1/bionic 1.0-9build1 amd64
@@ -52654,7 +52654,7 @@ python-appdirs/bionic 1.4.3-1 all
 python-appindicator/bionic 12.10.1+18.04.20180322.1-0ubuntu1 amd64
 python-application/bionic 1.4.1-1 all
 python-applicationinsights/bionic 0.11.0-1 all
-python-apport/bionic-updates,bionic-security 2.20.9-0ubuntu7.16 all
+python-apport/bionic-updates 2.20.9-0ubuntu7.17 all
 python-apptools/bionic 4.3.0-1 all
 python-apscheduler/bionic 3.4.0-2ubuntu1 all
 python-apsw/bionic 3.16.2-r1-2build2 amd64
@@ -54899,7 +54899,7 @@ python-presage-dbg/bionic 0.9.1-2.1ubuntu4 amd64
 python-pretend/bionic 1.0.8-2 all
 python-pretty-yaml/bionic 17.12.1-1 all
 python-prettytable/bionic 0.7.2-3 all
-python-problem-report/bionic-updates,bionic-security 2.20.9-0ubuntu7.16 all
+python-problem-report/bionic-updates 2.20.9-0ubuntu7.17 all
 python-proboscis/bionic 1.2.6.0-4 all
 python-profitbricks/bionic 4.1.1-1 all
 python-progress/bionic 1.2-1 all
@@ -56470,7 +56470,7 @@ python3-aplpy/bionic 1.1.1-1 all
 python3-apparmor/bionic-updates,bionic-security 2.12-4ubuntu5.1 amd64
 python3-appdirs/bionic 1.4.3-1 all
 python3-applicationinsights/bionic 0.11.0-1 all
-python3-apport/bionic-updates,bionic-security 2.20.9-0ubuntu7.16 all [upgradable from: 2.20.9-0ubuntu7.14]
+python3-apport/bionic-updates 2.20.9-0ubuntu7.17 all [upgradable from: 2.20.9-0ubuntu7.14]
 python3-apscheduler/bionic 3.4.0-2ubuntu1 all
 python3-apsw/bionic 3.16.2-r1-2build2 amd64
 python3-apsw-dbg/bionic 3.16.2-r1-2build2 amd64
@@ -57848,7 +57848,7 @@ python3-preludedb/bionic 4.1.0-1 amd64
 python3-pretend/bionic 1.0.8-2 all
 python3-pretty-yaml/bionic 17.12.1-1 all
 python3-prettytable/bionic 0.7.2-3 all
-python3-problem-report/bionic-updates,bionic-security 2.20.9-0ubuntu7.16 all [upgradable from: 2.20.9-0ubuntu7.14]
+python3-problem-report/bionic-updates 2.20.9-0ubuntu7.17 all [upgradable from: 2.20.9-0ubuntu7.14]
 python3-proboscis/bionic 1.2.6.0-4 all
 python3-profitbricks/bionic 4.1.1-1 all
 python3-progress/bionic 1.2-1 all
@@ -62813,16 +62813,16 @@ squeak-plugins-scratch-dbg/bionic 1.4.0.2~svn.r83-2.1 amd64
 squeak-vm/bionic 1:4.10.2.2614-4.1 amd64
 squeezelite/bionic 1.8-4build1 amd64
 squeezelite-pa/bionic 1.8-4build1 amd64
-squid/bionic-updates,bionic-security 3.5.27-1ubuntu1.7 amd64
-squid-cgi/bionic-updates,bionic-security 3.5.27-1ubuntu1.7 amd64
-squid-common/bionic-updates,bionic-security 3.5.27-1ubuntu1.7 all
-squid-dbg/bionic-updates,bionic-security 3.5.27-1ubuntu1.7 amd64
+squid/bionic-updates,bionic-security 3.5.27-1ubuntu1.8 amd64
+squid-cgi/bionic-updates,bionic-security 3.5.27-1ubuntu1.8 amd64
+squid-common/bionic-updates,bionic-security 3.5.27-1ubuntu1.8 all
+squid-dbg/bionic-updates,bionic-security 3.5.27-1ubuntu1.8 amd64
 squid-deb-proxy/bionic 0.8.14 all
 squid-deb-proxy-client/bionic 0.8.14 all
 squid-langpack/bionic 20170901-1 all
-squid-purge/bionic-updates,bionic-security 3.5.27-1ubuntu1.7 amd64
-squid3/bionic-updates,bionic-security 3.5.27-1ubuntu1.7 all
-squidclient/bionic-updates,bionic-security 3.5.27-1ubuntu1.7 amd64
+squid-purge/bionic-updates,bionic-security 3.5.27-1ubuntu1.8 amd64
+squid3/bionic-updates,bionic-security 3.5.27-1ubuntu1.8 all
+squidclient/bionic-updates,bionic-security 3.5.27-1ubuntu1.8 amd64
 squidguard/bionic 1.5-6 amd64
 squidguard-doc/bionic 1.5-6 all
 squidtaild/bionic 2.1a6-6 all
