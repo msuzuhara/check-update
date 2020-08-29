@@ -846,7 +846,7 @@ file-libs.i686                                       5.33-13.el8                
 file-roller.x86_64                                   3.28.1-2.el8                                     AppStream
 fio.x86_64                                           3.7-3.el8                                        AppStream
 fipscheck-lib.i686                                   1.5.0-4.el8                                      BaseOS   
-firefox.x86_64                                       68.11.0-1.el8_2                                  AppStream
+firefox.x86_64                                       78.2.0-2.el8_2                                   AppStream
 firewall-applet.noarch                               0.8.0-4.el8                                      AppStream
 firewall-config.noarch                               0.8.0-4.el8                                      AppStream
 flac-libs.i686                                       1.3.2-9.el8                                      AppStream
