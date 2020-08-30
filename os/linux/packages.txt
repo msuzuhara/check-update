@@ -1152,24 +1152,24 @@ backup2l/oldstable 1.6-1 all
 backupchecker/oldstable 1.7-1 all
 backupninja/oldstable 1.0.1-2 all
 backuppc/oldstable 3.3.1-4 amd64
-bacula/oldstable 7.4.4+dfsg-6+deb9u1 all
-bacula-bscan/oldstable 7.4.4+dfsg-6+deb9u1 amd64
-bacula-client/oldstable 7.4.4+dfsg-6+deb9u1 all
-bacula-common/oldstable 7.4.4+dfsg-6+deb9u1 amd64
-bacula-common-mysql/oldstable 7.4.4+dfsg-6+deb9u1 amd64
-bacula-common-pgsql/oldstable 7.4.4+dfsg-6+deb9u1 amd64
-bacula-common-sqlite3/oldstable 7.4.4+dfsg-6+deb9u1 amd64
-bacula-console/oldstable 7.4.4+dfsg-6+deb9u1 amd64
-bacula-console-qt/oldstable 7.4.4+dfsg-6+deb9u1 amd64
-bacula-director/oldstable 7.4.4+dfsg-6+deb9u1 amd64
-bacula-director-common/oldstable 7.4.4+dfsg-6+deb9u1 amd64
-bacula-director-mysql/oldstable 7.4.4+dfsg-6+deb9u1 amd64
-bacula-director-pgsql/oldstable 7.4.4+dfsg-6+deb9u1 amd64
-bacula-director-sqlite3/oldstable 7.4.4+dfsg-6+deb9u1 amd64
+bacula/oldstable 7.4.4+dfsg-6+deb9u2 all
+bacula-bscan/oldstable 7.4.4+dfsg-6+deb9u2 amd64
+bacula-client/oldstable 7.4.4+dfsg-6+deb9u2 all
+bacula-common/oldstable 7.4.4+dfsg-6+deb9u2 amd64
+bacula-common-mysql/oldstable 7.4.4+dfsg-6+deb9u2 amd64
+bacula-common-pgsql/oldstable 7.4.4+dfsg-6+deb9u2 amd64
+bacula-common-sqlite3/oldstable 7.4.4+dfsg-6+deb9u2 amd64
+bacula-console/oldstable 7.4.4+dfsg-6+deb9u2 amd64
+bacula-console-qt/oldstable 7.4.4+dfsg-6+deb9u2 amd64
+bacula-director/oldstable 7.4.4+dfsg-6+deb9u2 amd64
+bacula-director-common/oldstable 7.4.4+dfsg-6+deb9u2 amd64
+bacula-director-mysql/oldstable 7.4.4+dfsg-6+deb9u2 amd64
+bacula-director-pgsql/oldstable 7.4.4+dfsg-6+deb9u2 amd64
+bacula-director-sqlite3/oldstable 7.4.4+dfsg-6+deb9u2 amd64
 bacula-doc/oldstable 7.4.4-1 all
-bacula-fd/oldstable 7.4.4+dfsg-6+deb9u1 amd64
-bacula-sd/oldstable 7.4.4+dfsg-6+deb9u1 amd64
-bacula-server/oldstable 7.4.4+dfsg-6+deb9u1 all
+bacula-fd/oldstable 7.4.4+dfsg-6+deb9u2 amd64
+bacula-sd/oldstable 7.4.4+dfsg-6+deb9u2 amd64
+bacula-server/oldstable 7.4.4+dfsg-6+deb9u2 all
 bagel/oldstable 0.0~git20170109-1 amd64
 bagel-data/oldstable 0.0~git20170109-1 all
 balance/oldstable 3.57-1+b1 amd64
@@ -1399,11 +1399,11 @@ biloba/oldstable 0.9.3-6 amd64
 biloba-data/oldstable 0.9.3-6 all
 bin86/oldstable 0.16.17-3.2 amd64
 binclock/oldstable 1.5-6+b1 amd64
-bind9/oldstable,oldstable 1:9.10.3.dfsg.P4-12.3+deb9u6 amd64
-bind9-doc/oldstable,oldstable 1:9.10.3.dfsg.P4-12.3+deb9u6 all
+bind9/oldstable 1:9.10.3.dfsg.P4-12.3+deb9u7 amd64
+bind9-doc/oldstable 1:9.10.3.dfsg.P4-12.3+deb9u7 all
 bind9-dyndb-ldap/oldstable 10.1-1 amd64
-bind9-host/oldstable,oldstable 1:9.10.3.dfsg.P4-12.3+deb9u6 amd64 [upgradable from: 1:9.10.3.dfsg.P4-12.3+deb9u5]
-bind9utils/oldstable,oldstable 1:9.10.3.dfsg.P4-12.3+deb9u6 amd64
+bind9-host/oldstable 1:9.10.3.dfsg.P4-12.3+deb9u7 amd64 [upgradable from: 1:9.10.3.dfsg.P4-12.3+deb9u5]
+bind9utils/oldstable 1:9.10.3.dfsg.P4-12.3+deb9u7 amd64
 bindechexascii/oldstable 0.0+20140524.git7dcd86-4 amd64
 bindfs/oldstable 1.13.5-1 amd64
 binfmt-support/oldstable 2.1.6-2 amd64
@@ -4018,7 +4018,7 @@ dnssec-trigger/oldstable 0.13-6 amd64
 dnstap-ldns/oldstable 0.2.0-2 amd64
 dnstop/oldstable 20120611-2+b2 amd64
 dnstracer/oldstable 1.9-5 amd64
-dnsutils/oldstable,oldstable 1:9.10.3.dfsg.P4-12.3+deb9u6 amd64
+dnsutils/oldstable 1:9.10.3.dfsg.P4-12.3+deb9u7 amd64
 dnsvi/oldstable 1.0 all
 dnsviz/oldstable 0.6.4-1+deb9u1 all
 dnswalk/oldstable 2.0.2.dfsg.1-1 all
@@ -6231,8 +6231,8 @@ freeradius-redis/oldstable,oldstable 3.0.12+dfsg-5+deb9u1 amd64
 freeradius-rest/oldstable,oldstable 3.0.12+dfsg-5+deb9u1 amd64
 freeradius-utils/oldstable,oldstable 3.0.12+dfsg-5+deb9u1 amd64
 freeradius-yubikey/oldstable,oldstable 3.0.12+dfsg-5+deb9u1 amd64
-freerdp-x11/oldstable 1.1.0~git20140921.1.440916e+dfsg1-13+deb9u3 amd64
-freerdp-x11-dbg/oldstable 1.1.0~git20140921.1.440916e+dfsg1-13+deb9u3 amd64
+freerdp-x11/oldstable 1.1.0~git20140921.1.440916e+dfsg1-13+deb9u4 amd64
+freerdp-x11-dbg/oldstable 1.1.0~git20140921.1.440916e+dfsg1-13+deb9u4 amd64
 freesweep/oldstable 0.90-3+b1 amd64
 freetable/oldstable 2.3-4.2 all
 freetds-bin/oldstable 0.91-6.1+b4 amd64
@@ -9920,7 +9920,7 @@ hopenpgp-tools/oldstable 0.19.4-3 amd64
 horgand/oldstable 1.14-7 amd64
 horgand-data/oldstable 1.14-7 all
 horizon-doc/oldstable 3:10.0.1-1 all
-host/oldstable,oldstable 1:9.10.3.dfsg.P4-12.3+deb9u6 all
+host/oldstable 1:9.10.3.dfsg.P4-12.3+deb9u7 all
 hostap-utils/oldstable 1:0.4.7-1+b2 amd64
 hostapd/oldstable 2:2.4-1+deb9u7 amd64
 hostname/oldstable,now 3.18+b1 amd64 [installed]
@@ -13342,9 +13342,9 @@ libbin-prot-ocaml/oldstable 113.33.03-2 amd64
 libbin-prot-ocaml-dev/oldstable 113.33.03-2 amd64
 libbind-config-parser-perl/oldstable 0.01-1 all
 libbind-confparser-perl/oldstable 0.95-4 all
-libbind-dev/oldstable,oldstable 1:9.10.3.dfsg.P4-12.3+deb9u6 amd64
-libbind-export-dev/oldstable,oldstable 1:9.10.3.dfsg.P4-12.3+deb9u6 amd64
-libbind9-140/oldstable,oldstable 1:9.10.3.dfsg.P4-12.3+deb9u6 amd64 [upgradable from: 1:9.10.3.dfsg.P4-12.3+deb9u5]
+libbind-dev/oldstable 1:9.10.3.dfsg.P4-12.3+deb9u7 amd64
+libbind-export-dev/oldstable 1:9.10.3.dfsg.P4-12.3+deb9u7 amd64
+libbind9-140/oldstable 1:9.10.3.dfsg.P4-12.3+deb9u7 amd64 [upgradable from: 1:9.10.3.dfsg.P4-12.3+deb9u5]
 libbindex-java/oldstable 2.2+svn101-3 all
 libbinio-dev/oldstable 1.4+dfsg1-4.1 amd64
 libbinio1v5/oldstable 1.4+dfsg1-4.1 amd64
@@ -15673,9 +15673,9 @@ libdmx1/oldstable 1:1.1.3-1+b3 amd64
 libdmx1-dbg/oldstable 1:1.1.3-1+b3 amd64
 libdnet/oldstable 2.64+b4 amd64
 libdnet-dev/oldstable 2.64+b4 amd64
-libdns-export162/oldstable,oldstable 1:9.10.3.dfsg.P4-12.3+deb9u6 amd64 [upgradable from: 1:9.10.3.dfsg.P4-12.3+deb9u5]
+libdns-export162/oldstable 1:9.10.3.dfsg.P4-12.3+deb9u7 amd64 [upgradable from: 1:9.10.3.dfsg.P4-12.3+deb9u5]
 libdns-zoneparse-perl/oldstable 1.10-1 all
-libdns162/oldstable,oldstable 1:9.10.3.dfsg.P4-12.3+deb9u6 amd64 [upgradable from: 1:9.10.3.dfsg.P4-12.3+deb9u5]
+libdns162/oldstable 1:9.10.3.dfsg.P4-12.3+deb9u7 amd64 [upgradable from: 1:9.10.3.dfsg.P4-12.3+deb9u5]
 libdnsjava-java/oldstable 2.1.8-1 all
 libdnssec2/oldstable,oldstable 2.4.0-3+deb9u1 amd64
 libdnssecjava-java/oldstable 1.1.3-1 all
@@ -16737,21 +16737,21 @@ libfreenect-doc/oldstable 1:0.5.3-1 all
 libfreenect0.5/oldstable 1:0.5.3-1+b2 amd64
 libfreeradius-dev/oldstable,oldstable 3.0.12+dfsg-5+deb9u1 amd64
 libfreeradius3/oldstable,oldstable 3.0.12+dfsg-5+deb9u1 amd64
-libfreerdp-cache1.1/oldstable 1.1.0~git20140921.1.440916e+dfsg1-13+deb9u3 amd64
-libfreerdp-client1.1/oldstable 1.1.0~git20140921.1.440916e+dfsg1-13+deb9u3 amd64
-libfreerdp-codec1.1/oldstable 1.1.0~git20140921.1.440916e+dfsg1-13+deb9u3 amd64
-libfreerdp-common1.1.0/oldstable 1.1.0~git20140921.1.440916e+dfsg1-13+deb9u3 amd64
-libfreerdp-core1.1/oldstable 1.1.0~git20140921.1.440916e+dfsg1-13+deb9u3 amd64
-libfreerdp-crypto1.1/oldstable 1.1.0~git20140921.1.440916e+dfsg1-13+deb9u3 amd64
-libfreerdp-dbg/oldstable 1.1.0~git20140921.1.440916e+dfsg1-13+deb9u3 amd64
-libfreerdp-dev/oldstable 1.1.0~git20140921.1.440916e+dfsg1-13+deb9u3 amd64
-libfreerdp-gdi1.1/oldstable 1.1.0~git20140921.1.440916e+dfsg1-13+deb9u3 amd64
-libfreerdp-locale1.1/oldstable 1.1.0~git20140921.1.440916e+dfsg1-13+deb9u3 amd64
-libfreerdp-plugins-standard/oldstable 1.1.0~git20140921.1.440916e+dfsg1-13+deb9u3 amd64
-libfreerdp-plugins-standard-dbg/oldstable 1.1.0~git20140921.1.440916e+dfsg1-13+deb9u3 amd64
-libfreerdp-primitives1.1/oldstable 1.1.0~git20140921.1.440916e+dfsg1-13+deb9u3 amd64
-libfreerdp-rail1.1/oldstable 1.1.0~git20140921.1.440916e+dfsg1-13+deb9u3 amd64
-libfreerdp-utils1.1/oldstable 1.1.0~git20140921.1.440916e+dfsg1-13+deb9u3 amd64
+libfreerdp-cache1.1/oldstable 1.1.0~git20140921.1.440916e+dfsg1-13+deb9u4 amd64
+libfreerdp-client1.1/oldstable 1.1.0~git20140921.1.440916e+dfsg1-13+deb9u4 amd64
+libfreerdp-codec1.1/oldstable 1.1.0~git20140921.1.440916e+dfsg1-13+deb9u4 amd64
+libfreerdp-common1.1.0/oldstable 1.1.0~git20140921.1.440916e+dfsg1-13+deb9u4 amd64
+libfreerdp-core1.1/oldstable 1.1.0~git20140921.1.440916e+dfsg1-13+deb9u4 amd64
+libfreerdp-crypto1.1/oldstable 1.1.0~git20140921.1.440916e+dfsg1-13+deb9u4 amd64
+libfreerdp-dbg/oldstable 1.1.0~git20140921.1.440916e+dfsg1-13+deb9u4 amd64
+libfreerdp-dev/oldstable 1.1.0~git20140921.1.440916e+dfsg1-13+deb9u4 amd64
+libfreerdp-gdi1.1/oldstable 1.1.0~git20140921.1.440916e+dfsg1-13+deb9u4 amd64
+libfreerdp-locale1.1/oldstable 1.1.0~git20140921.1.440916e+dfsg1-13+deb9u4 amd64
+libfreerdp-plugins-standard/oldstable 1.1.0~git20140921.1.440916e+dfsg1-13+deb9u4 amd64
+libfreerdp-plugins-standard-dbg/oldstable 1.1.0~git20140921.1.440916e+dfsg1-13+deb9u4 amd64
+libfreerdp-primitives1.1/oldstable 1.1.0~git20140921.1.440916e+dfsg1-13+deb9u4 amd64
+libfreerdp-rail1.1/oldstable 1.1.0~git20140921.1.440916e+dfsg1-13+deb9u4 amd64
+libfreerdp-utils1.1/oldstable 1.1.0~git20140921.1.440916e+dfsg1-13+deb9u4 amd64
 libfreetype6/oldstable 2.6.3-3.2+deb9u1 amd64 [upgradable from: 2.6.3-3.2]
 libfreetype6-dev/oldstable 2.6.3-3.2+deb9u1 amd64
 libfreexl-dev/oldstable,oldstable 1.0.2-2+deb9u2 amd64
@@ -21538,20 +21538,20 @@ libirrlicht-dev/oldstable 1.8.4+dfsg1-1 amd64
 libirrlicht-doc/oldstable 1.8.4+dfsg1-1 all
 libirrlicht1.8/oldstable 1.8.4+dfsg1-1 amd64
 libirrlicht1.8-dbg/oldstable 1.8.4+dfsg1-1 amd64
-libirs-export141/oldstable,oldstable 1:9.10.3.dfsg.P4-12.3+deb9u6 amd64
-libirs141/oldstable,oldstable 1:9.10.3.dfsg.P4-12.3+deb9u6 amd64
+libirs-export141/oldstable 1:9.10.3.dfsg.P4-12.3+deb9u7 amd64
+libirs141/oldstable 1:9.10.3.dfsg.P4-12.3+deb9u7 amd64
 libirstlm-dev/oldstable 6.00.05-2 amd64
 libirstlm1/oldstable 6.00.05-2 amd64
 libisajet758-3-dev/oldstable 20061220+dfsg3-3.1+b3 amd64
 libisajet758-3-gfortran/oldstable 20061220+dfsg3-3.1+b3 amd64
 libisal-dev/oldstable 2.17.0-1 amd64
 libisal2/oldstable 2.17.0-1 amd64
-libisc-export160/oldstable,oldstable 1:9.10.3.dfsg.P4-12.3+deb9u6 amd64 [upgradable from: 1:9.10.3.dfsg.P4-12.3+deb9u5]
-libisc160/oldstable,oldstable 1:9.10.3.dfsg.P4-12.3+deb9u6 amd64 [upgradable from: 1:9.10.3.dfsg.P4-12.3+deb9u5]
-libisccc-export140/oldstable,oldstable 1:9.10.3.dfsg.P4-12.3+deb9u6 amd64
-libisccc140/oldstable,oldstable 1:9.10.3.dfsg.P4-12.3+deb9u6 amd64 [upgradable from: 1:9.10.3.dfsg.P4-12.3+deb9u5]
-libisccfg-export140/oldstable,oldstable 1:9.10.3.dfsg.P4-12.3+deb9u6 amd64
-libisccfg140/oldstable,oldstable 1:9.10.3.dfsg.P4-12.3+deb9u6 amd64 [upgradable from: 1:9.10.3.dfsg.P4-12.3+deb9u5]
+libisc-export160/oldstable 1:9.10.3.dfsg.P4-12.3+deb9u7 amd64 [upgradable from: 1:9.10.3.dfsg.P4-12.3+deb9u5]
+libisc160/oldstable 1:9.10.3.dfsg.P4-12.3+deb9u7 amd64 [upgradable from: 1:9.10.3.dfsg.P4-12.3+deb9u5]
+libisccc-export140/oldstable 1:9.10.3.dfsg.P4-12.3+deb9u7 amd64
+libisccc140/oldstable 1:9.10.3.dfsg.P4-12.3+deb9u7 amd64 [upgradable from: 1:9.10.3.dfsg.P4-12.3+deb9u5]
+libisccfg-export140/oldstable 1:9.10.3.dfsg.P4-12.3+deb9u7 amd64
+libisccfg140/oldstable 1:9.10.3.dfsg.P4-12.3+deb9u7 amd64 [upgradable from: 1:9.10.3.dfsg.P4-12.3+deb9u5]
 libiscsi-bin/oldstable 1.17.0-1.1 amd64
 libiscsi-dev/oldstable 1.17.0-1.1 amd64
 libiscsi7/oldstable 1.17.0-1.1 amd64
@@ -23584,7 +23584,7 @@ liblwp-useragent-chicaching-perl/oldstable 0.04-1 all
 liblwp-useragent-determined-perl/oldstable 1.07-1 all
 liblwp-useragent-progressbar-perl/oldstable 1.100810-2 all
 liblwpx-paranoidagent-perl/oldstable 1.12-1 all
-liblwres141/oldstable,oldstable 1:9.10.3.dfsg.P4-12.3+deb9u6 amd64 [upgradable from: 1:9.10.3.dfsg.P4-12.3+deb9u5]
+liblwres141/oldstable 1:9.10.3.dfsg.P4-12.3+deb9u7 amd64 [upgradable from: 1:9.10.3.dfsg.P4-12.3+deb9u5]
 liblwt-glib-ocaml/oldstable 2.5.2-1+b1 amd64
 liblwt-glib-ocaml-dev/oldstable 2.5.2-1+b1 amd64
 liblwt-ocaml/oldstable 2.5.2-1+b1 amd64
@@ -24936,9 +24936,9 @@ libndp-dbg/oldstable 1.6-1+b1 amd64
 libndp-dev/oldstable 1.6-1+b1 amd64
 libndp-tools/oldstable 1.6-1+b1 amd64
 libndp0/oldstable 1.6-1+b1 amd64
-libndpi-bin/oldstable 1.8-1 amd64
-libndpi-dev/oldstable 1.8-1 amd64
-libndpi4/oldstable 1.8-1 amd64
+libndpi-bin/oldstable 1.8-1+deb9u1 amd64
+libndpi-dev/oldstable 1.8-1+deb9u1 amd64
+libndpi4/oldstable 1.8-1+deb9u1 amd64
 libneko2/oldstable 2.1.0-4 amd64
 libnekohtml-java/oldstable 1.9.22-1 all
 libnekohtml-java-doc/oldstable 1.9.22-1 all
@@ -31014,38 +31014,38 @@ libwine-development/oldstable 2.0-3+b2 amd64
 libwine-development-dev/oldstable 2.0-3+b2 amd64
 libwings-dev/oldstable 0.95.7-8 amd64
 libwings3/oldstable 0.95.7-8 amd64
-libwinpr-asn1-0.1/oldstable 1.1.0~git20140921.1.440916e+dfsg1-13+deb9u3 amd64
-libwinpr-bcrypt0.1/oldstable 1.1.0~git20140921.1.440916e+dfsg1-13+deb9u3 amd64
-libwinpr-credentials0.1/oldstable 1.1.0~git20140921.1.440916e+dfsg1-13+deb9u3 amd64
-libwinpr-credui0.1/oldstable 1.1.0~git20140921.1.440916e+dfsg1-13+deb9u3 amd64
-libwinpr-crt0.1/oldstable 1.1.0~git20140921.1.440916e+dfsg1-13+deb9u3 amd64
-libwinpr-crypto0.1/oldstable 1.1.0~git20140921.1.440916e+dfsg1-13+deb9u3 amd64
-libwinpr-dbg/oldstable 1.1.0~git20140921.1.440916e+dfsg1-13+deb9u3 amd64
-libwinpr-dev/oldstable 1.1.0~git20140921.1.440916e+dfsg1-13+deb9u3 amd64
-libwinpr-dsparse0.1/oldstable 1.1.0~git20140921.1.440916e+dfsg1-13+deb9u3 amd64
-libwinpr-environment0.1/oldstable 1.1.0~git20140921.1.440916e+dfsg1-13+deb9u3 amd64
-libwinpr-error0.1/oldstable 1.1.0~git20140921.1.440916e+dfsg1-13+deb9u3 amd64
-libwinpr-file0.1/oldstable 1.1.0~git20140921.1.440916e+dfsg1-13+deb9u3 amd64
-libwinpr-handle0.1/oldstable 1.1.0~git20140921.1.440916e+dfsg1-13+deb9u3 amd64
-libwinpr-heap0.1/oldstable 1.1.0~git20140921.1.440916e+dfsg1-13+deb9u3 amd64
-libwinpr-input0.1/oldstable 1.1.0~git20140921.1.440916e+dfsg1-13+deb9u3 amd64
-libwinpr-interlocked0.1/oldstable 1.1.0~git20140921.1.440916e+dfsg1-13+deb9u3 amd64
-libwinpr-io0.1/oldstable 1.1.0~git20140921.1.440916e+dfsg1-13+deb9u3 amd64
-libwinpr-library0.1/oldstable 1.1.0~git20140921.1.440916e+dfsg1-13+deb9u3 amd64
-libwinpr-path0.1/oldstable 1.1.0~git20140921.1.440916e+dfsg1-13+deb9u3 amd64
-libwinpr-pipe0.1/oldstable 1.1.0~git20140921.1.440916e+dfsg1-13+deb9u3 amd64
-libwinpr-pool0.1/oldstable 1.1.0~git20140921.1.440916e+dfsg1-13+deb9u3 amd64
-libwinpr-registry0.1/oldstable 1.1.0~git20140921.1.440916e+dfsg1-13+deb9u3 amd64
-libwinpr-rpc0.1/oldstable 1.1.0~git20140921.1.440916e+dfsg1-13+deb9u3 amd64
-libwinpr-sspi0.1/oldstable 1.1.0~git20140921.1.440916e+dfsg1-13+deb9u3 amd64
-libwinpr-sspicli0.1/oldstable 1.1.0~git20140921.1.440916e+dfsg1-13+deb9u3 amd64
-libwinpr-synch0.1/oldstable 1.1.0~git20140921.1.440916e+dfsg1-13+deb9u3 amd64
-libwinpr-sysinfo0.1/oldstable 1.1.0~git20140921.1.440916e+dfsg1-13+deb9u3 amd64
-libwinpr-thread0.1/oldstable 1.1.0~git20140921.1.440916e+dfsg1-13+deb9u3 amd64
-libwinpr-timezone0.1/oldstable 1.1.0~git20140921.1.440916e+dfsg1-13+deb9u3 amd64
-libwinpr-utils0.1/oldstable 1.1.0~git20140921.1.440916e+dfsg1-13+deb9u3 amd64
-libwinpr-winhttp0.1/oldstable 1.1.0~git20140921.1.440916e+dfsg1-13+deb9u3 amd64
-libwinpr-winsock0.1/oldstable 1.1.0~git20140921.1.440916e+dfsg1-13+deb9u3 amd64
+libwinpr-asn1-0.1/oldstable 1.1.0~git20140921.1.440916e+dfsg1-13+deb9u4 amd64
+libwinpr-bcrypt0.1/oldstable 1.1.0~git20140921.1.440916e+dfsg1-13+deb9u4 amd64
+libwinpr-credentials0.1/oldstable 1.1.0~git20140921.1.440916e+dfsg1-13+deb9u4 amd64
+libwinpr-credui0.1/oldstable 1.1.0~git20140921.1.440916e+dfsg1-13+deb9u4 amd64
+libwinpr-crt0.1/oldstable 1.1.0~git20140921.1.440916e+dfsg1-13+deb9u4 amd64
+libwinpr-crypto0.1/oldstable 1.1.0~git20140921.1.440916e+dfsg1-13+deb9u4 amd64
+libwinpr-dbg/oldstable 1.1.0~git20140921.1.440916e+dfsg1-13+deb9u4 amd64
+libwinpr-dev/oldstable 1.1.0~git20140921.1.440916e+dfsg1-13+deb9u4 amd64
+libwinpr-dsparse0.1/oldstable 1.1.0~git20140921.1.440916e+dfsg1-13+deb9u4 amd64
+libwinpr-environment0.1/oldstable 1.1.0~git20140921.1.440916e+dfsg1-13+deb9u4 amd64
+libwinpr-error0.1/oldstable 1.1.0~git20140921.1.440916e+dfsg1-13+deb9u4 amd64
+libwinpr-file0.1/oldstable 1.1.0~git20140921.1.440916e+dfsg1-13+deb9u4 amd64
+libwinpr-handle0.1/oldstable 1.1.0~git20140921.1.440916e+dfsg1-13+deb9u4 amd64
+libwinpr-heap0.1/oldstable 1.1.0~git20140921.1.440916e+dfsg1-13+deb9u4 amd64
+libwinpr-input0.1/oldstable 1.1.0~git20140921.1.440916e+dfsg1-13+deb9u4 amd64
+libwinpr-interlocked0.1/oldstable 1.1.0~git20140921.1.440916e+dfsg1-13+deb9u4 amd64
+libwinpr-io0.1/oldstable 1.1.0~git20140921.1.440916e+dfsg1-13+deb9u4 amd64
+libwinpr-library0.1/oldstable 1.1.0~git20140921.1.440916e+dfsg1-13+deb9u4 amd64
+libwinpr-path0.1/oldstable 1.1.0~git20140921.1.440916e+dfsg1-13+deb9u4 amd64
+libwinpr-pipe0.1/oldstable 1.1.0~git20140921.1.440916e+dfsg1-13+deb9u4 amd64
+libwinpr-pool0.1/oldstable 1.1.0~git20140921.1.440916e+dfsg1-13+deb9u4 amd64
+libwinpr-registry0.1/oldstable 1.1.0~git20140921.1.440916e+dfsg1-13+deb9u4 amd64
+libwinpr-rpc0.1/oldstable 1.1.0~git20140921.1.440916e+dfsg1-13+deb9u4 amd64
+libwinpr-sspi0.1/oldstable 1.1.0~git20140921.1.440916e+dfsg1-13+deb9u4 amd64
+libwinpr-sspicli0.1/oldstable 1.1.0~git20140921.1.440916e+dfsg1-13+deb9u4 amd64
+libwinpr-synch0.1/oldstable 1.1.0~git20140921.1.440916e+dfsg1-13+deb9u4 amd64
+libwinpr-sysinfo0.1/oldstable 1.1.0~git20140921.1.440916e+dfsg1-13+deb9u4 amd64
+libwinpr-thread0.1/oldstable 1.1.0~git20140921.1.440916e+dfsg1-13+deb9u4 amd64
+libwinpr-timezone0.1/oldstable 1.1.0~git20140921.1.440916e+dfsg1-13+deb9u4 amd64
+libwinpr-utils0.1/oldstable 1.1.0~git20140921.1.440916e+dfsg1-13+deb9u4 amd64
+libwinpr-winhttp0.1/oldstable 1.1.0~git20140921.1.440916e+dfsg1-13+deb9u4 amd64
+libwinpr-winsock0.1/oldstable 1.1.0~git20140921.1.440916e+dfsg1-13+deb9u4 amd64
 libwiredtiger-dbg/oldstable 2.6.1+ds-1+b1 amd64
 libwiredtiger-dev/oldstable 2.6.1+ds-1+b1 amd64
 libwiredtiger-java/oldstable 2.6.1+ds-1 all
@@ -31447,8 +31447,8 @@ libxfont-dev/oldstable,oldstable 1:2.0.1-3+deb9u1 amd64
 libxfont1/oldstable 1:1.5.2-4 amd64
 libxfont1-dev/oldstable 1:1.5.2-4 amd64
 libxfont2/oldstable,oldstable 1:2.0.1-3+deb9u1 amd64
-libxfreerdp-client-dbg/oldstable 1.1.0~git20140921.1.440916e+dfsg1-13+deb9u3 amd64
-libxfreerdp-client1.1/oldstable 1.1.0~git20140921.1.440916e+dfsg1-13+deb9u3 amd64
+libxfreerdp-client-dbg/oldstable 1.1.0~git20140921.1.440916e+dfsg1-13+deb9u4 amd64
+libxfreerdp-client1.1/oldstable 1.1.0~git20140921.1.440916e+dfsg1-13+deb9u4 amd64
 libxft-dev/oldstable 2.3.2-1+b2 amd64
 libxft2/oldstable 2.3.2-1+b2 amd64
 libxft2-dbg/oldstable 2.3.2-1+b2 amd64
@@ -32723,7 +32723,7 @@ lvtk-tools/oldstable 1.2.0~dfsg0-2+b1 amd64
 lwatch/oldstable 0.6.2-1+b1 amd64
 lwatch-dbg/oldstable 0.6.2-1+b1 amd64
 lwm/oldstable 1.2.2-6 amd64
-lwresd/oldstable,oldstable 1:9.10.3.dfsg.P4-12.3+deb9u6 amd64
+lwresd/oldstable 1:9.10.3.dfsg.P4-12.3+deb9u7 amd64
 lx-gdb/oldstable 1.03-16+b2 amd64
 lxappearance/oldstable 0.6.3-1 amd64
 lxappearance-dbg/oldstable 0.6.3-1 amd64
@@ -36673,7 +36673,7 @@ php-gmp/oldstable 1:7.0+49 all
 php-gnupg/oldstable 1.4.0-1 amd64
 php-guestfs/oldstable 1:1.34.6-2 amd64
 php-hamcrest/oldstable 1.2.2-2 all
-php-horde/oldstable 5.2.13+debian0-1+deb9u2 all
+php-horde/oldstable 5.2.13+debian0-1+deb9u3 all
 php-horde-activesync/oldstable 2.37.4-1 all
 php-horde-alarm/oldstable 2.2.8-1 all
 php-horde-ansel/oldstable 3.0.5+debian0-1 all
@@ -36688,7 +36688,7 @@ php-horde-compress-fast/oldstable 1.1.1-3 all
 php-horde-constraint/oldstable 2.0.3-3 all
 php-horde-content/oldstable 2.0.5-3 all
 php-horde-controller/oldstable 2.0.4-3 all
-php-horde-core/oldstable 2.27.6+debian1-2 all
+php-horde-core/oldstable 2.27.6+debian1-2+deb9u1 all
 php-horde-crypt/oldstable 2.7.8-1 all
 php-horde-crypt-blowfish/oldstable 1.1.2-1 all
 php-horde-css-parser/oldstable 1.0.11-1 all
@@ -36703,7 +36703,7 @@ php-horde-elasticsearch/oldstable 1.0.3-5 all
 php-horde-exception/oldstable 2.0.8-2 all
 php-horde-feed/oldstable 2.0.4-3 all
 php-horde-form/oldstable 2.0.15-1+deb9u2 all
-php-horde-gollem/oldstable 3.0.10-1+deb9u1 all
+php-horde-gollem/oldstable 3.0.10-1+deb9u2 all
 php-horde-group/oldstable 2.1.1-2 all
 php-horde-groupware/oldstable 5.2.17-1 all
 php-horde-hashtable/oldstable 1.2.6-1 all
@@ -36723,7 +36723,7 @@ php-horde-kolab-format/oldstable 2.0.9-1 all
 php-horde-kolab-server/oldstable 2.0.5-3 all
 php-horde-kolab-session/oldstable 2.0.3-3 all
 php-horde-kolab-storage/oldstable 2.2.3-1 all
-php-horde-kronolith/oldstable 4.2.19-1 all
+php-horde-kronolith/oldstable 4.2.19-1+deb9u2 all
 php-horde-ldap/oldstable 2.3.2-3 all
 php-horde-listheaders/oldstable 1.2.4-2 all
 php-horde-lock/oldstable 2.1.4-1 all
