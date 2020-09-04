@@ -1326,7 +1326,7 @@ barrier/focal 2.3.2+dfsg-1build1 amd64
 barrnap/focal,focal 0.9+dfsg-1 all
 bart-view/focal 0.1.00-2 amd64
 bart/focal 0.5.00-1 amd64
-base-files/focal-updates 11ubuntu5.2 amd64 [upgradable from: 11ubuntu5.1]
+base-files/focal-updates,now 11ubuntu5.2 amd64 [installed]
 base-files/focal-updates 11ubuntu5.2 i386
 base-passwd/focal,now 3.5.47 amd64 [installed]
 base-passwd/focal 3.5.47 i386
@@ -3195,7 +3195,7 @@ comixcursors-lefthanded-opaque/focal,focal 0.9.1-1 all
 comixcursors-lefthanded/focal,focal 0.9.1-1 all
 comixcursors-righthanded-opaque/focal,focal 0.9.1-1 all
 comixcursors-righthanded/focal,focal 0.9.1-1 all
-command-not-found/focal-updates,focal-updates 20.04.4 all [upgradable from: 20.04.2]
+command-not-found/focal-updates,focal-updates,now 20.04.4 all [installed]
 commit-patch/focal,focal 2.6-2 all
 communitheme-snap-session/focal,focal 3.36.0-2ubuntu1 all
 comparepdf/focal 1.0.1-1.1build1 amd64
@@ -6407,104 +6407,104 @@ firebird3.0-server/focal 3.0.5.33220.ds4-1build2 amd64
 firebird3.0-server/focal 3.0.5.33220.ds4-1build2 i386
 firebird3.0-utils/focal 3.0.5.33220.ds4-1build2 amd64
 firebird3.0-utils/focal 3.0.5.33220.ds4-1build2 i386
-firefox-dbg/focal-updates,focal-security 80.0+build2-0ubuntu0.20.04.1 amd64
-firefox-dev/focal-updates,focal-security 80.0+build2-0ubuntu0.20.04.1 amd64
-firefox-geckodriver/focal-updates,focal-security 80.0+build2-0ubuntu0.20.04.1 amd64
+firefox-dbg/focal-updates,focal-security 80.0.1+build1-0ubuntu0.20.04.1 amd64
+firefox-dev/focal-updates,focal-security 80.0.1+build1-0ubuntu0.20.04.1 amd64
+firefox-geckodriver/focal-updates,focal-security 80.0.1+build1-0ubuntu0.20.04.1 amd64
 firefox-launchpad-plugin/focal,focal 0.5 all
-firefox-locale-af/focal-updates,focal-security 80.0+build2-0ubuntu0.20.04.1 amd64
-firefox-locale-an/focal-updates,focal-security 80.0+build2-0ubuntu0.20.04.1 amd64
-firefox-locale-ar/focal-updates,focal-security 80.0+build2-0ubuntu0.20.04.1 amd64
-firefox-locale-as/focal-updates,focal-security 80.0+build2-0ubuntu0.20.04.1 amd64
-firefox-locale-ast/focal-updates,focal-security 80.0+build2-0ubuntu0.20.04.1 amd64
-firefox-locale-az/focal-updates,focal-security 80.0+build2-0ubuntu0.20.04.1 amd64
-firefox-locale-be/focal-updates,focal-security 80.0+build2-0ubuntu0.20.04.1 amd64
-firefox-locale-bg/focal-updates,focal-security 80.0+build2-0ubuntu0.20.04.1 amd64
-firefox-locale-bn/focal-updates,focal-security 80.0+build2-0ubuntu0.20.04.1 amd64
-firefox-locale-br/focal-updates,focal-security 80.0+build2-0ubuntu0.20.04.1 amd64
-firefox-locale-bs/focal-updates,focal-security 80.0+build2-0ubuntu0.20.04.1 amd64
-firefox-locale-ca/focal-updates,focal-security 80.0+build2-0ubuntu0.20.04.1 amd64
-firefox-locale-cak/focal-updates,focal-security 80.0+build2-0ubuntu0.20.04.1 amd64
-firefox-locale-cs/focal-updates,focal-security 80.0+build2-0ubuntu0.20.04.1 amd64
-firefox-locale-csb/focal-updates,focal-security 80.0+build2-0ubuntu0.20.04.1 amd64
-firefox-locale-cy/focal-updates,focal-security 80.0+build2-0ubuntu0.20.04.1 amd64
-firefox-locale-da/focal-updates,focal-security 80.0+build2-0ubuntu0.20.04.1 amd64
-firefox-locale-de/focal-updates,focal-security 80.0+build2-0ubuntu0.20.04.1 amd64
-firefox-locale-el/focal-updates,focal-security 80.0+build2-0ubuntu0.20.04.1 amd64
-firefox-locale-en/focal-updates,focal-security 80.0+build2-0ubuntu0.20.04.1 amd64
-firefox-locale-eo/focal-updates,focal-security 80.0+build2-0ubuntu0.20.04.1 amd64
-firefox-locale-es/focal-updates,focal-security 80.0+build2-0ubuntu0.20.04.1 amd64
-firefox-locale-et/focal-updates,focal-security 80.0+build2-0ubuntu0.20.04.1 amd64
-firefox-locale-eu/focal-updates,focal-security 80.0+build2-0ubuntu0.20.04.1 amd64
-firefox-locale-fa/focal-updates,focal-security 80.0+build2-0ubuntu0.20.04.1 amd64
-firefox-locale-fi/focal-updates,focal-security 80.0+build2-0ubuntu0.20.04.1 amd64
-firefox-locale-fr/focal-updates,focal-security 80.0+build2-0ubuntu0.20.04.1 amd64
-firefox-locale-fy/focal-updates,focal-security 80.0+build2-0ubuntu0.20.04.1 amd64
-firefox-locale-ga/focal-updates,focal-security 80.0+build2-0ubuntu0.20.04.1 amd64
-firefox-locale-gd/focal-updates,focal-security 80.0+build2-0ubuntu0.20.04.1 amd64
-firefox-locale-gl/focal-updates,focal-security 80.0+build2-0ubuntu0.20.04.1 amd64
-firefox-locale-gn/focal-updates,focal-security 80.0+build2-0ubuntu0.20.04.1 amd64
-firefox-locale-gu/focal-updates,focal-security 80.0+build2-0ubuntu0.20.04.1 amd64
-firefox-locale-he/focal-updates,focal-security 80.0+build2-0ubuntu0.20.04.1 amd64
-firefox-locale-hi/focal-updates,focal-security 80.0+build2-0ubuntu0.20.04.1 amd64
-firefox-locale-hr/focal-updates,focal-security 80.0+build2-0ubuntu0.20.04.1 amd64
-firefox-locale-hsb/focal-updates,focal-security 80.0+build2-0ubuntu0.20.04.1 amd64
-firefox-locale-hu/focal-updates,focal-security 80.0+build2-0ubuntu0.20.04.1 amd64
-firefox-locale-hy/focal-updates,focal-security 80.0+build2-0ubuntu0.20.04.1 amd64
-firefox-locale-ia/focal-updates,focal-security 80.0+build2-0ubuntu0.20.04.1 amd64
-firefox-locale-id/focal-updates,focal-security 80.0+build2-0ubuntu0.20.04.1 amd64
-firefox-locale-is/focal-updates,focal-security 80.0+build2-0ubuntu0.20.04.1 amd64
-firefox-locale-it/focal-updates,focal-security 80.0+build2-0ubuntu0.20.04.1 amd64
-firefox-locale-ja/focal-updates,focal-security 80.0+build2-0ubuntu0.20.04.1 amd64
-firefox-locale-ka/focal-updates,focal-security 80.0+build2-0ubuntu0.20.04.1 amd64
-firefox-locale-kab/focal-updates,focal-security 80.0+build2-0ubuntu0.20.04.1 amd64
-firefox-locale-kk/focal-updates,focal-security 80.0+build2-0ubuntu0.20.04.1 amd64
-firefox-locale-km/focal-updates,focal-security 80.0+build2-0ubuntu0.20.04.1 amd64
-firefox-locale-kn/focal-updates,focal-security 80.0+build2-0ubuntu0.20.04.1 amd64
-firefox-locale-ko/focal-updates,focal-security 80.0+build2-0ubuntu0.20.04.1 amd64
-firefox-locale-ku/focal-updates,focal-security 80.0+build2-0ubuntu0.20.04.1 amd64
-firefox-locale-lg/focal-updates,focal-security 80.0+build2-0ubuntu0.20.04.1 amd64
-firefox-locale-lt/focal-updates,focal-security 80.0+build2-0ubuntu0.20.04.1 amd64
-firefox-locale-lv/focal-updates,focal-security 80.0+build2-0ubuntu0.20.04.1 amd64
-firefox-locale-mai/focal-updates,focal-security 80.0+build2-0ubuntu0.20.04.1 amd64
-firefox-locale-mk/focal-updates,focal-security 80.0+build2-0ubuntu0.20.04.1 amd64
-firefox-locale-ml/focal-updates,focal-security 80.0+build2-0ubuntu0.20.04.1 amd64
-firefox-locale-mn/focal-updates,focal-security 80.0+build2-0ubuntu0.20.04.1 amd64
-firefox-locale-mr/focal-updates,focal-security 80.0+build2-0ubuntu0.20.04.1 amd64
-firefox-locale-ms/focal-updates,focal-security 80.0+build2-0ubuntu0.20.04.1 amd64
-firefox-locale-my/focal-updates,focal-security 80.0+build2-0ubuntu0.20.04.1 amd64
-firefox-locale-nb/focal-updates,focal-security 80.0+build2-0ubuntu0.20.04.1 amd64
-firefox-locale-ne/focal-updates,focal-security 80.0+build2-0ubuntu0.20.04.1 amd64
-firefox-locale-nl/focal-updates,focal-security 80.0+build2-0ubuntu0.20.04.1 amd64
-firefox-locale-nn/focal-updates,focal-security 80.0+build2-0ubuntu0.20.04.1 amd64
-firefox-locale-nso/focal-updates,focal-security 80.0+build2-0ubuntu0.20.04.1 amd64
-firefox-locale-oc/focal-updates,focal-security 80.0+build2-0ubuntu0.20.04.1 amd64
-firefox-locale-or/focal-updates,focal-security 80.0+build2-0ubuntu0.20.04.1 amd64
-firefox-locale-pa/focal-updates,focal-security 80.0+build2-0ubuntu0.20.04.1 amd64
-firefox-locale-pl/focal-updates,focal-security 80.0+build2-0ubuntu0.20.04.1 amd64
-firefox-locale-pt/focal-updates,focal-security 80.0+build2-0ubuntu0.20.04.1 amd64
-firefox-locale-ro/focal-updates,focal-security 80.0+build2-0ubuntu0.20.04.1 amd64
-firefox-locale-ru/focal-updates,focal-security 80.0+build2-0ubuntu0.20.04.1 amd64
-firefox-locale-si/focal-updates,focal-security 80.0+build2-0ubuntu0.20.04.1 amd64
-firefox-locale-sk/focal-updates,focal-security 80.0+build2-0ubuntu0.20.04.1 amd64
-firefox-locale-sl/focal-updates,focal-security 80.0+build2-0ubuntu0.20.04.1 amd64
-firefox-locale-sq/focal-updates,focal-security 80.0+build2-0ubuntu0.20.04.1 amd64
-firefox-locale-sr/focal-updates,focal-security 80.0+build2-0ubuntu0.20.04.1 amd64
-firefox-locale-sv/focal-updates,focal-security 80.0+build2-0ubuntu0.20.04.1 amd64
-firefox-locale-sw/focal-updates,focal-security 80.0+build2-0ubuntu0.20.04.1 amd64
-firefox-locale-ta/focal-updates,focal-security 80.0+build2-0ubuntu0.20.04.1 amd64
-firefox-locale-te/focal-updates,focal-security 80.0+build2-0ubuntu0.20.04.1 amd64
-firefox-locale-th/focal-updates,focal-security 80.0+build2-0ubuntu0.20.04.1 amd64
-firefox-locale-tr/focal-updates,focal-security 80.0+build2-0ubuntu0.20.04.1 amd64
-firefox-locale-uk/focal-updates,focal-security 80.0+build2-0ubuntu0.20.04.1 amd64
-firefox-locale-ur/focal-updates,focal-security 80.0+build2-0ubuntu0.20.04.1 amd64
-firefox-locale-uz/focal-updates,focal-security 80.0+build2-0ubuntu0.20.04.1 amd64
-firefox-locale-vi/focal-updates,focal-security 80.0+build2-0ubuntu0.20.04.1 amd64
-firefox-locale-xh/focal-updates,focal-security 80.0+build2-0ubuntu0.20.04.1 amd64
-firefox-locale-zh-hans/focal-updates,focal-security 80.0+build2-0ubuntu0.20.04.1 amd64
-firefox-locale-zh-hant/focal-updates,focal-security 80.0+build2-0ubuntu0.20.04.1 amd64
-firefox-locale-zu/focal-updates,focal-security 80.0+build2-0ubuntu0.20.04.1 amd64
-firefox-mozsymbols/focal-updates,focal-security 80.0+build2-0ubuntu0.20.04.1 amd64
-firefox/focal-updates,focal-security 80.0+build2-0ubuntu0.20.04.1 amd64
+firefox-locale-af/focal-updates,focal-security 80.0.1+build1-0ubuntu0.20.04.1 amd64
+firefox-locale-an/focal-updates,focal-security 80.0.1+build1-0ubuntu0.20.04.1 amd64
+firefox-locale-ar/focal-updates,focal-security 80.0.1+build1-0ubuntu0.20.04.1 amd64
+firefox-locale-as/focal-updates,focal-security 80.0.1+build1-0ubuntu0.20.04.1 amd64
+firefox-locale-ast/focal-updates,focal-security 80.0.1+build1-0ubuntu0.20.04.1 amd64
+firefox-locale-az/focal-updates,focal-security 80.0.1+build1-0ubuntu0.20.04.1 amd64
+firefox-locale-be/focal-updates,focal-security 80.0.1+build1-0ubuntu0.20.04.1 amd64
+firefox-locale-bg/focal-updates,focal-security 80.0.1+build1-0ubuntu0.20.04.1 amd64
+firefox-locale-bn/focal-updates,focal-security 80.0.1+build1-0ubuntu0.20.04.1 amd64
+firefox-locale-br/focal-updates,focal-security 80.0.1+build1-0ubuntu0.20.04.1 amd64
+firefox-locale-bs/focal-updates,focal-security 80.0.1+build1-0ubuntu0.20.04.1 amd64
+firefox-locale-ca/focal-updates,focal-security 80.0.1+build1-0ubuntu0.20.04.1 amd64
+firefox-locale-cak/focal-updates,focal-security 80.0.1+build1-0ubuntu0.20.04.1 amd64
+firefox-locale-cs/focal-updates,focal-security 80.0.1+build1-0ubuntu0.20.04.1 amd64
+firefox-locale-csb/focal-updates,focal-security 80.0.1+build1-0ubuntu0.20.04.1 amd64
+firefox-locale-cy/focal-updates,focal-security 80.0.1+build1-0ubuntu0.20.04.1 amd64
+firefox-locale-da/focal-updates,focal-security 80.0.1+build1-0ubuntu0.20.04.1 amd64
+firefox-locale-de/focal-updates,focal-security 80.0.1+build1-0ubuntu0.20.04.1 amd64
+firefox-locale-el/focal-updates,focal-security 80.0.1+build1-0ubuntu0.20.04.1 amd64
+firefox-locale-en/focal-updates,focal-security 80.0.1+build1-0ubuntu0.20.04.1 amd64
+firefox-locale-eo/focal-updates,focal-security 80.0.1+build1-0ubuntu0.20.04.1 amd64
+firefox-locale-es/focal-updates,focal-security 80.0.1+build1-0ubuntu0.20.04.1 amd64
+firefox-locale-et/focal-updates,focal-security 80.0.1+build1-0ubuntu0.20.04.1 amd64
+firefox-locale-eu/focal-updates,focal-security 80.0.1+build1-0ubuntu0.20.04.1 amd64
+firefox-locale-fa/focal-updates,focal-security 80.0.1+build1-0ubuntu0.20.04.1 amd64
+firefox-locale-fi/focal-updates,focal-security 80.0.1+build1-0ubuntu0.20.04.1 amd64
+firefox-locale-fr/focal-updates,focal-security 80.0.1+build1-0ubuntu0.20.04.1 amd64
+firefox-locale-fy/focal-updates,focal-security 80.0.1+build1-0ubuntu0.20.04.1 amd64
+firefox-locale-ga/focal-updates,focal-security 80.0.1+build1-0ubuntu0.20.04.1 amd64
+firefox-locale-gd/focal-updates,focal-security 80.0.1+build1-0ubuntu0.20.04.1 amd64
+firefox-locale-gl/focal-updates,focal-security 80.0.1+build1-0ubuntu0.20.04.1 amd64
+firefox-locale-gn/focal-updates,focal-security 80.0.1+build1-0ubuntu0.20.04.1 amd64
+firefox-locale-gu/focal-updates,focal-security 80.0.1+build1-0ubuntu0.20.04.1 amd64
+firefox-locale-he/focal-updates,focal-security 80.0.1+build1-0ubuntu0.20.04.1 amd64
+firefox-locale-hi/focal-updates,focal-security 80.0.1+build1-0ubuntu0.20.04.1 amd64
+firefox-locale-hr/focal-updates,focal-security 80.0.1+build1-0ubuntu0.20.04.1 amd64
+firefox-locale-hsb/focal-updates,focal-security 80.0.1+build1-0ubuntu0.20.04.1 amd64
+firefox-locale-hu/focal-updates,focal-security 80.0.1+build1-0ubuntu0.20.04.1 amd64
+firefox-locale-hy/focal-updates,focal-security 80.0.1+build1-0ubuntu0.20.04.1 amd64
+firefox-locale-ia/focal-updates,focal-security 80.0.1+build1-0ubuntu0.20.04.1 amd64
+firefox-locale-id/focal-updates,focal-security 80.0.1+build1-0ubuntu0.20.04.1 amd64
+firefox-locale-is/focal-updates,focal-security 80.0.1+build1-0ubuntu0.20.04.1 amd64
+firefox-locale-it/focal-updates,focal-security 80.0.1+build1-0ubuntu0.20.04.1 amd64
+firefox-locale-ja/focal-updates,focal-security 80.0.1+build1-0ubuntu0.20.04.1 amd64
+firefox-locale-ka/focal-updates,focal-security 80.0.1+build1-0ubuntu0.20.04.1 amd64
+firefox-locale-kab/focal-updates,focal-security 80.0.1+build1-0ubuntu0.20.04.1 amd64
+firefox-locale-kk/focal-updates,focal-security 80.0.1+build1-0ubuntu0.20.04.1 amd64
+firefox-locale-km/focal-updates,focal-security 80.0.1+build1-0ubuntu0.20.04.1 amd64
+firefox-locale-kn/focal-updates,focal-security 80.0.1+build1-0ubuntu0.20.04.1 amd64
+firefox-locale-ko/focal-updates,focal-security 80.0.1+build1-0ubuntu0.20.04.1 amd64
+firefox-locale-ku/focal-updates,focal-security 80.0.1+build1-0ubuntu0.20.04.1 amd64
+firefox-locale-lg/focal-updates,focal-security 80.0.1+build1-0ubuntu0.20.04.1 amd64
+firefox-locale-lt/focal-updates,focal-security 80.0.1+build1-0ubuntu0.20.04.1 amd64
+firefox-locale-lv/focal-updates,focal-security 80.0.1+build1-0ubuntu0.20.04.1 amd64
+firefox-locale-mai/focal-updates,focal-security 80.0.1+build1-0ubuntu0.20.04.1 amd64
+firefox-locale-mk/focal-updates,focal-security 80.0.1+build1-0ubuntu0.20.04.1 amd64
+firefox-locale-ml/focal-updates,focal-security 80.0.1+build1-0ubuntu0.20.04.1 amd64
+firefox-locale-mn/focal-updates,focal-security 80.0.1+build1-0ubuntu0.20.04.1 amd64
+firefox-locale-mr/focal-updates,focal-security 80.0.1+build1-0ubuntu0.20.04.1 amd64
+firefox-locale-ms/focal-updates,focal-security 80.0.1+build1-0ubuntu0.20.04.1 amd64
+firefox-locale-my/focal-updates,focal-security 80.0.1+build1-0ubuntu0.20.04.1 amd64
+firefox-locale-nb/focal-updates,focal-security 80.0.1+build1-0ubuntu0.20.04.1 amd64
+firefox-locale-ne/focal-updates,focal-security 80.0.1+build1-0ubuntu0.20.04.1 amd64
+firefox-locale-nl/focal-updates,focal-security 80.0.1+build1-0ubuntu0.20.04.1 amd64
+firefox-locale-nn/focal-updates,focal-security 80.0.1+build1-0ubuntu0.20.04.1 amd64
+firefox-locale-nso/focal-updates,focal-security 80.0.1+build1-0ubuntu0.20.04.1 amd64
+firefox-locale-oc/focal-updates,focal-security 80.0.1+build1-0ubuntu0.20.04.1 amd64
+firefox-locale-or/focal-updates,focal-security 80.0.1+build1-0ubuntu0.20.04.1 amd64
+firefox-locale-pa/focal-updates,focal-security 80.0.1+build1-0ubuntu0.20.04.1 amd64
+firefox-locale-pl/focal-updates,focal-security 80.0.1+build1-0ubuntu0.20.04.1 amd64
+firefox-locale-pt/focal-updates,focal-security 80.0.1+build1-0ubuntu0.20.04.1 amd64
+firefox-locale-ro/focal-updates,focal-security 80.0.1+build1-0ubuntu0.20.04.1 amd64
+firefox-locale-ru/focal-updates,focal-security 80.0.1+build1-0ubuntu0.20.04.1 amd64
+firefox-locale-si/focal-updates,focal-security 80.0.1+build1-0ubuntu0.20.04.1 amd64
+firefox-locale-sk/focal-updates,focal-security 80.0.1+build1-0ubuntu0.20.04.1 amd64
+firefox-locale-sl/focal-updates,focal-security 80.0.1+build1-0ubuntu0.20.04.1 amd64
+firefox-locale-sq/focal-updates,focal-security 80.0.1+build1-0ubuntu0.20.04.1 amd64
+firefox-locale-sr/focal-updates,focal-security 80.0.1+build1-0ubuntu0.20.04.1 amd64
+firefox-locale-sv/focal-updates,focal-security 80.0.1+build1-0ubuntu0.20.04.1 amd64
+firefox-locale-sw/focal-updates,focal-security 80.0.1+build1-0ubuntu0.20.04.1 amd64
+firefox-locale-ta/focal-updates,focal-security 80.0.1+build1-0ubuntu0.20.04.1 amd64
+firefox-locale-te/focal-updates,focal-security 80.0.1+build1-0ubuntu0.20.04.1 amd64
+firefox-locale-th/focal-updates,focal-security 80.0.1+build1-0ubuntu0.20.04.1 amd64
+firefox-locale-tr/focal-updates,focal-security 80.0.1+build1-0ubuntu0.20.04.1 amd64
+firefox-locale-uk/focal-updates,focal-security 80.0.1+build1-0ubuntu0.20.04.1 amd64
+firefox-locale-ur/focal-updates,focal-security 80.0.1+build1-0ubuntu0.20.04.1 amd64
+firefox-locale-uz/focal-updates,focal-security 80.0.1+build1-0ubuntu0.20.04.1 amd64
+firefox-locale-vi/focal-updates,focal-security 80.0.1+build1-0ubuntu0.20.04.1 amd64
+firefox-locale-xh/focal-updates,focal-security 80.0.1+build1-0ubuntu0.20.04.1 amd64
+firefox-locale-zh-hans/focal-updates,focal-security 80.0.1+build1-0ubuntu0.20.04.1 amd64
+firefox-locale-zh-hant/focal-updates,focal-security 80.0.1+build1-0ubuntu0.20.04.1 amd64
+firefox-locale-zu/focal-updates,focal-security 80.0.1+build1-0ubuntu0.20.04.1 amd64
+firefox-mozsymbols/focal-updates,focal-security 80.0.1+build1-0ubuntu0.20.04.1 amd64
+firefox/focal-updates,focal-security 80.0.1+build1-0ubuntu0.20.04.1 amd64
 firefoxdriver/focal 3.14.1-1 amd64
 firehol-common/focal,focal 3.1.5+ds-1ubuntu1 all
 firehol-doc/focal,focal 3.1.5+ds-1ubuntu1 all
@@ -6748,7 +6748,7 @@ fonts-comfortaa/focal,focal 3.001-3 all
 fonts-comic-neue/focal,focal 2.4-2 all
 fonts-compagnon/focal,focal 0.2-2 all
 fonts-courier-prime/focal,focal 0+git20190115-3 all
-fonts-croscore/focal,focal 20200323-1 all
+fonts-croscore/focal-updates,focal-updates 20200323-1build1~ubuntu20.04.1 all
 fonts-crosextra-caladea/focal,focal 20130214-2 all
 fonts-crosextra-carlito/focal,focal 20130920-1 all
 fonts-cwtex-docs/focal,focal 1.0-3 all
@@ -6946,14 +6946,14 @@ fonts-navilu/focal,focal 1.2-2 all
 fonts-noto-cjk-extra/focal,focal 1:20190410+repack1-2 all
 fonts-noto-cjk/focal,focal 1:20190410+repack1-2 all
 fonts-noto-color-emoji/focal,focal 0~20200408-1 all
-fonts-noto-core/focal,focal 20200323-1 all
-fonts-noto-extra/focal,focal 20200323-1 all
-fonts-noto-hinted/focal,focal 20200323-1 all
-fonts-noto-mono/focal,focal 20200323-1 all
-fonts-noto-ui-core/focal,focal 20200323-1 all
-fonts-noto-ui-extra/focal,focal 20200323-1 all
-fonts-noto-unhinted/focal,focal 20200323-1 all
-fonts-noto/focal,focal 20200323-1 all
+fonts-noto-core/focal-updates,focal-updates 20200323-1build1~ubuntu20.04.1 all
+fonts-noto-extra/focal-updates,focal-updates 20200323-1build1~ubuntu20.04.1 all
+fonts-noto-hinted/focal-updates,focal-updates 20200323-1build1~ubuntu20.04.1 all
+fonts-noto-mono/focal-updates,focal-updates 20200323-1build1~ubuntu20.04.1 all
+fonts-noto-ui-core/focal-updates,focal-updates 20200323-1build1~ubuntu20.04.1 all
+fonts-noto-ui-extra/focal-updates,focal-updates 20200323-1build1~ubuntu20.04.1 all
+fonts-noto-unhinted/focal-updates,focal-updates 20200323-1build1~ubuntu20.04.1 all
+fonts-noto/focal-updates,focal-updates 20200323-1build1~ubuntu20.04.1 all
 fonts-ocr-a/focal,focal 1.0-10 all
 fonts-ocr-b/focal,focal 0.2~dfsg1-5 all
 fonts-octicons/focal,focal 4.4.0-2 all
@@ -42430,9 +42430,9 @@ libwxsqlite3-3.0-dev/focal 3.4.1~dfsg-5build1 amd64
 libwxsvg-dev/focal 2:1.5.21+dfsg.1-1build1 amd64
 libwxsvg-tools/focal 2:1.5.21+dfsg.1-1build1 amd64
 libwxsvg3/focal 2:1.5.21+dfsg.1-1build1 amd64
-libx11-6/focal-updates,focal-security 2:1.6.9-2ubuntu1.1 amd64 [upgradable from: 2:1.6.9-2ubuntu1]
+libx11-6/focal-updates,focal-security,now 2:1.6.9-2ubuntu1.1 amd64 [installed]
 libx11-6/focal-updates,focal-security 2:1.6.9-2ubuntu1.1 i386
-libx11-data/focal-updates,focal-updates,focal-security,focal-security 2:1.6.9-2ubuntu1.1 all [upgradable from: 2:1.6.9-2ubuntu1]
+libx11-data/focal-updates,focal-updates,focal-security,focal-security,now 2:1.6.9-2ubuntu1.1 all [installed]
 libx11-dev/focal-updates,focal-security 2:1.6.9-2ubuntu1.1 amd64
 libx11-dev/focal-updates,focal-security 2:1.6.9-2ubuntu1.1 i386
 libx11-doc/focal-updates,focal-updates,focal-security,focal-security 2:1.6.9-2ubuntu1.1 all
@@ -53633,7 +53633,7 @@ python3-colorspacious/focal,focal 1.1.2-2 all
 python3-colour/focal,focal 0.1.5-2 all
 python3-columbus/focal 1.1.0+15.10.20150806-0ubuntu21 amd64
 python3-comedilib/focal 0.11.0-1.1build2 amd64
-python3-commandnotfound/focal-updates,focal-updates 20.04.4 all [upgradable from: 20.04.2]
+python3-commandnotfound/focal-updates,focal-updates,now 20.04.4 all [installed]
 python3-commando/focal,focal 1.0.0-1 all
 python3-commonmark-bkrs/focal,focal 0.5.4+ds-4 all
 python3-compizconfig/focal 1:0.9.14.1+20.04.20200211-0ubuntu1 amd64
@@ -53799,7 +53799,7 @@ python3-distorm3/focal,focal 3.4.1-4 all
 python3-distributed/focal,focal 1.25.0+ds.1-1 all
 python3-distro-info/focal,focal,now 0.23ubuntu1 all [installed]
 python3-distro/focal,focal,now 1.4.0-1 all [installed]
-python3-distupgrade/focal-updates,focal-updates,now 1:20.04.24 all [installed]
+python3-distupgrade/focal-updates,focal-updates 1:20.04.25 all [upgradable from: 1:20.04.24]
 python3-distutils-extra/focal,focal 2.43 all
 python3-distutils/focal,focal 3.8.2-1ubuntu1 all
 python3-dj-database-url/focal,focal 0.5.0-2 all
@@ -63165,7 +63165,7 @@ ubuntu-mate-wallpapers-yakkety/focal,focal 20.04.2 all
 ubuntu-mate-wallpapers-zesty/focal,focal 20.04.2 all
 ubuntu-mate-wallpapers/focal,focal 20.04.2 all
 ubuntu-mate-welcome/focal,focal 18.10.0 all
-ubuntu-minimal/focal-updates 1.450.2 amd64 [upgradable from: 1.450.1]
+ubuntu-minimal/focal-updates,now 1.450.2 amd64 [installed]
 ubuntu-mobile-icons/focal,focal 19.04-0ubuntu3 all
 ubuntu-mono/focal,focal 19.04-0ubuntu3 all
 ubuntu-oem-keyring/focal,focal 2020.02.11.2 all
@@ -63193,9 +63193,9 @@ ubuntu-packaging-guide-pdf-uk/focal,focal 1.0.2 all
 ubuntu-packaging-guide-pdf/focal,focal 1.0.2 all
 ubuntu-packaging-guide/focal,focal 1.0.2 all
 ubuntu-policy/focal,focal 3.8.2.0ubuntu3 all
-ubuntu-release-upgrader-core/focal-updates,focal-updates,now 1:20.04.24 all [installed]
-ubuntu-release-upgrader-gtk/focal-updates,focal-updates 1:20.04.24 all
-ubuntu-release-upgrader-qt/focal-updates,focal-updates 1:20.04.24 all
+ubuntu-release-upgrader-core/focal-updates,focal-updates 1:20.04.25 all [upgradable from: 1:20.04.24]
+ubuntu-release-upgrader-gtk/focal-updates,focal-updates 1:20.04.25 all
+ubuntu-release-upgrader-qt/focal-updates,focal-updates 1:20.04.25 all
 ubuntu-report/focal 1.6.1 amd64
 ubuntu-restricted-addons/focal 26 amd64
 ubuntu-restricted-extras/focal 67 amd64
@@ -63206,7 +63206,7 @@ ubuntu-snappy-cli/focal-updates,focal-updates,focal-security,focal-security 2.45
 ubuntu-snappy/focal-updates,focal-updates,focal-security,focal-security 2.45.1+20.04.2 all
 ubuntu-software/focal-updates,focal-updates 3.36.1-0ubuntu0.20.04.0 all
 ubuntu-sounds/focal,focal 0.14 all
-ubuntu-standard/focal-updates 1.450.2 amd64 [upgradable from: 1.450.1]
+ubuntu-standard/focal-updates,now 1.450.2 amd64 [installed]
 ubuntu-system-service/focal,focal 0.7 all
 ubuntu-touch-settings/focal,focal 20.04.5 all
 ubuntu-touch-sounds/focal,focal 15.08 all
