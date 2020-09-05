@@ -748,7 +748,7 @@ aribas/stable 1.64-6 amd64
 ario-common/stable 1.6-1 all
 ario/stable 1.6-1 amd64
 arj/stable 3.10.22-18 amd64
-ark/stable 4:18.08.3-1+deb10u1 amd64
+ark/stable 4:18.08.3-1+deb10u2 amd64
 armagetronad-common/stable 0.2.8.3.4-2 all
 armagetronad-dedicated/stable 0.2.8.3.4-2 amd64
 armagetronad/stable 0.2.8.3.4-2 amd64
@@ -56059,8 +56059,8 @@ xdg-utils/stable 1.1.3-1+deb10u1 all
 xdiskusage/stable 1.48-10.1+b1 amd64
 xdm/stable 1:1.1.11-3 amd64
 xdms/stable 1.3.2-6+b1 amd64
-xdmx-tools/stable 2:1.20.4-1 amd64
-xdmx/stable 2:1.20.4-1 amd64
+xdmx-tools/stable 2:1.20.4-1+deb10u1 amd64
+xdmx/stable 2:1.20.4-1+deb10u1 amd64
 xdo/stable 0.5.2-1 amd64
 xdot/stable 1.0-1 all
 xdotool/stable 1:3.20160805.1-4 amd64
@@ -56398,7 +56398,7 @@ xnec2c/stable 1:4.1.1-1 amd64
 xnecview/stable 1.36-1 amd64
 xnee-doc/stable 3.19-3 all
 xnee/stable 3.19-3 all
-xnest/stable 2:1.20.4-1 amd64
+xnest/stable 2:1.20.4-1+deb10u1 amd64
 xneur/stable 0.20.0-2 amd64
 xonix/stable 1.4-32 amd64
 xonsh-doc/stable 0.8.10+dfsg-1 all
@@ -56406,7 +56406,7 @@ xonsh/stable 0.8.10+dfsg-1 all
 xorg-dev/stable 1:7.7+19 all
 xorg-docs-core/stable 1:1.7.1-1.1 all
 xorg-docs/stable 1:1.7.1-1.1 all
-xorg-server-source/stable 2:1.20.4-1 all
+xorg-server-source/stable 2:1.20.4-1+deb10u1 all
 xorg-sgml-doctools/stable 1:1.11-1 all
 xorg/stable 1:7.7+19 amd64
 xorgxrdp/stable 1:0.2.9-1 amd64
@@ -56472,10 +56472,10 @@ xsdcxx/stable 4.0.0-8 amd64
 xsddiagram/stable 1.0-1 all
 xsel/stable 1.2.0+git9bfc13d.20180109-1 amd64
 xsensors/stable 0.70-5 amd64
-xserver-common/stable 2:1.20.4-1 all
-xserver-xephyr/stable 2:1.20.4-1 amd64
-xserver-xorg-core/stable 2:1.20.4-1 amd64
-xserver-xorg-dev/stable 2:1.20.4-1 amd64
+xserver-common/stable 2:1.20.4-1+deb10u1 all
+xserver-xephyr/stable 2:1.20.4-1+deb10u1 amd64
+xserver-xorg-core/stable 2:1.20.4-1+deb10u1 amd64
+xserver-xorg-dev/stable 2:1.20.4-1+deb10u1 amd64
 xserver-xorg-input-aiptek/stable 1:1.4.1-2+b1 amd64
 xserver-xorg-input-all/stable 1:7.7+19 amd64
 xserver-xorg-input-elographics/stable 1:1.4.1-1+b5 amd64
@@ -56496,7 +56496,7 @@ xserver-xorg-input-synaptics/stable 1.9.1-1 amd64
 xserver-xorg-input-void/stable 1:1.4.1-1+b2 amd64
 xserver-xorg-input-wacom/stable 0.34.99.1-1 amd64
 xserver-xorg-input-xwiimote/stable 0.5-1+b2 amd64
-xserver-xorg-legacy/stable 2:1.20.4-1 amd64
+xserver-xorg-legacy/stable 2:1.20.4-1+deb10u1 amd64
 xserver-xorg-video-all/stable 1:7.7+19 amd64
 xserver-xorg-video-amdgpu/stable 18.1.99+git20190207-1 amd64
 xserver-xorg-video-ast/stable 1.1.5-1.1+b1 amd64
@@ -56571,7 +56571,7 @@ xul-ext-treestyletab/stable 2.7.23-1 all
 xul-ext-ublock-origin/stable 1.22.2+dfsg-1~deb10u1 all
 xutils-dev/stable 1:7.7+5+b1 amd64
 xutils/stable 1:7.7+19 all
-xvfb/stable 2:1.20.4-1 amd64
+xvfb/stable 2:1.20.4-1+deb10u1 amd64
 xvier/stable 1.0-7.6 amd64
 xvile/stable 9.8t-1 amd64
 xvkbd/stable 3.9-1 amd64
@@ -56579,7 +56579,7 @@ xvnc4viewer/stable 4.1.1+X4.3.0+t-1 amd64
 xwallpaper/stable 0.4.1-1 amd64
 xwatch/stable 2.11-15+b2 amd64
 xwax/stable 1.7-1 amd64
-xwayland/stable 2:1.20.4-1 amd64
+xwayland/stable 2:1.20.4-1+deb10u1 amd64
 xwelltris/stable 1.0.1-17 amd64
 xwiimote/stable 2-3+b4 amd64
 xwit/stable 3.4-16 amd64
