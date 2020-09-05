@@ -1555,7 +1555,6 @@ gnu-free-serif-fonts.noarch                            20120503-18.el8.0.1      
 gnuplot.x86_64                                         5.2.4-1.el8                                      AppStream       
 gnuplot-common.x86_64                                  5.2.4-1.el8                                      AppStream       
 gnutls.i686                                            3.6.14-6.el8                                     Stream-BaseOS   
-gnutls.x86_64                                          3.6.14-6.el8                                     Stream-BaseOS   
 gnutls-c++.i686                                        3.6.14-6.el8                                     Stream-AppStream
 gnutls-c++.x86_64                                      3.6.14-6.el8                                     Stream-AppStream
 gnutls-dane.i686                                       3.6.14-6.el8                                     Stream-AppStream
