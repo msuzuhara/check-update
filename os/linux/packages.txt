@@ -25188,8 +25188,8 @@ libnetsds-util-perl/oldstable 1.044-4 all
 libnetsvcs-6.3.3/oldstable 6.3.3+dfsg-1.2 amd64
 libnetsvcs-dev/oldstable 6.3.3+dfsg-1.2 amd64
 libnettle6/oldstable,now 3.3-1+b2 amd64 [installed]
-libnetty-3.9-java/oldstable 3.9.9.Final-1 all
-libnetty-java/oldstable,oldstable 1:4.1.7-2+deb9u1 all
+libnetty-3.9-java/oldstable 3.9.9.Final-1+deb9u1 all
+libnetty-java/oldstable 1:4.1.7-2+deb9u2 all
 libnetty-tcnative-java/oldstable 1.1.33.Fork26-1 all
 libnetty-tcnative-jni/oldstable 1.1.33.Fork26-1 amd64
 libnetwork-ipv4addr-perl/oldstable 0.10.ds-2 all
@@ -46839,16 +46839,16 @@ squeak-plugins-scratch-dbg/oldstable 1.4.0.2~svn.r83-2.1 amd64
 squeak-vm/oldstable 1:4.10.2.2614-4.1 amd64
 squeezelite/oldstable 1.8-4 amd64
 squeezelite-pa/oldstable 1.8-4 amd64
-squid/oldstable 3.5.23-5+deb9u3 amd64
-squid-cgi/oldstable 3.5.23-5+deb9u3 amd64
-squid-common/oldstable 3.5.23-5+deb9u3 all
-squid-dbg/oldstable 3.5.23-5+deb9u3 amd64
+squid/oldstable 3.5.23-5+deb9u4 amd64
+squid-cgi/oldstable 3.5.23-5+deb9u4 amd64
+squid-common/oldstable 3.5.23-5+deb9u4 all
+squid-dbg/oldstable 3.5.23-5+deb9u4 amd64
 squid-deb-proxy/oldstable 0.8.14 all
 squid-deb-proxy-client/oldstable 0.8.14 all
 squid-langpack/oldstable 20150704-1 all
-squid-purge/oldstable 3.5.23-5+deb9u3 amd64
-squid3/oldstable 3.5.23-5+deb9u3 all
-squidclient/oldstable 3.5.23-5+deb9u3 amd64
+squid-purge/oldstable 3.5.23-5+deb9u4 amd64
+squid3/oldstable 3.5.23-5+deb9u4 all
+squidclient/oldstable 3.5.23-5+deb9u4 amd64
 squidguard/oldstable 1.5-5 amd64
 squidguard-doc/oldstable 1.5-5 all
 squidtaild/oldstable 2.1a6-6 all
