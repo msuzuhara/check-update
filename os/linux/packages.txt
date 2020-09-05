@@ -53799,7 +53799,7 @@ python3-distorm3/focal,focal 3.4.1-4 all
 python3-distributed/focal,focal 1.25.0+ds.1-1 all
 python3-distro-info/focal,focal,now 0.23ubuntu1 all [installed]
 python3-distro/focal,focal,now 1.4.0-1 all [installed]
-python3-distupgrade/focal-updates,focal-updates 1:20.04.25 all [upgradable from: 1:20.04.24]
+python3-distupgrade/focal-updates,focal-updates,now 1:20.04.25 all [installed]
 python3-distutils-extra/focal,focal 2.43 all
 python3-distutils/focal,focal 3.8.2-1ubuntu1 all
 python3-dj-database-url/focal,focal 0.5.0-2 all
@@ -63193,7 +63193,7 @@ ubuntu-packaging-guide-pdf-uk/focal,focal 1.0.2 all
 ubuntu-packaging-guide-pdf/focal,focal 1.0.2 all
 ubuntu-packaging-guide/focal,focal 1.0.2 all
 ubuntu-policy/focal,focal 3.8.2.0ubuntu3 all
-ubuntu-release-upgrader-core/focal-updates,focal-updates 1:20.04.25 all [upgradable from: 1:20.04.24]
+ubuntu-release-upgrader-core/focal-updates,focal-updates,now 1:20.04.25 all [installed]
 ubuntu-release-upgrader-gtk/focal-updates,focal-updates 1:20.04.25 all
 ubuntu-release-upgrader-qt/focal-updates,focal-updates 1:20.04.25 all
 ubuntu-report/focal 1.6.1 amd64
