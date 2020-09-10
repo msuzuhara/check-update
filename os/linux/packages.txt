@@ -62925,7 +62925,7 @@ smalt/bionic 0.7.6-7 amd64
 smalt-examples/bionic 0.7.6-7 all
 smart-notifier/bionic 0.28-5 all
 smartlist/bionic 3.15-25build1 amd64
-smartmontools/bionic 6.5+svn4324-1 amd64
+smartmontools/bionic-updates 6.5+svn4324-1ubuntu0.1 amd64
 smartpm/bionic 1.4-2 all
 smartpm-core/bionic 1.4-2 amd64
 smartshine/bionic 0.36-0ubuntu4 all
