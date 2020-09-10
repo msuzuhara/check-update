@@ -469,7 +469,7 @@ centos-logos.x86_64                                    80.5-2.el8               
 centos-logos-httpd.noarch                              80.5-2.el8                                       BaseOS          
 centos-logos-ipa.noarch                                80.5-2.el8                                       AppStream       
 centos-obsolete-packages.noarch                        8-4                                              BaseOS          
-centos-release-advanced-virtualization.noarch          1.0-1.el8                                        extras          
+centos-release-advanced-virtualization.noarch          1.0-2.el8                                        extras          
 centos-release-ansible-29.noarch                       1-2.el8                                          extras          
 centos-release-ceph-nautilus.noarch                    1.2-2.el8                                        extras          
 centos-release-ceph-octopus.noarch                     1.0-1.el8                                        extras          
@@ -482,6 +482,7 @@ centos-release-nfs-ganesha30.noarch                    1.0-2.el8                
 centos-release-openstack-train.noarch                  2-1.el8                                          extras          
 centos-release-openstack-ussuri.noarch                 1-3.el8                                          extras          
 centos-release-opstools.noarch                         1-10.el8                                         extras          
+centos-release-ovirt44.noarch                          1.0-1.el8                                        extras          
 centos-release-qpid-proton.noarch                      1-2.el8                                          extras          
 centos-release-rabbitmq-38.noarch                      1-2.el8                                          extras          
 centos-release-samba411.noarch                         1.0-1.el8                                        extras          
