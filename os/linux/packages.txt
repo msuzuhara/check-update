@@ -9438,7 +9438,7 @@ grub2/oldstable 2.02~beta3-5+deb9u2 amd64
 grub2-common/oldstable,now 2.02~beta3-5+deb9u2 amd64 [installed,automatic]
 grub2-splashimages/oldstable 1.0.1+nmu1 all
 grun/oldstable 0.9.3-2+b1 amd64
-grunt/oldstable 1.0.1-5 all
+grunt/oldstable 1.0.1-5+deb9u1 all
 gsalliere/oldstable 0.10-2 all
 gsasl/oldstable 1.8.0-8+b2 amd64
 gsasl-dbg/oldstable 1.8.0-8+b2 amd64
@@ -31613,12 +31613,12 @@ libxml-xpathengine-perl/oldstable 0.13-1 all
 libxml-xql-perl/oldstable 0.68-6 all
 libxml-xslt-perl/oldstable 0.48-4 all
 libxml-xupdate-libxml-perl/oldstable 0.6.0-3 all
-libxml2/oldstable,oldstable,now 2.9.4+dfsg1-2.2+deb9u2 amd64 [installed,automatic]
-libxml2-dbg/oldstable,oldstable 2.9.4+dfsg1-2.2+deb9u2 amd64
-libxml2-dev/oldstable,oldstable 2.9.4+dfsg1-2.2+deb9u2 amd64
-libxml2-doc/oldstable,oldstable 2.9.4+dfsg1-2.2+deb9u2 all
-libxml2-utils/oldstable,oldstable 2.9.4+dfsg1-2.2+deb9u2 amd64
-libxml2-utils-dbg/oldstable,oldstable 2.9.4+dfsg1-2.2+deb9u2 amd64
+libxml2/oldstable 2.9.4+dfsg1-2.2+deb9u3 amd64 [upgradable from: 2.9.4+dfsg1-2.2+deb9u2]
+libxml2-dbg/oldstable 2.9.4+dfsg1-2.2+deb9u3 amd64
+libxml2-dev/oldstable 2.9.4+dfsg1-2.2+deb9u3 amd64
+libxml2-doc/oldstable 2.9.4+dfsg1-2.2+deb9u3 all
+libxml2-utils/oldstable 2.9.4+dfsg1-2.2+deb9u3 amd64
+libxml2-utils-dbg/oldstable 2.9.4+dfsg1-2.2+deb9u3 amd64
 libxmlada-doc/oldstable 4.5.2015-8 all
 libxmlada-dom4.5.2015/oldstable 4.5.2015-8+b2 amd64
 libxmlada-dom6-dev/oldstable 4.5.2015-8+b2 amd64
@@ -39504,8 +39504,8 @@ python-libvoikko/oldstable 4.1-1 all
 python-libvshadow/oldstable 20161111-2 amd64
 python-libvslvm/oldstable 20160110-2+b1 amd64
 python-libwfut-0.2/oldstable 0.2.3-4 amd64
-python-libxml2/oldstable,oldstable 2.9.4+dfsg1-2.2+deb9u2 amd64
-python-libxml2-dbg/oldstable,oldstable 2.9.4+dfsg1-2.2+deb9u2 amd64
+python-libxml2/oldstable 2.9.4+dfsg1-2.2+deb9u3 amd64
+python-libxml2-dbg/oldstable 2.9.4+dfsg1-2.2+deb9u3 amd64
 python-libxmp/oldstable 2.0.1+git20140309.5437b0a-4 all
 python-libxmp-doc/oldstable 2.0.1+git20140309.5437b0a-4 all
 python-libxslt1/oldstable 1.1.29-2.1+deb9u2 amd64
@@ -42207,8 +42207,8 @@ python3-libvmdk/oldstable 20160119-3+b1 amd64
 python3-libvoikko/oldstable 4.1-1 all
 python3-libvshadow/oldstable 20161111-2 amd64
 python3-libvslvm/oldstable 20160110-2+b1 amd64
-python3-libxml2/oldstable,oldstable 2.9.4+dfsg1-2.2+deb9u2 amd64
-python3-libxml2-dbg/oldstable,oldstable 2.9.4+dfsg1-2.2+deb9u2 amd64
+python3-libxml2/oldstable 2.9.4+dfsg1-2.2+deb9u3 amd64
+python3-libxml2-dbg/oldstable 2.9.4+dfsg1-2.2+deb9u3 amd64
 python3-libxmp/oldstable 2.0.1+git20140309.5437b0a-4 all
 python3-linecache2/oldstable 1.0.0-3 all
 python3-link-grammar/oldstable 5.3.14-1 amd64
