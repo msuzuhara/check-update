@@ -55111,7 +55111,7 @@ smalt/xenial 0.7.6-4 amd64
 smalt-examples/xenial,xenial 0.7.6-4 all
 smart-notifier/xenial,xenial 0.28-5 all
 smartlist/xenial 3.15-25 amd64
-smartmontools/xenial 6.4+svn4214-1 amd64
+smartmontools/xenial-updates 6.4+svn4214-1ubuntu0.1 amd64
 smartpm/xenial,xenial 1.4-2 all
 smartpm-core/xenial 1.4-2 amd64
 smartshine/xenial-updates,xenial-updates 0.36-0ubuntu2.16.04.1 all
