@@ -11003,9 +11003,9 @@ gnustep-icons/focal,focal 1.0-7 all
 gnustep-make-doc/focal,focal 2.7.0-4 all
 gnustep-make/focal,focal 2.7.0-4 all
 gnustep/focal,focal 7.10 all
-gnutls-bin/focal-updates 3.6.13-2ubuntu1.2 amd64
-gnutls-bin/focal-updates 3.6.13-2ubuntu1.2 i386
-gnutls-doc/focal-updates,focal-updates 3.6.13-2ubuntu1.2 all
+gnutls-bin/focal-updates,focal-security 3.6.13-2ubuntu1.3 amd64
+gnutls-bin/focal-updates,focal-security 3.6.13-2ubuntu1.3 i386
+gnutls-doc/focal-updates,focal-updates,focal-security,focal-security 3.6.13-2ubuntu1.3 all
 go-bindata/focal 3.0.7+git20151023.72.a0ff256-3 amd64
 go-cve-dictionary/focal 0.3.1-1 amd64
 go-dep/focal 0.5.4-3 amd64
@@ -13478,8 +13478,8 @@ guile-git/focal 0.3.0-2 amd64
 guile-gnome2-dev/focal 2.16.5-2build2 amd64
 guile-gnome2-glib/focal 2.16.5-2build2 amd64
 guile-gnome2-gtk/focal 2.16.5-2build2 amd64
-guile-gnutls/focal-updates 3.6.13-2ubuntu1.2 amd64
-guile-gnutls/focal-updates 3.6.13-2ubuntu1.2 i386
+guile-gnutls/focal-updates,focal-security 3.6.13-2ubuntu1.3 amd64
+guile-gnutls/focal-updates,focal-security 3.6.13-2ubuntu1.3 i386
 guile-json/focal 3.2.0-1 amd64
 guile-library/focal 0.2.6.1-1 amd64
 guile-sqlite3/focal 0.1.0-2 amd64
@@ -16209,7 +16209,7 @@ language-pack-zh-hans-base/focal-updates,focal-updates 1:20.04+20200709 all
 language-pack-zh-hans/focal-updates,focal-updates 1:20.04+20200709 all
 language-pack-zh-hant-base/focal-updates,focal-updates 1:20.04+20200709 all
 language-pack-zh-hant/focal-updates,focal-updates 1:20.04+20200709 all
-language-selector-common/focal-updates,focal-updates 0.204.1 all [upgradable from: 0.204]
+language-selector-common/focal-updates,focal-updates,now 0.204.1 all [installed]
 language-selector-gnome/focal-updates,focal-updates 0.204.1 all
 laptop-detect/focal,focal,now 0.16 all [installed,automatic]
 laptop-mode-tools/focal,focal 1.73.1-2ubuntu1 all
@@ -27271,16 +27271,16 @@ libgnustep-dl2-0d/focal 0.12.0-15.1build4 amd64
 libgnustep-dl2-dev/focal 0.12.0-15.1build4 amd64
 libgnustep-gui-dev/focal 0.27.0-5build2 amd64
 libgnustep-gui0.27/focal 0.27.0-5build2 amd64
-libgnutls-dane0/focal-updates 3.6.13-2ubuntu1.2 amd64
-libgnutls-dane0/focal-updates 3.6.13-2ubuntu1.2 i386
-libgnutls-openssl27/focal-updates 3.6.13-2ubuntu1.2 amd64
-libgnutls-openssl27/focal-updates 3.6.13-2ubuntu1.2 i386
-libgnutls28-dev/focal-updates 3.6.13-2ubuntu1.2 amd64
-libgnutls28-dev/focal-updates 3.6.13-2ubuntu1.2 i386
-libgnutls30/focal-updates,now 3.6.13-2ubuntu1.2 amd64 [installed]
-libgnutls30/focal-updates 3.6.13-2ubuntu1.2 i386
-libgnutlsxx28/focal-updates 3.6.13-2ubuntu1.2 amd64
-libgnutlsxx28/focal-updates 3.6.13-2ubuntu1.2 i386
+libgnutls-dane0/focal-updates,focal-security 3.6.13-2ubuntu1.3 amd64
+libgnutls-dane0/focal-updates,focal-security 3.6.13-2ubuntu1.3 i386
+libgnutls-openssl27/focal-updates,focal-security 3.6.13-2ubuntu1.3 amd64
+libgnutls-openssl27/focal-updates,focal-security 3.6.13-2ubuntu1.3 i386
+libgnutls28-dev/focal-updates,focal-security 3.6.13-2ubuntu1.3 amd64
+libgnutls28-dev/focal-updates,focal-security 3.6.13-2ubuntu1.3 i386
+libgnutls30/focal-updates,focal-security 3.6.13-2ubuntu1.3 amd64 [upgradable from: 3.6.13-2ubuntu1.2]
+libgnutls30/focal-updates,focal-security 3.6.13-2ubuntu1.3 i386
+libgnutlsxx28/focal-updates,focal-security 3.6.13-2ubuntu1.3 amd64
+libgnutlsxx28/focal-updates,focal-security 3.6.13-2ubuntu1.3 i386
 libgo-10-dev-alpha-cross/focal,focal 10-20200411-0ubuntu1cross1 all
 libgo-10-dev-amd64-cross/focal,focal 10-20200411-0ubuntu1cross1 all
 libgo-10-dev-arm64-cross/focal,focal 10-20200411-0ubuntu1cross1 all
@@ -49310,7 +49310,6 @@ oem-somerville-meera-tgl-meta/focal-updates,focal-updates 20.04~ubuntu1 all
 oem-somerville-melisa-meta/focal-updates,focal-updates 20.04~ubuntu3 all
 oem-somerville-samwell-tgl-meta/focal-updates,focal-updates 20.04~ubuntu1 all
 oem-somerville-three-eyed-raven-meta/focal,focal 20.04~ubuntu2 all
-oem-stella.cmit-abra-meta/focal-updates,focal-updates 20.04~ubuntu2 all
 oem-stella.cmit-charizard-meta/focal-updates,focal-updates 20.04~ubuntu1 all
 oem-sutton.bachman-banaing-meta/focal-updates,focal-updates 20.04~ubuntu1 all
 oem-sutton.newell-ace-meta/focal-updates,focal-updates 20.04~ubuntu1 all
