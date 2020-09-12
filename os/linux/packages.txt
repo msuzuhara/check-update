@@ -49780,12 +49780,12 @@ wordnet-grind/oldstable 1:3.0-33+b1 amd64
 wordnet-gui/oldstable 1:3.0-33+b1 amd64
 wordnet-sense-index/oldstable 1:3.0-33 all
 wordplay/oldstable 7.22-18 amd64
-wordpress/oldstable,oldstable 4.7.5+dfsg-2+deb9u6 all
-wordpress-l10n/oldstable,oldstable 4.7.5+dfsg-2+deb9u6 all
+wordpress/oldstable 4.7.18+dfsg-1+deb9u1 all
+wordpress-l10n/oldstable 4.7.18+dfsg-1+deb9u1 all
 wordpress-shibboleth/oldstable,oldstable 1.4-2+deb9u1 all
-wordpress-theme-twentyfifteen/oldstable,oldstable 4.7.5+dfsg-2+deb9u6 all
-wordpress-theme-twentyseventeen/oldstable,oldstable 4.7.5+dfsg-2+deb9u6 all
-wordpress-theme-twentysixteen/oldstable,oldstable 4.7.5+dfsg-2+deb9u6 all
+wordpress-theme-twentyfifteen/oldstable 4.7.18+dfsg-1+deb9u1 all
+wordpress-theme-twentyseventeen/oldstable 4.7.18+dfsg-1+deb9u1 all
+wordpress-theme-twentysixteen/oldstable 4.7.18+dfsg-1+deb9u1 all
 wordpress-xrds-simple/oldstable 1.2-1 all
 wordwarvi/oldstable 1.00+dfsg1-3+b1 amd64
 wordwarvi-sound/oldstable 1.00+dfsg1-3 all
