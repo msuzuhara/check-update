@@ -27063,16 +27063,16 @@ libprotocol-osc-perl/oldstable 0.07-1 all
 libprotozero-dev/oldstable 1.5.1-1+deb9u1 amd64
 libprotozero-doc/oldstable 1.5.1-1+deb9u1 all
 libproxool-java/oldstable 0.9.1-9 all
-libproxy-cil-dev/oldstable 0.4.14-2 all
-libproxy-dev/oldstable 0.4.14-2 amd64
-libproxy-tools/oldstable 0.4.14-2 amd64
-libproxy0.4-cil/oldstable 0.4.14-2 all
-libproxy1-plugin-gsettings/oldstable 0.4.14-2 amd64
-libproxy1-plugin-kconfig/oldstable 0.4.14-2 amd64
-libproxy1-plugin-mozjs/oldstable 0.4.14-2 amd64
-libproxy1-plugin-networkmanager/oldstable 0.4.14-2 amd64
-libproxy1-plugin-webkit/oldstable 0.4.14-2 amd64
-libproxy1v5/oldstable 0.4.14-2 amd64
+libproxy-cil-dev/oldstable 0.4.14-2+deb9u1 all
+libproxy-dev/oldstable 0.4.14-2+deb9u1 amd64
+libproxy-tools/oldstable 0.4.14-2+deb9u1 amd64
+libproxy0.4-cil/oldstable 0.4.14-2+deb9u1 all
+libproxy1-plugin-gsettings/oldstable 0.4.14-2+deb9u1 amd64
+libproxy1-plugin-kconfig/oldstable 0.4.14-2+deb9u1 amd64
+libproxy1-plugin-mozjs/oldstable 0.4.14-2+deb9u1 amd64
+libproxy1-plugin-networkmanager/oldstable 0.4.14-2+deb9u1 amd64
+libproxy1-plugin-webkit/oldstable 0.4.14-2+deb9u1 amd64
+libproxy1v5/oldstable 0.4.14-2+deb9u1 amd64
 libproxychains-dev/oldstable 3.1-7 amd64
 libproxychains3/oldstable 3.1-7 amd64
 libprpc-perl/oldstable 0.1005-21 all
@@ -39473,7 +39473,7 @@ python-libnacl/oldstable 1.5.0-1 all
 python-libolecf/oldstable 20161113-1 amd64
 python-libpcap/oldstable 0.6.4-1 amd64
 python-libpfm4/oldstable 4.8.0+git16-g8385268-1 amd64
-python-libproxy/oldstable 0.4.14-2 all
+python-libproxy/oldstable 0.4.14-2+deb9u1 all
 python-libqcow/oldstable 20160123-2+b2 amd64
 python-libravatar/oldstable 1.7-2 all
 python-librdf/oldstable 1.0.17.1+dfsg-1.3+b1 amd64
@@ -40069,8 +40069,8 @@ python-pil.imagetk-dbg/oldstable 4.0.0-4+deb9u2 amd64
 python-pilkit/oldstable 1.1.13+dfsg-2 all
 python-pint/oldstable 0.7.2-3 all
 python-pint-doc/oldstable 0.7.2-3 all
-python-pip/oldstable 9.0.1-2+deb9u1 all
-python-pip-whl/oldstable 9.0.1-2+deb9u1 all
+python-pip/oldstable 9.0.1-2+deb9u2 all
+python-pip-whl/oldstable 9.0.1-2+deb9u2 all
 python-pisock/oldstable 0.12.5-dfsg-2+b3 amd64
 python-pisock-dbg/oldstable 0.12.5-dfsg-2+b3 amd64
 python-pivy/oldstable 0.5.0~v609hg-3.1 amd64
@@ -42185,7 +42185,7 @@ python3-liblo/oldstable 0.10.0-3 amd64
 python3-libmsiecf/oldstable 20170116-1 amd64
 python3-libnacl/oldstable 1.5.0-1 all
 python3-libolecf/oldstable 20161113-1 amd64
-python3-libproxy/oldstable 0.4.14-2 all
+python3-libproxy/oldstable 0.4.14-2+deb9u1 all
 python3-libqcow/oldstable 20160123-2+b2 amd64
 python3-libravatar/oldstable 1.7-2 all
 python3-libregf/oldstable 20160424-1 amd64
@@ -42480,7 +42480,7 @@ python3-pil.imagetk/oldstable 4.0.0-4+deb9u2 amd64
 python3-pil.imagetk-dbg/oldstable 4.0.0-4+deb9u2 amd64
 python3-pilkit/oldstable 1.1.13+dfsg-2 all
 python3-pint/oldstable 0.7.2-3 all
-python3-pip/oldstable 9.0.1-2+deb9u1 all
+python3-pip/oldstable 9.0.1-2+deb9u2 all
 python3-pkg-resources/oldstable,now 33.1.1-1 all [installed,automatic]
 python3-pkgconfig/oldstable 1.2.2-1 all
 python3-pkginfo/oldstable 1.2.1-1 all
