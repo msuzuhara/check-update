@@ -20935,13 +20935,13 @@ libfreehep-io-java/bionic 2.0.2-6 all
 libfreehep-swing-java/bionic 2.0.3-5 all
 libfreehep-util-java/bionic 2.0.2-7 all
 libfreehep-xml-java/bionic 2.1.2+dfsg1-5 all
-libfreeimage-dev/bionic 3.17.0+ds1-5build2 amd64
-libfreeimage3/bionic 3.17.0+ds1-5build2 amd64
-libfreeimage3-dbg/bionic 3.17.0+ds1-5build2 amd64
-libfreeimageplus-dev/bionic 3.17.0+ds1-5build2 amd64
-libfreeimageplus-doc/bionic 3.17.0+ds1-5build2 all
-libfreeimageplus3/bionic 3.17.0+ds1-5build2 amd64
-libfreeimageplus3-dbg/bionic 3.17.0+ds1-5build2 amd64
+libfreeimage-dev/bionic-updates,bionic-security 3.17.0+ds1-5+deb9u1build0.18.04.1 amd64
+libfreeimage3/bionic-updates,bionic-security 3.17.0+ds1-5+deb9u1build0.18.04.1 amd64
+libfreeimage3-dbg/bionic-updates,bionic-security 3.17.0+ds1-5+deb9u1build0.18.04.1 amd64
+libfreeimageplus-dev/bionic-updates,bionic-security 3.17.0+ds1-5+deb9u1build0.18.04.1 amd64
+libfreeimageplus-doc/bionic-updates,bionic-security 3.17.0+ds1-5+deb9u1build0.18.04.1 all
+libfreeimageplus3/bionic-updates,bionic-security 3.17.0+ds1-5+deb9u1build0.18.04.1 amd64
+libfreeimageplus3-dbg/bionic-updates,bionic-security 3.17.0+ds1-5+deb9u1build0.18.04.1 amd64
 libfreeipmi-dev/bionic-updates 1.4.11-1.1ubuntu4.1 amd64
 libfreeipmi16/bionic-updates 1.4.11-1.1ubuntu4.1 amd64
 libfreemarker-java/bionic 2.3.23-8 all
@@ -28975,8 +28975,8 @@ liblog4cxx-doc/bionic 0.10.0-13ubuntu2 all
 liblog4cxx10v5/bionic 0.10.0-13ubuntu2 amd64
 liblog4j-extras1.2-java/bionic 1.2.17-2 all
 liblog4j-extras1.2-java-doc/bionic 1.2.17-2 all
-liblog4j1.2-java/bionic 1.2.17-8 all
-liblog4j1.2-java-doc/bionic 1.2.17-8 all
+liblog4j1.2-java/bionic-updates,bionic-security 1.2.17-8+deb10u1build0.18.04.1 all
+liblog4j1.2-java-doc/bionic-updates,bionic-security 1.2.17-8+deb10u1build0.18.04.1 all
 liblog4j2-java/bionic 2.10.0-2 all
 liblog4j2-java-doc/bionic 2.10.0-2 all
 liblog4net-cil-dev/bionic 1.2.10+dfsg-7 all
@@ -30972,7 +30972,7 @@ libnetsds-util-perl/bionic 1.044-4 all
 libnetsvcs-6.4.5/bionic 6.4.5+dfsg-1build2 amd64
 libnetsvcs-dev/bionic 6.4.5+dfsg-1build2 amd64
 libnettle6/bionic,now 3.4-1 amd64 [installed,automatic]
-libnetty-3.9-java/bionic 3.9.9.Final-1 all
+libnetty-3.9-java/bionic-updates,bionic-security 3.9.9.Final-1+deb9u1build0.18.04.1 all
 libnetty-java/bionic 1:4.1.7-4 all
 libnetty-tcnative-1.1-java/bionic 1.1.33.Fork26-2build1 all
 libnetty-tcnative-1.1-jni/bionic 1.1.33.Fork26-2build1 amd64
@@ -32613,7 +32613,7 @@ libphp-jabber/bionic 0.4.3-5 all
 libphp-jpgraph/bionic 1.5.2-13 all
 libphp-jpgraph-examples/bionic 1.5.2-13 all
 libphp-magpierss/bionic 0.72-11 all
-libphp-phpmailer/bionic-updates,bionic-security 5.2.14+dfsg-2.3+deb9u1build0.18.04.1 all
+libphp-phpmailer/bionic-updates,bionic-security 5.2.14+dfsg-2.3+deb9u2build0.18.04.1 all
 libphp-predis/bionic 0.8.3-1ubuntu1 amd64
 libphp-serialization-perl/bionic 0.34-2 all
 libphp-simplepie/bionic 1.3.1+dfsg-3.1 all
@@ -38650,10 +38650,10 @@ libxmlrpc-epi0/bionic 0.54.2-1.2 amd64
 libxmlrpc-epi0-dbg/bionic 0.54.2-1.2 amd64
 libxmlrpc-light-ocaml-dev/bionic 0.6.1-4build7 amd64
 libxmlrpc-lite-perl/bionic 0.717-1 all
-libxmlrpc3-client-java/bionic 3.1.3-9 all
-libxmlrpc3-common-java/bionic 3.1.3-9 all
-libxmlrpc3-java-doc/bionic 3.1.3-9 all
-libxmlrpc3-server-java/bionic 3.1.3-9 all
+libxmlrpc3-client-java/bionic-updates,bionic-security 3.1.3-9+deb10u1build0.18.04.1 all
+libxmlrpc3-common-java/bionic-updates,bionic-security 3.1.3-9+deb10u1build0.18.04.1 all
+libxmlrpc3-java-doc/bionic-updates,bionic-security 3.1.3-9+deb10u1build0.18.04.1 all
+libxmlrpc3-server-java/bionic-updates,bionic-security 3.1.3-9+deb10u1build0.18.04.1 all
 libxmlrpcpp-dev/bionic 1.13.5+ds1-3 amd64
 libxmlrpcpp1d/bionic 1.13.5+ds1-3 amd64
 libxmlsec1/bionic,now 1.2.25-1build1 amd64 [installed,automatic]
@@ -62020,7 +62020,7 @@ ruby-webmock/bionic 3.0.1-1 all
 ruby-webpack-rails/bionic 0.9.11-1 all
 ruby-webrobots/bionic 0.1.2-1 all
 ruby-websocket-driver/bionic 0.6.3-2build3 amd64
-ruby-websocket-extensions/bionic 0.1.2-1 all
+ruby-websocket-extensions/bionic-updates,bionic-security 0.1.2-1+deb9u1build0.18.04.1 all
 ruby-websocket-parser/bionic 1.0.0-1 all
 ruby-whenever/bionic 0.9.4-1build1 all
 ruby-whitequark-parser/bionic 2.4.0.2-1 all
