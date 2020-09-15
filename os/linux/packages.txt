@@ -3672,12 +3672,12 @@ cryptcat/focal 20031202-4build2 amd64
 cryptmount/focal 5.3.2-1 amd64
 crypto-policies/focal,focal 20190816git-1 all
 cryptol/focal 2.6.0-4build2 amd64
-cryptsetup-bin/focal 2:2.2.2-3ubuntu2 amd64
-cryptsetup-bin/focal 2:2.2.2-3ubuntu2 i386
-cryptsetup-initramfs/focal,focal 2:2.2.2-3ubuntu2 all
-cryptsetup-run/focal,focal 2:2.2.2-3ubuntu2 all
-cryptsetup/focal 2:2.2.2-3ubuntu2 amd64
-cryptsetup/focal 2:2.2.2-3ubuntu2 i386
+cryptsetup-bin/focal-updates,focal-security 2:2.2.2-3ubuntu2.2 amd64
+cryptsetup-bin/focal-updates,focal-security 2:2.2.2-3ubuntu2.2 i386
+cryptsetup-initramfs/focal-updates,focal-updates,focal-security,focal-security 2:2.2.2-3ubuntu2.2 all
+cryptsetup-run/focal-updates,focal-updates,focal-security,focal-security 2:2.2.2-3ubuntu2.2 all
+cryptsetup/focal-updates,focal-security 2:2.2.2-3ubuntu2.2 amd64
+cryptsetup/focal-updates,focal-security 2:2.2.2-3ubuntu2.2 i386
 crystalcursors/focal,focal 1.1.1-14 all
 cs/focal,focal 2.3.1-2 all
 csb/focal,focal 1.2.5+dfsg-5 all
@@ -20395,10 +20395,10 @@ libcrypto-equality-clojure/focal,focal 1.0.0-1 all
 libcrypto-random-clojure/focal,focal 1.2.0-1 all
 libcryptokit-ocaml-dev/focal 1.15-1build1 amd64
 libcryptokit-ocaml/focal 1.15-1build1 amd64
-libcryptsetup-dev/focal 2:2.2.2-3ubuntu2 amd64
-libcryptsetup-dev/focal 2:2.2.2-3ubuntu2 i386
-libcryptsetup12/focal,now 2:2.2.2-3ubuntu2 amd64 [installed]
-libcryptsetup12/focal 2:2.2.2-3ubuntu2 i386
+libcryptsetup-dev/focal-updates,focal-security 2:2.2.2-3ubuntu2.2 amd64
+libcryptsetup-dev/focal-updates,focal-security 2:2.2.2-3ubuntu2.2 i386
+libcryptsetup12/focal-updates,focal-security 2:2.2.2-3ubuntu2.2 amd64 [upgradable from: 2:2.2.2-3ubuntu2]
+libcryptsetup12/focal-updates,focal-security 2:2.2.2-3ubuntu2.2 i386
 libcryptui-dev/focal 3.12.2-6 amd64
 libcryptui-doc/focal,focal 3.12.2-6 all
 libcryptui0a/focal 3.12.2-6 amd64
@@ -60100,7 +60100,7 @@ ruby-webmock/focal,focal 3.7.3-1 all
 ruby-webpack-rails/focal,focal 0.9.11+git-1 all
 ruby-webrobots/focal,focal 0.1.2-1 all
 ruby-websocket-driver/focal 0.6.3-2build4 amd64
-ruby-websocket-extensions/focal,focal 0.1.2-1 all
+ruby-websocket-extensions/focal-updates,focal-updates,focal-security,focal-security 0.1.2-1+deb9u1build0.20.04.1 all
 ruby-websocket/focal,focal 1.2.8-2 all
 ruby-whenever/focal,focal 0.9.4-1build1 all
 ruby-whitequark-parser/focal,focal 2.7.0.2-1 all
