@@ -297,7 +297,7 @@ aldo/xenial 0.7.7-1 amd64
 ale/xenial 0.9.0.3-2 amd64
 alembic/xenial,xenial 0.8.2-3ubuntu1 all
 alevt/xenial 1:1.6.2-5.1 amd64
-alevtd/xenial 3.103-3build1 amd64
+alevtd/xenial-updates,xenial-security 3.103-3+deb8u1build0.16.04.1 amd64
 alex/xenial 3.1.6-1 amd64
 alex4/xenial 1.1-6 amd64
 alex4-data/xenial,xenial 1.1-6 all
@@ -619,7 +619,7 @@ aplus-fsf-dev/xenial 4.22.1-6 amd64
 aplus-fsf-doc/xenial,xenial 4.22.1-6 all
 aplus-fsf-el/xenial,xenial 4.22.1-6 all
 apmd/xenial 3.2.2-15 amd64
-apng2gif/xenial 1.5-3 amd64
+apng2gif/xenial-updates,xenial-security 1.5-3+deb8u1build0.16.04.1 amd64
 apngasm/xenial 2.7-1 amd64
 apngdis/xenial 2.5-1 amd64
 apngopt/xenial 1.2-1 amd64
@@ -1861,7 +1861,7 @@ bsd-mailx/xenial 8.1.2-0.20160123cvs-2 amd64
 bsdcpio/xenial-updates,xenial-security 3.1.2-11ubuntu0.16.04.8 amd64
 bsdgames/xenial 2.17-23 amd64
 bsdgames-nonfree/xenial 2.17-6build1 amd64
-bsdiff/xenial 4.3-15 amd64
+bsdiff/xenial-updates,xenial-security 4.3-15+deb8u1build0.16.04.1 amd64
 bsdmainutils/xenial,now 9.0.6ubuntu3 amd64 [installed]
 bsdowl/xenial,xenial 2.2.2-1 all
 bsdtar/xenial-updates,xenial-security 3.1.2-11ubuntu0.16.04.8 amd64
@@ -5464,7 +5464,7 @@ fbreader/xenial 0.12.10dfsg2-1 amd64
 fbset/xenial 2.1-28 amd64
 fbterm/xenial 1.7-2 amd64
 fbterm-ucimf/xenial 0.2.9-4 amd64
-fbtv/xenial 3.103-3build1 amd64
+fbtv/xenial-updates,xenial-security 3.103-3+deb8u1build0.16.04.1 amd64
 fbx-playlist/xenial 20070531+dfsg.1-5 amd64
 fbzx/xenial 3.0.0-1 amd64
 fcc/xenial 2.8-1 amd64
@@ -25300,9 +25300,9 @@ libluabind-dev/xenial 0.9.1+dfsg-10 amd64
 libluabind-doc/xenial,xenial 0.9.1+dfsg-10 all
 libluabind-examples/xenial,xenial 0.9.1+dfsg-10 all
 libluabind0.9.1v5/xenial 0.9.1+dfsg-10 amd64
-libluajit-5.1-2/xenial 2.0.4+dfsg-1 amd64
-libluajit-5.1-common/xenial,xenial 2.0.4+dfsg-1 all
-libluajit-5.1-dev/xenial 2.0.4+dfsg-1 amd64
+libluajit-5.1-2/xenial-updates,xenial-security 2.0.4+dfsg-1+deb9u1build0.16.04.1 amd64
+libluajit-5.1-common/xenial-updates,xenial-updates,xenial-security,xenial-security 2.0.4+dfsg-1+deb9u1build0.16.04.1 all
+libluajit-5.1-dev/xenial-updates,xenial-security 2.0.4+dfsg-1+deb9u1build0.16.04.1 amd64
 liblualib50/xenial 5.0.3-7 amd64
 liblualib50-dev/xenial 5.0.3-7 amd64
 liblucene++-contrib0v5/xenial 3.0.7-8 amd64
@@ -27733,22 +27733,22 @@ libopenipmi0/xenial-updates 2.0.18-0ubuntu11.2 amd64
 libopenjfx-java/xenial,xenial 8u60-b27-4 all
 libopenjfx-java-doc/xenial,xenial 8u60-b27-4 all
 libopenjfx-jni/xenial 8u60-b27-4 amd64
-libopenjp2-7/xenial-updates,xenial-security 2.1.2-1.1+deb9u3build0.16.04.1 amd64
-libopenjp2-7-dbg/xenial-updates,xenial-security 2.1.2-1.1+deb9u3build0.16.04.1 amd64
-libopenjp2-7-dev/xenial-updates,xenial-security 2.1.2-1.1+deb9u3build0.16.04.1 amd64
-libopenjp2-tools/xenial-updates,xenial-security 2.1.2-1.1+deb9u3build0.16.04.1 amd64
-libopenjp3d-tools/xenial-updates,xenial-security 2.1.2-1.1+deb9u3build0.16.04.1 amd64
-libopenjp3d7/xenial-updates,xenial-security 2.1.2-1.1+deb9u3build0.16.04.1 amd64
+libopenjp2-7/xenial-updates,xenial-security 2.1.2-1.1+deb9u5build0.16.04.1 amd64
+libopenjp2-7-dbg/xenial-updates,xenial-security 2.1.2-1.1+deb9u5build0.16.04.1 amd64
+libopenjp2-7-dev/xenial-updates,xenial-security 2.1.2-1.1+deb9u5build0.16.04.1 amd64
+libopenjp2-tools/xenial-updates,xenial-security 2.1.2-1.1+deb9u5build0.16.04.1 amd64
+libopenjp3d-tools/xenial-updates,xenial-security 2.1.2-1.1+deb9u5build0.16.04.1 amd64
+libopenjp3d7/xenial-updates,xenial-security 2.1.2-1.1+deb9u5build0.16.04.1 amd64
 libopenjpa-java/xenial,xenial 2.4.0-2 all
 libopenjpa-java-doc/xenial,xenial 2.4.0-2 all
 libopenjpeg-dev/xenial 1:1.5.2-3.1 amd64
 libopenjpeg-java/xenial 1:1.5.2-3.1 amd64
 libopenjpeg5/xenial 1:1.5.2-3.1 amd64
 libopenjpeg5-dbg/xenial 1:1.5.2-3.1 amd64
-libopenjpip-dec-server/xenial-updates,xenial-security 2.1.2-1.1+deb9u3build0.16.04.1 amd64
-libopenjpip-server/xenial-updates,xenial-security 2.1.2-1.1+deb9u3build0.16.04.1 amd64
-libopenjpip-viewer/xenial-updates,xenial-updates,xenial-security,xenial-security 2.1.2-1.1+deb9u3build0.16.04.1 all
-libopenjpip7/xenial-updates,xenial-security 2.1.2-1.1+deb9u3build0.16.04.1 amd64
+libopenjpip-dec-server/xenial-updates,xenial-security 2.1.2-1.1+deb9u5build0.16.04.1 amd64
+libopenjpip-server/xenial-updates,xenial-security 2.1.2-1.1+deb9u5build0.16.04.1 amd64
+libopenjpip-viewer/xenial-updates,xenial-updates,xenial-security,xenial-security 2.1.2-1.1+deb9u5build0.16.04.1 all
+libopenjpip7/xenial-updates,xenial-security 2.1.2-1.1+deb9u5build0.16.04.1 amd64
 libopenlayer-dev/xenial 2.1-2.1 amd64
 libopenlayer2v5/xenial 2.1-2.1 amd64
 libopenlibm-dev/xenial 0.5.0+dfsg-2 amd64
@@ -41164,7 +41164,7 @@ lua5.3/xenial-updates,xenial-security 5.3.1-1ubuntu2.1 amd64
 lua50/xenial 5.0.3-7 amd64
 lua50-doc/xenial,xenial 5.0.3-7 all
 luadoc/xenial,xenial 3.0.1+gitdb9e868-1 all
-luajit/xenial 2.0.4+dfsg-1 amd64
+luajit/xenial-updates,xenial-security 2.0.4+dfsg-1+deb9u1build0.16.04.1 amd64
 luakit/xenial 2012.09.13-r1-8 amd64
 luarocks/xenial,xenial 2.2.0+dfsg-2 all
 luasseq/xenial-updates,xenial-updates,xenial-security,xenial-security 2015.20160320-1ubuntu0.1 all
@@ -41742,7 +41742,7 @@ mbw/xenial 1.2.2-1 amd64
 mc/xenial 3:4.8.15-2 amd64
 mc-data/xenial,xenial 3:4.8.15-2 all
 mc-dbg/xenial 3:4.8.15-2 amd64
-mcabber/xenial 0.10.2-1build1 amd64
+mcabber/xenial-updates,xenial-security 0.10.2-1+deb8u1build0.16.04.1 amd64
 mccs/xenial 1:1.1-3ubuntu4 amd64
 mce-dev/xenial,xenial 1.15.0+15.10.20150929-0ubuntu1 all
 mce-doc/xenial,xenial 1.15.0+15.10.20150929-0ubuntu1 all
@@ -42031,7 +42031,7 @@ mighttpd2/xenial 3.2.10-1 amd64
 migrationtools/xenial,xenial 47-8ubuntu2 all
 mikmod/xenial 3.2.7-1build1 amd64
 mikutter/xenial,xenial 3.3.6+dfsg-1 all
-milkytracker/xenial 0.90.85+dfsg-2.2 amd64
+milkytracker/xenial-updates,xenial-security 0.90.85+dfsg-2.2+deb8u1build0.16.04.1 amd64
 miller/xenial 3.4.0-1 amd64
 milou/xenial 4:5.5.5-0ubuntu1 amd64
 milou-dbg/xenial 4:5.5.5-0ubuntu1 amd64
@@ -43038,8 +43038,8 @@ ncdu/xenial 1.11-1build1 amd64
 ncftp/xenial 2:3.2.5-1.1build1 amd64
 ncl-ncarg/xenial 6.3.0-6build1 amd64
 ncl-tools/xenial 2.1.18+dfsg-2 amd64
-ncmpc/xenial 0.24-1build1 amd64
-ncmpc-lyrics/xenial,xenial 0.24-1build1 all
+ncmpc/xenial-updates,xenial-security 0.24-1+deb8u1build0.16.04.1 amd64
+ncmpc-lyrics/xenial-updates,xenial-updates,xenial-security,xenial-security 0.24-1+deb8u1build0.16.04.1 all
 ncmpcpp/xenial 0.7-1 amd64
 nco/xenial 4.5.4-1build1 amd64
 ncoils/xenial 2002-4 amd64
@@ -45707,7 +45707,7 @@ phyml/xenial 3:3.2.0+dfsg-1 amd64
 physlock/xenial 0.4.5-1 amd64
 phyutility/xenial 2.7.3-1 amd64
 pi/xenial 1.3.4-1 amd64
-pia/xenial 3.103-3build1 amd64
+pia/xenial-updates,xenial-security 3.103-3+deb8u1build0.16.04.1 amd64
 pianobar/xenial 2015.11.22-1 amd64
 pianobar-dbg/xenial 2015.11.22-1 amd64
 pianobooster/xenial 0.6.4.0-1 amd64
@@ -46633,11 +46633,11 @@ puppet-testsuite/xenial-updates,xenial-updates 3.8.5-2ubuntu0.1 all
 puppetmaster/xenial-updates,xenial-updates 3.8.5-2ubuntu0.1 all
 puppetmaster-common/xenial-updates,xenial-updates 3.8.5-2ubuntu0.1 all
 puppetmaster-passenger/xenial-updates,xenial-updates 3.8.5-2ubuntu0.1 all
-pure-ftpd/xenial 1.0.36-3.2build1 amd64
-pure-ftpd-common/xenial,xenial 1.0.36-3.2build1 all
-pure-ftpd-ldap/xenial 1.0.36-3.2build1 amd64
-pure-ftpd-mysql/xenial 1.0.36-3.2build1 amd64
-pure-ftpd-postgresql/xenial 1.0.36-3.2build1 amd64
+pure-ftpd/xenial-updates,xenial-security 1.0.36-3.2+deb8u1build0.16.04.1 amd64
+pure-ftpd-common/xenial-updates,xenial-updates,xenial-security,xenial-security 1.0.36-3.2+deb8u1build0.16.04.1 all
+pure-ftpd-ldap/xenial-updates,xenial-security 1.0.36-3.2+deb8u1build0.16.04.1 amd64
+pure-ftpd-mysql/xenial-updates,xenial-security 1.0.36-3.2+deb8u1build0.16.04.1 amd64
+pure-ftpd-postgresql/xenial-updates,xenial-security 1.0.36-3.2+deb8u1build0.16.04.1 amd64
 pureadmin/xenial 0.4-0ubuntu2 amd64
 puredata/xenial,xenial 0.46.7-3 all
 puredata-core/xenial 0.46.7-3 amd64
@@ -52651,7 +52651,7 @@ radiance-doc/xenial,xenial 4R1+20120125-1.1 all
 radiance-materials/xenial,xenial 4R1+20120125-1.1 all
 radiance-sse3/xenial 4R1+20120125-1.1 i386
 radicale/xenial,xenial 1.1.1-1 all
-radio/xenial 3.103-3build1 amd64
+radio/xenial-updates,xenial-security 3.103-3+deb8u1build0.16.04.1 amd64
 radioclk/xenial 1.0.ds1-12 amd64
 radiotray/xenial,xenial 0.7.3-5ubuntu1 all
 radium-compressor/xenial 0.5.1-3build1 amd64
@@ -53733,7 +53733,7 @@ ruby-log4r/xenial,xenial 1.1.10-4 all
 ruby-logger-application/xenial,xenial 0.0.2-1build2 all
 ruby-logging/xenial,xenial 2.0.0-1 all
 ruby-logging-rails/xenial,xenial 0.5.0-2 all
-ruby-loofah/xenial-updates,xenial-updates,xenial-security,xenial-security 2.0.3-2+deb9u2build0.16.04.1 all
+ruby-loofah/xenial-updates,xenial-updates,xenial-security,xenial-security 2.0.3-2+deb9u3build0.16.04.1 all
 ruby-luabridge/xenial 0.8.0-1build3 amd64
 ruby-lumberjack/xenial,xenial 1.0.9-1 all
 ruby-mab/xenial,xenial 0.0.3-1build1 all
@@ -54221,7 +54221,7 @@ ruby-webkit-gtk/xenial,xenial 2.2.5-4build1 all
 ruby-webmock/xenial,xenial 1.22.6-1 all
 ruby-webrobots/xenial,xenial 0.1.1-1build1 all
 ruby-websocket-driver/xenial 0.6.3-2build1 amd64
-ruby-websocket-extensions/xenial,xenial 0.1.2-1 all
+ruby-websocket-extensions/xenial-updates,xenial-updates,xenial-security,xenial-security 0.1.2-1+deb9u1build0.16.04.1 all
 ruby-websocket-parser/xenial,xenial 1.0.0-1 all
 ruby-whenever/xenial,xenial 0.9.4-1build1 all
 ruby-whitewash/xenial,xenial 2.0-2 all
@@ -54458,7 +54458,7 @@ scanmem/xenial 0.13-1 amd64
 scanssh/xenial 2.1-0ubuntu6 amd64
 scantailor/xenial 0.9.11.1-4 amd64
 scantool/xenial 1.21+dfsg-6 amd64
-scantv/xenial 3.103-3build1 amd64
+scantv/xenial-updates,xenial-security 3.103-3+deb8u1build0.16.04.1 amd64
 scdaemon/xenial-updates,xenial-security 2.1.11-6ubuntu2.1 amd64
 schedtool/xenial 1.3.0-1 amd64
 schema2ldif/xenial,xenial 1.1-1 all
@@ -55609,7 +55609,7 @@ storymaps/xenial,xenial 1.0+dfsg-2 all
 stow/xenial,xenial 2.2.2-1 all
 strace/xenial,now 4.11-1ubuntu3 amd64 [installed]
 strace64/xenial 4.11-1ubuntu3 i386
-streamer/xenial 3.103-3build1 amd64
+streamer/xenial-updates,xenial-security 3.103-3+deb8u1build0.16.04.1 amd64
 streamripper/xenial 1.64.6-1 amd64
 streamtuner2/xenial,xenial 2.1.9-1 all
 stress/xenial 1.0.4-1 amd64
@@ -57236,7 +57236,7 @@ ttm/xenial 4.08+ds-1 amd64
 ttt/xenial 1.7-3.5 amd64
 tttprobe/xenial 1.7-3.5 amd64
 tttview/xenial 1.7-3.5 amd64
-ttv/xenial 3.103-3build1 amd64
+ttv/xenial-updates,xenial-security 3.103-3+deb8u1build0.16.04.1 amd64
 tty-clock/xenial 2.1-1ubuntu3 amd64
 ttyload/xenial 0.5-8 amd64
 ttylog/xenial 0.26-1 amd64
@@ -58098,7 +58098,7 @@ v-sim/xenial 3.7.2-1build3 amd64
 v-sim-common/xenial,xenial 3.7.2-1build3 all
 v-sim-doc/xenial,xenial 3.7.2-1build3 all
 v-sim-plugins/xenial 3.7.2-1build3 amd64
-v4l-conf/xenial 3.103-3build1 amd64
+v4l-conf/xenial-updates,xenial-security 3.103-3+deb8u1build0.16.04.1 amd64
 v4l-utils/xenial 1.10.0-1 amd64
 v4l2loopback-dkms/xenial-updates,xenial-updates 0.9.1-4ubuntu0.1 all
 v4l2loopback-source/xenial-updates,xenial-updates 0.9.1-4ubuntu0.1 all
@@ -58563,7 +58563,7 @@ webauth-utils/xenial 4.7.0-3build1 amd64
 webauth-weblogin/xenial,xenial 4.7.0-3build1 all
 webbrowser-app/xenial-updates 0.23+16.04.20161028-0ubuntu2 amd64
 webbrowser-app-autopilot/xenial-updates,xenial-updates 0.23+16.04.20161028-0ubuntu2 all
-webcam/xenial 3.103-3build1 amd64
+webcam/xenial-updates,xenial-security 3.103-3+deb8u1build0.16.04.1 amd64
 webcamd/xenial,xenial 0.7.6-5 all
 webcamoid/xenial 6.2.0-3 amd64
 webcamoid-data/xenial,xenial 6.2.0-3 all
@@ -59024,11 +59024,11 @@ xavante/xenial,xenial 2.3.0-1 all
 xavante-doc/xenial,xenial 2.3.0-1 all
 xaw3dg/xenial 1.5+E-18.2 amd64
 xaw3dg-dev/xenial 1.5+E-18.2 amd64
-xawtv/xenial 3.103-3build1 amd64
-xawtv-dbg/xenial 3.103-3build1 amd64
-xawtv-plugin-qt/xenial 3.103-3build1 amd64
-xawtv-plugins/xenial 3.103-3build1 amd64
-xawtv-tools/xenial 3.103-3build1 amd64
+xawtv/xenial-updates,xenial-security 3.103-3+deb8u1build0.16.04.1 amd64
+xawtv-dbg/xenial-updates,xenial-security 3.103-3+deb8u1build0.16.04.1 amd64
+xawtv-plugin-qt/xenial-updates,xenial-security 3.103-3+deb8u1build0.16.04.1 amd64
+xawtv-plugins/xenial-updates,xenial-security 3.103-3+deb8u1build0.16.04.1 amd64
+xawtv-tools/xenial-updates,xenial-security 3.103-3+deb8u1build0.16.04.1 amd64
 xbacklight/xenial 1.2.1-1build1 amd64
 xball/xenial 3.0.1-1.2 amd64
 xbase-clients/xenial-updates,xenial-updates 1:7.7+13ubuntu3.1 all
