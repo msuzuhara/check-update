@@ -1384,12 +1384,12 @@ dotconf.i686                               1.3-8.el7                     base
 dotconf.x86_64                             1.3-8.el7                     base   
 dotconf-devel.i686                         1.3-8.el7                     base   
 dotconf-devel.x86_64                       1.3-8.el7                     base   
-dovecot.i686                               1:2.2.36-6.el7                base   
-dovecot.x86_64                             1:2.2.36-6.el7                base   
-dovecot-devel.x86_64                       1:2.2.36-6.el7                base   
-dovecot-mysql.x86_64                       1:2.2.36-6.el7                base   
-dovecot-pgsql.x86_64                       1:2.2.36-6.el7                base   
-dovecot-pigeonhole.x86_64                  1:2.2.36-6.el7                base   
+dovecot.i686                               1:2.2.36-6.el7_8.1            updates
+dovecot.x86_64                             1:2.2.36-6.el7_8.1            updates
+dovecot-devel.x86_64                       1:2.2.36-6.el7_8.1            updates
+dovecot-mysql.x86_64                       1:2.2.36-6.el7_8.1            updates
+dovecot-pgsql.x86_64                       1:2.2.36-6.el7_8.1            updates
+dovecot-pigeonhole.x86_64                  1:2.2.36-6.el7_8.1            updates
 doxygen.x86_64                             1:1.8.5-4.el7                 base   
 doxygen-doxywizard.x86_64                  1:1.8.5-4.el7                 base   
 doxygen-latex.x86_64                       1:1.8.5-4.el7                 base   
@@ -9816,7 +9816,7 @@ thai-scalable-umpush-fonts.noarch          0.5.0-7.el7                   base
 thai-scalable-waree-fonts.noarch           0.5.0-7.el7                   base   
 theora-tools.x86_64                        1:1.1.1-8.el7                 base   
 thunderbird.i686                           68.10.0-1.el7.centos          updates
-thunderbird.x86_64                         68.11.0-1.el7.centos          updates
+thunderbird.x86_64                         68.12.0-1.el7.centos          updates
 tibetan-machine-uni-fonts.noarch           1.901-12.el7                  base   
 tigervnc.x86_64                            1.8.0-19.el7                  base   
 tigervnc-icons.noarch                      1.8.0-19.el7                  base   
