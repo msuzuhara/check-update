@@ -53661,9 +53661,9 @@ teckit/stable 2.5.8+ds2-5 amd64
 tecnoballz-data/stable 0.93.1-9 all
 tecnoballz/stable 0.93.1-9 amd64
 teensy-loader-cli/stable 2.1-1 amd64
-teeworlds-data/stable 0.7.2-5 all
-teeworlds-server/stable 0.7.2-5 amd64
-teeworlds/stable 0.7.2-5 amd64
+teeworlds-data/stable 0.7.2-5+deb10u1 all
+teeworlds-server/stable 0.7.2-5+deb10u1 amd64
+teeworlds/stable 0.7.2-5+deb10u1 amd64
 teg/stable 0.11.2+debian-8 amd64
 tegaki-recognize/stable 0.3.1.2-1 all
 tegaki-train/stable 0.3.1-1.1 all
