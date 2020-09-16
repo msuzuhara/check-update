@@ -8189,8 +8189,8 @@ gnome-settings-daemon/oldstable 3.22.2-2+deb9u2 amd64
 gnome-settings-daemon-dev/oldstable 3.22.2-2+deb9u2 amd64
 gnome-sharp2/oldstable 2.24.2-4 all
 gnome-sharp2-examples/oldstable 2.24.2-4 all
-gnome-shell/oldstable 3.22.3-3 amd64
-gnome-shell-common/oldstable 3.22.3-3 all
+gnome-shell/oldstable 3.22.3-3+deb9u1 amd64
+gnome-shell-common/oldstable 3.22.3-3+deb9u1 all
 gnome-shell-extension-autohidetopbar/oldstable 20161203-1 all
 gnome-shell-extension-better-volume/oldstable 0.0-git20161106.ff67408-1 all
 gnome-shell-extension-caffeine/oldstable 0~git20161228-1 all
