@@ -2987,7 +2987,7 @@ closure-compiler/bionic 20130227+dfsg1-10 all
 closure-linter/bionic 2.3.19-1 all
 cloud-guest-utils/bionic,now 0.30-0ubuntu5 all [installed,automatic]
 cloud-image-utils/bionic 0.30-0ubuntu5 all
-cloud-init/bionic-updates 20.2-45-g5f7825e2-0ubuntu1~18.04.1 all [upgradable from: 19.3-41-gc4735dd3-0ubuntu1~18.04.1]
+cloud-init/bionic-updates 20.3-2-g371b392c-0ubuntu1~18.04.1 all [upgradable from: 19.3-41-gc4735dd3-0ubuntu1~18.04.1]
 cloud-initramfs-copymods/bionic-updates,now 0.40ubuntu1.1 all [installed,automatic]
 cloud-initramfs-dyn-netconf/bionic-updates,now 0.40ubuntu1.1 all [installed,automatic]
 cloud-initramfs-growroot/bionic-updates 0.40ubuntu1.1 all
@@ -4007,7 +4007,7 @@ debian-installer-launcher/bionic 30 all
 debian-kernel-handbook/bionic 1.0.18 all
 debian-kernel-handbook-ja/bionic 1.0.18 all
 debian-keyring/bionic 2018.03.24 all
-debian-lan-config/bionic 0.23 all
+debian-lan-config/bionic-updates,bionic-security 0.23+deb9u1build0.18.04.1 all
 debian-mate-default-settings/bionic 1.20.0-1 all
 debian-paketmanagement-buch/bionic 0~2017.07.16 all
 debian-policy/bionic 4.1.4.1 all
@@ -19307,7 +19307,7 @@ libdbd-sybase-perl/bionic 1.14-1build5 amd64
 libdbd-xbase-perl/bionic 1:1.08-1 all
 libdbi-dev/bionic 0.9.0-5 amd64
 libdbi-doc/bionic 0.9.0-5 all
-libdbi-perl/bionic 1.640-1 amd64
+libdbi-perl/bionic-updates,bionic-security 1.640-1ubuntu0.1 amd64
 libdbi-test-perl/bionic 0.001-1 all
 libdbi1/bionic 0.9.0-5 amd64
 libdbi1-dbg/bionic 0.9.0-5 amd64
@@ -35358,8 +35358,8 @@ libssl-doc/bionic-updates,bionic-security 1.1.1-1ubuntu2.1~18.04.6 all
 libssl-ocaml/bionic 0.5.3-1build2 amd64
 libssl-ocaml-dev/bionic 0.5.3-1build2 amd64
 libssl-utils-clojure/bionic 0.8.3-1 all
-libssl1.0-dev/bionic-updates,bionic-security 1.0.2n-1ubuntu5.3 amd64
-libssl1.0.0/bionic-updates,bionic-security,now 1.0.2n-1ubuntu5.3 amd64 [installed,automatic]
+libssl1.0-dev/bionic-updates,bionic-security 1.0.2n-1ubuntu5.4 amd64
+libssl1.0.0/bionic-updates,bionic-security 1.0.2n-1ubuntu5.4 amd64 [upgradable from: 1.0.2n-1ubuntu5.3]
 libssl1.1/bionic-updates,bionic-security,now 1.1.1-1ubuntu2.1~18.04.6 amd64 [installed,automatic]
 libssm-dev/bionic 1.3-2.2 amd64
 libssm1/bionic 1.3-2.2 amd64
@@ -50590,7 +50590,7 @@ openssh-known-hosts/bionic 0.6.2-1 all
 openssh-server/bionic-updates,bionic-security,now 1:7.6p1-4ubuntu0.3 amd64 [installed]
 openssh-sftp-server/bionic-updates,bionic-security,now 1:7.6p1-4ubuntu0.3 amd64 [installed,automatic]
 openssl/bionic-updates,bionic-security,now 1.1.1-1ubuntu2.1~18.04.6 amd64 [installed,automatic]
-openssl1.0/bionic-updates,bionic-security 1.0.2n-1ubuntu5.3 amd64
+openssl1.0/bionic-updates,bionic-security 1.0.2n-1ubuntu5.4 amd64
 openssn/bionic 1.4-1build2 amd64
 openssn-data/bionic 1.4-1build2 all
 openssn-dbg/bionic 1.4-1build2 amd64
