@@ -1210,7 +1210,7 @@ awesome-extra/focal,focal 2019021001 all
 awesome/focal 4.3-4 amd64
 awffull/focal 3.10.2-6 amd64
 awit-dbackup/focal,focal 0.0.22-1 all
-awl-doc/focal,focal 0.60-1 all
+awl-doc/focal-updates,focal-updates,focal-security,focal-security 0.60-1+deb10u1ubuntu1 all
 aws-shell/focal,focal 0.2.1-1 all
 awscli/focal-updates,focal-updates 1.18.69-1ubuntu0.20.04.1 all
 awstats/focal,focal 7.6+dfsg-2 all
@@ -1942,7 +1942,7 @@ bsdiff/focal 4.3-21 amd64
 bsdmainutils/focal,now 11.1.2ubuntu3 amd64 [installed]
 bsdmainutils/focal 11.1.2ubuntu3 i386
 bsdowl/focal,focal 2.2.2-1 all
-bsdutils/focal-updates 1:2.34-0.1ubuntu9.1 amd64 [upgradable from: 1:2.34-0.1ubuntu9]
+bsdutils/focal-updates,now 1:2.34-0.1ubuntu9.1 amd64 [installed]
 bsdutils/focal-updates 1:2.34-0.1ubuntu9.1 i386
 bsfilter/focal,focal 1:1.0.19-2 all
 bsh-doc/focal,focal 2.0b4-20 all
@@ -2994,7 +2994,7 @@ cloop-utils/focal 3.14.1.2ubuntu3 amd64
 closure-compiler/focal,focal 20130227+dfsg1-10 all
 cloud-guest-utils/focal,focal 0.31-7-gd99b2d76-0ubuntu1 all
 cloud-image-utils/focal,focal 0.31-7-gd99b2d76-0ubuntu1 all
-cloud-init/focal-updates,focal-updates 20.2-45-g5f7825e2-0ubuntu1~20.04.1 all
+cloud-init/focal-updates,focal-updates 20.3-2-g371b392c-0ubuntu1~20.04.1 all
 cloud-initramfs-copymods/focal,focal 0.45ubuntu1 all
 cloud-initramfs-dyn-netconf/focal,focal 0.45ubuntu1 all
 cloud-initramfs-growroot/focal,focal 0.45ubuntu1 all
@@ -6217,7 +6217,7 @@ fd-find/focal 7.4.0-2build1 amd64
 fdclock/focal 0.1.0+git.20060122-0ubuntu4 amd64
 fdclone/focal 3.01h-1build1 amd64
 fdflush/focal 1.0.1.3build1 amd64
-fdisk/focal-updates 2.34-0.1ubuntu9.1 amd64 [upgradable from: 2.34-0.1ubuntu9]
+fdisk/focal-updates,now 2.34-0.1ubuntu9.1 amd64 [installed]
 fdisk/focal-updates 2.34-0.1ubuntu9.1 i386
 fdkaac/focal 0.6.3-1 amd64
 fdm-materials/focal,focal 4.4.1-1 all
@@ -13212,7 +13212,7 @@ grpn/focal 1.4.1-1 amd64
 grr-client-templates/focal,focal 3.1.0.2-2 all
 grr.app/focal 1.0-1build5 amd64
 grsync/focal 1.2.6-2 amd64
-grub-common/focal-updates 2.04-1ubuntu26.4 amd64 [upgradable from: 2.04-1ubuntu26.3]
+grub-common/focal-updates,now 2.04-1ubuntu26.4 amd64 [installed]
 grub-coreboot-bin/focal-updates 2.04-1ubuntu26.4 amd64
 grub-coreboot-dbg/focal-updates 2.04-1ubuntu26.4 amd64
 grub-coreboot/focal-updates 2.04-1ubuntu26.4 amd64
@@ -13238,9 +13238,9 @@ grub-invaders/focal 1.0.0-13 amd64
 grub-ipxe/focal-updates,focal-updates 1.0.0+git-20190109.133f4c4-0ubuntu3.2 all
 grub-legacy-ec2/focal,focal 1:1ubuntu1 all
 grub-linuxbios/focal-updates 2.04-1ubuntu26.4 amd64
-grub-pc-bin/focal-updates 2.04-1ubuntu26.4 amd64 [upgradable from: 2.04-1ubuntu26.3]
+grub-pc-bin/focal-updates,now 2.04-1ubuntu26.4 amd64 [installed,automatic]
 grub-pc-dbg/focal-updates 2.04-1ubuntu26.4 amd64
-grub-pc/focal-updates 2.04-1ubuntu26.4 amd64 [upgradable from: 2.04-1ubuntu26.3]
+grub-pc/focal-updates,now 2.04-1ubuntu26.4 amd64 [installed]
 grub-rescue-pc/focal-updates 2.04-1ubuntu26.4 amd64
 grub-splashimages/focal,focal 1.2.3 all
 grub-theme-breeze/focal 5.18.4.1-0ubuntu1 amd64
@@ -13249,7 +13249,7 @@ grub-xen-bin/focal-updates 2.04-1ubuntu26.4 amd64
 grub-xen-dbg/focal-updates 2.04-1ubuntu26.4 amd64
 grub-xen-host/focal-updates 2.04-1ubuntu26.4 amd64
 grub-xen/focal-updates 2.04-1ubuntu26.4 amd64
-grub2-common/focal-updates 2.04-1ubuntu26.4 amd64 [upgradable from: 2.04-1ubuntu26.3]
+grub2-common/focal-updates,now 2.04-1ubuntu26.4 amd64 [installed,automatic]
 grub2-splashimages/focal,focal 1.0.1+nmu1 all
 grub2-themes-ubuntu-mate/focal,focal 0.3.7 all
 grub2-themes-ubuntustudio/focal,focal 0.3 all
@@ -14497,12 +14497,12 @@ inhomog/focal 0.1.9.2-1 amd64
 init-system-helpers/focal,focal,now 1.57 all [installed]
 init/focal,now 1.57 amd64 [installed]
 init/focal 1.57 i386
-initramfs-tools-bin/focal-updates 0.136ubuntu6.3 amd64 [upgradable from: 0.136ubuntu6.2]
+initramfs-tools-bin/focal-updates,now 0.136ubuntu6.3 amd64 [installed,automatic]
 initramfs-tools-bin/focal-updates 0.136ubuntu6.3 i386
-initramfs-tools-core/focal-updates,focal-updates 0.136ubuntu6.3 all [upgradable from: 0.136ubuntu6.2]
+initramfs-tools-core/focal-updates,focal-updates,now 0.136ubuntu6.3 all [installed,automatic]
 initramfs-tools-devices/focal,focal 0.4 all
 initramfs-tools-ubuntu-core/focal 0.7.50 amd64
-initramfs-tools/focal-updates,focal-updates 0.136ubuntu6.3 all [upgradable from: 0.136ubuntu6.2]
+initramfs-tools/focal-updates,focal-updates,now 0.136ubuntu6.3 all [installed]
 initz/focal,focal 0.0.11+20030603cvs-17.2 all
 ink-generator/focal,focal 0.4-2 all
 ink/focal 0.5.3-1 amd64
@@ -18018,7 +18018,7 @@ libavutil-dev/focal-updates,focal-security 7:4.2.4-1ubuntu0.1 amd64
 libavutil-dev/focal-updates,focal-security 7:4.2.4-1ubuntu0.1 i386
 libavutil56/focal-updates,focal-security 7:4.2.4-1ubuntu0.1 amd64
 libavutil56/focal-updates,focal-security 7:4.2.4-1ubuntu0.1 i386
-libawl-php/focal,focal 0.60-1 all
+libawl-php/focal-updates,focal-updates,focal-security,focal-security 0.60-1+deb10u1ubuntu1 all
 libaws-bin/focal 20.0-2 amd64
 libaws-doc/focal,focal 20.0-2 all
 libaws-signature4-perl/focal,focal 1.02-1 all
@@ -18294,7 +18294,7 @@ libblitz0-dev/focal 1:1.0.2+ds-2 amd64
 libblitz0v5/focal 1:1.0.2+ds-2 amd64
 libblkid-dev/focal-updates 2.34-0.1ubuntu9.1 amd64
 libblkid-dev/focal-updates 2.34-0.1ubuntu9.1 i386
-libblkid1/focal-updates 2.34-0.1ubuntu9.1 amd64 [upgradable from: 2.34-0.1ubuntu9]
+libblkid1/focal-updates,now 2.34-0.1ubuntu9.1 amd64 [installed]
 libblkid1/focal-updates 2.34-0.1ubuntu9.1 i386
 libblkmaker-0.1-6/focal 0.5.3-1 amd64
 libblkmaker-0.1-dev/focal 0.5.3-1 amd64
@@ -22393,7 +22393,7 @@ libfcml0/focal 1.2.0-2 amd64
 libfdcore6/focal 1.2.1-7 amd64
 libfdisk-dev/focal-updates 2.34-0.1ubuntu9.1 amd64
 libfdisk-dev/focal-updates 2.34-0.1ubuntu9.1 i386
-libfdisk1/focal-updates 2.34-0.1ubuntu9.1 amd64 [upgradable from: 2.34-0.1ubuntu9]
+libfdisk1/focal-updates,now 2.34-0.1ubuntu9.1 amd64 [installed]
 libfdisk1/focal-updates 2.34-0.1ubuntu9.1 i386
 libfdk-aac-dev/focal 0.1.6-1 amd64
 libfdk-aac1/focal 0.1.6-1 amd64
@@ -32530,7 +32530,7 @@ libmotif-common/focal,focal 2.3.8-2build1 all
 libmotif-dev/focal 2.3.8-2build1 amd64
 libmount-dev/focal-updates 2.34-0.1ubuntu9.1 amd64
 libmount-dev/focal-updates 2.34-0.1ubuntu9.1 i386
-libmount1/focal-updates 2.34-0.1ubuntu9.1 amd64 [upgradable from: 2.34-0.1ubuntu9]
+libmount1/focal-updates,now 2.34-0.1ubuntu9.1 amd64 [installed]
 libmount1/focal-updates 2.34-0.1ubuntu9.1 i386
 libmouse-perl/focal 2.5.9-1 amd64
 libmousex-configfromfile-perl/focal,focal 0.05-1 all
@@ -39224,7 +39224,7 @@ libsmartcardpp1-dbg/focal 0.3.0-0ubuntu9 amd64
 libsmartcardpp1/focal 0.3.0-0ubuntu9 amd64
 libsmartcols-dev/focal-updates 2.34-0.1ubuntu9.1 amd64
 libsmartcols-dev/focal-updates 2.34-0.1ubuntu9.1 i386
-libsmartcols1/focal-updates 2.34-0.1ubuntu9.1 amd64 [upgradable from: 2.34-0.1ubuntu9]
+libsmartcols1/focal-updates,now 2.34-0.1ubuntu9.1 amd64 [installed]
 libsmartcols1/focal-updates 2.34-0.1ubuntu9.1 i386
 libsmbclient-dev/focal-updates,focal-security 2:4.11.6+dfsg-0ubuntu1.4 amd64
 libsmbclient-dev/focal-updates,focal-security 2:4.11.6+dfsg-0ubuntu1.4 i386
@@ -41706,7 +41706,7 @@ libuuid-perl/focal 0.28-1build1 amd64
 libuuid-perl/focal 0.28-1build1 i386
 libuuid-tiny-perl/focal,focal 1.0400-2 all
 libuuid-urandom-perl/focal,focal 0.001-1 all
-libuuid1/focal-updates 2.34-0.1ubuntu9.1 amd64 [upgradable from: 2.34-0.1ubuntu9]
+libuuid1/focal-updates,now 2.34-0.1ubuntu9.1 amd64 [installed]
 libuuid1/focal-updates 2.34-0.1ubuntu9.1 i386
 libuuidm-ocaml-dev/focal 0.9.7-1build1 amd64
 libuutf-ocaml-dev/focal 1.0.2-1 amd64
@@ -46444,7 +46444,7 @@ most/focal 5.0.0a-4 amd64
 motd-news-config/focal-updates,focal-updates 11ubuntu5.2 all
 mothur/focal 1.42.1-1build1 amd64
 motion/focal 4.2.2-1ubuntu1 amd64
-mount/focal-updates 2.34-0.1ubuntu9.1 amd64 [upgradable from: 2.34-0.1ubuntu9]
+mount/focal-updates,now 2.34-0.1ubuntu9.1 amd64 [installed]
 mount/focal-updates 2.34-0.1ubuntu9.1 i386
 mountpy/focal 0.9 amd64
 mouseemu/focal 0.16-0ubuntu10 amd64
@@ -63756,7 +63756,7 @@ utfout/focal 0.0.1-1build1 amd64
 uthash-dev/focal 2.1.0-1 amd64
 uthash-dev/focal 2.1.0-1 i386
 util-linux-locales/focal-updates,focal-updates 2.34-0.1ubuntu9.1 all
-util-linux/focal-updates 2.34-0.1ubuntu9.1 amd64 [upgradable from: 2.34-0.1ubuntu9]
+util-linux/focal-updates,now 2.34-0.1ubuntu9.1 amd64 [installed]
 util-linux/focal-updates 2.34-0.1ubuntu9.1 i386
 utop/focal 2.4.3-1build1 amd64
 utox/focal 0.17.1-1 amd64
@@ -63765,7 +63765,7 @@ uucpsend/focal 1.1-4.1 amd64
 uudeview/focal 0.5.20-11 amd64
 uuid-dev/focal-updates 2.34-0.1ubuntu9.1 amd64
 uuid-dev/focal-updates 2.34-0.1ubuntu9.1 i386
-uuid-runtime/focal-updates 2.34-0.1ubuntu9.1 amd64 [upgradable from: 2.34-0.1ubuntu9]
+uuid-runtime/focal-updates,now 2.34-0.1ubuntu9.1 amd64 [installed]
 uuid-runtime/focal-updates 2.34-0.1ubuntu9.1 i386
 uuid/focal 1.6.2-1.5build7 amd64
 uuidcdef/focal 0.3.13-7 amd64
