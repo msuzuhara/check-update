@@ -2835,7 +2835,7 @@ closure-compiler/xenial,xenial 20130227+dfsg1-8 all
 closure-linter/xenial,xenial 2.3.19-1 all
 cloud-guest-utils/xenial-updates,xenial-updates,now 0.27-0ubuntu25.1 all [installed]
 cloud-image-utils/xenial-updates,xenial-updates 0.27-0ubuntu25.1 all
-cloud-init/xenial-updates,xenial-updates 20.2-45-g5f7825e2-0ubuntu1~16.04.1 all
+cloud-init/xenial-updates,xenial-updates 20.3-2-g371b392c-0ubuntu1~16.04.1 all
 cloud-initramfs-copymods/xenial-updates,xenial-updates,now 0.27ubuntu1.6 all [installed]
 cloud-initramfs-dyn-netconf/xenial-updates,xenial-updates,now 0.27ubuntu1.6 all [installed]
 cloud-initramfs-growroot/xenial-updates,xenial-updates 0.27ubuntu1.6 all
@@ -4744,7 +4744,7 @@ ebview/xenial 0.3.6.2-1.4ubuntu1 amd64
 ec2-ami-tools/xenial,xenial 1.4.0.9-0ubuntu2 all
 ec2-api-tools/xenial,xenial 1.6.14.1-0ubuntu1 all
 ec2-hibinit-agent/xenial-updates,xenial-updates 1.0.0-0ubuntu4~16.04.3 all
-ec2-init/xenial-updates,xenial-updates 20.2-45-g5f7825e2-0ubuntu1~16.04.1 all
+ec2-init/xenial-updates,xenial-updates 20.3-2-g371b392c-0ubuntu1~16.04.1 all
 ec2-instance-connect/xenial-updates,xenial-updates 1.1.12+dfsg1-0ubuntu3~16.04.0 all
 ecaccess/xenial,xenial 4.0.1-1 all
 ecasound/xenial 2.9.1-7build1 amd64
@@ -10050,7 +10050,7 @@ grub-imageboot/xenial,xenial 0.6 all
 grub-invaders/xenial 1.0.0-13 amd64
 grub-ipxe/xenial-updates,xenial-updates 1.0.0+git-20150424.a25a16d-1ubuntu1.2 all
 grub-legacy-doc/xenial,xenial 0.97-29ubuntu68 all
-grub-legacy-ec2/xenial-updates,xenial-updates 20.2-45-g5f7825e2-0ubuntu1~16.04.1 all [upgradable from: 19.4-33-gbb4131a2-0ubuntu1~16.04.1]
+grub-legacy-ec2/xenial-updates,xenial-updates 20.3-2-g371b392c-0ubuntu1~16.04.1 all [upgradable from: 19.4-33-gbb4131a2-0ubuntu1~16.04.1]
 grub-linuxbios/xenial-updates 2.02~beta2-36ubuntu3.28 amd64
 grub-pc/xenial-updates 2.02~beta2-36ubuntu3.28 amd64 [upgradable from: 2.02~beta2-36ubuntu3.23]
 grub-pc-bin/xenial-updates 2.02~beta2-36ubuntu3.28 amd64 [upgradable from: 2.02~beta2-36ubuntu3.23]
@@ -16789,7 +16789,7 @@ libdbd-sybase-perl/xenial 1.14-1build3 amd64
 libdbd-xbase-perl/xenial,xenial 1:1.05-1 all
 libdbi-dev/xenial 0.9.0-4 amd64
 libdbi-doc/xenial,xenial 0.9.0-4 all
-libdbi-perl/xenial 1.634-1build1 amd64
+libdbi-perl/xenial-updates,xenial-security 1.634-1ubuntu0.1 amd64
 libdbi-test-perl/xenial,xenial 0.001-1 all
 libdbi1/xenial 0.9.0-4 amd64
 libdbi1-dbg/xenial 0.9.0-4 amd64
@@ -31218,12 +31218,12 @@ libssh-gcrypt-dev/xenial-updates,xenial-security 0.6.3-4.3ubuntu0.6 amd64
 libssh2-1/xenial-updates,xenial-security 1.5.0-2ubuntu0.1 amd64
 libssh2-1-dbg/xenial-updates,xenial-security 1.5.0-2ubuntu0.1 amd64
 libssh2-1-dev/xenial-updates,xenial-security 1.5.0-2ubuntu0.1 amd64
-libssl-dev/xenial-updates,xenial-security 1.0.2g-1ubuntu4.16 amd64
-libssl-doc/xenial-updates,xenial-updates,xenial-security,xenial-security 1.0.2g-1ubuntu4.16 all
+libssl-dev/xenial-updates,xenial-security 1.0.2g-1ubuntu4.17 amd64
+libssl-doc/xenial-updates,xenial-updates,xenial-security,xenial-security 1.0.2g-1ubuntu4.17 all
 libssl-ocaml/xenial 0.5.2-1 amd64
 libssl-ocaml-dev/xenial 0.5.2-1 amd64
-libssl1.0.0/xenial-updates,xenial-security,now 1.0.2g-1ubuntu4.16 amd64 [installed]
-libssl1.0.0-dbg/xenial-updates,xenial-security 1.0.2g-1ubuntu4.16 amd64
+libssl1.0.0/xenial-updates,xenial-security 1.0.2g-1ubuntu4.17 amd64 [upgradable from: 1.0.2g-1ubuntu4.16]
+libssl1.0.0-dbg/xenial-updates,xenial-security 1.0.2g-1ubuntu4.17 amd64
 libsslcommon2/xenial 0.16-9ubuntu2 amd64
 libsslcommon2-dev/xenial 0.16-9ubuntu2 amd64
 libssm-dev/xenial 1.3-2.1 amd64
@@ -44480,7 +44480,7 @@ openssh-client-ssh1/xenial-updates 1:7.2p2-4ubuntu2.10 amd64
 openssh-known-hosts/xenial,xenial 0.6.2-1 all
 openssh-server/xenial-updates 1:7.2p2-4ubuntu2.10 amd64 [upgradable from: 1:7.2p2-4ubuntu2.8]
 openssh-sftp-server/xenial-updates 1:7.2p2-4ubuntu2.10 amd64 [upgradable from: 1:7.2p2-4ubuntu2.8]
-openssl/xenial-updates,xenial-security,now 1.0.2g-1ubuntu4.16 amd64 [installed]
+openssl/xenial-updates,xenial-security 1.0.2g-1ubuntu4.17 amd64 [upgradable from: 1.0.2g-1ubuntu4.16]
 openssl-blacklist/xenial,xenial 0.5-3 all
 openssl-blacklist-extra/xenial,xenial 0.5-3 all
 openssn/xenial 1.4-1build1 amd64
