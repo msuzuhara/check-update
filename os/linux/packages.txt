@@ -1,13 +1,7 @@
 389-ds-base.x86_64                         1.4.3.8-5.module_el8.3.0+473+53682548
                                                                          Stream-AppStream
-389-ds-base-devel.x86_64                   1.4.2.4-8.module_el8.2.0+366+71e3276f
-                                                                         AppStream
-389-ds-base-legacy-tools.x86_64            1.4.2.4-8.module_el8.2.0+366+71e3276f
-                                                                         AppStream
 389-ds-base-libs.x86_64                    1.4.3.8-5.module_el8.3.0+473+53682548
                                                                          Stream-AppStream
-389-ds-base-snmp.x86_64                    1.4.2.4-8.module_el8.2.0+366+71e3276f
-                                                                         AppStream
 CUnit.i686                                 2.1.3-17.el8                  Stream-AppStream
 CUnit.x86_64                               2.1.3-17.el8                  Stream-AppStream
 GConf2.i686                                3.2.6-22.el8                  Stream-AppStream
@@ -542,6 +536,7 @@ centos-release-ceph-octopus.noarch         1.0-1.el8                     Stream-
 centos-release-configmanagement.noarch     1-1.el8                       Stream-extras
 centos-release-gluster6.noarch             1.0-1.el8                     Stream-extras
 centos-release-gluster7.noarch             1.0-2.el8                     Stream-extras
+centos-release-gluster8.noarch             1.0-1.el8                     extras 
 centos-release-messaging.noarch            1-2.el8                       Stream-extras
 centos-release-nfs-ganesha28.noarch        1.0-3.el8                     Stream-extras
 centos-release-nfs-ganesha30.noarch        1.0-2.el8                     Stream-extras
