@@ -1,7 +1,13 @@
 389-ds-base.x86_64                         1.4.3.8-5.module_el8.3.0+473+53682548
                                                                          Stream-AppStream
+389-ds-base-devel.x86_64                   1.4.2.4-10.module_el8.2.0+489+38ed056a
+                                                                         AppStream
+389-ds-base-legacy-tools.x86_64            1.4.2.4-10.module_el8.2.0+489+38ed056a
+                                                                         AppStream
 389-ds-base-libs.x86_64                    1.4.3.8-5.module_el8.3.0+473+53682548
                                                                          Stream-AppStream
+389-ds-base-snmp.x86_64                    1.4.2.4-10.module_el8.2.0+489+38ed056a
+                                                                         AppStream
 CUnit.i686                                 2.1.3-17.el8                  Stream-AppStream
 CUnit.x86_64                               2.1.3-17.el8                  Stream-AppStream
 GConf2.i686                                3.2.6-22.el8                  Stream-AppStream
