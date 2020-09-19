@@ -11769,9 +11769,9 @@ inputplug/stable 0.3~hg20150512-1+b1 amd64
 insighttoolkit4-examples/stable 4.12.2-dfsg1-4 all
 insighttoolkit4-python/stable 4.12.2-dfsg1-4+b1 amd64
 inspectrum/stable 0.2-1 amd64
-inspircd-dbg/stable 2.0.27-1 amd64
-inspircd-dev/stable 2.0.27-1 amd64
-inspircd/stable 2.0.27-1 amd64
+inspircd-dbg/stable 2.0.27-1+deb10u1 amd64
+inspircd-dev/stable 2.0.27-1+deb10u1 amd64
+inspircd/stable 2.0.27-1+deb10u1 amd64
 insserv/stable 1.18.0-2 amd64
 install-info/stable 6.5.0.dfsg.1-4+b1 amd64
 install-mimic/stable 0.4.0-4 amd64
@@ -26338,8 +26338,8 @@ libmodpbase64-dev/stable 3.10.3+git20160924-3 amd64
 libmodplug-dev/stable 1:0.8.9.0-2 amd64
 libmodplug1/stable 1:0.8.9.0-2 amd64
 libmods-record-perl/stable 0.13-1 all
-libmodsecurity-dev/stable 3.0.3-1+deb10u1 amd64
-libmodsecurity3/stable 3.0.3-1+deb10u1 amd64
+libmodsecurity-dev/stable 3.0.3-1+deb10u2 amd64
+libmodsecurity3/stable 3.0.3-1+deb10u2 amd64
 libmodulator-java/stable 1.0-3 all
 libmodule-build-cleaninstall-perl/stable 0.5-3 all
 libmodule-build-perl/stable 0.422400-1 all
