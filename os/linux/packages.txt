@@ -29477,9 +29477,9 @@ libquickfix-dev/xenial 1.13.3+dfsg-9ubuntu2 amd64
 libquickfix-doc/xenial 1.13.3+dfsg-9ubuntu2 all
 libquickfix14v5/xenial 1.13.3+dfsg-9ubuntu2 amd64
 libquickfix14v5-dbg/xenial 1.13.3+dfsg-9ubuntu2 amd64
-libquicktime-dev/xenial-updates 2:1.2.4-7+deb8u1build0.16.04.1 amd64
-libquicktime-doc/xenial-updates 2:1.2.4-7+deb8u1build0.16.04.1 all
-libquicktime2/xenial-updates 2:1.2.4-7+deb8u1build0.16.04.1 amd64
+libquicktime-dev/xenial-updates 2:1.2.4-7+deb8u1ubuntu0.1 amd64
+libquicktime-doc/xenial-updates 2:1.2.4-7+deb8u1ubuntu0.1 all
+libquicktime2/xenial-updates 2:1.2.4-7+deb8u1ubuntu0.1 amd64
 libquorum-dev/xenial-updates 2.3.5-3ubuntu2.3 amd64
 libquorum5/xenial-updates 2.3.5-3ubuntu2.3 amd64
 libquota-perl/xenial 1.7.2+dfsg-1build1 amd64
@@ -52321,8 +52321,8 @@ quickml/xenial 0.7-5 all
 quickplot/xenial 0.10.6-1 amd64
 quickroute-gps/xenial 2.4-12 amd64
 quicksynergy/xenial 0.9-2ubuntu1 amd64
-quicktime-utils/xenial-updates 2:1.2.4-7+deb8u1build0.16.04.1 amd64
-quicktime-x11utils/xenial-updates 2:1.2.4-7+deb8u1build0.16.04.1 amd64
+quicktime-utils/xenial-updates 2:1.2.4-7+deb8u1ubuntu0.1 amd64
+quicktime-x11utils/xenial-updates 2:1.2.4-7+deb8u1ubuntu0.1 amd64
 quilt/xenial 0.63-3 all
 quisk/xenial 3.7.6-1 amd64
 quitcount/xenial 3.1.3-2 amd64
