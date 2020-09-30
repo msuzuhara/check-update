@@ -52615,9 +52615,9 @@ qlcplus/focal 4.12.2-2build1 amd64
 qlcplus-data/focal 4.12.2-2build1 all
 qlipper/focal 1:5.1.2-1build1 amd64
 qlogo/focal 0.92-1build1 amd64
-qmail/focal 1.06-6.1 amd64
+qmail/focal-updates 1.06-6.2~deb10u1build0.20.04.1 amd64
 qmail-run/focal 2.0.2+nmu1 all
-qmail-uids-gids/focal 1.06-6.1 all
+qmail-uids-gids/focal-updates 1.06-6.2~deb10u1build0.20.04.1 all
 qmapshack/focal 1.14.0-1build2 amd64
 qmc/focal 0.94-3.1build1 amd64
 qmenu/focal 5.0.2-2build3 amd64
