@@ -1775,6 +1775,7 @@ boxshade/buster 3.3.1-12 amd64
 bpfcc-introspection/buster-backports 0.14.0-3~bpo10+1 amd64
 bpfcc-lua/buster 0.8.0-4 amd64
 bpfcc-tools/buster 0.8.0-4 all
+bpftool/buster-backports 5.8.10-1~bpo10+1 amd64
 bpftrace/buster 0.8+git60-gccac69c2239b-2 amd64
 bplay/buster 0.991-10+b2 amd64
 bpm-tools/buster 0.3-4 amd64
@@ -10473,6 +10474,7 @@ golang-golang-x-text-dev/buster 0.3.0-2 all
 golang-golang-x-time-dev/buster 0.0~git20161028.0.f51c127-2 all
 golang-golang-x-tools/buster 1:0.0~git20190125.d66bd3c+ds-4+b1 amd64
 golang-golang-x-tools-dev/buster 1:0.0~git20190125.d66bd3c+ds-4 all
+golang-golang-x-xerrors-dev/buster-backports 0.0~git20191204.9bdfabe-1~bpo10+1 all
 golang-gomega-dev/buster 1.0+git20160910.d59fa0a-1 all
 golang-google-api-dev/buster 0.0~git20180916.19ff876-2 all
 golang-google-appengine-dev/buster 1.4.0-1 all
@@ -11250,6 +11252,8 @@ hamradio-sdr/buster 0.5 all
 hamradio-tasks/buster 0.5 all
 hamradio-tools/buster 0.5 all
 hamradio-training/buster 0.5 all
+hamster-applet/buster-backports 3.0.2-3~bpo10+1 all
+hamster-time-tracker/buster-backports 3.0.2-3~bpo10+1 all
 handbrake/buster 1.2.2+ds1-1 amd64
 handbrake-cli/buster 1.2.2+ds1-1 amd64
 handlebars/buster 3:4.1.0-1+deb10u2 all
@@ -18027,6 +18031,7 @@ libefreet1a/buster 1.21.1-5 amd64
 libegl-mesa0/buster 18.3.6-2+deb10u1 amd64
 libegl-nvidia-legacy-390xx0/buster 390.138-1~deb10u1 amd64
 libegl-nvidia-tesla-418-0/buster-backports 418.152.00-1~bpo10+1 amd64
+libegl-nvidia-tesla-450-0/buster-backports 450.51.06-2~bpo10+1 amd64
 libegl-nvidia0/buster 418.152.00-1 amd64
 libegl1/buster 1.1.0-1 amd64
 libegl1-mesa/buster 18.3.6-2+deb10u1 amd64
@@ -18035,6 +18040,7 @@ libegl1-nvidia/buster 418.152.00-1 amd64
 libegl1-nvidia-legacy-340xx/buster 340.108-3~deb10u1 amd64
 libegl1-nvidia-legacy-390xx/buster 390.138-1~deb10u1 amd64
 libegl1-nvidia-tesla-418/buster-backports 418.152.00-1~bpo10+1 amd64
+libegl1-nvidia-tesla-450/buster-backports 450.51.06-2~bpo10+1 amd64
 libehcache-java/buster 2.6.11-3 all
 libeigen-stl-containers-dev/buster 0.1.8-2 all
 libeigen3-dev/buster 3.3.7-1 all
@@ -22483,6 +22489,7 @@ libgl1-nvidia-legacy-390xx-glvnd-glx/buster 390.138-1~deb10u1 amd64
 libgl1-nvidia-legacy-390xx-glx/buster 390.138-1~deb10u1 amd64
 libgl1-nvidia-tesla-418-glvnd-glx/buster-backports 418.152.00-1~bpo10+1 amd64
 libgl1-nvidia-tesla-418-glx/buster-backports 418.152.00-1~bpo10+1 amd64
+libgl1-nvidia-tesla-450-glvnd-glx/buster-backports 450.51.06-2~bpo10+1 amd64
 libgl2ps-dev/buster 1.4.0+dfsg1-2 amd64
 libgl2ps-doc/buster 1.4.0+dfsg1-2 all
 libgl2ps1.4/buster 1.4.0+dfsg1-2 amd64
@@ -22512,6 +22519,8 @@ libgles-nvidia-legacy-390xx1/buster 390.138-1~deb10u1 amd64
 libgles-nvidia-legacy-390xx2/buster 390.138-1~deb10u1 amd64
 libgles-nvidia-tesla-418-1/buster-backports 418.152.00-1~bpo10+1 amd64
 libgles-nvidia-tesla-418-2/buster-backports 418.152.00-1~bpo10+1 amd64
+libgles-nvidia-tesla-450-1/buster-backports 450.51.06-2~bpo10+1 amd64
+libgles-nvidia-tesla-450-2/buster-backports 450.51.06-2~bpo10+1 amd64
 libgles-nvidia1/buster 418.152.00-1 amd64
 libgles-nvidia2/buster 418.152.00-1 amd64
 libgles1/buster 1.1.0-1 amd64
@@ -22697,6 +22706,7 @@ libglw1-mesa-dev/buster 8.0.0-1.1+b1 amd64
 libglx-mesa0/buster 18.3.6-2+deb10u1 amd64
 libglx-nvidia-legacy-390xx0/buster 390.138-1~deb10u1 amd64
 libglx-nvidia-tesla-418-0/buster-backports 418.152.00-1~bpo10+1 amd64
+libglx-nvidia-tesla-450-0/buster-backports 450.51.06-2~bpo10+1 amd64
 libglx-nvidia0/buster 418.152.00-1 amd64
 libglx0/buster 1.1.0-1 amd64
 libglyr-dev/buster 1.0.10-1 amd64
@@ -28386,7 +28396,7 @@ libnvblas9.2/buster 9.2.148-7 amd64
 libnvcuvid1/buster 418.152.00-1 amd64
 libnvgraph10/buster-backports 10.1.243-6~bpo10+1 amd64
 libnvgraph9.2/buster 9.2.148-7 amd64
-libnvidia-allocator1/buster-backports 440.100-1~bpo10+1 amd64
+libnvidia-allocator1/buster-backports 450.66-1~bpo10+1 amd64
 libnvidia-cbl/buster 418.152.00-1 amd64
 libnvidia-cfg1/buster 418.152.00-1 amd64
 libnvidia-compiler/buster 418.152.00-1 amd64
@@ -28423,6 +28433,7 @@ libnvidia-legacy-390xx-nvcuvid1/buster 390.138-1~deb10u1 amd64
 libnvidia-legacy-390xx-ptxjitcompiler1/buster 390.138-1~deb10u1 amd64
 libnvidia-ml-dev/buster-backports 10.1.243-6~bpo10+1 amd64
 libnvidia-ml1/buster 418.152.00-1 amd64
+libnvidia-ngx1/buster-backports 450.66-1~bpo10+1 amd64
 libnvidia-opticalflow1/buster 418.152.00-1 amd64
 libnvidia-ptxjitcompiler1/buster 418.152.00-1 amd64
 libnvidia-rtcore/buster 418.152.00-1 amd64
@@ -28443,6 +28454,24 @@ libnvidia-tesla-418-nvoptix1/buster-backports 418.152.00-1~bpo10+1 amd64
 libnvidia-tesla-418-opticalflow1/buster-backports 418.152.00-1~bpo10+1 amd64
 libnvidia-tesla-418-ptxjitcompiler1/buster-backports 418.152.00-1~bpo10+1 amd64
 libnvidia-tesla-418-rtcore/buster-backports 418.152.00-1~bpo10+1 amd64
+libnvidia-tesla-450-allocator1/buster-backports 450.51.06-2~bpo10+1 amd64
+libnvidia-tesla-450-cbl/buster-backports 450.51.06-2~bpo10+1 amd64
+libnvidia-tesla-450-cfg1/buster-backports 450.51.06-2~bpo10+1 amd64
+libnvidia-tesla-450-compiler/buster-backports 450.51.06-2~bpo10+1 amd64
+libnvidia-tesla-450-cuda1/buster-backports 450.51.06-2~bpo10+1 amd64
+libnvidia-tesla-450-eglcore/buster-backports 450.51.06-2~bpo10+1 amd64
+libnvidia-tesla-450-encode1/buster-backports 450.51.06-2~bpo10+1 amd64
+libnvidia-tesla-450-fbc1/buster-backports 450.51.06-2~bpo10+1 amd64
+libnvidia-tesla-450-glcore/buster-backports 450.51.06-2~bpo10+1 amd64
+libnvidia-tesla-450-glvkspirv/buster-backports 450.51.06-2~bpo10+1 amd64
+libnvidia-tesla-450-ifr1/buster-backports 450.51.06-2~bpo10+1 amd64
+libnvidia-tesla-450-ml1/buster-backports 450.51.06-2~bpo10+1 amd64
+libnvidia-tesla-450-ngx1/buster-backports 450.51.06-2~bpo10+1 amd64
+libnvidia-tesla-450-nvcuvid1/buster-backports 450.51.06-2~bpo10+1 amd64
+libnvidia-tesla-450-nvoptix1/buster-backports 450.51.06-2~bpo10+1 amd64
+libnvidia-tesla-450-opticalflow1/buster-backports 450.51.06-2~bpo10+1 amd64
+libnvidia-tesla-450-ptxjitcompiler1/buster-backports 450.51.06-2~bpo10+1 amd64
+libnvidia-tesla-450-rtcore/buster-backports 450.51.06-2~bpo10+1 amd64
 libnvjpeg10/buster-backports 10.1.243-6~bpo10+1 amd64
 libnvoptix1/buster 418.152.00-1 amd64
 libnvpair1linux/buster 0.7.12-2+deb10u2 amd64
@@ -30370,6 +30399,7 @@ libqes-dev/buster 0.2.8-1 amd64
 libqes0/buster 0.2.8-1 amd64
 libqfits-dev/buster 6.2.0-8+b2 amd64
 libqfits0/buster 6.2.0-8+b2 amd64
+libqgis-3d3.10.10/buster-backports 3.10.10+dfsg-1~bpo10+1 amd64
 libqgis-3d3.10.3/buster-backports 3.10.3+dfsg-1~bpo10+1 amd64
 libqgis-3d3.10.5/buster-backports 3.10.5+dfsg-1~bpo10+1 amd64
 libqgis-3d3.10.6/buster-backports 3.10.6+dfsg-1~bpo10+1 amd64
@@ -30378,6 +30408,7 @@ libqgis-3d3.10.8/buster-backports 3.10.8+dfsg-1~bpo10+1 amd64
 libqgis-3d3.10.9/buster-backports 3.10.9+dfsg-1~bpo10+1 amd64
 libqgis-3d3.4.15/buster-backports 3.4.15+dfsg-1~bpo10+1 amd64
 libqgis-analysis2.18.28/buster 2.18.28+dfsg-2 amd64
+libqgis-analysis3.10.10/buster-backports 3.10.10+dfsg-1~bpo10+1 amd64
 libqgis-analysis3.10.3/buster-backports 3.10.3+dfsg-1~bpo10+1 amd64
 libqgis-analysis3.10.5/buster-backports 3.10.5+dfsg-1~bpo10+1 amd64
 libqgis-analysis3.10.6/buster-backports 3.10.6+dfsg-1~bpo10+1 amd64
@@ -30386,6 +30417,7 @@ libqgis-analysis3.10.8/buster-backports 3.10.8+dfsg-1~bpo10+1 amd64
 libqgis-analysis3.10.9/buster-backports 3.10.9+dfsg-1~bpo10+1 amd64
 libqgis-analysis3.4.15/buster-backports 3.4.15+dfsg-1~bpo10+1 amd64
 libqgis-app2.18.28/buster 2.18.28+dfsg-2 amd64
+libqgis-app3.10.10/buster-backports 3.10.10+dfsg-1~bpo10+1 amd64
 libqgis-app3.10.3/buster-backports 3.10.3+dfsg-1~bpo10+1 amd64
 libqgis-app3.10.5/buster-backports 3.10.5+dfsg-1~bpo10+1 amd64
 libqgis-app3.10.6/buster-backports 3.10.6+dfsg-1~bpo10+1 amd64
@@ -30394,6 +30426,7 @@ libqgis-app3.10.8/buster-backports 3.10.8+dfsg-1~bpo10+1 amd64
 libqgis-app3.10.9/buster-backports 3.10.9+dfsg-1~bpo10+1 amd64
 libqgis-app3.4.15/buster-backports 3.4.15+dfsg-1~bpo10+1 amd64
 libqgis-core2.18.28/buster 2.18.28+dfsg-2 amd64
+libqgis-core3.10.10/buster-backports 3.10.10+dfsg-1~bpo10+1 amd64
 libqgis-core3.10.3/buster-backports 3.10.3+dfsg-1~bpo10+1 amd64
 libqgis-core3.10.5/buster-backports 3.10.5+dfsg-1~bpo10+1 amd64
 libqgis-core3.10.6/buster-backports 3.10.6+dfsg-1~bpo10+1 amd64
@@ -30404,6 +30437,7 @@ libqgis-core3.4.15/buster-backports 3.4.15+dfsg-1~bpo10+1 amd64
 libqgis-customwidgets/buster 2.18.28+dfsg-2 amd64
 libqgis-dev/buster 2.18.28+dfsg-2 amd64
 libqgis-gui2.18.28/buster 2.18.28+dfsg-2 amd64
+libqgis-gui3.10.10/buster-backports 3.10.10+dfsg-1~bpo10+1 amd64
 libqgis-gui3.10.3/buster-backports 3.10.3+dfsg-1~bpo10+1 amd64
 libqgis-gui3.10.5/buster-backports 3.10.5+dfsg-1~bpo10+1 amd64
 libqgis-gui3.10.6/buster-backports 3.10.6+dfsg-1~bpo10+1 amd64
@@ -30411,6 +30445,7 @@ libqgis-gui3.10.7/buster-backports 3.10.7+dfsg-1~bpo10+1 amd64
 libqgis-gui3.10.8/buster-backports 3.10.8+dfsg-1~bpo10+1 amd64
 libqgis-gui3.10.9/buster-backports 3.10.9+dfsg-1~bpo10+1 amd64
 libqgis-gui3.4.15/buster-backports 3.4.15+dfsg-1~bpo10+1 amd64
+libqgis-native3.10.10/buster-backports 3.10.10+dfsg-1~bpo10+1 amd64
 libqgis-native3.10.3/buster-backports 3.10.3+dfsg-1~bpo10+1 amd64
 libqgis-native3.10.5/buster-backports 3.10.5+dfsg-1~bpo10+1 amd64
 libqgis-native3.10.6/buster-backports 3.10.6+dfsg-1~bpo10+1 amd64
@@ -30420,6 +30455,7 @@ libqgis-native3.10.9/buster-backports 3.10.9+dfsg-1~bpo10+1 amd64
 libqgis-native3.4.15/buster-backports 3.4.15+dfsg-1~bpo10+1 amd64
 libqgis-networkanalysis2.18.28/buster 2.18.28+dfsg-2 amd64
 libqgis-server2.18.28/buster 2.18.28+dfsg-2 amd64
+libqgis-server3.10.10/buster-backports 3.10.10+dfsg-1~bpo10+1 amd64
 libqgis-server3.10.3/buster-backports 3.10.3+dfsg-1~bpo10+1 amd64
 libqgis-server3.10.5/buster-backports 3.10.5+dfsg-1~bpo10+1 amd64
 libqgis-server3.10.6/buster-backports 3.10.6+dfsg-1~bpo10+1 amd64
@@ -30428,6 +30464,7 @@ libqgis-server3.10.8/buster-backports 3.10.8+dfsg-1~bpo10+1 amd64
 libqgis-server3.10.9/buster-backports 3.10.9+dfsg-1~bpo10+1 amd64
 libqgis-server3.4.15/buster-backports 3.4.15+dfsg-1~bpo10+1 amd64
 libqgisgrass7-2.18.28/buster 2.18.28+dfsg-2 amd64
+libqgisgrass7-3.10.10/buster-backports 3.10.10+dfsg-1~bpo10+1 amd64
 libqgisgrass7-3.10.3/buster-backports 3.10.3+dfsg-1~bpo10+1 amd64
 libqgisgrass7-3.10.5/buster-backports 3.10.5+dfsg-1~bpo10+1 amd64
 libqgisgrass7-3.10.6/buster-backports 3.10.6+dfsg-1~bpo10+1 amd64
@@ -30436,6 +30473,7 @@ libqgisgrass7-3.10.8/buster-backports 3.10.8+dfsg-1~bpo10+1 amd64
 libqgisgrass7-3.10.9/buster-backports 3.10.9+dfsg-1~bpo10+1 amd64
 libqgisgrass7-3.4.15/buster-backports 3.4.15+dfsg-1~bpo10+1 amd64
 libqgispython2.18.28/buster 2.18.28+dfsg-2 amd64
+libqgispython3.10.10/buster-backports 3.10.10+dfsg-1~bpo10+1 amd64
 libqgispython3.10.3/buster-backports 3.10.3+dfsg-1~bpo10+1 amd64
 libqgispython3.10.5/buster-backports 3.10.5+dfsg-1~bpo10+1 amd64
 libqgispython3.10.6/buster-backports 3.10.6+dfsg-1~bpo10+1 amd64
@@ -34684,9 +34722,9 @@ libtpm-unseal1/buster 1.3.9.1-0.2 amd64
 libtrace-tools/buster 3.0.21-1+b2 amd64
 libtrace3/buster 3.0.21-1+b2 amd64
 libtrace3-dev/buster 3.0.21-1+b2 amd64
-libtraceevent-dev/buster-backports 5.7.10-1~bpo10+1 amd64
-libtraceevent1/buster-backports 5.7.10-1~bpo10+1 amd64
-libtraceevent1-plugin/buster-backports 5.7.10-1~bpo10+1 amd64
+libtraceevent-dev/buster-backports 5.8.10-1~bpo10+1 amd64
+libtraceevent1/buster-backports 5.8.10-1~bpo10+1 amd64
+libtraceevent1-plugin/buster-backports 5.8.10-1~bpo10+1 amd64
 libtracker-control-2.0-0/buster 2.1.8-2 amd64
 libtracker-control-2.0-dev/buster 2.1.8-2 amd64
 libtracker-control-doc/buster 2.1.8-2 all
@@ -36819,6 +36857,7 @@ linux-config-5.4/buster-backports 5.4.19-1~bpo10+1 amd64
 linux-config-5.5/buster-backports 5.5.17-1~bpo10+1 amd64
 linux-config-5.6/buster-backports 5.6.14-2~bpo10+1 amd64
 linux-config-5.7/buster-backports 5.7.10-1~bpo10+1 amd64
+linux-config-5.8/buster-backports 5.8.10-1~bpo10+1 amd64
 linux-cpupower/buster 4.19.146-1 amd64
 linux-doc/buster 4.19+105+deb10u6 all
 linux-doc-4.19/buster 4.19.146-1 all
@@ -36826,6 +36865,7 @@ linux-doc-5.4/buster-backports 5.4.19-1~bpo10+1 all
 linux-doc-5.5/buster-backports 5.5.17-1~bpo10+1 all
 linux-doc-5.6/buster-backports 5.6.14-2~bpo10+1 all
 linux-doc-5.7/buster-backports 5.7.10-1~bpo10+1 all
+linux-doc-5.8/buster-backports 5.8.10-1~bpo10+1 all
 linux-headers-4.19.0-10-all/buster 4.19.132-1 amd64
 linux-headers-4.19.0-10-all-amd64/buster 4.19.132-1 amd64
 linux-headers-4.19.0-10-amd64/buster 4.19.132-1 amd64
@@ -36874,6 +36914,9 @@ linux-headers-5.6.0-0.bpo.2-rt-amd64/buster-backports 5.6.14-2~bpo10+1 amd64
 linux-headers-5.7.0-0.bpo.2-amd64/buster-backports 5.7.10-1~bpo10+1 amd64
 linux-headers-5.7.0-0.bpo.2-cloud-amd64/buster-backports 5.7.10-1~bpo10+1 amd64
 linux-headers-5.7.0-0.bpo.2-common/buster-backports 5.7.10-1~bpo10+1 all
+linux-headers-5.8.0-0.bpo.2-amd64/buster-backports 5.8.10-1~bpo10+1 amd64
+linux-headers-5.8.0-0.bpo.2-cloud-amd64/buster-backports 5.8.10-1~bpo10+1 amd64
+linux-headers-5.8.0-0.bpo.2-common/buster-backports 5.8.10-1~bpo10+1 all
 linux-headers-amd64/buster 4.19+105+deb10u6 amd64
 linux-headers-cloud-amd64/buster 4.19+105+deb10u6 amd64
 linux-headers-rt-amd64/buster 4.19+105+deb10u6 amd64
@@ -36943,6 +36986,10 @@ linux-image-5.7.0-0.bpo.2-amd64-unsigned/buster-backports 5.7.10-1~bpo10+1 amd64
 linux-image-5.7.0-0.bpo.2-cloud-amd64/buster-backports 5.7.10-1~bpo10+1 amd64
 linux-image-5.7.0-0.bpo.2-cloud-amd64-dbg/buster-backports 5.7.10-1~bpo10+1 amd64
 linux-image-5.7.0-0.bpo.2-cloud-amd64-unsigned/buster-backports 5.7.10-1~bpo10+1 amd64
+linux-image-5.8.0-0.bpo.2-amd64-dbg/buster-backports 5.8.10-1~bpo10+1 amd64
+linux-image-5.8.0-0.bpo.2-amd64-unsigned/buster-backports 5.8.10-1~bpo10+1 amd64
+linux-image-5.8.0-0.bpo.2-cloud-amd64-dbg/buster-backports 5.8.10-1~bpo10+1 amd64
+linux-image-5.8.0-0.bpo.2-cloud-amd64-unsigned/buster-backports 5.8.10-1~bpo10+1 amd64
 linux-image-amd64/buster 4.19+105+deb10u6 amd64
 linux-image-amd64-dbg/buster 4.19+105+deb10u6 amd64
 linux-image-amd64-signed-template/buster 4.19.146-1 amd64
@@ -36955,6 +37002,7 @@ linux-kbuild-5.4/buster-backports 5.4.19-1~bpo10+1 amd64
 linux-kbuild-5.5/buster-backports 5.5.17-1~bpo10+1 amd64
 linux-kbuild-5.6/buster-backports 5.6.14-2~bpo10+1 amd64
 linux-kbuild-5.7/buster-backports 5.7.10-1~bpo10+1 amd64
+linux-kbuild-5.8/buster-backports 5.8.10-1~bpo10+1 amd64
 linux-libc-dev/buster 4.19.146-1 amd64
 linux-libc-dev-alpha-cross/buster 4.19.20-1cross1 all
 linux-libc-dev-amd64-cross/buster 4.19.20-1cross1 all
@@ -36991,6 +37039,7 @@ linux-perf-5.4/buster-backports 5.4.19-1~bpo10+1 amd64
 linux-perf-5.5/buster-backports 5.5.17-1~bpo10+1 amd64
 linux-perf-5.6/buster-backports 5.6.14-2~bpo10+1 amd64
 linux-perf-5.7/buster-backports 5.7.10-1~bpo10+1 amd64
+linux-perf-5.8/buster-backports 5.8.10-1~bpo10+1 amd64
 linux-show-player/buster 0.5.1-2 all
 linux-source/buster 4.19+105+deb10u6 all
 linux-source-4.19/buster 4.19.146-1 all
@@ -36998,6 +37047,7 @@ linux-source-5.4/buster-backports 5.4.19-1~bpo10+1 all
 linux-source-5.5/buster-backports 5.5.17-1~bpo10+1 all
 linux-source-5.6/buster-backports 5.6.14-2~bpo10+1 all
 linux-source-5.7/buster-backports 5.7.10-1~bpo10+1 all
+linux-source-5.8/buster-backports 5.8.10-1~bpo10+1 all
 linux-support-4.19.0-10/buster 4.19.132-1 all
 linux-support-4.19.0-11/buster 4.19.146-1 all
 linux-support-5.4.0-0.bpo.2/buster-backports 5.4.8-1~bpo10+1 all
@@ -37006,6 +37056,7 @@ linux-support-5.4.0-0.bpo.4/buster-backports 5.4.19-1~bpo10+1 all
 linux-support-5.5.0-0.bpo.2/buster-backports 5.5.17-1~bpo10+1 all
 linux-support-5.6.0-0.bpo.2/buster-backports 5.6.14-2~bpo10+1 all
 linux-support-5.7.0-0.bpo.2/buster-backports 5.7.10-1~bpo10+1 all
+linux-support-5.8.0-0.bpo.2/buster-backports 5.8.10-1~bpo10+1 all
 linux-user-chroot/buster 2013.1-2+b1 amd64
 linux-user-chroot-dbg/buster 2013.1-2+b1 amd64
 linuxbrew-wrapper/buster 20180923-1 all
@@ -41126,6 +41177,18 @@ nvidia-tesla-418-opencl-icd/buster-backports 418.152.00-1~bpo10+1 amd64
 nvidia-tesla-418-smi/buster-backports 418.152.00-1~bpo10+1 amd64
 nvidia-tesla-418-vdpau-driver/buster-backports 418.152.00-1~bpo10+1 amd64
 nvidia-tesla-418-vulkan-icd/buster-backports 418.152.00-1~bpo10+1 amd64
+nvidia-tesla-450-alternative/buster-backports 450.51.06-2~bpo10+1 amd64
+nvidia-tesla-450-driver/buster-backports 450.51.06-2~bpo10+1 amd64
+nvidia-tesla-450-driver-bin/buster-backports 450.51.06-2~bpo10+1 amd64
+nvidia-tesla-450-driver-libs/buster-backports 450.51.06-2~bpo10+1 amd64
+nvidia-tesla-450-egl-icd/buster-backports 450.51.06-2~bpo10+1 amd64
+nvidia-tesla-450-kernel-dkms/buster-backports 450.51.06-2~bpo10+1 amd64
+nvidia-tesla-450-kernel-source/buster-backports 450.51.06-2~bpo10+1 amd64
+nvidia-tesla-450-kernel-support/buster-backports 450.51.06-2~bpo10+1 amd64
+nvidia-tesla-450-opencl-icd/buster-backports 450.51.06-2~bpo10+1 amd64
+nvidia-tesla-450-smi/buster-backports 450.51.06-2~bpo10+1 amd64
+nvidia-tesla-450-vdpau-driver/buster-backports 450.51.06-2~bpo10+1 amd64
+nvidia-tesla-450-vulkan-icd/buster-backports 450.51.06-2~bpo10+1 amd64
 nvidia-tesla-driver/buster-backports 418.116.00-3~bpo10+1 amd64
 nvidia-vdpau-driver/buster 418.152.00-1 amd64
 nvidia-visual-profiler/buster 9.2.148-7 amd64
@@ -49552,8 +49615,8 @@ python3-pyzabbix/buster 0.7.4-1 all
 python3-pyzfs/buster-backports 0.8.4-2~bpo10+1 amd64
 python3-q/buster 2.6-1.1 all
 python3-q-text-as-data/buster 1.7.4+2018.12.21+git+28f776ed46-1 all
-python3-qgis/buster-backports 3.10.9+dfsg-1~bpo10+1 amd64
-python3-qgis-common/buster-backports 3.10.9+dfsg-1~bpo10+1 all
+python3-qgis/buster-backports 3.10.10+dfsg-1~bpo10+1 amd64
+python3-qgis-common/buster-backports 3.10.10+dfsg-1~bpo10+1 all
 python3-qinlingclient/buster 2.0.0-2 all
 python3-qpack/buster 0.0.17-1+b1 amd64
 python3-qpid-proton/buster 0.22.0-3 amd64
@@ -52696,6 +52759,7 @@ ruby-kyotocabinet/buster 1.32-2+b5 amd64
 ruby-lapack/buster 1.8.1-1+b1 amd64
 ruby-launchy-shim/buster 2.3.0.1 all
 ruby-ldap/buster 0.9.20-1 amd64
+ruby-leaflet-rails/buster-backports 1.6.0+dfsg-1~bpo10+1 all
 ruby-letter-opener/buster 1.7.0-1 all
 ruby-levenshtein/buster 0.2.2-2+b9 amd64
 ruby-libprelude/buster 4.1.0-4.2 amd64
@@ -58423,6 +58487,7 @@ xserver-xorg-video-nvidia/buster 418.152.00-1 amd64
 xserver-xorg-video-nvidia-legacy-340xx/buster 340.108-3~deb10u1 amd64
 xserver-xorg-video-nvidia-legacy-390xx/buster 390.138-1~deb10u1 amd64
 xserver-xorg-video-nvidia-tesla-418/buster-backports 418.152.00-1~bpo10+1 amd64
+xserver-xorg-video-nvidia-tesla-450/buster-backports 450.51.06-2~bpo10+1 amd64
 xserver-xorg-video-openchrome/buster 1:0.6.0-3+b1 amd64
 xserver-xorg-video-qxl/buster 0.1.5-2+b1 amd64
 xserver-xorg-video-r128/buster 6.12.0-1 amd64
