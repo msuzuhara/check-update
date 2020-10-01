@@ -47591,7 +47591,7 @@ python3-aioprocessing/buster 1.0.1-4 all
 python3-aioredis/buster 1.2.0-1 all
 python3-aiosasl/buster 0.4.0-1 all
 python3-aiosmtpd/buster 1.2-3 all
-python3-aiosqlite/buster-backports 0.11.0-1~bpo10+1 all
+python3-aiosqlite/buster-backports 0.15.0-2~bpo10+1 all
 python3-aiowsgi/buster 0.7-1 all
 python3-aioxmlrpc/buster 0.5-1 all
 python3-aioxmpp/buster 0.10.3-3 all
