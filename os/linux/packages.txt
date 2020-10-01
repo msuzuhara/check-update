@@ -13,9 +13,9 @@ CUnit.x86_64                               2.1.3-17.el8                  Stream-
 GConf2.i686                                3.2.6-22.el8                  Stream-AppStream
 GConf2.x86_64                              3.2.6-22.el8                  Stream-AppStream
 HdrHistogram.noarch                        2.1.11-2.module_el8.2.0+460+6583c1d0
-                                                                         AppStream
+                                                                         Stream-AppStream
 HdrHistogram-javadoc.noarch                2.1.11-2.module_el8.2.0+460+6583c1d0
-                                                                         AppStream
+                                                                         Stream-AppStream
 HdrHistogram_c.i686                        0.9.13-2.el8                  Stream-AppStream
 HdrHistogram_c.x86_64                      0.9.13-2.el8                  Stream-AppStream
 Judy.x86_64                                1.0.5-18.module_el8.1.0+217+4d875839
@@ -25,25 +25,25 @@ LibRaw.x86_64                              0.19.5-2.el8                  Stream-
 ModemManager.x86_64                        1.10.8-2.el8                  Stream-BaseOS
 ModemManager-glib.i686                     1.10.8-2.el8                  Stream-BaseOS
 ModemManager-glib.x86_64                   1.10.8-2.el8                  Stream-BaseOS
-NetworkManager.x86_64                      1:1.26.0-7.el8                Stream-BaseOS
-NetworkManager-adsl.x86_64                 1:1.26.0-7.el8                Stream-BaseOS
-NetworkManager-bluetooth.x86_64            1:1.26.0-7.el8                Stream-BaseOS
-NetworkManager-cloud-setup.x86_64          1:1.26.0-7.el8                Stream-AppStream
+NetworkManager.x86_64                      1:1.28.0-0.1.el8              Stream-BaseOS
+NetworkManager-adsl.x86_64                 1:1.28.0-0.1.el8              Stream-BaseOS
+NetworkManager-bluetooth.x86_64            1:1.28.0-0.1.el8              Stream-BaseOS
+NetworkManager-cloud-setup.x86_64          1:1.28.0-0.1.el8              Stream-AppStream
 NetworkManager-config-connectivity-redhat.noarch
-                                           1:1.26.0-7.el8                Stream-BaseOS
-NetworkManager-config-server.noarch        1:1.26.0-7.el8                Stream-BaseOS
+                                           1:1.28.0-0.1.el8              Stream-BaseOS
+NetworkManager-config-server.noarch        1:1.28.0-0.1.el8              Stream-BaseOS
 NetworkManager-dispatcher-routing-rules.noarch
-                                           1:1.26.0-7.el8                Stream-BaseOS
-NetworkManager-libnm.i686                  1:1.26.0-7.el8                Stream-BaseOS
-NetworkManager-libnm.x86_64                1:1.26.0-7.el8                Stream-BaseOS
+                                           1:1.28.0-0.1.el8              Stream-BaseOS
+NetworkManager-libnm.i686                  1:1.28.0-0.1.el8              Stream-BaseOS
+NetworkManager-libnm.x86_64                1:1.28.0-0.1.el8              Stream-BaseOS
 NetworkManager-libreswan.x86_64            1.2.10-4.el8                  Stream-AppStream
 NetworkManager-libreswan-gnome.x86_64      1.2.10-4.el8                  Stream-AppStream
-NetworkManager-ovs.x86_64                  1:1.26.0-7.el8                Stream-BaseOS
-NetworkManager-ppp.x86_64                  1:1.26.0-7.el8                Stream-BaseOS
-NetworkManager-team.x86_64                 1:1.26.0-7.el8                Stream-BaseOS
-NetworkManager-tui.x86_64                  1:1.26.0-7.el8                Stream-BaseOS
-NetworkManager-wifi.x86_64                 1:1.26.0-7.el8                Stream-BaseOS
-NetworkManager-wwan.x86_64                 1:1.26.0-7.el8                Stream-BaseOS
+NetworkManager-ovs.x86_64                  1:1.28.0-0.1.el8              Stream-BaseOS
+NetworkManager-ppp.x86_64                  1:1.28.0-0.1.el8              Stream-BaseOS
+NetworkManager-team.x86_64                 1:1.28.0-0.1.el8              Stream-BaseOS
+NetworkManager-tui.x86_64                  1:1.28.0-0.1.el8              Stream-BaseOS
+NetworkManager-wifi.x86_64                 1:1.28.0-0.1.el8              Stream-BaseOS
+NetworkManager-wwan.x86_64                 1:1.28.0-0.1.el8              Stream-BaseOS
 OpenEXR-libs.i686                          2.2.0-11.el8                  Stream-AppStream
 OpenEXR-libs.x86_64                        2.2.0-11.el8                  Stream-AppStream
 OpenIPMI.i686                              2.0.27-1.el8                  Stream-BaseOS
@@ -142,15 +142,15 @@ amanda.x86_64                              3.5.1-13.el8                  Stream-
 amanda-client.x86_64                       3.5.1-13.el8                  Stream-AppStream
 amanda-libs.x86_64                         3.5.1-13.el8                  Stream-AppStream
 amanda-server.x86_64                       3.5.1-13.el8                  Stream-AppStream
-anaconda.x86_64                            33.16.3.24-1.el8              Stream-AppStream
-anaconda-core.x86_64                       33.16.3.24-1.el8              Stream-AppStream
-anaconda-dracut.x86_64                     33.16.3.24-1.el8              Stream-AppStream
-anaconda-gui.x86_64                        33.16.3.24-1.el8              Stream-AppStream
-anaconda-install-env-deps.x86_64           33.16.3.24-1.el8              Stream-AppStream
-anaconda-tui.x86_64                        33.16.3.24-1.el8              Stream-AppStream
+anaconda.x86_64                            33.16.3.26-1.el8              Stream-AppStream
+anaconda-core.x86_64                       33.16.3.26-1.el8              Stream-AppStream
+anaconda-dracut.x86_64                     33.16.3.26-1.el8              Stream-AppStream
+anaconda-gui.x86_64                        33.16.3.26-1.el8              Stream-AppStream
+anaconda-install-env-deps.x86_64           33.16.3.26-1.el8              Stream-AppStream
+anaconda-tui.x86_64                        33.16.3.26-1.el8              Stream-AppStream
 anaconda-user-help.noarch                  1:8.3.3-1.el8                 Stream-AppStream
-anaconda-widgets.i686                      33.16.3.24-1.el8              Stream-AppStream
-anaconda-widgets.x86_64                    33.16.3.24-1.el8              Stream-AppStream
+anaconda-widgets.i686                      33.16.3.26-1.el8              Stream-AppStream
+anaconda-widgets.x86_64                    33.16.3.26-1.el8              Stream-AppStream
 annobin.x86_64                             9.23-1.el8                    Stream-AppStream
 annobin-annocheck.x86_64                   9.23-1.el8                    Stream-AppStream
 ansible-freeipa.noarch                     0.1.12-6.el8                  Stream-AppStream
@@ -203,10 +203,10 @@ aspell.i686                                12:0.60.6.1-21.el8            Stream-
 aspell.x86_64                              12:0.60.6.1-21.el8            Stream-AppStream
 aspell-en.x86_64                           50:2017.08.24-2.el8           Stream-AppStream
 aspnetcore-runtime-3.0.x86_64              3.0.3-1.el8_1                 Stream-AppStream
-aspnetcore-runtime-3.1.x86_64              3.1.8-2.el8                   Stream-AppStream
+aspnetcore-runtime-3.1.x86_64              3.1.8-3.el8                   Stream-AppStream
 aspnetcore-runtime-5.0.x86_64              5.0.0-0.6.preview8.el8        Stream-AppStream
 aspnetcore-targeting-pack-3.0.x86_64       3.0.3-1.el8_1                 Stream-AppStream
-aspnetcore-targeting-pack-3.1.x86_64       3.1.8-2.el8                   Stream-AppStream
+aspnetcore-targeting-pack-3.1.x86_64       3.1.8-3.el8                   Stream-AppStream
 aspnetcore-targeting-pack-5.0.x86_64       5.0.0-0.6.preview8.el8        Stream-AppStream
 at.x86_64                                  3.1.20-11.el8                 Stream-BaseOS
 at-spi2-atk.i686                           2.26.2-1.el8                  Stream-AppStream
@@ -432,7 +432,7 @@ boost-type_erasure.i686                    1.66.0-10.el8                 Stream-
 boost-type_erasure.x86_64                  1.66.0-10.el8                 Stream-AppStream
 boost-wave.i686                            1.66.0-10.el8                 Stream-AppStream
 boost-wave.x86_64                          1.66.0-10.el8                 Stream-AppStream
-bpftool.x86_64                             4.18.0-236.el8                Stream-BaseOS
+bpftool.x86_64                             4.18.0-240.el8                Stream-BaseOS
 bpftrace.x86_64                            0.10.0-4.el8                  Stream-AppStream
 bpg-algeti-fonts.noarch                    2.005-11.el8                  Stream-AppStream
 bpg-chveulebrivi-fonts.noarch              3.002-11.el8                  Stream-AppStream
@@ -529,8 +529,8 @@ celt051.x86_64                             0.5.1.3-15.el8                Stream-
 centos-backgrounds.noarch                  80.5-2.el8                    Stream-AppStream
 centos-gpg-keys.noarch                     1:8-1.el8                     Stream-BaseOS
 centos-indexhtml.noarch                    8.0-0.el8                     Stream-AppStream
-centos-logos.x86_64                        80.5-2.el8                    Stream-BaseOS
-centos-logos-httpd.noarch                  80.5-2.el8                    Stream-BaseOS
+centos-logos.x86_64                        80.5-2.el8                    Stream-AppStream
+centos-logos-httpd.noarch                  80.5-2.el8                    Stream-AppStream
 centos-logos-ipa.noarch                    80.5-2.el8                    Stream-AppStream
 centos-obsolete-packages.noarch            8-4                           BaseOS 
 centos-release.x86_64                      8.2-2.2004.0.2.el8            Stream-BaseOS
@@ -559,9 +559,9 @@ centos-release-samba412.noarch             1.0-1.el8                     extras
 centos-release-storage-common.noarch       2-2.el8                       Stream-extras
 centos-release-stream.x86_64               8.1-1.1911.0.7.el8            Stream-extras
 centos-release-virt-common.noarch          1-2.el8                       Stream-extras
-centos-repos.x86_64                        8.2-2.2004.0.2.el8            BaseOS 
+centos-repos.x86_64                        8.2-2.2004.0.2.el8            Stream-BaseOS
 centos-stream-release.noarch               8.3-1.el8                     Stream-BaseOS
-centos-stream-repos.noarch                 8-1.el8                       Stream-BaseOS
+centos-stream-repos.noarch                 8-1.el8                       Stream-AppStream
 certmonger.x86_64                          0.79.7-15.el8                 Stream-AppStream
 cgdcbxd.x86_64                             1.0.2-9.el8                   Stream-AppStream
 chan.i686                                  0.0.4-3.el8                   Stream-AppStream
@@ -580,9 +580,9 @@ chrony.x86_64                              3.5-1.el8                     Stream-
 chrpath.x86_64                             0.16-7.el8                    Stream-BaseOS
 cifs-utils.x86_64                          6.8-3.el8                     Stream-BaseOS
 cim-schema.noarch                          2.43.0-8.el8                  Stream-AppStream
-cjose.x86_64                               0.6.1-2.module_el8.0.0+13+fe691f1d
+cjose.x86_64                               0.6.1-2.module_el8.2.0+463+d53af530
                                                                          Stream-AppStream
-cjose-devel.x86_64                         0.6.1-2.module_el8.0.0+13+fe691f1d
+cjose-devel.x86_64                         0.6.1-2.module_el8.2.0+463+d53af530
                                                                          Stream-AppStream
 clang.i686                                 10.0.1-1.module_el8.3.0+467+cb298d5b
                                                                          Stream-AppStream
@@ -628,13 +628,13 @@ clutter-gst3.i686                          3.0.26-1.el8                  Stream-
 clutter-gst3.x86_64                        3.0.26-1.el8                  Stream-AppStream
 clutter-gtk.i686                           1.8.4-3.el8                   Stream-AppStream
 clutter-gtk.x86_64                         1.8.4-3.el8                   Stream-AppStream
-cmake.x86_64                               3.11.4-7.el8                  Stream-AppStream
-cmake-data.noarch                          3.11.4-7.el8                  Stream-AppStream
-cmake-doc.noarch                           3.11.4-7.el8                  Stream-AppStream
-cmake-filesystem.i686                      3.11.4-7.el8                  Stream-AppStream
-cmake-filesystem.x86_64                    3.11.4-7.el8                  Stream-AppStream
-cmake-gui.x86_64                           3.11.4-7.el8                  Stream-AppStream
-cmake-rpm-macros.noarch                    3.11.4-7.el8                  Stream-AppStream
+cmake.x86_64                               3.18.2-7.el8                  Stream-AppStream
+cmake-data.noarch                          3.18.2-7.el8                  Stream-AppStream
+cmake-doc.noarch                           3.18.2-7.el8                  Stream-AppStream
+cmake-filesystem.i686                      3.18.2-7.el8                  Stream-AppStream
+cmake-filesystem.x86_64                    3.18.2-7.el8                  Stream-AppStream
+cmake-gui.x86_64                           3.18.2-7.el8                  Stream-AppStream
+cmake-rpm-macros.noarch                    3.18.2-7.el8                  Stream-AppStream
 cockpit.x86_64                             224.2-1.el8                   Stream-BaseOS
 cockpit-bridge.x86_64                      224.2-1.el8                   Stream-BaseOS
 cockpit-composer.noarch                    22.1-1.el8                    Stream-AppStream
@@ -813,7 +813,7 @@ dejavu-fonts-common.noarch                 2.35-6.el8                    Stream-
 dejavu-sans-fonts.noarch                   2.35-6.el8                    Stream-BaseOS
 dejavu-sans-mono-fonts.noarch              2.35-6.el8                    Stream-BaseOS
 dejavu-serif-fonts.noarch                  2.35-6.el8                    Stream-BaseOS
-delve.x86_64                               1.4.1-1.module_el8.3.0+471+76db7791
+delve.x86_64                               1.5.0-1.module_el8.4.0+515+10a82a47
                                                                          Stream-AppStream
 desktop-file-utils.x86_64                  0.23-8.el8                    Stream-AppStream
 devhelp.x86_64                             1:3.28.1-5.el8                Stream-AppStream
@@ -839,9 +839,9 @@ dialog.i686                                1.3-13.20171209.el8           Stream-
 dialog.x86_64                              1.3-13.20171209.el8           Stream-AppStream
 diffstat.x86_64                            1.61-7.el8                    Stream-AppStream
 diffutils.x86_64                           3.6-6.el8                     Stream-BaseOS
-directory-maven-plugin.noarch              0.3.1-1.module_el8.1.0+281+049b0c48
+directory-maven-plugin.noarch              0.3.1-1.module_el8.2.0+460+6583c1d0
                                                                          Stream-AppStream
-directory-maven-plugin-javadoc.noarch      0.3.1-1.module_el8.1.0+281+049b0c48
+directory-maven-plugin-javadoc.noarch      0.3.1-1.module_el8.2.0+460+6583c1d0
                                                                          Stream-AppStream
 dirsplit.x86_64                            1.1.11-39.el8                 Stream-AppStream
 dleyna-connector-dbus.x86_64               0.3.0-2.el8                   Stream-AppStream
@@ -871,27 +871,27 @@ dotconf.i686                               1.3-18.el8                    Stream-
 dotconf.x86_64                             1.3-18.el8                    Stream-AppStream
 dotnet.x86_64                              5.0.100-0.6.preview8.el8      Stream-AppStream
 dotnet-apphost-pack-3.0.x86_64             3.0.3-1.el8_1                 Stream-AppStream
-dotnet-apphost-pack-3.1.x86_64             3.1.8-2.el8                   Stream-AppStream
+dotnet-apphost-pack-3.1.x86_64             3.1.8-3.el8                   Stream-AppStream
 dotnet-apphost-pack-5.0.x86_64             5.0.0-0.6.preview8.el8        Stream-AppStream
 dotnet-host.x86_64                         5.0.0-0.6.preview8.el8        Stream-AppStream
 dotnet-host-fxr-2.1.x86_64                 2.1.22-1.el8                  Stream-AppStream
 dotnet-hostfxr-3.0.x86_64                  3.0.3-1.el8_1                 Stream-AppStream
-dotnet-hostfxr-3.1.x86_64                  3.1.8-2.el8                   Stream-AppStream
+dotnet-hostfxr-3.1.x86_64                  3.1.8-3.el8                   Stream-AppStream
 dotnet-hostfxr-5.0.x86_64                  5.0.0-0.6.preview8.el8        Stream-AppStream
 dotnet-runtime-2.1.x86_64                  2.1.22-1.el8                  Stream-AppStream
 dotnet-runtime-3.0.x86_64                  3.0.3-1.el8_1                 Stream-AppStream
-dotnet-runtime-3.1.x86_64                  3.1.8-2.el8                   Stream-AppStream
+dotnet-runtime-3.1.x86_64                  3.1.8-3.el8                   Stream-AppStream
 dotnet-runtime-5.0.x86_64                  5.0.0-0.6.preview8.el8        Stream-AppStream
 dotnet-sdk-2.1.x86_64                      2.1.518-1.el8                 Stream-AppStream
 dotnet-sdk-2.1.5xx.x86_64                  2.1.518-1.el8                 Stream-AppStream
 dotnet-sdk-3.0.x86_64                      3.0.103-1.el8_1               Stream-AppStream
-dotnet-sdk-3.1.x86_64                      3.1.108-2.el8                 Stream-AppStream
+dotnet-sdk-3.1.x86_64                      3.1.108-3.el8                 Stream-AppStream
 dotnet-sdk-5.0.x86_64                      5.0.100-0.6.preview8.el8      Stream-AppStream
 dotnet-targeting-pack-3.0.x86_64           3.0.3-1.el8_1                 Stream-AppStream
-dotnet-targeting-pack-3.1.x86_64           3.1.8-2.el8                   Stream-AppStream
+dotnet-targeting-pack-3.1.x86_64           3.1.8-3.el8                   Stream-AppStream
 dotnet-targeting-pack-5.0.x86_64           5.0.0-0.6.preview8.el8        Stream-AppStream
 dotnet-templates-3.0.x86_64                3.0.103-1.el8_1               Stream-AppStream
-dotnet-templates-3.1.x86_64                3.1.108-2.el8                 Stream-AppStream
+dotnet-templates-3.1.x86_64                3.1.108-3.el8                 Stream-AppStream
 dotnet-templates-5.0.x86_64                5.0.100-0.6.preview8.el8      Stream-AppStream
 dovecot.x86_64                             1:2.3.8-4.el8                 Stream-AppStream
 dovecot-mysql.x86_64                       1:2.3.8-4.el8                 Stream-AppStream
@@ -925,7 +925,7 @@ e2fsprogs-libs.i686                        1.45.6-1.el8                  Stream-
 e2fsprogs-libs.x86_64                      1.45.6-1.el8                  Stream-BaseOS
 ed.x86_64                                  1.14.2-4.el8                  Stream-BaseOS
 edk2-ovmf.noarch                           20200602gitca407c7246bf-3.el8 Stream-AppStream
-ee4j-parent.noarch                         1.0.1-1.module_el8.1.0+281+049b0c48
+ee4j-parent.noarch                         1.0.1-1.module_el8.2.0+460+6583c1d0
                                                                          Stream-AppStream
 efi-filesystem.noarch                      3-2.el8                       Stream-BaseOS
 efi-srpm-macros.noarch                     3-2.el8                       Stream-AppStream
@@ -1009,44 +1009,44 @@ fapolicyd-selinux.noarch                   1.0-3.el8                     Stream-
 farstream02.i686                           0.2.8-2.el8                   Stream-AppStream
 farstream02.x86_64                         0.2.8-2.el8                   Stream-AppStream
 fcoe-utils.x86_64                          1.0.32-7.el8                  Stream-BaseOS
-fence-agents-all.x86_64                    4.2.1-53.el8                  Stream-AppStream
-fence-agents-amt-ws.noarch                 4.2.1-53.el8                  Stream-AppStream
-fence-agents-apc.noarch                    4.2.1-53.el8                  Stream-AppStream
-fence-agents-apc-snmp.noarch               4.2.1-53.el8                  Stream-AppStream
-fence-agents-bladecenter.noarch            4.2.1-53.el8                  Stream-AppStream
-fence-agents-brocade.noarch                4.2.1-53.el8                  Stream-AppStream
-fence-agents-cisco-mds.noarch              4.2.1-53.el8                  Stream-AppStream
-fence-agents-cisco-ucs.noarch              4.2.1-53.el8                  Stream-AppStream
-fence-agents-common.noarch                 4.2.1-53.el8                  Stream-AppStream
-fence-agents-compute.noarch                4.2.1-53.el8                  Stream-AppStream
-fence-agents-drac5.noarch                  4.2.1-53.el8                  Stream-AppStream
-fence-agents-eaton-snmp.noarch             4.2.1-53.el8                  Stream-AppStream
-fence-agents-emerson.noarch                4.2.1-53.el8                  Stream-AppStream
-fence-agents-eps.noarch                    4.2.1-53.el8                  Stream-AppStream
-fence-agents-heuristics-ping.noarch        4.2.1-53.el8                  Stream-AppStream
-fence-agents-hpblade.noarch                4.2.1-53.el8                  Stream-AppStream
-fence-agents-ibmblade.noarch               4.2.1-53.el8                  Stream-AppStream
-fence-agents-ifmib.noarch                  4.2.1-53.el8                  Stream-AppStream
-fence-agents-ilo-moonshot.noarch           4.2.1-53.el8                  Stream-AppStream
-fence-agents-ilo-mp.noarch                 4.2.1-53.el8                  Stream-AppStream
-fence-agents-ilo-ssh.noarch                4.2.1-53.el8                  Stream-AppStream
-fence-agents-ilo2.noarch                   4.2.1-53.el8                  Stream-AppStream
-fence-agents-intelmodular.noarch           4.2.1-53.el8                  Stream-AppStream
-fence-agents-ipdu.noarch                   4.2.1-53.el8                  Stream-AppStream
-fence-agents-ipmilan.noarch                4.2.1-53.el8                  Stream-AppStream
-fence-agents-kdump.x86_64                  4.2.1-53.el8                  Stream-AppStream
-fence-agents-lpar.noarch                   4.2.1-53.el8                  Stream-AppStream
-fence-agents-mpath.noarch                  4.2.1-53.el8                  Stream-AppStream
-fence-agents-redfish.x86_64                4.2.1-53.el8                  Stream-AppStream
-fence-agents-rhevm.noarch                  4.2.1-53.el8                  Stream-AppStream
-fence-agents-rsa.noarch                    4.2.1-53.el8                  Stream-AppStream
-fence-agents-rsb.noarch                    4.2.1-53.el8                  Stream-AppStream
-fence-agents-sbd.noarch                    4.2.1-53.el8                  Stream-AppStream
-fence-agents-scsi.noarch                   4.2.1-53.el8                  Stream-AppStream
-fence-agents-virsh.noarch                  4.2.1-53.el8                  Stream-AppStream
-fence-agents-vmware-rest.noarch            4.2.1-53.el8                  Stream-AppStream
-fence-agents-vmware-soap.noarch            4.2.1-53.el8                  Stream-AppStream
-fence-agents-wti.noarch                    4.2.1-53.el8                  Stream-AppStream
+fence-agents-all.x86_64                    4.2.1-55.el8                  Stream-AppStream
+fence-agents-amt-ws.noarch                 4.2.1-55.el8                  Stream-AppStream
+fence-agents-apc.noarch                    4.2.1-55.el8                  Stream-AppStream
+fence-agents-apc-snmp.noarch               4.2.1-55.el8                  Stream-AppStream
+fence-agents-bladecenter.noarch            4.2.1-55.el8                  Stream-AppStream
+fence-agents-brocade.noarch                4.2.1-55.el8                  Stream-AppStream
+fence-agents-cisco-mds.noarch              4.2.1-55.el8                  Stream-AppStream
+fence-agents-cisco-ucs.noarch              4.2.1-55.el8                  Stream-AppStream
+fence-agents-common.noarch                 4.2.1-55.el8                  Stream-AppStream
+fence-agents-compute.noarch                4.2.1-55.el8                  Stream-AppStream
+fence-agents-drac5.noarch                  4.2.1-55.el8                  Stream-AppStream
+fence-agents-eaton-snmp.noarch             4.2.1-55.el8                  Stream-AppStream
+fence-agents-emerson.noarch                4.2.1-55.el8                  Stream-AppStream
+fence-agents-eps.noarch                    4.2.1-55.el8                  Stream-AppStream
+fence-agents-heuristics-ping.noarch        4.2.1-55.el8                  Stream-AppStream
+fence-agents-hpblade.noarch                4.2.1-55.el8                  Stream-AppStream
+fence-agents-ibmblade.noarch               4.2.1-55.el8                  Stream-AppStream
+fence-agents-ifmib.noarch                  4.2.1-55.el8                  Stream-AppStream
+fence-agents-ilo-moonshot.noarch           4.2.1-55.el8                  Stream-AppStream
+fence-agents-ilo-mp.noarch                 4.2.1-55.el8                  Stream-AppStream
+fence-agents-ilo-ssh.noarch                4.2.1-55.el8                  Stream-AppStream
+fence-agents-ilo2.noarch                   4.2.1-55.el8                  Stream-AppStream
+fence-agents-intelmodular.noarch           4.2.1-55.el8                  Stream-AppStream
+fence-agents-ipdu.noarch                   4.2.1-55.el8                  Stream-AppStream
+fence-agents-ipmilan.noarch                4.2.1-55.el8                  Stream-AppStream
+fence-agents-kdump.x86_64                  4.2.1-55.el8                  Stream-AppStream
+fence-agents-lpar.noarch                   4.2.1-55.el8                  Stream-AppStream
+fence-agents-mpath.noarch                  4.2.1-55.el8                  Stream-AppStream
+fence-agents-redfish.x86_64                4.2.1-55.el8                  Stream-AppStream
+fence-agents-rhevm.noarch                  4.2.1-55.el8                  Stream-AppStream
+fence-agents-rsa.noarch                    4.2.1-55.el8                  Stream-AppStream
+fence-agents-rsb.noarch                    4.2.1-55.el8                  Stream-AppStream
+fence-agents-sbd.noarch                    4.2.1-55.el8                  Stream-AppStream
+fence-agents-scsi.noarch                   4.2.1-55.el8                  Stream-AppStream
+fence-agents-virsh.noarch                  4.2.1-55.el8                  Stream-AppStream
+fence-agents-vmware-rest.noarch            4.2.1-55.el8                  Stream-AppStream
+fence-agents-vmware-soap.noarch            4.2.1-55.el8                  Stream-AppStream
+fence-agents-wti.noarch                    4.2.1-55.el8                  Stream-AppStream
 fence-virt.x86_64                          1.0.0-1.el8                   Stream-AppStream
 fence-virtd.x86_64                         1.0.0-1.el8                   Stream-AppStream
 fence-virtd-libvirt.x86_64                 1.0.0-1.el8                   Stream-AppStream
@@ -1080,19 +1080,19 @@ fio.x86_64                                 3.19-3.el8                    Stream-
 fipscheck.x86_64                           1.5.0-4.el8                   Stream-BaseOS
 fipscheck-lib.i686                         1.5.0-4.el8                   Stream-BaseOS
 fipscheck-lib.x86_64                       1.5.0-4.el8                   Stream-BaseOS
-firefox.x86_64                             78.2.0-3.el8                  Stream-AppStream
+firefox.x86_64                             78.3.0-1.el8                  Stream-AppStream
 firewall-applet.noarch                     0.8.2-2.el8                   Stream-AppStream
 firewall-config.noarch                     0.8.2-2.el8                   Stream-AppStream
 firewalld.noarch                           0.8.2-2.el8                   Stream-BaseOS
 firewalld-filesystem.noarch                0.8.2-2.el8                   Stream-BaseOS
 flac-libs.i686                             1.3.2-9.el8                   Stream-AppStream
 flac-libs.x86_64                           1.3.2-9.el8                   Stream-AppStream
-flatpak.x86_64                             1.6.2-3.el8                   Stream-AppStream
+flatpak.x86_64                             1.6.2-4.el8                   Stream-AppStream
 flatpak-builder.x86_64                     1.0.9-3.el8                   Stream-AppStream
-flatpak-libs.i686                          1.6.2-3.el8                   Stream-AppStream
-flatpak-libs.x86_64                        1.6.2-3.el8                   Stream-AppStream
-flatpak-selinux.noarch                     1.6.2-3.el8                   Stream-AppStream
-flatpak-session-helper.x86_64              1.6.2-3.el8                   Stream-AppStream
+flatpak-libs.i686                          1.6.2-4.el8                   Stream-AppStream
+flatpak-libs.x86_64                        1.6.2-4.el8                   Stream-AppStream
+flatpak-selinux.noarch                     1.6.2-4.el8                   Stream-AppStream
+flatpak-session-helper.x86_64              1.6.2-4.el8                   Stream-AppStream
 flex.x86_64                                2.6.1-9.el8                   Stream-AppStream
 flex-doc.x86_64                            2.6.1-9.el8                   Stream-AppStream
 fltk.i686                                  1.3.4-5.el8                   Stream-AppStream
@@ -1171,7 +1171,7 @@ fuse-devel.i686                            2.9.7-12.el8                  Stream-
 fuse-devel.x86_64                          2.9.7-12.el8                  Stream-BaseOS
 fuse-libs.i686                             2.9.7-12.el8                  Stream-BaseOS
 fuse-libs.x86_64                           2.9.7-12.el8                  Stream-BaseOS
-fuse-overlayfs.x86_64                      1.1.2-2.module_el8.3.0+475+c50ce30b
+fuse-overlayfs.x86_64                      1.1.2-3.module_el8.3.0+507+aa0970ae
                                                                          Stream-AppStream
 fuse3.x86_64                               3.2.1-12.el8                  Stream-BaseOS
 fuse3-devel.i686                           3.2.1-12.el8                  Stream-BaseOS
@@ -1207,6 +1207,8 @@ gcc-toolset-10-binutils-devel.x86_64       2.35-5.el8                    Stream-
 gcc-toolset-10-build.x86_64                10.0-0.el8                    Stream-AppStream
 gcc-toolset-10-dwz.x86_64                  0.12-1.1.el8                  Stream-AppStream
 gcc-toolset-10-dyninst.x86_64              10.1.0-2.el8                  Stream-AppStream
+gcc-toolset-10-dyninst-devel.i686          10.1.0-2.el8                  Stream-AppStream
+gcc-toolset-10-dyninst-devel.x86_64        10.1.0-2.el8                  Stream-AppStream
 gcc-toolset-10-elfutils.x86_64             0.180-1.el8                   Stream-AppStream
 gcc-toolset-10-elfutils-debuginfod-client.i686
                                            0.180-1.el8                   Stream-AppStream
@@ -1264,6 +1266,7 @@ gcc-toolset-10-systemtap-sdt-devel.i686    4.3-7.el8                     Stream-
 gcc-toolset-10-systemtap-sdt-devel.x86_64  4.3-7.el8                     Stream-AppStream
 gcc-toolset-10-systemtap-server.x86_64     4.3-7.el8                     Stream-AppStream
 gcc-toolset-10-toolchain.x86_64            10.0-0.el8                    Stream-AppStream
+gcc-toolset-10-valgrind.i686               1:3.16.0-3.el8                Stream-AppStream
 gcc-toolset-10-valgrind.x86_64             1:3.16.0-3.el8                Stream-AppStream
 gcc-toolset-10-valgrind-devel.i686         1:3.16.0-3.el8                Stream-AppStream
 gcc-toolset-10-valgrind-devel.x86_64       1:3.16.0-3.el8                Stream-AppStream
@@ -1800,25 +1803,25 @@ gnutls-devel.i686                          3.6.14-6.el8                  Stream-
 gnutls-devel.x86_64                        3.6.14-6.el8                  Stream-AppStream
 gnutls-utils.x86_64                        3.6.14-6.el8                  Stream-AppStream
 go-srpm-macros.noarch                      2-16.el8                      Stream-AppStream
-go-toolset.x86_64                          1.14.7-1.module_el8.3.0+471+76db7791
+go-toolset.x86_64                          1.15.0-1.module_el8.4.0+515+10a82a47
                                                                          Stream-AppStream
 gobject-introspection.i686                 1.56.1-1.el8                  Stream-BaseOS
 gobject-introspection.x86_64               1.56.1-1.el8                  Stream-BaseOS
 gobject-introspection-devel.i686           1.56.1-1.el8                  Stream-AppStream
 gobject-introspection-devel.x86_64         1.56.1-1.el8                  Stream-AppStream
-golang.x86_64                              1.14.7-2.module_el8.3.0+471+76db7791
+golang.x86_64                              1.15.0-1.module_el8.4.0+515+10a82a47
                                                                          Stream-AppStream
-golang-bin.x86_64                          1.14.7-2.module_el8.3.0+471+76db7791
+golang-bin.x86_64                          1.15.0-1.module_el8.4.0+515+10a82a47
                                                                          Stream-AppStream
-golang-docs.noarch                         1.14.7-2.module_el8.3.0+471+76db7791
+golang-docs.noarch                         1.15.0-1.module_el8.4.0+515+10a82a47
                                                                          Stream-AppStream
-golang-misc.noarch                         1.14.7-2.module_el8.3.0+471+76db7791
+golang-misc.noarch                         1.15.0-1.module_el8.4.0+515+10a82a47
                                                                          Stream-AppStream
-golang-race.x86_64                         1.14.7-2.module_el8.3.0+471+76db7791
+golang-race.x86_64                         1.15.0-1.module_el8.4.0+515+10a82a47
                                                                          Stream-AppStream
-golang-src.noarch                          1.14.7-2.module_el8.3.0+471+76db7791
+golang-src.noarch                          1.15.0-1.module_el8.4.0+515+10a82a47
                                                                          Stream-AppStream
-golang-tests.noarch                        1.14.7-2.module_el8.3.0+471+76db7791
+golang-tests.noarch                        1.15.0-1.module_el8.4.0+515+10a82a47
                                                                          Stream-AppStream
 gom.i686                                   0.4-1.el8                     Stream-AppStream
 gom.x86_64                                 0.4-1.el8                     Stream-AppStream
@@ -2322,7 +2325,7 @@ hunspell-wa.noarch                         0.4.17-9.el8                  Stream-
 hunspell-xh.noarch                         0.20091030-14.el8             Stream-AppStream
 hunspell-yi.noarch                         1.1-15.el8                    Stream-AppStream
 hunspell-zu.noarch                         0.20100126-16.el8             Stream-AppStream
-hwdata.noarch                              0.314-8.5.el8                 Stream-BaseOS
+hwdata.noarch                              0.314-8.6.el8                 Stream-BaseOS
 hwloc.x86_64                               1.11.9-3.el8                  Stream-BaseOS
 hwloc-gui.x86_64                           1.11.9-3.el8                  Stream-AppStream
 hwloc-libs.i686                            1.11.9-3.el8                  Stream-BaseOS
@@ -2455,15 +2458,15 @@ intel-gpu-tools.x86_64                     2.99.917-39.20200205.el8      Stream-
 intltool.noarch                            0.51.0-11.el8                 Stream-AppStream
 iotop.noarch                               0.6-16.el8                    Stream-BaseOS
 iowatcher.x86_64                           1.2.0-10.el8                  Stream-AppStream
-ipa-client.x86_64                          4.8.7-11.module_el8.3.0+502+2680e7f3
+ipa-client.x86_64                          4.8.7-12.module_el8.3.0+514+e7703106
                                                                          Stream-AppStream
-ipa-client-common.noarch                   4.8.7-11.module_el8.3.0+502+2680e7f3
+ipa-client-common.noarch                   4.8.7-12.module_el8.3.0+514+e7703106
                                                                          Stream-AppStream
-ipa-client-epn.x86_64                      4.8.7-11.module_el8.3.0+502+2680e7f3
+ipa-client-epn.x86_64                      4.8.7-12.module_el8.3.0+514+e7703106
                                                                          Stream-AppStream
-ipa-client-samba.x86_64                    4.8.7-11.module_el8.3.0+502+2680e7f3
+ipa-client-samba.x86_64                    4.8.7-12.module_el8.3.0+514+e7703106
                                                                          Stream-AppStream
-ipa-common.noarch                          4.8.7-11.module_el8.3.0+502+2680e7f3
+ipa-common.noarch                          4.8.7-12.module_el8.3.0+514+e7703106
                                                                          Stream-AppStream
 ipa-healthcheck.noarch                     0.4-6.module_el8.3.0+482+9e103aab
                                                                          Stream-AppStream
@@ -2471,17 +2474,17 @@ ipa-healthcheck-core.noarch                0.4-6.module_el8.3.0+482+9e103aab
                                                                          Stream-AppStream
 ipa-idoverride-memberof-plugin.x86_64      0.0.4-6.module_el8.2.0+374+0d2d74a1
                                                                          AppStream
-ipa-python-compat.noarch                   4.8.7-11.module_el8.3.0+502+2680e7f3
+ipa-python-compat.noarch                   4.8.7-12.module_el8.3.0+514+e7703106
                                                                          Stream-AppStream
-ipa-selinux.noarch                         4.8.7-11.module_el8.3.0+502+2680e7f3
+ipa-selinux.noarch                         4.8.7-12.module_el8.3.0+514+e7703106
                                                                          Stream-AppStream
-ipa-server.x86_64                          4.8.7-10.module_el8.3.0+482+9e103aab
+ipa-server.x86_64                          4.8.7-12.module_el8.3.0+511+8a502f20
                                                                          Stream-AppStream
-ipa-server-common.noarch                   4.8.7-10.module_el8.3.0+482+9e103aab
+ipa-server-common.noarch                   4.8.7-12.module_el8.3.0+511+8a502f20
                                                                          Stream-AppStream
-ipa-server-dns.noarch                      4.8.7-10.module_el8.3.0+482+9e103aab
+ipa-server-dns.noarch                      4.8.7-12.module_el8.3.0+511+8a502f20
                                                                          Stream-AppStream
-ipa-server-trust-ad.x86_64                 4.8.7-10.module_el8.3.0+482+9e103aab
+ipa-server-trust-ad.x86_64                 4.8.7-12.module_el8.3.0+511+8a502f20
                                                                          Stream-AppStream
 ipcalc.x86_64                              0.2.4-4.el8                   Stream-BaseOS
 iperf3.i686                                3.5-6.el8                     Stream-AppStream
@@ -2561,9 +2564,9 @@ jackson-jaxrs-providers.noarch             2.9.9-1.module_el8.3.0+454+67dccca4
                                                                          Stream-AppStream
 jackson-module-jaxb-annotations.noarch     2.7.6-4.module_el8.3.0+454+67dccca4
                                                                          Stream-AppStream
-jaf.noarch                                 1.2.1-3.module_el8.1.0+281+049b0c48
+jaf.noarch                                 1.2.1-4.module_el8.2.0+460+6583c1d0
                                                                          Stream-AppStream
-jaf-javadoc.noarch                         1.2.1-3.module_el8.1.0+281+049b0c48
+jaf-javadoc.noarch                         1.2.1-4.module_el8.2.0+460+6583c1d0
                                                                          Stream-AppStream
 jakarta-commons-httpclient.noarch          1:3.1-28.module_el8.3.0+454+67dccca4
                                                                          Stream-AppStream
@@ -2577,25 +2580,23 @@ jansson-devel.i686                         2.11-3.el8                    Stream-
 jansson-devel.x86_64                       2.11-3.el8                    Stream-AppStream
 jasper-libs.i686                           2.0.14-4.el8                  Stream-AppStream
 jasper-libs.x86_64                         2.0.14-4.el8                  Stream-AppStream
-java-1.8.0-openjdk.x86_64                  1:1.8.0.265.b01-3.el8         Stream-AppStream
-java-1.8.0-openjdk-accessibility.x86_64    1:1.8.0.265.b01-3.el8         Stream-AppStream
-java-1.8.0-openjdk-demo.x86_64             1:1.8.0.265.b01-3.el8         Stream-AppStream
-java-1.8.0-openjdk-devel.x86_64            1:1.8.0.265.b01-3.el8         Stream-AppStream
-java-1.8.0-openjdk-headless.x86_64         1:1.8.0.265.b01-3.el8         Stream-AppStream
-java-1.8.0-openjdk-headless-slowdebug.x86_64
-                                           1:1.8.0.265.b01-3.el8         Stream-AppStream
-java-1.8.0-openjdk-javadoc.noarch          1:1.8.0.265.b01-3.el8         Stream-AppStream
-java-1.8.0-openjdk-javadoc-zip.noarch      1:1.8.0.265.b01-3.el8         Stream-AppStream
-java-1.8.0-openjdk-slowdebug.x86_64        1:1.8.0.265.b01-3.el8         Stream-AppStream
-java-1.8.0-openjdk-src.x86_64              1:1.8.0.265.b01-3.el8         Stream-AppStream
-java-11-openjdk.x86_64                     1:11.0.8.10-5.el8             Stream-AppStream
-java-11-openjdk-demo.x86_64                1:11.0.8.10-5.el8             Stream-AppStream
-java-11-openjdk-devel.x86_64               1:11.0.8.10-5.el8             Stream-AppStream
-java-11-openjdk-headless.x86_64            1:11.0.8.10-5.el8             Stream-AppStream
-java-11-openjdk-javadoc.x86_64             1:11.0.8.10-5.el8             Stream-AppStream
-java-11-openjdk-javadoc-zip.x86_64         1:11.0.8.10-5.el8             Stream-AppStream
-java-11-openjdk-jmods.x86_64               1:11.0.8.10-5.el8             Stream-AppStream
-java-11-openjdk-src.x86_64                 1:11.0.8.10-5.el8             Stream-AppStream
+java-1.8.0-openjdk.x86_64                  1:1.8.0.265.b01-4.el8         Stream-AppStream
+java-1.8.0-openjdk-accessibility.x86_64    1:1.8.0.265.b01-4.el8         Stream-AppStream
+java-1.8.0-openjdk-demo.x86_64             1:1.8.0.265.b01-4.el8         Stream-AppStream
+java-1.8.0-openjdk-devel.x86_64            1:1.8.0.265.b01-4.el8         Stream-AppStream
+java-1.8.0-openjdk-headless.x86_64         1:1.8.0.265.b01-4.el8         Stream-AppStream
+java-1.8.0-openjdk-javadoc.noarch          1:1.8.0.265.b01-4.el8         Stream-AppStream
+java-1.8.0-openjdk-javadoc-zip.noarch      1:1.8.0.265.b01-4.el8         Stream-AppStream
+java-1.8.0-openjdk-src.x86_64              1:1.8.0.265.b01-4.el8         Stream-AppStream
+java-11-openjdk.x86_64                     1:11.0.8.10-6.el8             Stream-AppStream
+java-11-openjdk-demo.x86_64                1:11.0.8.10-6.el8             Stream-AppStream
+java-11-openjdk-devel.x86_64               1:11.0.8.10-6.el8             Stream-AppStream
+java-11-openjdk-headless.x86_64            1:11.0.8.10-6.el8             Stream-AppStream
+java-11-openjdk-javadoc.x86_64             1:11.0.8.10-6.el8             Stream-AppStream
+java-11-openjdk-javadoc-zip.x86_64         1:11.0.8.10-6.el8             Stream-AppStream
+java-11-openjdk-jmods.x86_64               1:11.0.8.10-6.el8             Stream-AppStream
+java-11-openjdk-src.x86_64                 1:11.0.8.10-6.el8             Stream-AppStream
+java-11-openjdk-static-libs.x86_64         1:11.0.8.10-6.el8             Stream-AppStream
 java-atk-wrapper.x86_64                    0.33.2-6.el8                  Stream-AppStream
 javapackages-filesystem.noarch             5.3.0-1.module_el8.0.0+11+5b8c10bd
                                                                          Stream-AppStream
@@ -2622,11 +2623,11 @@ jimtcl.i686                                0.77-5.el8                    Stream-
 jimtcl.x86_64                              0.77-5.el8                    Stream-BaseOS
 jline.noarch                               2.14.6-2.module_el8.0.0+82+8ee6c375
                                                                          Stream-AppStream
-jmc.x86_64                                 7.0.0-4.module_el8.1.0+281+049b0c48
+jmc.x86_64                                 7.1.1-5.module_el8.2.0+460+6583c1d0
                                                                          Stream-AppStream
-jmc-core.noarch                            7.0.0-3.module_el8.1.0+281+049b0c48
+jmc-core.noarch                            7.1.1-3.module_el8.2.0+460+6583c1d0
                                                                          Stream-AppStream
-jmc-core-javadoc.noarch                    7.0.0-3.module_el8.1.0+281+049b0c48
+jmc-core-javadoc.noarch                    7.1.1-3.module_el8.2.0+460+6583c1d0
                                                                          Stream-AppStream
 jna.x86_64                                 4.5.1-5.el8                   Stream-AppStream
 jolokia-jvm-agent.noarch                   1.6.2-3.el8                   AppStream
@@ -2672,23 +2673,23 @@ kbd-legacy.noarch                          2.0.4-10.el8                  Stream-
 kbd-misc.noarch                            2.0.4-10.el8                  Stream-BaseOS
 kdump-anaconda-addon.noarch                003-5.20200810git0202fa1.el8  Stream-AppStream
 keepalived.x86_64                          2.0.10-11.el8                 Stream-AppStream
-kernel.x86_64                              4.18.0-236.el8                Stream-BaseOS
-kernel-abi-whitelists.noarch               4.18.0-236.el8                Stream-BaseOS
-kernel-core.x86_64                         4.18.0-236.el8                Stream-BaseOS
-kernel-cross-headers.x86_64                4.18.0-236.el8                Stream-BaseOS
-kernel-debug.x86_64                        4.18.0-236.el8                Stream-BaseOS
-kernel-debug-core.x86_64                   4.18.0-236.el8                Stream-BaseOS
-kernel-debug-devel.x86_64                  4.18.0-236.el8                Stream-BaseOS
-kernel-debug-modules.x86_64                4.18.0-236.el8                Stream-BaseOS
-kernel-debug-modules-extra.x86_64          4.18.0-236.el8                Stream-BaseOS
-kernel-devel.x86_64                        4.18.0-236.el8                Stream-BaseOS
-kernel-doc.noarch                          4.18.0-236.el8                Stream-BaseOS
-kernel-headers.x86_64                      4.18.0-236.el8                Stream-BaseOS
-kernel-modules.x86_64                      4.18.0-236.el8                Stream-BaseOS
-kernel-modules-extra.x86_64                4.18.0-236.el8                Stream-BaseOS
+kernel.x86_64                              4.18.0-240.el8                Stream-BaseOS
+kernel-abi-whitelists.noarch               4.18.0-240.el8                Stream-BaseOS
+kernel-core.x86_64                         4.18.0-240.el8                Stream-BaseOS
+kernel-cross-headers.x86_64                4.18.0-240.el8                Stream-BaseOS
+kernel-debug.x86_64                        4.18.0-240.el8                Stream-BaseOS
+kernel-debug-core.x86_64                   4.18.0-240.el8                Stream-BaseOS
+kernel-debug-devel.x86_64                  4.18.0-240.el8                Stream-BaseOS
+kernel-debug-modules.x86_64                4.18.0-240.el8                Stream-BaseOS
+kernel-debug-modules-extra.x86_64          4.18.0-240.el8                Stream-BaseOS
+kernel-devel.x86_64                        4.18.0-240.el8                Stream-BaseOS
+kernel-doc.noarch                          4.18.0-240.el8                Stream-BaseOS
+kernel-headers.x86_64                      4.18.0-240.el8                Stream-BaseOS
+kernel-modules.x86_64                      4.18.0-240.el8                Stream-BaseOS
+kernel-modules-extra.x86_64                4.18.0-240.el8                Stream-BaseOS
 kernel-rpm-macros.noarch                   123-1.el8                     Stream-AppStream
-kernel-tools.x86_64                        4.18.0-236.el8                Stream-BaseOS
-kernel-tools-libs.x86_64                   4.18.0-236.el8                Stream-BaseOS
+kernel-tools.x86_64                        4.18.0-240.el8                Stream-BaseOS
+kernel-tools-libs.x86_64                   4.18.0-240.el8                Stream-BaseOS
 kernelshark.x86_64                         2.7-8.el8                     Stream-AppStream
 kexec-tools.x86_64                         2.0.20-34.el8                 Stream-BaseOS
 keybinder3.i686                            0.3.2-4.el8                   Stream-AppStream
@@ -3602,10 +3603,10 @@ libpng12.i686                              1.2.57-5.el8                  Stream-
 libpng12.x86_64                            1.2.57-5.el8                  Stream-AppStream
 libpng15.i686                              1.5.30-7.el8                  Stream-AppStream
 libpng15.x86_64                            1.5.30-7.el8                  Stream-AppStream
-libpq.i686                                 12.3-1.el8                    Stream-AppStream
-libpq.x86_64                               12.3-1.el8                    Stream-AppStream
-libpq-devel.i686                           12.3-1.el8                    Stream-AppStream
-libpq-devel.x86_64                         12.3-1.el8                    Stream-AppStream
+libpq.i686                                 12.4-1.el8_2                  Stream-AppStream
+libpq.x86_64                               12.4-1.el8_2                  Stream-AppStream
+libpq-devel.i686                           12.4-1.el8_2                  Stream-AppStream
+libpq-devel.x86_64                         12.4-1.el8_2                  Stream-AppStream
 libproxy.i686                              0.4.15-5.2.el8                Stream-BaseOS
 libproxy.x86_64                            0.4.15-5.2.el8                Stream-BaseOS
 libproxy-bin.x86_64                        0.4.15-5.2.el8                Stream-AppStream
@@ -4003,8 +4004,8 @@ libuuid.i686                               2.32.1-24.el8                 Stream-
 libuuid.x86_64                             2.32.1-24.el8                 Stream-BaseOS
 libuuid-devel.i686                         2.32.1-24.el8                 Stream-BaseOS
 libuuid-devel.x86_64                       2.32.1-24.el8                 Stream-BaseOS
-libuv.i686                                 1:1.38.0-1.el8                Stream-AppStream
-libuv.x86_64                               1:1.38.0-1.el8                Stream-AppStream
+libuv.i686                                 1:1.38.0-2.el8                Stream-AppStream
+libuv.x86_64                               1:1.38.0-2.el8                Stream-AppStream
 libv4l.i686                                1.14.2-3.el8                  Stream-AppStream
 libv4l.x86_64                              1.14.2-3.el8                  Stream-AppStream
 libva.i686                                 2.5.0-2.el8                   Stream-AppStream
@@ -4145,6 +4146,8 @@ libxcrypt.i686                             4.1.1-4.el8                   Stream-
 libxcrypt.x86_64                           4.1.1-4.el8                   Stream-BaseOS
 libxcrypt-devel.i686                       4.1.1-4.el8                   Stream-BaseOS
 libxcrypt-devel.x86_64                     4.1.1-4.el8                   Stream-BaseOS
+libxdp.i686                                1.0.1-1.el8                   Stream-AppStream
+libxdp.x86_64                              1.0.1-1.el8                   Stream-AppStream
 libxkbcommon.i686                          0.9.1-1.el8                   Stream-AppStream
 libxkbcommon.x86_64                        0.9.1-1.el8                   Stream-AppStream
 libxkbcommon-devel.i686                    0.9.1-1.el8                   Stream-AppStream
@@ -4431,11 +4434,11 @@ mdadm.x86_64                               4.1-14.el8                    Stream-
 mdevctl.noarch                             0.61-3.el8                    Stream-AppStream
 meanwhile.i686                             1.1.0-23.el8                  Stream-AppStream
 meanwhile.x86_64                           1.1.0-23.el8                  Stream-AppStream
-mecab.x86_64                               0.996-1.module_el8.0.0+41+ca30bab6.9
+mecab.x86_64                               0.996-1.module_el8.2.0+493+63b41e36.9
                                                                          Stream-AppStream
-mecab-ipadic.x86_64                        2.7.0.20070801-16.module_el8.0.0+41+ca30bab6
+mecab-ipadic.x86_64                        2.7.0.20070801-16.module_el8.2.0+493+63b41e36
                                                                          Stream-AppStream
-mecab-ipadic-EUCJP.x86_64                  2.7.0.20070801-16.module_el8.0.0+41+ca30bab6
+mecab-ipadic-EUCJP.x86_64                  2.7.0.20070801-16.module_el8.2.0+493+63b41e36
                                                                          Stream-AppStream
 media-player-info.noarch                   23-2.el8                      Stream-AppStream
 memcached.x86_64                           1.5.22-2.el8                  Stream-AppStream
@@ -4491,7 +4494,7 @@ mobile-broadband-provider-info.noarch      20190618-2.el8                Stream-
 mod_auth_gssapi.x86_64                     1.6.1-6.el8                   Stream-AppStream
 mod_auth_mellon.x86_64                     0.14.0-11.el8                 Stream-AppStream
 mod_auth_mellon-diagnostics.x86_64         0.14.0-11.el8                 Stream-AppStream
-mod_auth_openidc.x86_64                    2.3.7-3.module_el8.0.0+13+fe691f1d
+mod_auth_openidc.x86_64                    2.3.7-4.module_el8.2.0+463+d53af530.3
                                                                          Stream-AppStream
 mod_authnz_pam.x86_64                      1.1.0-7.el8                   Stream-AppStream
 mod_dav_svn.x86_64                         1.10.2-3.module_el8.3.0+393+21cd8ae8
@@ -4562,19 +4565,19 @@ mutter.i686                                3.32.2-47.el8                 Stream-
 mutter.x86_64                              3.32.2-47.el8                 Stream-AppStream
 mvapich2.x86_64                            2.3.3-1.el8                   Stream-AppStream
 mvapich2-psm2.x86_64                       2.3.3-1.el8                   Stream-AppStream
-mysql.x86_64                               8.0.17-3.module_el8.0.0+181+899d6349
+mysql.x86_64                               8.0.21-1.module_el8.2.0+493+63b41e36
                                                                          Stream-AppStream
-mysql-common.x86_64                        8.0.17-3.module_el8.0.0+181+899d6349
+mysql-common.x86_64                        8.0.21-1.module_el8.2.0+493+63b41e36
                                                                          Stream-AppStream
-mysql-devel.x86_64                         8.0.17-3.module_el8.0.0+181+899d6349
+mysql-devel.x86_64                         8.0.21-1.module_el8.2.0+493+63b41e36
                                                                          Stream-AppStream
-mysql-errmsg.x86_64                        8.0.17-3.module_el8.0.0+181+899d6349
+mysql-errmsg.x86_64                        8.0.21-1.module_el8.2.0+493+63b41e36
                                                                          Stream-AppStream
-mysql-libs.x86_64                          8.0.17-3.module_el8.0.0+181+899d6349
+mysql-libs.x86_64                          8.0.21-1.module_el8.2.0+493+63b41e36
                                                                          Stream-AppStream
-mysql-server.x86_64                        8.0.17-3.module_el8.0.0+181+899d6349
+mysql-server.x86_64                        8.0.21-1.module_el8.2.0+493+63b41e36
                                                                          Stream-AppStream
-mysql-test.x86_64                          8.0.17-3.module_el8.0.0+181+899d6349
+mysql-test.x86_64                          8.0.21-1.module_el8.2.0+493+63b41e36
                                                                          Stream-AppStream
 mythes.i686                                1.2.4-9.el8                   Stream-AppStream
 mythes.x86_64                              1.2.4-9.el8                   Stream-AppStream
@@ -4709,19 +4712,19 @@ nmap.x86_64                                2:7.70-5.el8                  Stream-
 nmap-ncat.x86_64                           2:7.70-5.el8                  Stream-AppStream
 nmstate.noarch                             0.3.4-12.el8                  Stream-AppStream
 nmstate-plugin-ovsdb.noarch                0.3.4-12.el8                  Stream-AppStream
-nodejs.x86_64                              1:14.4.0-1.module_el8.3.0+402+6f8dd522
+nodejs.x86_64                              1:14.11.0-1.module_el8.3.0+516+516d0fc0
                                                                          Stream-AppStream
-nodejs-devel.x86_64                        1:14.4.0-1.module_el8.3.0+402+6f8dd522
+nodejs-devel.x86_64                        1:14.11.0-1.module_el8.3.0+516+516d0fc0
                                                                          Stream-AppStream
-nodejs-docs.noarch                         1:14.4.0-1.module_el8.3.0+402+6f8dd522
+nodejs-docs.noarch                         1:14.11.0-1.module_el8.3.0+516+516d0fc0
                                                                          Stream-AppStream
-nodejs-full-i18n.x86_64                    1:14.4.0-1.module_el8.3.0+402+6f8dd522
+nodejs-full-i18n.x86_64                    1:14.11.0-1.module_el8.3.0+516+516d0fc0
                                                                          Stream-AppStream
 nodejs-nodemon.noarch                      2.0.3-1.module_el8.3.0+402+6f8dd522
                                                                          Stream-AppStream
 nodejs-packaging.noarch                    23-3.module_el8.3.0+402+6f8dd522
                                                                          Stream-AppStream
-npm.x86_64                                 1:6.14.5-1.14.4.0.1.module_el8.3.0+402+6f8dd522
+npm.x86_64                                 1:6.14.8-1.14.11.0.1.module_el8.3.0+516+516d0fc0
                                                                          Stream-AppStream
 npth.i686                                  1.5-4.el8                     Stream-BaseOS
 npth.x86_64                                1.5-4.el8                     Stream-BaseOS
@@ -4772,9 +4775,9 @@ nvmetcli.noarch                            0.6-2.el8                     Stream-
 ocaml-srpm-macros.noarch                   5-4.el8                       Stream-AppStream
 oci-seccomp-bpf-hook.x86_64                1.1.2-3.module_el8.3.0+475+c50ce30b
                                                                          Stream-AppStream
-oci-systemd-hook.x86_64                    1:0.1.15-2.git2d0b8a3.module_el8.1.0+294+988780c8
+oci-systemd-hook.x86_64                    1:0.1.15-2.git2d0b8a3.module_el8.2.0+303+1105185b
                                                                          Stream-AppStream
-oci-umount.x86_64                          2:2.3.4-2.git87f9237.module_el8.1.0+294+988780c8
+oci-umount.x86_64                          2:2.3.4-2.git87f9237.module_el8.2.0+303+1105185b
                                                                          Stream-AppStream
 ocl-icd.i686                               2.2.12-1.el8                  Stream-AppStream
 ocl-icd.x86_64                             2.2.12-1.el8                  Stream-AppStream
@@ -4790,10 +4793,10 @@ opa-basic-tools.x86_64                     1:10.10.1.0.35-1.el8          Stream-
 opa-fastfabric.x86_64                      1:10.10.1.0.35-1.el8          Stream-BaseOS
 opa-fm.x86_64                              1:10.10.1.0.35-1.el8          Stream-BaseOS
 opa-libopamgt.x86_64                       1:10.10.1.0.35-1.el8          Stream-BaseOS
-opae.x86_64                                1.4.1-14.el8                  Stream-AppStream
 open-sans-fonts.noarch                     1.10-6.el8                    Stream-AppStream
 open-vm-tools.x86_64                       11.1.0-2.el8                  Stream-AppStream
 open-vm-tools-desktop.x86_64               11.1.0-2.el8                  Stream-AppStream
+open-vm-tools-sdmp.x86_64                  11.1.0-2.el8                  Stream-AppStream
 openal-soft.i686                           1.18.2-7.el8                  Stream-AppStream
 openal-soft.x86_64                         1.18.2-7.el8                  Stream-AppStream
 openblas.i686                              0.3.3-5.el8                   Stream-AppStream
@@ -4823,11 +4826,11 @@ openjpeg2.i686                             2.3.1-6.el8                   Stream-
 openjpeg2.x86_64                           2.3.1-6.el8                   Stream-AppStream
 openjpeg2-devel-docs.noarch                2.3.1-6.el8                   Stream-AppStream
 openjpeg2-tools.x86_64                     2.3.1-6.el8                   Stream-AppStream
-openldap.i686                              2.4.46-15.el8                 Stream-BaseOS
-openldap.x86_64                            2.4.46-15.el8                 Stream-BaseOS
-openldap-clients.x86_64                    2.4.46-15.el8                 Stream-BaseOS
-openldap-devel.i686                        2.4.46-15.el8                 Stream-BaseOS
-openldap-devel.x86_64                      2.4.46-15.el8                 Stream-BaseOS
+openldap.i686                              2.4.46-16.el8                 Stream-BaseOS
+openldap.x86_64                            2.4.46-16.el8                 Stream-BaseOS
+openldap-clients.x86_64                    2.4.46-16.el8                 Stream-BaseOS
+openldap-devel.i686                        2.4.46-16.el8                 Stream-BaseOS
+openldap-devel.x86_64                      2.4.46-16.el8                 Stream-BaseOS
 openmpi.i686                               4.0.3-3.el8                   Stream-AppStream
 openmpi.x86_64                             4.0.3-3.el8                   Stream-AppStream
 openmpi-devel.i686                         4.0.3-3.el8                   Stream-AppStream
@@ -4899,9 +4902,9 @@ ostree-libs.i686                           2020.5-4.el8                  Stream-
 ostree-libs.x86_64                         2020.5-4.el8                  Stream-AppStream
 overpass-fonts.noarch                      3.0.2-3.el8                   Stream-AppStream
 overpass-mono-fonts.noarch                 3.0.2-3.el8                   Stream-AppStream
-owasp-java-encoder.noarch                  1.2.2-2.module_el8.1.0+281+049b0c48
+owasp-java-encoder.noarch                  1.2.2-2.module_el8.2.0+460+6583c1d0
                                                                          Stream-AppStream
-owasp-java-encoder-javadoc.noarch          1.2.2-2.module_el8.1.0+281+049b0c48
+owasp-java-encoder-javadoc.noarch          1.2.2-2.module_el8.2.0+460+6583c1d0
                                                                          Stream-AppStream
 p11-kit.i686                               0.23.14-5.el8_0               Stream-BaseOS
 p11-kit.x86_64                             0.23.14-5.el8_0               Stream-BaseOS
@@ -5086,7 +5089,7 @@ pcsc-lite-libs.i686                        1.8.23-3.el8                  Stream-
 pcsc-lite-libs.x86_64                      1.8.23-3.el8                  Stream-BaseOS
 pentaho-libxml.noarch                      1.1.3-17.el8                  Stream-AppStream
 pentaho-reporting-flow-engine.noarch       1:0.9.4-15.el8                Stream-AppStream
-perf.x86_64                                4.18.0-236.el8                Stream-BaseOS
+perf.x86_64                                4.18.0-240.el8                Stream-BaseOS
 perftest.x86_64                            4.4-3.el8                     Stream-BaseOS
 peripety.x86_64                            0.1.2-3.el8                   Stream-AppStream
 perl.x86_64                                4:5.30.1-451.module_el8.3.0+406+78614513
@@ -5259,7 +5262,7 @@ perl-IO-Multiplex.noarch                   1.16-9.el8                    Stream-
 perl-IO-Socket-INET6.noarch                2.72-12.el8                   Stream-AppStream
 perl-IO-Socket-IP.noarch                   0.39-6.module_el8.3.0+406+78614513
                                                                          Stream-AppStream
-perl-IO-Socket-SSL.noarch                  2.066-4.module_el8.3.0+410+ff426aa3
+perl-IO-Socket-SSL.noarch                  2.066-4.module_el8.4.0+517+bf6cb135
                                                                          Stream-AppStream
 perl-IO-Zlib.noarch                        1:1.10-451.module_el8.3.0+406+78614513
                                                                          Stream-AppStream
@@ -5331,7 +5334,7 @@ perl-Net-HTTP.noarch                       6.17-2.module_el8.3.0+416+dee7bcef
 perl-Net-Ping.noarch                       2.71-451.module_el8.3.0+406+78614513
                                                                          Stream-AppStream
 perl-Net-SMTP-SSL.noarch                   1.04-5.el8                    Stream-AppStream
-perl-Net-SSLeay.x86_64                     1.88-1.module_el8.3.0+410+ff426aa3
+perl-Net-SSLeay.x86_64                     1.88-1.module_el8.4.0+517+bf6cb135
                                                                          Stream-AppStream
 perl-Net-Server.noarch                     2.009-3.el8                   Stream-AppStream
 perl-NetAddr-IP.x86_64                     4.079-7.el8                   Stream-AppStream
@@ -5581,7 +5584,7 @@ php-pgsql.x86_64                           7.4.6-4.module_el8.3.0+434+2ab5050a
                                                                          Stream-AppStream
 php-process.x86_64                         7.4.6-4.module_el8.3.0+434+2ab5050a
                                                                          Stream-AppStream
-php-recode.x86_64                          7.3.5-5.module_el8.2.0+314+53b99e08
+php-recode.x86_64                          7.3.20-1.module_el8.2.0+498+4deef2f1
                                                                          Stream-AppStream
 php-snmp.x86_64                            7.4.6-4.module_el8.3.0+434+2ab5050a
                                                                          Stream-AppStream
@@ -5660,43 +5663,43 @@ plexus-sec-dispatcher.noarch               1.4-29.module_el8.3.0+397+dd71f484
                                                                          Stream-AppStream
 plexus-utils.noarch                        3.3.0-3.module_el8.3.0+397+dd71f484
                                                                          Stream-AppStream
-plymouth.x86_64                            0.9.4-5.20200615git1e36e30.el8
+plymouth.x86_64                            0.9.4-6.20200615git1e36e30.el8
                                                                          Stream-AppStream
-plymouth-core-libs.i686                    0.9.4-5.20200615git1e36e30.el8
+plymouth-core-libs.i686                    0.9.4-6.20200615git1e36e30.el8
                                                                          Stream-AppStream
-plymouth-core-libs.x86_64                  0.9.4-5.20200615git1e36e30.el8
+plymouth-core-libs.x86_64                  0.9.4-6.20200615git1e36e30.el8
                                                                          Stream-AppStream
-plymouth-graphics-libs.i686                0.9.4-5.20200615git1e36e30.el8
+plymouth-graphics-libs.i686                0.9.4-6.20200615git1e36e30.el8
                                                                          Stream-AppStream
-plymouth-graphics-libs.x86_64              0.9.4-5.20200615git1e36e30.el8
+plymouth-graphics-libs.x86_64              0.9.4-6.20200615git1e36e30.el8
                                                                          Stream-AppStream
-plymouth-plugin-fade-throbber.x86_64       0.9.4-5.20200615git1e36e30.el8
+plymouth-plugin-fade-throbber.x86_64       0.9.4-6.20200615git1e36e30.el8
                                                                          Stream-AppStream
-plymouth-plugin-label.x86_64               0.9.4-5.20200615git1e36e30.el8
+plymouth-plugin-label.x86_64               0.9.4-6.20200615git1e36e30.el8
                                                                          Stream-AppStream
-plymouth-plugin-script.x86_64              0.9.4-5.20200615git1e36e30.el8
+plymouth-plugin-script.x86_64              0.9.4-6.20200615git1e36e30.el8
                                                                          Stream-AppStream
-plymouth-plugin-space-flares.x86_64        0.9.4-5.20200615git1e36e30.el8
+plymouth-plugin-space-flares.x86_64        0.9.4-6.20200615git1e36e30.el8
                                                                          Stream-AppStream
-plymouth-plugin-throbgress.x86_64          0.9.4-5.20200615git1e36e30.el8
+plymouth-plugin-throbgress.x86_64          0.9.4-6.20200615git1e36e30.el8
                                                                          Stream-AppStream
-plymouth-plugin-two-step.x86_64            0.9.4-5.20200615git1e36e30.el8
+plymouth-plugin-two-step.x86_64            0.9.4-6.20200615git1e36e30.el8
                                                                          Stream-AppStream
-plymouth-scripts.x86_64                    0.9.4-5.20200615git1e36e30.el8
+plymouth-scripts.x86_64                    0.9.4-6.20200615git1e36e30.el8
                                                                          Stream-AppStream
-plymouth-system-theme.x86_64               0.9.4-5.20200615git1e36e30.el8
+plymouth-system-theme.x86_64               0.9.4-6.20200615git1e36e30.el8
                                                                          Stream-AppStream
-plymouth-theme-charge.x86_64               0.9.4-5.20200615git1e36e30.el8
+plymouth-theme-charge.x86_64               0.9.4-6.20200615git1e36e30.el8
                                                                          Stream-AppStream
-plymouth-theme-fade-in.x86_64              0.9.4-5.20200615git1e36e30.el8
+plymouth-theme-fade-in.x86_64              0.9.4-6.20200615git1e36e30.el8
                                                                          Stream-AppStream
-plymouth-theme-script.x86_64               0.9.4-5.20200615git1e36e30.el8
+plymouth-theme-script.x86_64               0.9.4-6.20200615git1e36e30.el8
                                                                          Stream-AppStream
-plymouth-theme-solar.x86_64                0.9.4-5.20200615git1e36e30.el8
+plymouth-theme-solar.x86_64                0.9.4-6.20200615git1e36e30.el8
                                                                          Stream-AppStream
-plymouth-theme-spinfinity.x86_64           0.9.4-5.20200615git1e36e30.el8
+plymouth-theme-spinfinity.x86_64           0.9.4-6.20200615git1e36e30.el8
                                                                          Stream-AppStream
-plymouth-theme-spinner.x86_64              0.9.4-5.20200615git1e36e30.el8
+plymouth-theme-spinner.x86_64              0.9.4-6.20200615git1e36e30.el8
                                                                          Stream-AppStream
 pmdk-convert.x86_64                        1.7-1.el8                     Stream-AppStream
 pmempool.x86_64                            1.6.1-1.el8                   Stream-AppStream
@@ -5704,15 +5707,15 @@ pmix.i686                                  2.2.4rc1-1.el8                Stream-
 pmix.x86_64                                2.2.4rc1-1.el8                Stream-AppStream
 pmreorder.x86_64                           1.6.1-1.el8                   Stream-AppStream
 pnm2ppa.x86_64                             1:1.04-40.el8                 Stream-AppStream
-podman.x86_64                              2.0.5-4.module_el8.3.0+491+298e1ad1
+podman.x86_64                              2.0.5-5.module_el8.3.0+512+b3b58dca
                                                                          Stream-AppStream
-podman-catatonit.x86_64                    2.0.5-4.module_el8.3.0+491+298e1ad1
+podman-catatonit.x86_64                    2.0.5-5.module_el8.3.0+512+b3b58dca
                                                                          Stream-AppStream
-podman-docker.noarch                       2.0.5-4.module_el8.3.0+491+298e1ad1
+podman-docker.noarch                       2.0.5-5.module_el8.3.0+512+b3b58dca
                                                                          Stream-AppStream
-podman-remote.x86_64                       2.0.5-4.module_el8.3.0+491+298e1ad1
+podman-remote.x86_64                       2.0.5-5.module_el8.3.0+512+b3b58dca
                                                                          Stream-AppStream
-podman-tests.x86_64                        2.0.5-4.module_el8.3.0+491+298e1ad1
+podman-tests.x86_64                        2.0.5-5.module_el8.3.0+512+b3b58dca
                                                                          Stream-AppStream
 policycoreutils.x86_64                     2.9-9.el8                     Stream-BaseOS
 policycoreutils-dbus.noarch                2.9-9.el8                     Stream-BaseOS
@@ -5757,8 +5760,8 @@ postgresql-contrib.x86_64                  12.1-2.module_el8.1.0+273+979c16e6
                                                                          Stream-AppStream
 postgresql-docs.x86_64                     12.1-2.module_el8.1.0+273+979c16e6
                                                                          Stream-AppStream
-postgresql-jdbc.noarch                     42.2.3-1.el8                  Stream-AppStream
-postgresql-jdbc-javadoc.noarch             42.2.3-1.el8                  Stream-AppStream
+postgresql-jdbc.noarch                     42.2.3-3.el8_2                Stream-AppStream
+postgresql-jdbc-javadoc.noarch             42.2.3-3.el8_2                Stream-AppStream
 postgresql-odbc.x86_64                     10.03.0000-2.el8              Stream-AppStream
 postgresql-odbc-tests.x86_64               10.03.0000-2.el8              Stream-AppStream
 postgresql-plperl.x86_64                   12.1-2.module_el8.1.0+273+979c16e6
@@ -6067,11 +6070,11 @@ python3-idna.noarch                        2.5-5.el8                     Stream-
 python3-iniparse.noarch                    0.4-31.el8                    Stream-BaseOS
 python3-inotify.noarch                     0.9.6-13.el8                  Stream-BaseOS
 python3-into-dbus-python.noarch            0.06-2.el8                    Stream-AppStream
-python3-ipaclient.noarch                   4.8.7-11.module_el8.3.0+502+2680e7f3
+python3-ipaclient.noarch                   4.8.7-12.module_el8.3.0+514+e7703106
                                                                          Stream-AppStream
-python3-ipalib.noarch                      4.8.7-11.module_el8.3.0+502+2680e7f3
+python3-ipalib.noarch                      4.8.7-12.module_el8.3.0+514+e7703106
                                                                          Stream-AppStream
-python3-ipaserver.noarch                   4.8.7-10.module_el8.3.0+482+9e103aab
+python3-ipaserver.noarch                   4.8.7-12.module_el8.3.0+511+8a502f20
                                                                          Stream-AppStream
 python3-iscsi-initiator-utils.x86_64       6.2.0.878-5.gitd791ce0.el8    Stream-BaseOS
 python3-itsdangerous.noarch                0.24-14.el8                   Stream-AppStream
@@ -6161,10 +6164,10 @@ python3-osad.noarch                        5.11.99-8.module_el8.1.0+210+a3d63f21
                                                                          Stream-AppStream
 python3-osbuild.noarch                     18-3.el8                      Stream-AppStream
 python3-pcp.x86_64                         5.1.1-3.el8                   Stream-AppStream
-python3-perf.x86_64                        4.18.0-236.el8                Stream-BaseOS
+python3-perf.x86_64                        4.18.0-240.el8                Stream-BaseOS
 python3-pexpect.noarch                     4.3.1-3.el8                   Stream-AppStream
 python3-pid.noarch                         2.1.1-7.el8                   Stream-AppStream
-python3-pillow.x86_64                      5.1.1-11.el8                  Stream-AppStream
+python3-pillow.x86_64                      5.1.1-12.el8_2                Stream-AppStream
 python3-pip.noarch                         9.0.3-18.el8                  Stream-AppStream
 python3-pip-wheel.noarch                   9.0.3-18.el8                  Stream-BaseOS
 python3-pki.noarch                         10.9.4-1.module_el8.3.0+500+458aeb54
@@ -6309,7 +6312,7 @@ python3-wheel.noarch                       1:0.31.1-2.module_el8.3.0+389+6a62c88
 python3-wheel-wheel.noarch                 1:0.31.1-2.module_el8.3.0+389+6a62c88d
                                                                          Stream-AppStream
 python3-wx-siplib.x86_64                   4.19.19-2.el8                 Stream-AppStream
-python3-yubico.noarch                      1.3.2-9.module_el8.3.0+482+9e103aab
+python3-yubico.noarch                      1.3.2-9.module_el8.3.0+514+e7703106
                                                                          Stream-AppStream
 python36.x86_64                            3.6.8-2.module_el8.3.0+389+6a62c88d
                                                                          Stream-AppStream
@@ -6403,25 +6406,25 @@ python38-wheel.noarch                      0.33.6-5.module_el8.3.0+441+3b561464
                                                                          Stream-AppStream
 python38-wheel-wheel.noarch                0.33.6-5.module_el8.3.0+441+3b561464
                                                                          Stream-AppStream
-qemu-guest-agent.x86_64                    15:2.12.0-99.module_el8.2.0+320+13f867d7
+qemu-guest-agent.x86_64                    15:2.12.0-99.module_el8.2.0+385+c644c6e8.2
                                                                          Stream-AppStream
-qemu-img.x86_64                            15:2.12.0-99.module_el8.2.0+320+13f867d7
+qemu-img.x86_64                            15:2.12.0-99.module_el8.2.0+385+c644c6e8.2
                                                                          Stream-AppStream
-qemu-kvm.x86_64                            15:2.12.0-99.module_el8.2.0+320+13f867d7
+qemu-kvm.x86_64                            15:2.12.0-99.module_el8.2.0+385+c644c6e8.2
                                                                          Stream-AppStream
-qemu-kvm-block-curl.x86_64                 15:2.12.0-99.module_el8.2.0+320+13f867d7
+qemu-kvm-block-curl.x86_64                 15:2.12.0-99.module_el8.2.0+385+c644c6e8.2
                                                                          Stream-AppStream
-qemu-kvm-block-gluster.x86_64              15:2.12.0-99.module_el8.2.0+320+13f867d7
+qemu-kvm-block-gluster.x86_64              15:2.12.0-99.module_el8.2.0+385+c644c6e8.2
                                                                          Stream-AppStream
-qemu-kvm-block-iscsi.x86_64                15:2.12.0-99.module_el8.2.0+320+13f867d7
+qemu-kvm-block-iscsi.x86_64                15:2.12.0-99.module_el8.2.0+385+c644c6e8.2
                                                                          Stream-AppStream
-qemu-kvm-block-rbd.x86_64                  15:2.12.0-99.module_el8.2.0+320+13f867d7
+qemu-kvm-block-rbd.x86_64                  15:2.12.0-99.module_el8.2.0+385+c644c6e8.2
                                                                          Stream-AppStream
-qemu-kvm-block-ssh.x86_64                  15:2.12.0-99.module_el8.2.0+320+13f867d7
+qemu-kvm-block-ssh.x86_64                  15:2.12.0-99.module_el8.2.0+385+c644c6e8.2
                                                                          Stream-AppStream
-qemu-kvm-common.x86_64                     15:2.12.0-99.module_el8.2.0+320+13f867d7
+qemu-kvm-common.x86_64                     15:2.12.0-99.module_el8.2.0+385+c644c6e8.2
                                                                          Stream-AppStream
-qemu-kvm-core.x86_64                       15:2.12.0-99.module_el8.2.0+320+13f867d7
+qemu-kvm-core.x86_64                       15:2.12.0-99.module_el8.2.0+385+c644c6e8.2
                                                                          Stream-AppStream
 qgnomeplatform.i686                        0.4-3.el8                     Stream-AppStream
 qgnomeplatform.x86_64                      0.4-3.el8                     Stream-AppStream
@@ -6618,7 +6621,7 @@ rest.i686                                  0.8.1-2.el8                   Stream-
 rest.x86_64                                0.8.1-2.el8                   Stream-AppStream
 resteasy.noarch                            3.0.26-3.module_el8.3.0+454+67dccca4
                                                                          Stream-AppStream
-rhel-system-roles.noarch                   1.0-19.el8                    Stream-AppStream
+rhel-system-roles.noarch                   1.0-20.el8                    Stream-AppStream
 rhn-check.x86_64                           2.8.16-13.module_el8.1.0+211+ad6c0bc7
                                                                          Stream-AppStream
 rhn-client-tools.x86_64                    2.8.16-13.module_el8.1.0+211+ad6c0bc7
@@ -6700,6 +6703,7 @@ rsyslog-omamqp1.x86_64                     8.1911.0-6.el8                Stream-
 rsyslog-pgsql.x86_64                       8.1911.0-6.el8                Stream-AppStream
 rsyslog-relp.x86_64                        8.1911.0-6.el8                Stream-AppStream
 rsyslog-snmp.x86_64                        8.1911.0-6.el8                Stream-AppStream
+rt-tests.x86_64                            1.8-11.el8                    Stream-AppStream
 rtkit.x86_64                               0.11-19.el8                   Stream-AppStream
 ruby.i686                                  2.7.1-133.module_el8.3.0+429+625e5e4e
                                                                          Stream-AppStream
@@ -6890,13 +6894,13 @@ seahorse.x86_64                            3.20.0-9.el8                  Stream-
 seavgabios-bin.noarch                      1.11.1-4.module_el8.2.0+320+13f867d7
                                                                          Stream-AppStream
 sed.x86_64                                 4.5-2.el8                     Stream-BaseOS
-selinux-policy.noarch                      3.14.3-53.el8                 Stream-BaseOS
-selinux-policy-devel.noarch                3.14.3-53.el8                 Stream-BaseOS
-selinux-policy-doc.noarch                  3.14.3-53.el8                 Stream-BaseOS
-selinux-policy-minimum.noarch              3.14.3-53.el8                 Stream-BaseOS
-selinux-policy-mls.noarch                  3.14.3-53.el8                 Stream-BaseOS
-selinux-policy-sandbox.noarch              3.14.3-53.el8                 Stream-BaseOS
-selinux-policy-targeted.noarch             3.14.3-53.el8                 Stream-BaseOS
+selinux-policy.noarch                      3.14.3-54.el8                 Stream-BaseOS
+selinux-policy-devel.noarch                3.14.3-54.el8                 Stream-BaseOS
+selinux-policy-doc.noarch                  3.14.3-54.el8                 Stream-BaseOS
+selinux-policy-minimum.noarch              3.14.3-54.el8                 Stream-BaseOS
+selinux-policy-mls.noarch                  3.14.3-54.el8                 Stream-BaseOS
+selinux-policy-sandbox.noarch              3.14.3-54.el8                 Stream-BaseOS
+selinux-policy-targeted.noarch             3.14.3-54.el8                 Stream-BaseOS
 sendmail.x86_64                            8.15.2-32.el8                 Stream-AppStream
 sendmail-cf.noarch                         8.15.2-32.el8                 Stream-AppStream
 sendmail-doc.noarch                        8.15.2-32.el8                 Stream-AppStream
@@ -6949,7 +6953,7 @@ slang.i686                                 2.3.2-3.el8                   Stream-
 slang.x86_64                               2.3.2-3.el8                   Stream-BaseOS
 slang-devel.i686                           2.3.2-3.el8                   Stream-AppStream
 slang-devel.x86_64                         2.3.2-3.el8                   Stream-AppStream
-slapi-nis.x86_64                           0.56.5-2.module_el8.3.0+482+9e103aab
+slapi-nis.x86_64                           0.56.5-4.module_el8.3.0+511+8a502f20
                                                                          Stream-AppStream
 slf4j.noarch                               1.7.28-3.module_el8.3.0+397+dd71f484
                                                                          Stream-AppStream
@@ -7514,7 +7518,7 @@ thai-scalable-tlwgtypo-fonts.noarch        0.6.5-1.el8                   Stream-
 thai-scalable-umpush-fonts.noarch          0.6.5-1.el8                   Stream-AppStream
 thai-scalable-waree-fonts.noarch           0.6.5-1.el8                   Stream-AppStream
 theora-tools.x86_64                        1:1.1.1-21.el8                Stream-AppStream
-thunderbird.x86_64                         68.11.0-1.el8                 Stream-AppStream
+thunderbird.x86_64                         78.3.0-1.el8                  Stream-AppStream
 tibetan-machine-uni-fonts.noarch           1.901-20.el8                  Stream-AppStream
 tigervnc.x86_64                            1.10.1-7.el8                  Stream-AppStream
 tigervnc-icons.noarch                      1.10.1-7.el8                  Stream-AppStream
@@ -7684,6 +7688,7 @@ varnish-docs.x86_64                        6.0.6-2.module_el8.3.0+399+10bd7ebd
 varnish-modules.x86_64                     0.15.0-5.module_el8.3.0+399+10bd7ebd
                                                                          Stream-AppStream
 vdo.x86_64                                 6.2.3.114-14.el8              Stream-BaseOS
+vdo-support.x86_64                         6.2.3.114-14.el8              Stream-BaseOS
 velocity.noarch                            1.7-24.module_el8.3.0+454+67dccca4
                                                                          Stream-AppStream
 veritysetup.x86_64                         2.3.3-2.el8                   Stream-BaseOS
@@ -7707,7 +7712,7 @@ virt-v2v.x86_64                            1:1.38.4-15.module_el8.2.0+320+13f867
 virt-viewer.x86_64                         9.0-4.el8                     Stream-AppStream
 virt-what.x86_64                           1.18-6.el8                    Stream-BaseOS
 virt-who.noarch                            0.29.3-1.el8                  Stream-AppStream
-virtio-win.noarch                          1.9.14-0.el8                  Stream-AppStream
+virtio-win.noarch                          1.9.14-4.el8                  Stream-AppStream
 vm-dump-metrics.i686                       1.1-4.el8                     Stream-BaseOS
 vm-dump-metrics.x86_64                     1.1-4.el8                     Stream-BaseOS
 vm-dump-metrics-devel.i686                 1.1-4.el8                     Stream-BaseOS
@@ -7784,6 +7789,7 @@ xdg-desktop-portal-gtk.x86_64              1.6.0-1.el8                   Stream-
 xdg-user-dirs.x86_64                       0.17-1.el8                    Stream-AppStream
 xdg-user-dirs-gtk.x86_64                   0.10-13.el8                   Stream-AppStream
 xdg-utils.noarch                           1.1.2-5.el8                   Stream-AppStream
+xdp-tools.x86_64                           1.0.1-1.el8                   Stream-AppStream
 xerces-j2.noarch                           2.11.0-34.module_el8.3.0+454+67dccca4
                                                                          Stream-AppStream
 xfsdump.x86_64                             3.1.8-2.el8                   Stream-BaseOS
