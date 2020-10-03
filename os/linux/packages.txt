@@ -25679,9 +25679,9 @@ libkim-api-v2-fortran/buster 2.0~beta2.gita734d1-3 amd64
 libkim-api-v2-headers/buster 2.0~beta2.gita734d1-3 all
 libkim-api-v2-models/buster 2.0~beta2.gita734d1-3 amd64
 libkim-api2/buster-backports 2.1.3-5~bpo10+1 amd64
-libkimageannotator-common/buster-backports 0.3.1-5~bpo10+1 all
-libkimageannotator-dev/buster-backports 0.3.1-5~bpo10+1 amd64
-libkimageannotator0/buster-backports 0.3.1-5~bpo10+1 amd64
+libkimageannotator-common/buster-backports 0.3.2-1~bpo10+1 all
+libkimageannotator-dev/buster-backports 0.3.2-1~bpo10+1 amd64
+libkimageannotator0/buster-backports 0.3.2-1~bpo10+1 amd64
 libkimap4/buster 4:4.14.10-11 amd64
 libkimproxy4/buster 4:4.14.38-3 amd64
 libkinosearch1-perl/buster 1.01-4+b3 amd64
