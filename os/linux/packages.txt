@@ -1936,7 +1936,7 @@ brother-lpr-drivers-extra/bionic 1.2.0-2-0ubuntu5 amd64
 brother-lpr-drivers-laser/bionic 2.0.1-3-0ubuntu5 amd64
 brother-lpr-drivers-laser1/bionic 1.0.0-3-0ubuntu6 amd64
 brother-lpr-drivers-mfc9420cn/bionic 1.0.0-3-0ubuntu4 amd64
-brotli/bionic-updates 1.0.3-1ubuntu1.2 amd64
+brotli/bionic-updates 1.0.3-1ubuntu1.3 amd64
 browser-plugin-evince/bionic-updates 3.28.4-0ubuntu1.2 amd64
 browser-plugin-freshplayer-libpdf/bionic 0.3.5-1ubuntu7 amd64
 browser-plugin-freshplayer-nacl/bionic 0.3.5-1ubuntu7 amd64
@@ -5626,8 +5626,8 @@ erlang-uuid/bionic 0.4.6-1 amd64
 erlang-wx/bionic 1:20.2.2+dfsg-1ubuntu2 amd64
 erlang-x11/bionic 1:20.2.2+dfsg-1ubuntu2 all
 erlang-xmerl/bionic 1:20.2.2+dfsg-1ubuntu2 amd64
-erlang-yapp/bionic 2.0.4+dfsg-2 amd64
-erlang-yaws/bionic 2.0.4+dfsg-2 amd64
+erlang-yapp/bionic-updates 2.0.4+dfsg-2ubuntu0.1 amd64
+erlang-yaws/bionic-updates 2.0.4+dfsg-2ubuntu0.1 amd64
 erlsvc/bionic 1.02-3 amd64
 errno/bionic 1.3-0ubuntu2 all
 esajpip/bionic 0.1~bzr33-4 amd64
@@ -17520,8 +17520,8 @@ libbrlapi-jni/bionic-updates 5.5-4ubuntu2.0.1 amd64
 libbrlapi0.6/bionic-updates 5.5-4ubuntu2.0.1 amd64
 libbroccoli-dev/bionic 1.100-1build1 amd64
 libbroccoli5/bionic 1.100-1build1 amd64
-libbrotli-dev/bionic-updates 1.0.3-1ubuntu1.2 amd64
-libbrotli1/bionic-updates 1.0.3-1ubuntu1.2 amd64
+libbrotli-dev/bionic-updates 1.0.3-1ubuntu1.3 amd64
+libbrotli1/bionic-updates 1.0.3-1ubuntu1.3 amd64
 libbrowser-open-perl/bionic 0.04-1 all
 libbs2b-dev/bionic 3.1.0+dfsg-2.2 amd64
 libbs2b0/bionic 3.1.0+dfsg-2.2 amd64
@@ -53790,7 +53790,7 @@ python-brian-doc/bionic 1.4.3-1 all
 python-brian-lib/bionic 1.4.3-1 amd64
 python-brlapi/bionic-updates 5.5-4ubuntu2.0.1 amd64
 python-broccoli/bionic 0.62-1 amd64
-python-brotli/bionic-updates 1.0.3-1ubuntu1.2 amd64
+python-brotli/bionic-updates 1.0.3-1ubuntu1.3 amd64
 python-bs4/bionic 4.6.0-1 all
 python-bs4-doc/bionic 4.6.0-1 all
 python-bsddb3/bionic 6.1.0-1build4 amd64
@@ -55791,8 +55791,8 @@ python-pil.imagetk-dbg/bionic-updates 5.1.0-1ubuntu0.3 amd64
 python-pilkit/bionic 2.0-1 all
 python-pint/bionic 0.8.1-2 all
 python-pint-doc/bionic 0.8.1-2 all
-python-pip/bionic-updates 9.0.1-2.3~ubuntu1.18.04.2 all
-python-pip-whl/bionic-updates 9.0.1-2.3~ubuntu1.18.04.2 all
+python-pip/bionic-updates 9.0.1-2.3~ubuntu1.18.04.3 all
+python-pip-whl/bionic-updates 9.0.1-2.3~ubuntu1.18.04.3 all
 python-pisock/bionic 0.12.5-dfsg-2build2 amd64
 python-pisock-dbg/bionic 0.12.5-dfsg-2build2 amd64
 python-piston-mini-client/bionic 0.7.5-0ubuntu3 all
@@ -57019,7 +57019,7 @@ python-unshare/bionic 0.2-1 amd64
 python-uritemplate/bionic 0.6-1ubuntu1 all
 python-uritools/bionic 1.0.2-1 all
 python-urlgrabber/bionic 3.10.2-1 all
-python-urllib3/bionic-updates 1.22-1ubuntu0.18.04.1 all
+python-urllib3/bionic-updates 1.22-1ubuntu0.18.04.2 all
 python-urlobject/bionic 2.4.0-1 all
 python-urwid/bionic 2.0.1-2 amd64
 python-urwid-doc/bionic 2.0.1-2 all
@@ -57555,7 +57555,7 @@ python3-bpfcc/bionic 0.5.0-5ubuntu1 all
 python3-braintree/bionic 3.38.0-1 all
 python3-breathe/bionic 4.7.3-1 all
 python3-brlapi/bionic-updates 5.5-4ubuntu2.0.1 amd64
-python3-brotli/bionic-updates 1.0.3-1ubuntu1.2 amd64
+python3-brotli/bionic-updates 1.0.3-1ubuntu1.3 amd64
 python3-bs4/bionic 4.6.0-1 all
 python3-bsddb3/bionic 6.1.0-1build4 amd64
 python3-bsddb3-dbg/bionic 6.1.0-1build4 amd64
@@ -58760,7 +58760,7 @@ python3-pil.imagetk/bionic-updates 5.1.0-1ubuntu0.3 amd64
 python3-pil.imagetk-dbg/bionic-updates 5.1.0-1ubuntu0.3 amd64
 python3-pilkit/bionic 2.0-1 all
 python3-pint/bionic 0.8.1-2 all
-python3-pip/bionic-updates 9.0.1-2.3~ubuntu1.18.04.2 all
+python3-pip/bionic-updates 9.0.1-2.3~ubuntu1.18.04.3 all
 python3-piston-mini-client/bionic 0.7.5-0ubuntu3 all
 python3-pkg-resources/bionic 39.0.1-2 all
 python3-pkgconfig/bionic 1.3.1-1 all
@@ -59549,7 +59549,7 @@ python3-update-manager/bionic-updates 1:18.04.11.13 all
 python3-uranium/bionic 3.1.0-1 all
 python3-uritemplate/bionic 0.6-1ubuntu1 all
 python3-uritools/bionic 1.0.2-1 all
-python3-urllib3/bionic-updates 1.22-1ubuntu0.18.04.1 all
+python3-urllib3/bionic-updates 1.22-1ubuntu0.18.04.2 all
 python3-urlobject/bionic 2.4.0-1 all
 python3-urwid/bionic 2.0.1-2 amd64
 python3-urwidtrees/bionic 1.0.1.1-1 all
@@ -63836,7 +63836,7 @@ sshfp/bionic 1.2.2-5 all
 sshfs/bionic 2.8-1 amd64
 sshguard/bionic 1.7.1-1 amd64
 sshpass/bionic 1.06-1 amd64
-sshuttle/bionic-updates 0.78.3-1ubuntu1 all
+sshuttle/bionic-updates 0.78.3-1ubuntu1.1 all
 ssl-cert/bionic 1.0.39 all
 ssl-cert-check/bionic 3.30-2 all
 ssldump/bionic 0.9b3-7build1 amd64
@@ -68139,12 +68139,12 @@ yasr/bionic 0.6.9-6 amd64
 yasw/bionic 0.6-2 amd64
 yatex/bionic 1.77+dfsg1-4 all
 yatm/bionic 0.9-2 amd64
-yaws/bionic 2.0.4+dfsg-2 all
-yaws-chat/bionic 2.0.4+dfsg-2 all
-yaws-doc/bionic 2.0.4+dfsg-2 all
-yaws-mail/bionic 2.0.4+dfsg-2 all
-yaws-wiki/bionic 2.0.4+dfsg-2 all
-yaws-yapp/bionic 2.0.4+dfsg-2 all
+yaws/bionic-updates 2.0.4+dfsg-2ubuntu0.1 all
+yaws-chat/bionic-updates 2.0.4+dfsg-2ubuntu0.1 all
+yaws-doc/bionic-updates 2.0.4+dfsg-2ubuntu0.1 all
+yaws-mail/bionic-updates 2.0.4+dfsg-2ubuntu0.1 all
+yaws-wiki/bionic-updates 2.0.4+dfsg-2ubuntu0.1 all
+yaws-yapp/bionic-updates 2.0.4+dfsg-2ubuntu0.1 all
 yaz/bionic 5.19.2-0ubuntu3 amd64
 yaz-doc/bionic 5.19.2-0ubuntu3 all
 yaz-icu/bionic 5.19.2-0ubuntu3 amd64
