@@ -641,13 +641,13 @@ appc-spec/xenial 0.7.1+dfsg-1 amd64
 appdata-tools/xenial-updates 0.5.13-1ubuntu6 all
 appmenu-qt/xenial 0.2.7+14.04.20140305-0ubuntu2 amd64
 appmenu-qt5/xenial-updates 0.3.0+16.04.20170216-0ubuntu1 amd64
-apport/xenial-updates 2.20.1-0ubuntu2.24 all
-apport-gtk/xenial-updates 2.20.1-0ubuntu2.24 all
-apport-kde/xenial-updates 2.20.1-0ubuntu2.24 all
-apport-noui/xenial-updates 2.20.1-0ubuntu2.24 all
-apport-retrace/xenial-updates 2.20.1-0ubuntu2.24 all
+apport/xenial-updates 2.20.1-0ubuntu2.25 all
+apport-gtk/xenial-updates 2.20.1-0ubuntu2.25 all
+apport-kde/xenial-updates 2.20.1-0ubuntu2.25 all
+apport-noui/xenial-updates 2.20.1-0ubuntu2.25 all
+apport-retrace/xenial-updates 2.20.1-0ubuntu2.25 all
 apport-symptoms/xenial 0.20 all
-apport-valgrind/xenial-updates 2.20.1-0ubuntu2.24 all
+apport-valgrind/xenial-updates 2.20.1-0ubuntu2.25 all
 approx/xenial 5.5-2build1 amd64
 appstream/xenial-updates 0.9.4-1ubuntu4 amd64
 appstream-doc/xenial-updates 0.9.4-1ubuntu4 all
@@ -3982,7 +3982,7 @@ dgit-infrastructure/xenial 1.4 all
 dh-acc/xenial 1.99.14-1 all
 dh-ada-library/xenial 6.6 amd64
 dh-apparmor/xenial-updates 2.10.95-0ubuntu2.11 all
-dh-apport/xenial-updates 2.20.1-0ubuntu2.24 all
+dh-apport/xenial-updates 2.20.1-0ubuntu2.25 all
 dh-autoreconf/xenial 11 all
 dh-buildinfo/xenial 0.11 all
 dh-consoledata/xenial 0.7.89 all
@@ -11220,9 +11220,9 @@ inform-mode/xenial 1.5.8-3 all
 ingerman/xenial 20151222-1 all
 init/xenial-updates 1.29ubuntu4 amd64
 init-system-helpers/xenial-updates 1.29ubuntu4 all
-initramfs-tools/xenial-updates 0.122ubuntu8.16 all
-initramfs-tools-bin/xenial-updates 0.122ubuntu8.16 amd64
-initramfs-tools-core/xenial-updates 0.122ubuntu8.16 all
+initramfs-tools/xenial-updates 0.122ubuntu8.17 all
+initramfs-tools-bin/xenial-updates 0.122ubuntu8.17 amd64
+initramfs-tools-core/xenial-updates 0.122ubuntu8.17 all
 initramfs-tools-ubuntu-core/xenial 0.7.43 all
 initramfs-tools-ubuntu-touch/xenial 0.94vivid5 amd64
 initscripts/xenial 2.88dsf-59.3ubuntu2 amd64
@@ -31113,9 +31113,9 @@ libspice-client-gtk-2.0-dev/xenial 0.30-1 amd64
 libspice-client-gtk-3.0-4/xenial 0.30-1 amd64
 libspice-client-gtk-3.0-dev/xenial 0.30-1 amd64
 libspice-protocol-dev/xenial-updates 0.12.10-1ubuntu0.2 all
-libspice-server-dev/xenial-updates 0.12.6-4ubuntu0.4 amd64
-libspice-server1/xenial-updates 0.12.6-4ubuntu0.4 amd64
-libspice-server1-dbg/xenial-updates 0.12.6-4ubuntu0.4 amd64
+libspice-server-dev/xenial-updates 0.12.6-4ubuntu0.5 amd64
+libspice-server1/xenial-updates 0.12.6-4ubuntu0.5 amd64
+libspice-server1-dbg/xenial-updates 0.12.6-4ubuntu0.5 amd64
 libspiffy-perl/xenial 0.41-1 all
 libspin-java/xenial 1.5+dfsg-7 all
 libspin-java-doc/xenial 1.5+dfsg-7 all
@@ -41013,7 +41013,7 @@ logtail/xenial-updates 1.3.17ubuntu0.1 all
 logtool/xenial 1.2.8-8 amd64
 logtools/xenial 0.13dubuntu1 amd64
 logtop/xenial 0.4.3-1build1 amd64
-logwatch/xenial 7.4.2-1ubuntu1 all
+logwatch/xenial-updates 7.4.2-1ubuntu1.1 all
 lojban-common/xenial 1.5+dfsg.1-2 all
 lokalize/xenial 4:15.12.3-0ubuntu1 amd64
 loki/xenial 2.4.7.4-6 amd64
@@ -41099,7 +41099,7 @@ ltsp-server-standalone/xenial-updates 5.5.7-1ubuntu1 all
 ltspfs/xenial 1.4-2 amd64
 ltspfsd/xenial 1.4-2 all
 ltspfsd-core/xenial 1.4-2 amd64
-lttng-modules-dkms/xenial-updates 2.8.0-1ubuntu1~16.04.8 all
+lttng-modules-dkms/xenial-updates 2.8.0-1ubuntu1~16.04.9 all
 lttng-tools/xenial-updates 2.7.1-2ubuntu1 amd64
 lttngtop/xenial 0.3-3build1 amd64
 lttoolbox/xenial 3.3.2~r63423-3 amd64
@@ -46994,7 +46994,7 @@ python-appconf-doc/xenial 1.0.1-4 all
 python-appdirs/xenial 1.4.0-2 all
 python-appindicator/xenial-updates 12.10.1+16.04.20170215-0ubuntu1 amd64
 python-application/xenial 1.4.1-1 all
-python-apport/xenial-updates 2.20.1-0ubuntu2.24 all
+python-apport/xenial-updates 2.20.1-0ubuntu2.25 all
 python-apptools/xenial 4.3.0-1 all
 python-apscheduler/xenial 2.1.2-2 all
 python-apsw/xenial 3.8.11.1-r1-1build1 amd64
@@ -48899,7 +48899,7 @@ python-presage/xenial 0.9.1-1.1ubuntu2 amd64
 python-presage-dbg/xenial 0.9.1-1.1ubuntu2 amd64
 python-pretend/xenial 1.0.8-2 all
 python-prettytable/xenial 0.7.2-3 all
-python-problem-report/xenial-updates 2.20.1-0ubuntu2.24 all
+python-problem-report/xenial-updates 2.20.1-0ubuntu2.25 all
 python-proboscis/xenial 1.2.6.0-2 all
 python-profitbricks/xenial 2.3.1-1 all
 python-profitbricks-client/xenial 1.0.1-1 all
@@ -50319,7 +50319,7 @@ python3-apparmor/xenial-updates 2.10.95-0ubuntu2.11 amd64
 python3-apparmor-click/xenial-updates 0.3.13.1 all
 python3-appconf/xenial 1.0.1-4 all
 python3-appdirs/xenial 1.4.0-2 all
-python3-apport/xenial-updates 2.20.1-0ubuntu2.24 all
+python3-apport/xenial-updates 2.20.1-0ubuntu2.25 all
 python3-apsw/xenial 3.8.11.1-r1-1build1 amd64
 python3-apsw-dbg/xenial 3.8.11.1-r1-1build1 amd64
 python3-apt/xenial-updates 1.1.0~beta1ubuntu0.16.04.9 amd64
@@ -51168,7 +51168,7 @@ python3-powerline/xenial-updates 2.3-1ubuntu0 all
 python3-praw/xenial 3.3.0-1 all
 python3-pretend/xenial 1.0.8-2 all
 python3-prettytable/xenial 0.7.2-3 all
-python3-problem-report/xenial-updates 2.20.1-0ubuntu2.24 all
+python3-problem-report/xenial-updates 2.20.1-0ubuntu2.25 all
 python3-proboscis/xenial 1.2.6.0-2 all
 python3-profitbricks/xenial 2.3.1-1 all
 python3-progress/xenial 1.2-1 all
@@ -51640,7 +51640,7 @@ python3-txtftp/xenial 0.1~bzr42-0ubuntu2 all
 python3-typogrify/xenial 1:2.0.7-1 all
 python3-tz/xenial 2014.10~dfsg1-0ubuntu2 all
 python3-tzlocal/xenial 1.2-2 all
-python3-ubuntu-image/xenial-updates 1.9+16.04ubuntu1 all
+python3-ubuntu-image/xenial-updates 1.10+16.04ubuntu1 all
 python3-ubuntutools/xenial-updates 0.155ubuntu2 all
 python3-udiskie/xenial 1.4.9-1 all
 python3-ujson/xenial 1.33-1build1 amd64
@@ -57513,7 +57513,7 @@ ubuntu-html5-ui-toolkit/xenial 0.1.2+16.04.20160203-0ubuntu1 all
 ubuntu-html5-ui-toolkit-autopilot/xenial 0.1.2+16.04.20160203-0ubuntu1 all
 ubuntu-html5-ui-toolkit-doc/xenial 0.1.2+16.04.20160203-0ubuntu1 all
 ubuntu-html5-ui-toolkit-examples/xenial 0.1.2+16.04.20160203-0ubuntu1 all
-ubuntu-image/xenial-updates 1.9+16.04ubuntu1 all
+ubuntu-image/xenial-updates 1.10+16.04ubuntu1 all
 ubuntu-keyboard/xenial 0.99.trunk.phablet2+16.04.20160226.1-0ubuntu1 amd64
 ubuntu-keyboard-arabic/xenial 0.99.trunk.phablet2+16.04.20160226.1-0ubuntu1 amd64
 ubuntu-keyboard-autopilot/xenial 0.99.trunk.phablet2+16.04.20160226.1-0ubuntu1 all
