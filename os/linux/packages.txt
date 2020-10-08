@@ -9565,7 +9565,7 @@ golang-github-ryanuber-columnize-dev/xenial 2.0.1-1 all
 golang-github-samalba-dockerclient-dev/xenial 0.0~git20150905.0.77b723e-1 all
 golang-github-samuel-go-zookeeper-dev/xenial 0.0~git20150817.0.177002e-1 all
 golang-github-seandolphin-bqschema-dev/xenial 0.0~git20150424.0.f92a08f-1 all
-golang-github-seccomp-libseccomp-golang-dev/xenial 0.0~git20150813.0.1b506fc-1 all
+golang-github-seccomp-libseccomp-golang-dev/xenial-updates 0.0~git20150813.0.1b506fc-2+deb9u1build0.16.04.1 all
 golang-github-shiena-ansicolor-dev/xenial 0.0~git20151119.0.a422bbe-1 all
 golang-github-shurcool-sanitized-anchor-name-dev/xenial 0.0~git20151028.0.10ef21a-2 all
 golang-github-sirupsen-logrus-dev/xenial 0.8.7-3 all
@@ -40859,7 +40859,7 @@ live-manual-pdf/xenial 2:20151217 all
 live-manual-txt/xenial 2:20151217 all
 live-support/xenial 0.4 all
 live-tools/xenial 1:20151214 all
-livecd-rootfs/xenial-updates 2.408.59 amd64
+livecd-rootfs/xenial-updates 2.408.60 amd64
 livemedia-utils/xenial 2016.02.09-1 amd64
 livemix/xenial 0.49~rc5-0ubuntu3 amd64
 lives/xenial 2.4.8-1 amd64
@@ -43309,7 +43309,7 @@ newbiedoc/xenial 0.8.0-2 all
 newlib-source/xenial 2.2.0+git20150830.5a3d536-1 all
 newmail/xenial 0.5-2 amd64
 newpid/xenial 7 amd64
-newsbeuter/xenial 2.9-3 amd64
+newsbeuter/xenial-updates 2.9-3ubuntu0.1 amd64
 newt-tcl/xenial 0.52.18-1ubuntu2 amd64
 nexuiz/xenial 2.5.2+dp-3 all
 nexuiz-data/xenial 2.5.2-6 all
@@ -57478,7 +57478,7 @@ ubuntu-defaults-it/xenial 0.2.3 all
 ubuntu-defaults-nl/xenial 6 all
 ubuntu-defaults-nl-nl/xenial 6 all
 ubuntu-defaults-zh-cn/xenial 0.13 all
-ubuntu-desktop/xenial-updates 1.361.5 amd64
+ubuntu-desktop/xenial-updates 1.361.6 amd64
 ubuntu-desktop-mir/xenial 0.4.3+16.04.20160323-0ubuntu1 all
 ubuntu-dev-tools/xenial-updates 0.155ubuntu2 all
 ubuntu-developer-tools-center/xenial 16.02.1 all
@@ -57580,7 +57580,7 @@ ubuntu-mate-wallpapers-vivid/xenial-updates 16.04.7 all
 ubuntu-mate-wallpapers-wily/xenial-updates 16.04.7 all
 ubuntu-mate-wallpapers-xenial/xenial-updates 16.04.7 all
 ubuntu-mate-welcome/xenial-updates 16.04.9.1 all
-ubuntu-minimal/xenial-updates 1.361.5 amd64
+ubuntu-minimal/xenial-updates 1.361.6 amd64
 ubuntu-mobile-default-settings/xenial 0.12 all
 ubuntu-mobile-icons/xenial-updates 14.04+16.04.20180326-0ubuntu1 all
 ubuntu-mono/xenial-updates 14.04+16.04.20180326-0ubuntu1 all
@@ -57626,7 +57626,7 @@ ubuntu-sdk-libs/xenial 1.264 amd64
 ubuntu-sdk-libs-dev/xenial 1.264 amd64
 ubuntu-sdk-libs-tools/xenial 1.264 amd64
 ubuntu-sdk-qmake-extras/xenial 3.5.2+16.04.20151118-0ubuntu1 amd64
-ubuntu-server/xenial-updates 1.361.5 amd64
+ubuntu-server/xenial-updates 1.361.6 amd64
 ubuntu-session/xenial-updates 3.18.1.2-1ubuntu1.16.04.2 all
 ubuntu-settings/xenial 15.10.8 all
 ubuntu-snappy/xenial-updates 2.46.1 all
@@ -57635,7 +57635,7 @@ ubuntu-software/xenial-updates 3.20.5-0ubuntu0.16.04.13 amd64
 ubuntu-sounds/xenial 0.13 all
 ubuntu-sso-client/xenial 13.10-0ubuntu11 all
 ubuntu-sso-client-qt/xenial 13.10-0ubuntu11 all
-ubuntu-standard/xenial-updates 1.361.5 amd64
+ubuntu-standard/xenial-updates 1.361.6 amd64
 ubuntu-system-service/xenial 0.3 all
 ubuntu-system-settings/xenial 0.3+16.04.20160330-0ubuntu1 amd64
 ubuntu-system-settings-autopilot/xenial 0.3+16.04.20160330-0ubuntu1 all
@@ -57672,7 +57672,7 @@ ubuntu-wallpapers-utopic/xenial 16.04.1-0ubuntu1 all
 ubuntu-wallpapers-vivid/xenial 16.04.1-0ubuntu1 all
 ubuntu-wallpapers-wily/xenial 16.04.1-0ubuntu1 all
 ubuntu-wallpapers-xenial/xenial 16.04.1-0ubuntu1 all
-ubuntu-wsl/xenial-updates 1.361.5 amd64
+ubuntu-wsl/xenial-updates 1.361.6 amd64
 ubuntukylin-default-settings/xenial-updates 1.3.14ubuntu0.1 all
 ubuntukylin-desktop/xenial 0.13 amd64
 ubuntukylin-keyring/xenial 2014.04.10 all
@@ -58399,7 +58399,7 @@ vim-youcompleteme/xenial 0+20160327+git1b76af4-0ubuntu1 all
 vimhelp-de/xenial 7.4.130818-2 all
 vinagre/xenial 3.18.2-1 amd64
 vinetto/xenial 1:0.07-2 all
-vino/xenial-updates 3.8.1-0ubuntu9.2 amd64
+vino/xenial-updates 3.8.1-0ubuntu9.3 amd64
 virt-goodies/xenial 0.4-2.1 all
 virt-manager/xenial-updates 1:1.3.2-3ubuntu1.16.04.4 all
 virt-top/xenial 1.0.7-1.1 amd64
