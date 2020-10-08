@@ -66526,7 +66526,7 @@ vim-voom/bionic 5.2-1 all
 vim-youcompleteme/bionic 0+20161219+git194ff33-1 all
 vinagre/bionic-updates 3.22.0-5ubuntu0.1 amd64
 vinetto/bionic 1:0.07-7 all
-vino/bionic 3.22.0-3ubuntu1 amd64
+vino/bionic-updates 3.22.0-3ubuntu1.1 amd64
 virt-goodies/bionic 0.4-2.1 all
 virt-manager/bionic-updates 1:1.5.1-0ubuntu1.2 all
 virt-sandbox/bionic 0.5.1+git20160404-1 amd64
