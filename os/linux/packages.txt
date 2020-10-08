@@ -483,7 +483,7 @@ brotli.i686                                1.0.6-2.el8                   Stream-
 brotli.x86_64                              1.0.6-2.el8                   Stream-BaseOS
 brotli-devel.i686                          1.0.6-2.el8                   Stream-AppStream
 brotli-devel.x86_64                        1.0.6-2.el8                   Stream-AppStream
-bsdtar.x86_64                              3.3.2-9.el8                   Stream-BaseOS
+bsdtar.x86_64                              3.3.3-1.el8                   Stream-BaseOS
 bubblewrap.x86_64                          0.4.0-1.el8                   Stream-BaseOS
 buildah.x86_64                             1.15.1-2.module_el8.3.0+475+c50ce30b
                                                                          Stream-AppStream
@@ -661,7 +661,7 @@ compat-exiv2-026.i686                      0.26-3.el8                    Stream-
 compat-exiv2-026.x86_64                    0.26-3.el8                    Stream-AppStream
 compat-libgfortran-48.i686                 4.8.5-36.1.el8                Stream-AppStream
 compat-libgfortran-48.x86_64               4.8.5-36.1.el8                Stream-AppStream
-compat-libpthread-nonshared.x86_64         2.28-127.el8                  Stream-AppStream
+compat-libpthread-nonshared.x86_64         2.28-129.el8                  Stream-AppStream
 compat-libtiff3.i686                       3.9.4-13.el8                  Stream-AppStream
 compat-libtiff3.x86_64                     3.9.4-13.el8                  Stream-AppStream
 compat-openssl10.i686                      1:1.0.2o-3.el8                Stream-AppStream
@@ -968,7 +968,7 @@ epel-release.noarch                        8-8.el8                       Stream-
 esc.x86_64                                 1.1.2-14.el8                  Stream-AppStream
 espeak-ng.i686                             1.49.2-4.el8                  Stream-AppStream
 espeak-ng.x86_64                           1.49.2-4.el8                  Stream-AppStream
-ethtool.x86_64                             2:5.0-2.el8                   Stream-BaseOS
+ethtool.x86_64                             2:5.8-3.el8                   Stream-BaseOS
 evemu.x86_64                               2.7.0-8.el8                   Stream-AppStream
 evemu-libs.i686                            2.7.0-8.el8                   Stream-AppStream
 evemu-libs.x86_64                          2.7.0-8.el8                   Stream-AppStream
@@ -977,21 +977,21 @@ evince-browser-plugin.x86_64               3.28.4-7.el8                  Stream-
 evince-libs.i686                           3.28.4-7.el8                  Stream-AppStream
 evince-libs.x86_64                         3.28.4-7.el8                  Stream-AppStream
 evince-nautilus.x86_64                     3.28.4-7.el8                  Stream-AppStream
-evolution.x86_64                           3.28.5-14.el8                 Stream-AppStream
-evolution-bogofilter.x86_64                3.28.5-14.el8                 Stream-AppStream
-evolution-data-server.i686                 3.28.5-14.el8                 Stream-AppStream
-evolution-data-server.x86_64               3.28.5-14.el8                 Stream-AppStream
-evolution-data-server-devel.i686           3.28.5-14.el8                 Stream-AppStream
-evolution-data-server-devel.x86_64         3.28.5-14.el8                 Stream-AppStream
-evolution-data-server-langpacks.noarch     3.28.5-14.el8                 Stream-AppStream
+evolution.x86_64                           3.28.5-15.el8                 Stream-AppStream
+evolution-bogofilter.x86_64                3.28.5-15.el8                 Stream-AppStream
+evolution-data-server.i686                 3.28.5-15.el8                 Stream-AppStream
+evolution-data-server.x86_64               3.28.5-15.el8                 Stream-AppStream
+evolution-data-server-devel.i686           3.28.5-15.el8                 Stream-AppStream
+evolution-data-server-devel.x86_64         3.28.5-15.el8                 Stream-AppStream
+evolution-data-server-langpacks.noarch     3.28.5-15.el8                 Stream-AppStream
 evolution-ews.x86_64                       3.28.5-9.el8                  Stream-AppStream
 evolution-ews-langpacks.noarch             3.28.5-9.el8                  Stream-AppStream
-evolution-help.noarch                      3.28.5-14.el8                 Stream-AppStream
-evolution-langpacks.noarch                 3.28.5-14.el8                 Stream-AppStream
+evolution-help.noarch                      3.28.5-15.el8                 Stream-AppStream
+evolution-langpacks.noarch                 3.28.5-15.el8                 Stream-AppStream
 evolution-mapi.x86_64                      3.28.3-3.el8                  Stream-AppStream
 evolution-mapi-langpacks.noarch            3.28.3-3.el8                  Stream-AppStream
-evolution-pst.x86_64                       3.28.5-14.el8                 Stream-AppStream
-evolution-spamassassin.x86_64              3.28.5-14.el8                 Stream-AppStream
+evolution-pst.x86_64                       3.28.5-15.el8                 Stream-AppStream
+evolution-spamassassin.x86_64              3.28.5-15.el8                 Stream-AppStream
 exchange-bmc-os-info.noarch                1.8.18-17.el8                 Stream-AppStream
 exempi.i686                                2.4.5-2.el8                   Stream-AppStream
 exempi.x86_64                              2.4.5-2.el8                   Stream-AppStream
@@ -1080,7 +1080,7 @@ fio.x86_64                                 3.19-3.el8                    Stream-
 fipscheck.x86_64                           1.5.0-4.el8                   Stream-BaseOS
 fipscheck-lib.i686                         1.5.0-4.el8                   Stream-BaseOS
 fipscheck-lib.x86_64                       1.5.0-4.el8                   Stream-BaseOS
-firefox.x86_64                             78.3.0-1.el8                  Stream-AppStream
+firefox.x86_64                             78.3.0-1.el8_2                Stream-AppStream
 firewall-applet.noarch                     0.8.2-2.el8                   Stream-AppStream
 firewall-config.noarch                     0.8.2-2.el8                   Stream-AppStream
 firewalld.noarch                           0.8.2-2.el8                   Stream-BaseOS
@@ -1199,12 +1199,12 @@ gcc-gdb-plugin.i686                        8.3.1-5.1.el8                 Stream-
 gcc-gdb-plugin.x86_64                      8.3.1-5.1.el8                 Stream-AppStream
 gcc-gfortran.x86_64                        8.3.1-5.1.el8                 Stream-AppStream
 gcc-offload-nvptx.x86_64                   8.3.1-5.1.el8                 Stream-AppStream
-gcc-toolset-10.x86_64                      10.0-0.el8                    Stream-AppStream
+gcc-toolset-10.x86_64                      10.1-0.el8                    Stream-AppStream
 gcc-toolset-10-annobin.x86_64              9.29-1.el8                    Stream-AppStream
 gcc-toolset-10-binutils.x86_64             2.35-5.el8                    Stream-AppStream
 gcc-toolset-10-binutils-devel.i686         2.35-5.el8                    Stream-AppStream
 gcc-toolset-10-binutils-devel.x86_64       2.35-5.el8                    Stream-AppStream
-gcc-toolset-10-build.x86_64                10.0-0.el8                    Stream-AppStream
+gcc-toolset-10-build.x86_64                10.1-0.el8                    Stream-AppStream
 gcc-toolset-10-dwz.x86_64                  0.12-1.1.el8                  Stream-AppStream
 gcc-toolset-10-dyninst.x86_64              10.1.0-2.el8                  Stream-AppStream
 gcc-toolset-10-dyninst-devel.i686          10.1.0-2.el8                  Stream-AppStream
@@ -1253,8 +1253,8 @@ gcc-toolset-10-ltrace.x86_64               0.7.91-1.el8                  Stream-
 gcc-toolset-10-make.x86_64                 1:4.2.1-1.el8                 Stream-AppStream
 gcc-toolset-10-make-devel.i686             1:4.2.1-1.el8                 Stream-AppStream
 gcc-toolset-10-make-devel.x86_64           1:4.2.1-1.el8                 Stream-AppStream
-gcc-toolset-10-perftools.x86_64            10.0-0.el8                    Stream-AppStream
-gcc-toolset-10-runtime.x86_64              10.0-0.el8                    Stream-AppStream
+gcc-toolset-10-perftools.x86_64            10.1-0.el8                    Stream-AppStream
+gcc-toolset-10-runtime.x86_64              10.1-0.el8                    Stream-AppStream
 gcc-toolset-10-strace.x86_64               5.7-1.el8                     Stream-AppStream
 gcc-toolset-10-systemtap.x86_64            4.3-7.el8                     Stream-AppStream
 gcc-toolset-10-systemtap-client.x86_64     4.3-7.el8                     Stream-AppStream
@@ -1265,7 +1265,7 @@ gcc-toolset-10-systemtap-runtime.x86_64    4.3-7.el8                     Stream-
 gcc-toolset-10-systemtap-sdt-devel.i686    4.3-7.el8                     Stream-AppStream
 gcc-toolset-10-systemtap-sdt-devel.x86_64  4.3-7.el8                     Stream-AppStream
 gcc-toolset-10-systemtap-server.x86_64     4.3-7.el8                     Stream-AppStream
-gcc-toolset-10-toolchain.x86_64            10.0-0.el8                    Stream-AppStream
+gcc-toolset-10-toolchain.x86_64            10.1-0.el8                    Stream-AppStream
 gcc-toolset-10-valgrind.i686               1:3.16.0-3.el8                Stream-AppStream
 gcc-toolset-10-valgrind.x86_64             1:3.16.0-3.el8                Stream-AppStream
 gcc-toolset-10-valgrind-devel.i686         1:3.16.0-3.el8                Stream-AppStream
@@ -1467,213 +1467,213 @@ glib2-devel.i686                           2.56.4-8.el8                  Stream-
 glib2-devel.x86_64                         2.56.4-8.el8                  Stream-BaseOS
 glib2-fam.x86_64                           2.56.4-8.el8                  Stream-BaseOS
 glib2-tests.x86_64                         2.56.4-8.el8                  Stream-BaseOS
-glibc.i686                                 2.28-127.el8                  Stream-BaseOS
-glibc.x86_64                               2.28-127.el8                  Stream-BaseOS
-glibc-all-langpacks.x86_64                 2.28-127.el8                  Stream-BaseOS
-glibc-common.x86_64                        2.28-127.el8                  Stream-BaseOS
-glibc-devel.i686                           2.28-127.el8                  Stream-BaseOS
-glibc-devel.x86_64                         2.28-127.el8                  Stream-BaseOS
-glibc-headers.i686                         2.28-127.el8                  Stream-BaseOS
-glibc-headers.x86_64                       2.28-127.el8                  Stream-BaseOS
-glibc-langpack-aa.x86_64                   2.28-127.el8                  Stream-BaseOS
-glibc-langpack-af.x86_64                   2.28-127.el8                  Stream-BaseOS
-glibc-langpack-agr.x86_64                  2.28-127.el8                  Stream-BaseOS
-glibc-langpack-ak.x86_64                   2.28-127.el8                  Stream-BaseOS
-glibc-langpack-am.x86_64                   2.28-127.el8                  Stream-BaseOS
-glibc-langpack-an.x86_64                   2.28-127.el8                  Stream-BaseOS
-glibc-langpack-anp.x86_64                  2.28-127.el8                  Stream-BaseOS
-glibc-langpack-ar.x86_64                   2.28-127.el8                  Stream-BaseOS
-glibc-langpack-as.x86_64                   2.28-127.el8                  Stream-BaseOS
-glibc-langpack-ast.x86_64                  2.28-127.el8                  Stream-BaseOS
-glibc-langpack-ayc.x86_64                  2.28-127.el8                  Stream-BaseOS
-glibc-langpack-az.x86_64                   2.28-127.el8                  Stream-BaseOS
-glibc-langpack-be.x86_64                   2.28-127.el8                  Stream-BaseOS
-glibc-langpack-bem.x86_64                  2.28-127.el8                  Stream-BaseOS
-glibc-langpack-ber.x86_64                  2.28-127.el8                  Stream-BaseOS
-glibc-langpack-bg.x86_64                   2.28-127.el8                  Stream-BaseOS
-glibc-langpack-bhb.x86_64                  2.28-127.el8                  Stream-BaseOS
-glibc-langpack-bho.x86_64                  2.28-127.el8                  Stream-BaseOS
-glibc-langpack-bi.x86_64                   2.28-127.el8                  Stream-BaseOS
-glibc-langpack-bn.x86_64                   2.28-127.el8                  Stream-BaseOS
-glibc-langpack-bo.x86_64                   2.28-127.el8                  Stream-BaseOS
-glibc-langpack-br.x86_64                   2.28-127.el8                  Stream-BaseOS
-glibc-langpack-brx.x86_64                  2.28-127.el8                  Stream-BaseOS
-glibc-langpack-bs.x86_64                   2.28-127.el8                  Stream-BaseOS
-glibc-langpack-byn.x86_64                  2.28-127.el8                  Stream-BaseOS
-glibc-langpack-ca.x86_64                   2.28-127.el8                  Stream-BaseOS
-glibc-langpack-ce.x86_64                   2.28-127.el8                  Stream-BaseOS
-glibc-langpack-chr.x86_64                  2.28-127.el8                  Stream-BaseOS
-glibc-langpack-cmn.x86_64                  2.28-127.el8                  Stream-BaseOS
-glibc-langpack-crh.x86_64                  2.28-127.el8                  Stream-BaseOS
-glibc-langpack-cs.x86_64                   2.28-127.el8                  Stream-BaseOS
-glibc-langpack-csb.x86_64                  2.28-127.el8                  Stream-BaseOS
-glibc-langpack-cv.x86_64                   2.28-127.el8                  Stream-BaseOS
-glibc-langpack-cy.x86_64                   2.28-127.el8                  Stream-BaseOS
-glibc-langpack-da.x86_64                   2.28-127.el8                  Stream-BaseOS
-glibc-langpack-de.x86_64                   2.28-127.el8                  Stream-BaseOS
-glibc-langpack-doi.x86_64                  2.28-127.el8                  Stream-BaseOS
-glibc-langpack-dsb.x86_64                  2.28-127.el8                  Stream-BaseOS
-glibc-langpack-dv.x86_64                   2.28-127.el8                  Stream-BaseOS
-glibc-langpack-dz.x86_64                   2.28-127.el8                  Stream-BaseOS
-glibc-langpack-el.x86_64                   2.28-127.el8                  Stream-BaseOS
-glibc-langpack-en.x86_64                   2.28-127.el8                  Stream-BaseOS
-glibc-langpack-eo.x86_64                   2.28-127.el8                  Stream-BaseOS
-glibc-langpack-es.x86_64                   2.28-127.el8                  Stream-BaseOS
-glibc-langpack-et.x86_64                   2.28-127.el8                  Stream-BaseOS
-glibc-langpack-eu.x86_64                   2.28-127.el8                  Stream-BaseOS
-glibc-langpack-fa.x86_64                   2.28-127.el8                  Stream-BaseOS
-glibc-langpack-ff.x86_64                   2.28-127.el8                  Stream-BaseOS
-glibc-langpack-fi.x86_64                   2.28-127.el8                  Stream-BaseOS
-glibc-langpack-fil.x86_64                  2.28-127.el8                  Stream-BaseOS
-glibc-langpack-fo.x86_64                   2.28-127.el8                  Stream-BaseOS
-glibc-langpack-fr.x86_64                   2.28-127.el8                  Stream-BaseOS
-glibc-langpack-fur.x86_64                  2.28-127.el8                  Stream-BaseOS
-glibc-langpack-fy.x86_64                   2.28-127.el8                  Stream-BaseOS
-glibc-langpack-ga.x86_64                   2.28-127.el8                  Stream-BaseOS
-glibc-langpack-gd.x86_64                   2.28-127.el8                  Stream-BaseOS
-glibc-langpack-gez.x86_64                  2.28-127.el8                  Stream-BaseOS
-glibc-langpack-gl.x86_64                   2.28-127.el8                  Stream-BaseOS
-glibc-langpack-gu.x86_64                   2.28-127.el8                  Stream-BaseOS
-glibc-langpack-gv.x86_64                   2.28-127.el8                  Stream-BaseOS
-glibc-langpack-ha.x86_64                   2.28-127.el8                  Stream-BaseOS
-glibc-langpack-hak.x86_64                  2.28-127.el8                  Stream-BaseOS
-glibc-langpack-he.x86_64                   2.28-127.el8                  Stream-BaseOS
-glibc-langpack-hi.x86_64                   2.28-127.el8                  Stream-BaseOS
-glibc-langpack-hif.x86_64                  2.28-127.el8                  Stream-BaseOS
-glibc-langpack-hne.x86_64                  2.28-127.el8                  Stream-BaseOS
-glibc-langpack-hr.x86_64                   2.28-127.el8                  Stream-BaseOS
-glibc-langpack-hsb.x86_64                  2.28-127.el8                  Stream-BaseOS
-glibc-langpack-ht.x86_64                   2.28-127.el8                  Stream-BaseOS
-glibc-langpack-hu.x86_64                   2.28-127.el8                  Stream-BaseOS
-glibc-langpack-hy.x86_64                   2.28-127.el8                  Stream-BaseOS
-glibc-langpack-ia.x86_64                   2.28-127.el8                  Stream-BaseOS
-glibc-langpack-id.x86_64                   2.28-127.el8                  Stream-BaseOS
-glibc-langpack-ig.x86_64                   2.28-127.el8                  Stream-BaseOS
-glibc-langpack-ik.x86_64                   2.28-127.el8                  Stream-BaseOS
-glibc-langpack-is.x86_64                   2.28-127.el8                  Stream-BaseOS
-glibc-langpack-it.x86_64                   2.28-127.el8                  Stream-BaseOS
-glibc-langpack-iu.x86_64                   2.28-127.el8                  Stream-BaseOS
-glibc-langpack-ja.x86_64                   2.28-127.el8                  Stream-BaseOS
-glibc-langpack-ka.x86_64                   2.28-127.el8                  Stream-BaseOS
-glibc-langpack-kab.x86_64                  2.28-127.el8                  Stream-BaseOS
-glibc-langpack-kk.x86_64                   2.28-127.el8                  Stream-BaseOS
-glibc-langpack-kl.x86_64                   2.28-127.el8                  Stream-BaseOS
-glibc-langpack-km.x86_64                   2.28-127.el8                  Stream-BaseOS
-glibc-langpack-kn.x86_64                   2.28-127.el8                  Stream-BaseOS
-glibc-langpack-ko.x86_64                   2.28-127.el8                  Stream-BaseOS
-glibc-langpack-kok.x86_64                  2.28-127.el8                  Stream-BaseOS
-glibc-langpack-ks.x86_64                   2.28-127.el8                  Stream-BaseOS
-glibc-langpack-ku.x86_64                   2.28-127.el8                  Stream-BaseOS
-glibc-langpack-kw.x86_64                   2.28-127.el8                  Stream-BaseOS
-glibc-langpack-ky.x86_64                   2.28-127.el8                  Stream-BaseOS
-glibc-langpack-lb.x86_64                   2.28-127.el8                  Stream-BaseOS
-glibc-langpack-lg.x86_64                   2.28-127.el8                  Stream-BaseOS
-glibc-langpack-li.x86_64                   2.28-127.el8                  Stream-BaseOS
-glibc-langpack-lij.x86_64                  2.28-127.el8                  Stream-BaseOS
-glibc-langpack-ln.x86_64                   2.28-127.el8                  Stream-BaseOS
-glibc-langpack-lo.x86_64                   2.28-127.el8                  Stream-BaseOS
-glibc-langpack-lt.x86_64                   2.28-127.el8                  Stream-BaseOS
-glibc-langpack-lv.x86_64                   2.28-127.el8                  Stream-BaseOS
-glibc-langpack-lzh.x86_64                  2.28-127.el8                  Stream-BaseOS
-glibc-langpack-mag.x86_64                  2.28-127.el8                  Stream-BaseOS
-glibc-langpack-mai.x86_64                  2.28-127.el8                  Stream-BaseOS
-glibc-langpack-mfe.x86_64                  2.28-127.el8                  Stream-BaseOS
-glibc-langpack-mg.x86_64                   2.28-127.el8                  Stream-BaseOS
-glibc-langpack-mhr.x86_64                  2.28-127.el8                  Stream-BaseOS
-glibc-langpack-mi.x86_64                   2.28-127.el8                  Stream-BaseOS
-glibc-langpack-miq.x86_64                  2.28-127.el8                  Stream-BaseOS
-glibc-langpack-mjw.x86_64                  2.28-127.el8                  Stream-BaseOS
-glibc-langpack-mk.x86_64                   2.28-127.el8                  Stream-BaseOS
-glibc-langpack-ml.x86_64                   2.28-127.el8                  Stream-BaseOS
-glibc-langpack-mn.x86_64                   2.28-127.el8                  Stream-BaseOS
-glibc-langpack-mni.x86_64                  2.28-127.el8                  Stream-BaseOS
-glibc-langpack-mr.x86_64                   2.28-127.el8                  Stream-BaseOS
-glibc-langpack-ms.x86_64                   2.28-127.el8                  Stream-BaseOS
-glibc-langpack-mt.x86_64                   2.28-127.el8                  Stream-BaseOS
-glibc-langpack-my.x86_64                   2.28-127.el8                  Stream-BaseOS
-glibc-langpack-nan.x86_64                  2.28-127.el8                  Stream-BaseOS
-glibc-langpack-nb.x86_64                   2.28-127.el8                  Stream-BaseOS
-glibc-langpack-nds.x86_64                  2.28-127.el8                  Stream-BaseOS
-glibc-langpack-ne.x86_64                   2.28-127.el8                  Stream-BaseOS
-glibc-langpack-nhn.x86_64                  2.28-127.el8                  Stream-BaseOS
-glibc-langpack-niu.x86_64                  2.28-127.el8                  Stream-BaseOS
-glibc-langpack-nl.x86_64                   2.28-127.el8                  Stream-BaseOS
-glibc-langpack-nn.x86_64                   2.28-127.el8                  Stream-BaseOS
-glibc-langpack-nr.x86_64                   2.28-127.el8                  Stream-BaseOS
-glibc-langpack-nso.x86_64                  2.28-127.el8                  Stream-BaseOS
-glibc-langpack-oc.x86_64                   2.28-127.el8                  Stream-BaseOS
-glibc-langpack-om.x86_64                   2.28-127.el8                  Stream-BaseOS
-glibc-langpack-or.x86_64                   2.28-127.el8                  Stream-BaseOS
-glibc-langpack-os.x86_64                   2.28-127.el8                  Stream-BaseOS
-glibc-langpack-pa.x86_64                   2.28-127.el8                  Stream-BaseOS
-glibc-langpack-pap.x86_64                  2.28-127.el8                  Stream-BaseOS
-glibc-langpack-pl.x86_64                   2.28-127.el8                  Stream-BaseOS
-glibc-langpack-ps.x86_64                   2.28-127.el8                  Stream-BaseOS
-glibc-langpack-pt.x86_64                   2.28-127.el8                  Stream-BaseOS
-glibc-langpack-quz.x86_64                  2.28-127.el8                  Stream-BaseOS
-glibc-langpack-raj.x86_64                  2.28-127.el8                  Stream-BaseOS
-glibc-langpack-ro.x86_64                   2.28-127.el8                  Stream-BaseOS
-glibc-langpack-ru.x86_64                   2.28-127.el8                  Stream-BaseOS
-glibc-langpack-rw.x86_64                   2.28-127.el8                  Stream-BaseOS
-glibc-langpack-sa.x86_64                   2.28-127.el8                  Stream-BaseOS
-glibc-langpack-sah.x86_64                  2.28-127.el8                  Stream-BaseOS
-glibc-langpack-sat.x86_64                  2.28-127.el8                  Stream-BaseOS
-glibc-langpack-sc.x86_64                   2.28-127.el8                  Stream-BaseOS
-glibc-langpack-sd.x86_64                   2.28-127.el8                  Stream-BaseOS
-glibc-langpack-se.x86_64                   2.28-127.el8                  Stream-BaseOS
-glibc-langpack-sgs.x86_64                  2.28-127.el8                  Stream-BaseOS
-glibc-langpack-shn.x86_64                  2.28-127.el8                  Stream-BaseOS
-glibc-langpack-shs.x86_64                  2.28-127.el8                  Stream-BaseOS
-glibc-langpack-si.x86_64                   2.28-127.el8                  Stream-BaseOS
-glibc-langpack-sid.x86_64                  2.28-127.el8                  Stream-BaseOS
-glibc-langpack-sk.x86_64                   2.28-127.el8                  Stream-BaseOS
-glibc-langpack-sl.x86_64                   2.28-127.el8                  Stream-BaseOS
-glibc-langpack-sm.x86_64                   2.28-127.el8                  Stream-BaseOS
-glibc-langpack-so.x86_64                   2.28-127.el8                  Stream-BaseOS
-glibc-langpack-sq.x86_64                   2.28-127.el8                  Stream-BaseOS
-glibc-langpack-sr.x86_64                   2.28-127.el8                  Stream-BaseOS
-glibc-langpack-ss.x86_64                   2.28-127.el8                  Stream-BaseOS
-glibc-langpack-st.x86_64                   2.28-127.el8                  Stream-BaseOS
-glibc-langpack-sv.x86_64                   2.28-127.el8                  Stream-BaseOS
-glibc-langpack-sw.x86_64                   2.28-127.el8                  Stream-BaseOS
-glibc-langpack-szl.x86_64                  2.28-127.el8                  Stream-BaseOS
-glibc-langpack-ta.x86_64                   2.28-127.el8                  Stream-BaseOS
-glibc-langpack-tcy.x86_64                  2.28-127.el8                  Stream-BaseOS
-glibc-langpack-te.x86_64                   2.28-127.el8                  Stream-BaseOS
-glibc-langpack-tg.x86_64                   2.28-127.el8                  Stream-BaseOS
-glibc-langpack-th.x86_64                   2.28-127.el8                  Stream-BaseOS
-glibc-langpack-the.x86_64                  2.28-127.el8                  Stream-BaseOS
-glibc-langpack-ti.x86_64                   2.28-127.el8                  Stream-BaseOS
-glibc-langpack-tig.x86_64                  2.28-127.el8                  Stream-BaseOS
-glibc-langpack-tk.x86_64                   2.28-127.el8                  Stream-BaseOS
-glibc-langpack-tl.x86_64                   2.28-127.el8                  Stream-BaseOS
-glibc-langpack-tn.x86_64                   2.28-127.el8                  Stream-BaseOS
-glibc-langpack-to.x86_64                   2.28-127.el8                  Stream-BaseOS
-glibc-langpack-tpi.x86_64                  2.28-127.el8                  Stream-BaseOS
-glibc-langpack-tr.x86_64                   2.28-127.el8                  Stream-BaseOS
-glibc-langpack-ts.x86_64                   2.28-127.el8                  Stream-BaseOS
-glibc-langpack-tt.x86_64                   2.28-127.el8                  Stream-BaseOS
-glibc-langpack-ug.x86_64                   2.28-127.el8                  Stream-BaseOS
-glibc-langpack-uk.x86_64                   2.28-127.el8                  Stream-BaseOS
-glibc-langpack-unm.x86_64                  2.28-127.el8                  Stream-BaseOS
-glibc-langpack-ur.x86_64                   2.28-127.el8                  Stream-BaseOS
-glibc-langpack-uz.x86_64                   2.28-127.el8                  Stream-BaseOS
-glibc-langpack-ve.x86_64                   2.28-127.el8                  Stream-BaseOS
-glibc-langpack-vi.x86_64                   2.28-127.el8                  Stream-BaseOS
-glibc-langpack-wa.x86_64                   2.28-127.el8                  Stream-BaseOS
-glibc-langpack-wae.x86_64                  2.28-127.el8                  Stream-BaseOS
-glibc-langpack-wal.x86_64                  2.28-127.el8                  Stream-BaseOS
-glibc-langpack-wo.x86_64                   2.28-127.el8                  Stream-BaseOS
-glibc-langpack-xh.x86_64                   2.28-127.el8                  Stream-BaseOS
-glibc-langpack-yi.x86_64                   2.28-127.el8                  Stream-BaseOS
-glibc-langpack-yo.x86_64                   2.28-127.el8                  Stream-BaseOS
-glibc-langpack-yue.x86_64                  2.28-127.el8                  Stream-BaseOS
-glibc-langpack-yuw.x86_64                  2.28-127.el8                  Stream-BaseOS
-glibc-langpack-zh.x86_64                   2.28-127.el8                  Stream-BaseOS
-glibc-langpack-zu.x86_64                   2.28-127.el8                  Stream-BaseOS
-glibc-locale-source.x86_64                 2.28-127.el8                  Stream-BaseOS
-glibc-minimal-langpack.x86_64              2.28-127.el8                  Stream-BaseOS
-glibc-utils.x86_64                         2.28-127.el8                  Stream-AppStream
+glibc.i686                                 2.28-129.el8                  Stream-BaseOS
+glibc.x86_64                               2.28-129.el8                  Stream-BaseOS
+glibc-all-langpacks.x86_64                 2.28-129.el8                  Stream-BaseOS
+glibc-common.x86_64                        2.28-129.el8                  Stream-BaseOS
+glibc-devel.i686                           2.28-129.el8                  Stream-BaseOS
+glibc-devel.x86_64                         2.28-129.el8                  Stream-BaseOS
+glibc-headers.i686                         2.28-129.el8                  Stream-BaseOS
+glibc-headers.x86_64                       2.28-129.el8                  Stream-BaseOS
+glibc-langpack-aa.x86_64                   2.28-129.el8                  Stream-BaseOS
+glibc-langpack-af.x86_64                   2.28-129.el8                  Stream-BaseOS
+glibc-langpack-agr.x86_64                  2.28-129.el8                  Stream-BaseOS
+glibc-langpack-ak.x86_64                   2.28-129.el8                  Stream-BaseOS
+glibc-langpack-am.x86_64                   2.28-129.el8                  Stream-BaseOS
+glibc-langpack-an.x86_64                   2.28-129.el8                  Stream-BaseOS
+glibc-langpack-anp.x86_64                  2.28-129.el8                  Stream-BaseOS
+glibc-langpack-ar.x86_64                   2.28-129.el8                  Stream-BaseOS
+glibc-langpack-as.x86_64                   2.28-129.el8                  Stream-BaseOS
+glibc-langpack-ast.x86_64                  2.28-129.el8                  Stream-BaseOS
+glibc-langpack-ayc.x86_64                  2.28-129.el8                  Stream-BaseOS
+glibc-langpack-az.x86_64                   2.28-129.el8                  Stream-BaseOS
+glibc-langpack-be.x86_64                   2.28-129.el8                  Stream-BaseOS
+glibc-langpack-bem.x86_64                  2.28-129.el8                  Stream-BaseOS
+glibc-langpack-ber.x86_64                  2.28-129.el8                  Stream-BaseOS
+glibc-langpack-bg.x86_64                   2.28-129.el8                  Stream-BaseOS
+glibc-langpack-bhb.x86_64                  2.28-129.el8                  Stream-BaseOS
+glibc-langpack-bho.x86_64                  2.28-129.el8                  Stream-BaseOS
+glibc-langpack-bi.x86_64                   2.28-129.el8                  Stream-BaseOS
+glibc-langpack-bn.x86_64                   2.28-129.el8                  Stream-BaseOS
+glibc-langpack-bo.x86_64                   2.28-129.el8                  Stream-BaseOS
+glibc-langpack-br.x86_64                   2.28-129.el8                  Stream-BaseOS
+glibc-langpack-brx.x86_64                  2.28-129.el8                  Stream-BaseOS
+glibc-langpack-bs.x86_64                   2.28-129.el8                  Stream-BaseOS
+glibc-langpack-byn.x86_64                  2.28-129.el8                  Stream-BaseOS
+glibc-langpack-ca.x86_64                   2.28-129.el8                  Stream-BaseOS
+glibc-langpack-ce.x86_64                   2.28-129.el8                  Stream-BaseOS
+glibc-langpack-chr.x86_64                  2.28-129.el8                  Stream-BaseOS
+glibc-langpack-cmn.x86_64                  2.28-129.el8                  Stream-BaseOS
+glibc-langpack-crh.x86_64                  2.28-129.el8                  Stream-BaseOS
+glibc-langpack-cs.x86_64                   2.28-129.el8                  Stream-BaseOS
+glibc-langpack-csb.x86_64                  2.28-129.el8                  Stream-BaseOS
+glibc-langpack-cv.x86_64                   2.28-129.el8                  Stream-BaseOS
+glibc-langpack-cy.x86_64                   2.28-129.el8                  Stream-BaseOS
+glibc-langpack-da.x86_64                   2.28-129.el8                  Stream-BaseOS
+glibc-langpack-de.x86_64                   2.28-129.el8                  Stream-BaseOS
+glibc-langpack-doi.x86_64                  2.28-129.el8                  Stream-BaseOS
+glibc-langpack-dsb.x86_64                  2.28-129.el8                  Stream-BaseOS
+glibc-langpack-dv.x86_64                   2.28-129.el8                  Stream-BaseOS
+glibc-langpack-dz.x86_64                   2.28-129.el8                  Stream-BaseOS
+glibc-langpack-el.x86_64                   2.28-129.el8                  Stream-BaseOS
+glibc-langpack-en.x86_64                   2.28-129.el8                  Stream-BaseOS
+glibc-langpack-eo.x86_64                   2.28-129.el8                  Stream-BaseOS
+glibc-langpack-es.x86_64                   2.28-129.el8                  Stream-BaseOS
+glibc-langpack-et.x86_64                   2.28-129.el8                  Stream-BaseOS
+glibc-langpack-eu.x86_64                   2.28-129.el8                  Stream-BaseOS
+glibc-langpack-fa.x86_64                   2.28-129.el8                  Stream-BaseOS
+glibc-langpack-ff.x86_64                   2.28-129.el8                  Stream-BaseOS
+glibc-langpack-fi.x86_64                   2.28-129.el8                  Stream-BaseOS
+glibc-langpack-fil.x86_64                  2.28-129.el8                  Stream-BaseOS
+glibc-langpack-fo.x86_64                   2.28-129.el8                  Stream-BaseOS
+glibc-langpack-fr.x86_64                   2.28-129.el8                  Stream-BaseOS
+glibc-langpack-fur.x86_64                  2.28-129.el8                  Stream-BaseOS
+glibc-langpack-fy.x86_64                   2.28-129.el8                  Stream-BaseOS
+glibc-langpack-ga.x86_64                   2.28-129.el8                  Stream-BaseOS
+glibc-langpack-gd.x86_64                   2.28-129.el8                  Stream-BaseOS
+glibc-langpack-gez.x86_64                  2.28-129.el8                  Stream-BaseOS
+glibc-langpack-gl.x86_64                   2.28-129.el8                  Stream-BaseOS
+glibc-langpack-gu.x86_64                   2.28-129.el8                  Stream-BaseOS
+glibc-langpack-gv.x86_64                   2.28-129.el8                  Stream-BaseOS
+glibc-langpack-ha.x86_64                   2.28-129.el8                  Stream-BaseOS
+glibc-langpack-hak.x86_64                  2.28-129.el8                  Stream-BaseOS
+glibc-langpack-he.x86_64                   2.28-129.el8                  Stream-BaseOS
+glibc-langpack-hi.x86_64                   2.28-129.el8                  Stream-BaseOS
+glibc-langpack-hif.x86_64                  2.28-129.el8                  Stream-BaseOS
+glibc-langpack-hne.x86_64                  2.28-129.el8                  Stream-BaseOS
+glibc-langpack-hr.x86_64                   2.28-129.el8                  Stream-BaseOS
+glibc-langpack-hsb.x86_64                  2.28-129.el8                  Stream-BaseOS
+glibc-langpack-ht.x86_64                   2.28-129.el8                  Stream-BaseOS
+glibc-langpack-hu.x86_64                   2.28-129.el8                  Stream-BaseOS
+glibc-langpack-hy.x86_64                   2.28-129.el8                  Stream-BaseOS
+glibc-langpack-ia.x86_64                   2.28-129.el8                  Stream-BaseOS
+glibc-langpack-id.x86_64                   2.28-129.el8                  Stream-BaseOS
+glibc-langpack-ig.x86_64                   2.28-129.el8                  Stream-BaseOS
+glibc-langpack-ik.x86_64                   2.28-129.el8                  Stream-BaseOS
+glibc-langpack-is.x86_64                   2.28-129.el8                  Stream-BaseOS
+glibc-langpack-it.x86_64                   2.28-129.el8                  Stream-BaseOS
+glibc-langpack-iu.x86_64                   2.28-129.el8                  Stream-BaseOS
+glibc-langpack-ja.x86_64                   2.28-129.el8                  Stream-BaseOS
+glibc-langpack-ka.x86_64                   2.28-129.el8                  Stream-BaseOS
+glibc-langpack-kab.x86_64                  2.28-129.el8                  Stream-BaseOS
+glibc-langpack-kk.x86_64                   2.28-129.el8                  Stream-BaseOS
+glibc-langpack-kl.x86_64                   2.28-129.el8                  Stream-BaseOS
+glibc-langpack-km.x86_64                   2.28-129.el8                  Stream-BaseOS
+glibc-langpack-kn.x86_64                   2.28-129.el8                  Stream-BaseOS
+glibc-langpack-ko.x86_64                   2.28-129.el8                  Stream-BaseOS
+glibc-langpack-kok.x86_64                  2.28-129.el8                  Stream-BaseOS
+glibc-langpack-ks.x86_64                   2.28-129.el8                  Stream-BaseOS
+glibc-langpack-ku.x86_64                   2.28-129.el8                  Stream-BaseOS
+glibc-langpack-kw.x86_64                   2.28-129.el8                  Stream-BaseOS
+glibc-langpack-ky.x86_64                   2.28-129.el8                  Stream-BaseOS
+glibc-langpack-lb.x86_64                   2.28-129.el8                  Stream-BaseOS
+glibc-langpack-lg.x86_64                   2.28-129.el8                  Stream-BaseOS
+glibc-langpack-li.x86_64                   2.28-129.el8                  Stream-BaseOS
+glibc-langpack-lij.x86_64                  2.28-129.el8                  Stream-BaseOS
+glibc-langpack-ln.x86_64                   2.28-129.el8                  Stream-BaseOS
+glibc-langpack-lo.x86_64                   2.28-129.el8                  Stream-BaseOS
+glibc-langpack-lt.x86_64                   2.28-129.el8                  Stream-BaseOS
+glibc-langpack-lv.x86_64                   2.28-129.el8                  Stream-BaseOS
+glibc-langpack-lzh.x86_64                  2.28-129.el8                  Stream-BaseOS
+glibc-langpack-mag.x86_64                  2.28-129.el8                  Stream-BaseOS
+glibc-langpack-mai.x86_64                  2.28-129.el8                  Stream-BaseOS
+glibc-langpack-mfe.x86_64                  2.28-129.el8                  Stream-BaseOS
+glibc-langpack-mg.x86_64                   2.28-129.el8                  Stream-BaseOS
+glibc-langpack-mhr.x86_64                  2.28-129.el8                  Stream-BaseOS
+glibc-langpack-mi.x86_64                   2.28-129.el8                  Stream-BaseOS
+glibc-langpack-miq.x86_64                  2.28-129.el8                  Stream-BaseOS
+glibc-langpack-mjw.x86_64                  2.28-129.el8                  Stream-BaseOS
+glibc-langpack-mk.x86_64                   2.28-129.el8                  Stream-BaseOS
+glibc-langpack-ml.x86_64                   2.28-129.el8                  Stream-BaseOS
+glibc-langpack-mn.x86_64                   2.28-129.el8                  Stream-BaseOS
+glibc-langpack-mni.x86_64                  2.28-129.el8                  Stream-BaseOS
+glibc-langpack-mr.x86_64                   2.28-129.el8                  Stream-BaseOS
+glibc-langpack-ms.x86_64                   2.28-129.el8                  Stream-BaseOS
+glibc-langpack-mt.x86_64                   2.28-129.el8                  Stream-BaseOS
+glibc-langpack-my.x86_64                   2.28-129.el8                  Stream-BaseOS
+glibc-langpack-nan.x86_64                  2.28-129.el8                  Stream-BaseOS
+glibc-langpack-nb.x86_64                   2.28-129.el8                  Stream-BaseOS
+glibc-langpack-nds.x86_64                  2.28-129.el8                  Stream-BaseOS
+glibc-langpack-ne.x86_64                   2.28-129.el8                  Stream-BaseOS
+glibc-langpack-nhn.x86_64                  2.28-129.el8                  Stream-BaseOS
+glibc-langpack-niu.x86_64                  2.28-129.el8                  Stream-BaseOS
+glibc-langpack-nl.x86_64                   2.28-129.el8                  Stream-BaseOS
+glibc-langpack-nn.x86_64                   2.28-129.el8                  Stream-BaseOS
+glibc-langpack-nr.x86_64                   2.28-129.el8                  Stream-BaseOS
+glibc-langpack-nso.x86_64                  2.28-129.el8                  Stream-BaseOS
+glibc-langpack-oc.x86_64                   2.28-129.el8                  Stream-BaseOS
+glibc-langpack-om.x86_64                   2.28-129.el8                  Stream-BaseOS
+glibc-langpack-or.x86_64                   2.28-129.el8                  Stream-BaseOS
+glibc-langpack-os.x86_64                   2.28-129.el8                  Stream-BaseOS
+glibc-langpack-pa.x86_64                   2.28-129.el8                  Stream-BaseOS
+glibc-langpack-pap.x86_64                  2.28-129.el8                  Stream-BaseOS
+glibc-langpack-pl.x86_64                   2.28-129.el8                  Stream-BaseOS
+glibc-langpack-ps.x86_64                   2.28-129.el8                  Stream-BaseOS
+glibc-langpack-pt.x86_64                   2.28-129.el8                  Stream-BaseOS
+glibc-langpack-quz.x86_64                  2.28-129.el8                  Stream-BaseOS
+glibc-langpack-raj.x86_64                  2.28-129.el8                  Stream-BaseOS
+glibc-langpack-ro.x86_64                   2.28-129.el8                  Stream-BaseOS
+glibc-langpack-ru.x86_64                   2.28-129.el8                  Stream-BaseOS
+glibc-langpack-rw.x86_64                   2.28-129.el8                  Stream-BaseOS
+glibc-langpack-sa.x86_64                   2.28-129.el8                  Stream-BaseOS
+glibc-langpack-sah.x86_64                  2.28-129.el8                  Stream-BaseOS
+glibc-langpack-sat.x86_64                  2.28-129.el8                  Stream-BaseOS
+glibc-langpack-sc.x86_64                   2.28-129.el8                  Stream-BaseOS
+glibc-langpack-sd.x86_64                   2.28-129.el8                  Stream-BaseOS
+glibc-langpack-se.x86_64                   2.28-129.el8                  Stream-BaseOS
+glibc-langpack-sgs.x86_64                  2.28-129.el8                  Stream-BaseOS
+glibc-langpack-shn.x86_64                  2.28-129.el8                  Stream-BaseOS
+glibc-langpack-shs.x86_64                  2.28-129.el8                  Stream-BaseOS
+glibc-langpack-si.x86_64                   2.28-129.el8                  Stream-BaseOS
+glibc-langpack-sid.x86_64                  2.28-129.el8                  Stream-BaseOS
+glibc-langpack-sk.x86_64                   2.28-129.el8                  Stream-BaseOS
+glibc-langpack-sl.x86_64                   2.28-129.el8                  Stream-BaseOS
+glibc-langpack-sm.x86_64                   2.28-129.el8                  Stream-BaseOS
+glibc-langpack-so.x86_64                   2.28-129.el8                  Stream-BaseOS
+glibc-langpack-sq.x86_64                   2.28-129.el8                  Stream-BaseOS
+glibc-langpack-sr.x86_64                   2.28-129.el8                  Stream-BaseOS
+glibc-langpack-ss.x86_64                   2.28-129.el8                  Stream-BaseOS
+glibc-langpack-st.x86_64                   2.28-129.el8                  Stream-BaseOS
+glibc-langpack-sv.x86_64                   2.28-129.el8                  Stream-BaseOS
+glibc-langpack-sw.x86_64                   2.28-129.el8                  Stream-BaseOS
+glibc-langpack-szl.x86_64                  2.28-129.el8                  Stream-BaseOS
+glibc-langpack-ta.x86_64                   2.28-129.el8                  Stream-BaseOS
+glibc-langpack-tcy.x86_64                  2.28-129.el8                  Stream-BaseOS
+glibc-langpack-te.x86_64                   2.28-129.el8                  Stream-BaseOS
+glibc-langpack-tg.x86_64                   2.28-129.el8                  Stream-BaseOS
+glibc-langpack-th.x86_64                   2.28-129.el8                  Stream-BaseOS
+glibc-langpack-the.x86_64                  2.28-129.el8                  Stream-BaseOS
+glibc-langpack-ti.x86_64                   2.28-129.el8                  Stream-BaseOS
+glibc-langpack-tig.x86_64                  2.28-129.el8                  Stream-BaseOS
+glibc-langpack-tk.x86_64                   2.28-129.el8                  Stream-BaseOS
+glibc-langpack-tl.x86_64                   2.28-129.el8                  Stream-BaseOS
+glibc-langpack-tn.x86_64                   2.28-129.el8                  Stream-BaseOS
+glibc-langpack-to.x86_64                   2.28-129.el8                  Stream-BaseOS
+glibc-langpack-tpi.x86_64                  2.28-129.el8                  Stream-BaseOS
+glibc-langpack-tr.x86_64                   2.28-129.el8                  Stream-BaseOS
+glibc-langpack-ts.x86_64                   2.28-129.el8                  Stream-BaseOS
+glibc-langpack-tt.x86_64                   2.28-129.el8                  Stream-BaseOS
+glibc-langpack-ug.x86_64                   2.28-129.el8                  Stream-BaseOS
+glibc-langpack-uk.x86_64                   2.28-129.el8                  Stream-BaseOS
+glibc-langpack-unm.x86_64                  2.28-129.el8                  Stream-BaseOS
+glibc-langpack-ur.x86_64                   2.28-129.el8                  Stream-BaseOS
+glibc-langpack-uz.x86_64                   2.28-129.el8                  Stream-BaseOS
+glibc-langpack-ve.x86_64                   2.28-129.el8                  Stream-BaseOS
+glibc-langpack-vi.x86_64                   2.28-129.el8                  Stream-BaseOS
+glibc-langpack-wa.x86_64                   2.28-129.el8                  Stream-BaseOS
+glibc-langpack-wae.x86_64                  2.28-129.el8                  Stream-BaseOS
+glibc-langpack-wal.x86_64                  2.28-129.el8                  Stream-BaseOS
+glibc-langpack-wo.x86_64                   2.28-129.el8                  Stream-BaseOS
+glibc-langpack-xh.x86_64                   2.28-129.el8                  Stream-BaseOS
+glibc-langpack-yi.x86_64                   2.28-129.el8                  Stream-BaseOS
+glibc-langpack-yo.x86_64                   2.28-129.el8                  Stream-BaseOS
+glibc-langpack-yue.x86_64                  2.28-129.el8                  Stream-BaseOS
+glibc-langpack-yuw.x86_64                  2.28-129.el8                  Stream-BaseOS
+glibc-langpack-zh.x86_64                   2.28-129.el8                  Stream-BaseOS
+glibc-langpack-zu.x86_64                   2.28-129.el8                  Stream-BaseOS
+glibc-locale-source.x86_64                 2.28-129.el8                  Stream-BaseOS
+glibc-minimal-langpack.x86_64              2.28-129.el8                  Stream-BaseOS
+glibc-utils.x86_64                         2.28-129.el8                  Stream-AppStream
 glibmm24.i686                              2.56.0-1.el8                  Stream-AppStream
 glibmm24.x86_64                            2.56.0-1.el8                  Stream-AppStream
 glusterfs.x86_64                           6.0-40.el8                    Stream-BaseOS
@@ -1742,7 +1742,7 @@ gnome-session.x86_64                       3.28.1-10.el8                 Stream-
 gnome-session-wayland-session.x86_64       3.28.1-10.el8                 Stream-AppStream
 gnome-session-xsession.x86_64              3.28.1-10.el8                 Stream-AppStream
 gnome-settings-daemon.x86_64               3.32.0-11.el8                 Stream-AppStream
-gnome-shell.x86_64                         3.32.2-20.el8                 Stream-AppStream
+gnome-shell.x86_64                         3.32.2-21.el8                 Stream-AppStream
 gnome-shell-extension-apps-menu.noarch     3.32.1-11.el8                 Stream-AppStream
 gnome-shell-extension-auto-move-windows.noarch
                                            3.32.1-11.el8                 Stream-AppStream
@@ -1968,10 +1968,10 @@ google-noto-serif-malayalam-fonts.noarch   20161022-7.el8.1              Stream-
 google-noto-serif-tamil-fonts.noarch       20161022-7.el8.1              Stream-AppStream
 google-noto-serif-telugu-fonts.noarch      20161022-7.el8.1              Stream-AppStream
 google-noto-serif-thai-fonts.noarch        20161022-7.el8.1              Stream-AppStream
-gpgme.i686                                 1.13.1-3.el8                  Stream-BaseOS
-gpgme.x86_64                               1.13.1-3.el8                  Stream-BaseOS
-gpgmepp.i686                               1.13.1-3.el8                  Stream-BaseOS
-gpgmepp.x86_64                             1.13.1-3.el8                  Stream-BaseOS
+gpgme.i686                                 1.13.1-4.el8                  Stream-BaseOS
+gpgme.x86_64                               1.13.1-4.el8                  Stream-BaseOS
+gpgmepp.i686                               1.13.1-4.el8                  Stream-BaseOS
+gpgmepp.x86_64                             1.13.1-4.el8                  Stream-BaseOS
 gpm.x86_64                                 1.20.7-15.el8                 Stream-AppStream
 gpm-devel.i686                             1.20.7-15.el8                 Stream-AppStream
 gpm-devel.x86_64                           1.20.7-15.el8                 Stream-AppStream
@@ -2832,7 +2832,7 @@ ldb-tools.x86_64                           2.1.3-2.el8                   Stream-
 ldns.i686                                  1.7.0-21.el8                  Stream-AppStream
 ldns.x86_64                                1.7.0-21.el8                  Stream-AppStream
 ledmon.x86_64                              0.94-1.el8                    Stream-BaseOS
-lemon.x86_64                               3.26.0-11.el8                 Stream-AppStream
+lemon.x86_64                               3.26.0-12.el8                 Stream-AppStream
 less.x86_64                                530-1.el8                     Stream-BaseOS
 lftp.i686                                  4.8.4-2.el8                   Stream-AppStream
 lftp.x86_64                                4.8.4-2.el8                   Stream-AppStream
@@ -2968,8 +2968,8 @@ libappindicator-gtk3.i686                  12.10.0-19.el8                Stream-
 libappindicator-gtk3.x86_64                12.10.0-19.el8                Stream-AppStream
 libappstream-glib.i686                     0.7.14-3.el8                  Stream-BaseOS
 libappstream-glib.x86_64                   0.7.14-3.el8                  Stream-BaseOS
-libarchive.i686                            3.3.2-9.el8                   Stream-BaseOS
-libarchive.x86_64                          3.3.2-9.el8                   Stream-BaseOS
+libarchive.i686                            3.3.3-1.el8                   Stream-BaseOS
+libarchive.x86_64                          3.3.3-1.el8                   Stream-BaseOS
 libasan.i686                               8.3.1-5.1.el8                 Stream-BaseOS
 libasan.x86_64                             8.3.1-5.1.el8                 Stream-BaseOS
 libassuan.i686                             2.5.1-3.el8                   Stream-BaseOS
@@ -3517,8 +3517,8 @@ libnotify.i686                             0.7.7-5.el8                   Stream-
 libnotify.x86_64                           0.7.7-5.el8                   Stream-AppStream
 libnotify-devel.i686                       0.7.7-5.el8                   Stream-AppStream
 libnotify-devel.x86_64                     0.7.7-5.el8                   Stream-AppStream
-libnsl.i686                                2.28-127.el8                  Stream-BaseOS
-libnsl.x86_64                              2.28-127.el8                  Stream-BaseOS
+libnsl.i686                                2.28-129.el8                  Stream-BaseOS
+libnsl.x86_64                              2.28-129.el8                  Stream-BaseOS
 libnsl2.i686                               1.2.0-2.20180605git4a062cf.el8
                                                                          Stream-BaseOS
 libnsl2.x86_64                             1.2.0-2.20180605git4a062cf.el8
@@ -3882,10 +3882,10 @@ libsndfile.i686                            1.0.28-10.el8                 Stream-
 libsndfile.x86_64                          1.0.28-10.el8                 Stream-AppStream
 libsolv.i686                               0.7.11-1.el8                  Stream-BaseOS
 libsolv.x86_64                             0.7.11-1.el8                  Stream-BaseOS
-libsoup.i686                               2.62.3-1.el8                  Stream-BaseOS
-libsoup.x86_64                             2.62.3-1.el8                  Stream-BaseOS
-libsoup-devel.i686                         2.62.3-1.el8                  Stream-AppStream
-libsoup-devel.x86_64                       2.62.3-1.el8                  Stream-AppStream
+libsoup.i686                               2.62.3-2.el8                  Stream-BaseOS
+libsoup.x86_64                             2.62.3-2.el8                  Stream-BaseOS
+libsoup-devel.i686                         2.62.3-2.el8                  Stream-AppStream
+libsoup-devel.x86_64                       2.62.3-2.el8                  Stream-AppStream
 libspectre.i686                            0.2.8-5.el8                   Stream-AppStream
 libspectre.x86_64                          0.2.8-5.el8                   Stream-AppStream
 libspiro.i686                              20150131-8.el8                Stream-AppStream
@@ -4561,8 +4561,8 @@ munge.x86_64                               0.5.13-2.el8                  Stream-
 munge-libs.i686                            0.5.13-2.el8                  Stream-AppStream
 munge-libs.x86_64                          0.5.13-2.el8                  Stream-AppStream
 mutt.x86_64                                5:1.10.1-2.el8                Stream-AppStream
-mutter.i686                                3.32.2-47.el8                 Stream-AppStream
-mutter.x86_64                              3.32.2-47.el8                 Stream-AppStream
+mutter.i686                                3.32.2-48.el8                 Stream-AppStream
+mutter.x86_64                              3.32.2-48.el8                 Stream-AppStream
 mvapich2.x86_64                            2.3.3-1.el8                   Stream-AppStream
 mvapich2-psm2.x86_64                       2.3.3-1.el8                   Stream-AppStream
 mysql.x86_64                               8.0.21-1.module_el8.2.0+493+63b41e36
@@ -4728,7 +4728,7 @@ npm.x86_64                                 1:6.14.8-1.14.11.0.1.module_el8.3.0+5
                                                                          Stream-AppStream
 npth.i686                                  1.5-4.el8                     Stream-BaseOS
 npth.x86_64                                1.5-4.el8                     Stream-BaseOS
-nscd.x86_64                                2.28-127.el8                  Stream-BaseOS
+nscd.x86_64                                2.28-129.el8                  Stream-BaseOS
 nspr.i686                                  4.25.0-2.el8_2                Stream-AppStream
 nspr.x86_64                                4.25.0-2.el8_2                Stream-AppStream
 nspr-devel.i686                            4.25.0-2.el8_2                Stream-AppStream
@@ -4755,8 +4755,8 @@ nss-util.i686                              3.53.1-11.el8_2               Stream-
 nss-util.x86_64                            3.53.1-11.el8_2               Stream-AppStream
 nss-util-devel.i686                        3.53.1-11.el8_2               Stream-AppStream
 nss-util-devel.x86_64                      3.53.1-11.el8_2               Stream-AppStream
-nss_db.i686                                2.28-127.el8                  Stream-BaseOS
-nss_db.x86_64                              2.28-127.el8                  Stream-BaseOS
+nss_db.i686                                2.28-129.el8                  Stream-BaseOS
+nss_db.x86_64                              2.28-129.el8                  Stream-BaseOS
 nss_nis.i686                               3.0-8.el8                     Stream-BaseOS
 nss_nis.x86_64                             3.0-8.el8                     Stream-BaseOS
 nss_wrapper.i686                           1.1.5-3.el8                   Stream-AppStream
@@ -4775,9 +4775,9 @@ nvmetcli.noarch                            0.6-2.el8                     Stream-
 ocaml-srpm-macros.noarch                   5-4.el8                       Stream-AppStream
 oci-seccomp-bpf-hook.x86_64                1.1.2-3.module_el8.3.0+475+c50ce30b
                                                                          Stream-AppStream
-oci-systemd-hook.x86_64                    1:0.1.15-2.git2d0b8a3.module_el8.2.0+303+1105185b
+oci-systemd-hook.x86_64                    1:0.1.15-2.git2d0b8a3.module_el8.4.0+521+9df8e6d3
                                                                          Stream-AppStream
-oci-umount.x86_64                          2:2.3.4-2.git87f9237.module_el8.2.0+303+1105185b
+oci-umount.x86_64                          2:2.3.4-2.git87f9237.module_el8.4.0+521+9df8e6d3
                                                                          Stream-AppStream
 ocl-icd.i686                               2.2.12-1.el8                  Stream-AppStream
 ocl-icd.x86_64                             2.2.12-1.el8                  Stream-AppStream
@@ -4794,9 +4794,9 @@ opa-fastfabric.x86_64                      1:10.10.1.0.35-1.el8          Stream-
 opa-fm.x86_64                              1:10.10.1.0.35-1.el8          Stream-BaseOS
 opa-libopamgt.x86_64                       1:10.10.1.0.35-1.el8          Stream-BaseOS
 open-sans-fonts.noarch                     1.10-6.el8                    Stream-AppStream
-open-vm-tools.x86_64                       11.1.0-2.el8                  Stream-AppStream
-open-vm-tools-desktop.x86_64               11.1.0-2.el8                  Stream-AppStream
-open-vm-tools-sdmp.x86_64                  11.1.0-2.el8                  Stream-AppStream
+open-vm-tools.x86_64                       11.1.5-1.el8                  Stream-AppStream
+open-vm-tools-desktop.x86_64               11.1.5-1.el8                  Stream-AppStream
+open-vm-tools-sdmp.x86_64                  11.1.5-1.el8                  Stream-AppStream
 openal-soft.i686                           1.18.2-7.el8                  Stream-AppStream
 openal-soft.x86_64                         1.18.2-7.el8                  Stream-AppStream
 openblas.i686                              0.3.3-5.el8                   Stream-AppStream
@@ -4965,105 +4965,105 @@ pciutils-devel.i686                        3.6.4-2.el8                   Stream-
 pciutils-devel.x86_64                      3.6.4-2.el8                   Stream-BaseOS
 pciutils-libs.i686                         3.6.4-2.el8                   Stream-BaseOS
 pciutils-libs.x86_64                       3.6.4-2.el8                   Stream-BaseOS
-pcp.x86_64                                 5.1.1-3.el8                   Stream-AppStream
-pcp-conf.x86_64                            5.1.1-3.el8                   Stream-AppStream
-pcp-devel.i686                             5.1.1-3.el8                   Stream-AppStream
-pcp-devel.x86_64                           5.1.1-3.el8                   Stream-AppStream
-pcp-doc.noarch                             5.1.1-3.el8                   Stream-AppStream
-pcp-export-pcp2elasticsearch.x86_64        5.1.1-3.el8                   Stream-AppStream
-pcp-export-pcp2graphite.x86_64             5.1.1-3.el8                   Stream-AppStream
-pcp-export-pcp2influxdb.x86_64             5.1.1-3.el8                   Stream-AppStream
-pcp-export-pcp2json.x86_64                 5.1.1-3.el8                   Stream-AppStream
-pcp-export-pcp2spark.x86_64                5.1.1-3.el8                   Stream-AppStream
-pcp-export-pcp2xml.x86_64                  5.1.1-3.el8                   Stream-AppStream
-pcp-export-pcp2zabbix.x86_64               5.1.1-3.el8                   Stream-AppStream
-pcp-export-zabbix-agent.x86_64             5.1.1-3.el8                   Stream-AppStream
-pcp-gui.x86_64                             5.1.1-3.el8                   Stream-AppStream
-pcp-import-collectl2pcp.x86_64             5.1.1-3.el8                   Stream-AppStream
-pcp-import-ganglia2pcp.x86_64              5.1.1-3.el8                   Stream-AppStream
-pcp-import-iostat2pcp.x86_64               5.1.1-3.el8                   Stream-AppStream
-pcp-import-mrtg2pcp.x86_64                 5.1.1-3.el8                   Stream-AppStream
-pcp-import-sar2pcp.x86_64                  5.1.1-3.el8                   Stream-AppStream
-pcp-libs.i686                              5.1.1-3.el8                   Stream-AppStream
-pcp-libs.x86_64                            5.1.1-3.el8                   Stream-AppStream
-pcp-libs-devel.i686                        5.1.1-3.el8                   Stream-AppStream
-pcp-libs-devel.x86_64                      5.1.1-3.el8                   Stream-AppStream
-pcp-manager.x86_64                         5.1.1-3.el8                   Stream-AppStream
+pcp.x86_64                                 5.2.1-2.el8                   Stream-AppStream
+pcp-conf.x86_64                            5.2.1-2.el8                   Stream-AppStream
+pcp-devel.i686                             5.2.1-2.el8                   Stream-AppStream
+pcp-devel.x86_64                           5.2.1-2.el8                   Stream-AppStream
+pcp-doc.noarch                             5.2.1-2.el8                   Stream-AppStream
+pcp-export-pcp2elasticsearch.x86_64        5.2.1-2.el8                   Stream-AppStream
+pcp-export-pcp2graphite.x86_64             5.2.1-2.el8                   Stream-AppStream
+pcp-export-pcp2influxdb.x86_64             5.2.1-2.el8                   Stream-AppStream
+pcp-export-pcp2json.x86_64                 5.2.1-2.el8                   Stream-AppStream
+pcp-export-pcp2spark.x86_64                5.2.1-2.el8                   Stream-AppStream
+pcp-export-pcp2xml.x86_64                  5.2.1-2.el8                   Stream-AppStream
+pcp-export-pcp2zabbix.x86_64               5.2.1-2.el8                   Stream-AppStream
+pcp-export-zabbix-agent.x86_64             5.2.1-2.el8                   Stream-AppStream
+pcp-gui.x86_64                             5.2.1-2.el8                   Stream-AppStream
+pcp-import-collectl2pcp.x86_64             5.2.1-2.el8                   Stream-AppStream
+pcp-import-ganglia2pcp.x86_64              5.2.1-2.el8                   Stream-AppStream
+pcp-import-iostat2pcp.x86_64               5.2.1-2.el8                   Stream-AppStream
+pcp-import-mrtg2pcp.x86_64                 5.2.1-2.el8                   Stream-AppStream
+pcp-import-sar2pcp.x86_64                  5.2.1-2.el8                   Stream-AppStream
+pcp-libs.i686                              5.2.1-2.el8                   Stream-AppStream
+pcp-libs.x86_64                            5.2.1-2.el8                   Stream-AppStream
+pcp-libs-devel.i686                        5.2.1-2.el8                   Stream-AppStream
+pcp-libs-devel.x86_64                      5.2.1-2.el8                   Stream-AppStream
+pcp-manager.x86_64                         5.0.2-5.el8                   AppStream
 pcp-parfait-agent.noarch                   0.5.4-2.module_el8.2.0+312+c24e3294
                                                                          Stream-AppStream
-pcp-pmda-activemq.x86_64                   5.1.1-3.el8                   Stream-AppStream
-pcp-pmda-apache.x86_64                     5.1.1-3.el8                   Stream-AppStream
-pcp-pmda-bash.x86_64                       5.1.1-3.el8                   Stream-AppStream
-pcp-pmda-bcc.x86_64                        5.1.1-3.el8                   Stream-AppStream
-pcp-pmda-bind2.x86_64                      5.1.1-3.el8                   Stream-AppStream
-pcp-pmda-bonding.x86_64                    5.1.1-3.el8                   Stream-AppStream
-pcp-pmda-bpftrace.x86_64                   5.1.1-3.el8                   Stream-AppStream
-pcp-pmda-cifs.x86_64                       5.1.1-3.el8                   Stream-AppStream
-pcp-pmda-cisco.x86_64                      5.1.1-3.el8                   Stream-AppStream
-pcp-pmda-dbping.x86_64                     5.1.1-3.el8                   Stream-AppStream
-pcp-pmda-dm.x86_64                         5.1.1-3.el8                   Stream-AppStream
-pcp-pmda-docker.x86_64                     5.1.1-3.el8                   Stream-AppStream
-pcp-pmda-ds389.x86_64                      5.1.1-3.el8                   Stream-AppStream
-pcp-pmda-ds389log.x86_64                   5.1.1-3.el8                   Stream-AppStream
-pcp-pmda-elasticsearch.x86_64              5.1.1-3.el8                   Stream-AppStream
-pcp-pmda-gfs2.x86_64                       5.1.1-3.el8                   Stream-AppStream
-pcp-pmda-gluster.x86_64                    5.1.1-3.el8                   Stream-AppStream
-pcp-pmda-gpfs.x86_64                       5.1.1-3.el8                   Stream-AppStream
-pcp-pmda-gpsd.x86_64                       5.1.1-3.el8                   Stream-AppStream
-pcp-pmda-haproxy.x86_64                    5.1.1-3.el8                   Stream-AppStream
-pcp-pmda-infiniband.x86_64                 5.1.1-3.el8                   Stream-AppStream
-pcp-pmda-json.x86_64                       5.1.1-3.el8                   Stream-AppStream
-pcp-pmda-libvirt.x86_64                    5.1.1-3.el8                   Stream-AppStream
-pcp-pmda-lio.x86_64                        5.1.1-3.el8                   Stream-AppStream
-pcp-pmda-lmsensors.x86_64                  5.1.1-3.el8                   Stream-AppStream
-pcp-pmda-logger.x86_64                     5.1.1-3.el8                   Stream-AppStream
-pcp-pmda-lustre.x86_64                     5.1.1-3.el8                   Stream-AppStream
-pcp-pmda-lustrecomm.x86_64                 5.1.1-3.el8                   Stream-AppStream
-pcp-pmda-mailq.x86_64                      5.1.1-3.el8                   Stream-AppStream
-pcp-pmda-memcache.x86_64                   5.1.1-3.el8                   Stream-AppStream
-pcp-pmda-mic.x86_64                        5.1.1-3.el8                   Stream-AppStream
-pcp-pmda-mounts.x86_64                     5.1.1-3.el8                   Stream-AppStream
-pcp-pmda-mssql.x86_64                      5.1.1-3.el8                   Stream-AppStream
-pcp-pmda-mysql.x86_64                      5.1.1-3.el8                   Stream-AppStream
-pcp-pmda-named.x86_64                      5.1.1-3.el8                   Stream-AppStream
-pcp-pmda-netcheck.x86_64                   5.1.1-3.el8                   Stream-AppStream
-pcp-pmda-netfilter.x86_64                  5.1.1-3.el8                   Stream-AppStream
-pcp-pmda-news.x86_64                       5.1.1-3.el8                   Stream-AppStream
-pcp-pmda-nfsclient.x86_64                  5.1.1-3.el8                   Stream-AppStream
-pcp-pmda-nginx.x86_64                      5.1.1-3.el8                   Stream-AppStream
-pcp-pmda-nvidia-gpu.x86_64                 5.1.1-3.el8                   Stream-AppStream
-pcp-pmda-openmetrics.x86_64                5.1.1-3.el8                   Stream-AppStream
-pcp-pmda-openvswitch.x86_64                5.1.1-3.el8                   Stream-AppStream
-pcp-pmda-oracle.x86_64                     5.1.1-3.el8                   Stream-AppStream
-pcp-pmda-pdns.x86_64                       5.1.1-3.el8                   Stream-AppStream
-pcp-pmda-perfevent.x86_64                  5.1.1-3.el8                   Stream-AppStream
-pcp-pmda-podman.x86_64                     5.1.1-3.el8                   Stream-AppStream
-pcp-pmda-postfix.x86_64                    5.1.1-3.el8                   Stream-AppStream
-pcp-pmda-postgresql.x86_64                 5.1.1-3.el8                   Stream-AppStream
-pcp-pmda-rabbitmq.x86_64                   5.1.1-3.el8                   Stream-AppStream
-pcp-pmda-redis.x86_64                      5.1.1-3.el8                   Stream-AppStream
-pcp-pmda-roomtemp.x86_64                   5.1.1-3.el8                   Stream-AppStream
-pcp-pmda-rpm.x86_64                        5.1.1-3.el8                   Stream-AppStream
-pcp-pmda-rsyslog.x86_64                    5.1.1-3.el8                   Stream-AppStream
-pcp-pmda-samba.x86_64                      5.1.1-3.el8                   Stream-AppStream
-pcp-pmda-sendmail.x86_64                   5.1.1-3.el8                   Stream-AppStream
-pcp-pmda-shping.x86_64                     5.1.1-3.el8                   Stream-AppStream
-pcp-pmda-slurm.x86_64                      5.1.1-3.el8                   Stream-AppStream
-pcp-pmda-smart.x86_64                      5.1.1-3.el8                   Stream-AppStream
-pcp-pmda-snmp.x86_64                       5.1.1-3.el8                   Stream-AppStream
-pcp-pmda-statsd.x86_64                     5.1.1-3.el8                   Stream-AppStream
-pcp-pmda-summary.x86_64                    5.1.1-3.el8                   Stream-AppStream
-pcp-pmda-systemd.x86_64                    5.1.1-3.el8                   Stream-AppStream
-pcp-pmda-trace.x86_64                      5.1.1-3.el8                   Stream-AppStream
-pcp-pmda-unbound.x86_64                    5.1.1-3.el8                   Stream-AppStream
-pcp-pmda-vmware.x86_64                     5.1.1-3.el8                   Stream-AppStream
-pcp-pmda-weblog.x86_64                     5.1.1-3.el8                   Stream-AppStream
-pcp-pmda-zimbra.x86_64                     5.1.1-3.el8                   Stream-AppStream
-pcp-pmda-zswap.x86_64                      5.1.1-3.el8                   Stream-AppStream
-pcp-selinux.x86_64                         5.1.1-3.el8                   Stream-AppStream
-pcp-system-tools.x86_64                    5.1.1-3.el8                   Stream-AppStream
-pcp-testsuite.x86_64                       5.1.1-3.el8                   Stream-AppStream
-pcp-zeroconf.x86_64                        5.1.1-3.el8                   Stream-AppStream
+pcp-pmda-activemq.x86_64                   5.2.1-2.el8                   Stream-AppStream
+pcp-pmda-apache.x86_64                     5.2.1-2.el8                   Stream-AppStream
+pcp-pmda-bash.x86_64                       5.2.1-2.el8                   Stream-AppStream
+pcp-pmda-bcc.x86_64                        5.2.1-2.el8                   Stream-AppStream
+pcp-pmda-bind2.x86_64                      5.2.1-2.el8                   Stream-AppStream
+pcp-pmda-bonding.x86_64                    5.2.1-2.el8                   Stream-AppStream
+pcp-pmda-bpftrace.x86_64                   5.2.1-2.el8                   Stream-AppStream
+pcp-pmda-cifs.x86_64                       5.2.1-2.el8                   Stream-AppStream
+pcp-pmda-cisco.x86_64                      5.2.1-2.el8                   Stream-AppStream
+pcp-pmda-dbping.x86_64                     5.2.1-2.el8                   Stream-AppStream
+pcp-pmda-dm.x86_64                         5.2.1-2.el8                   Stream-AppStream
+pcp-pmda-docker.x86_64                     5.2.1-2.el8                   Stream-AppStream
+pcp-pmda-ds389.x86_64                      5.2.1-2.el8                   Stream-AppStream
+pcp-pmda-ds389log.x86_64                   5.2.1-2.el8                   Stream-AppStream
+pcp-pmda-elasticsearch.x86_64              5.2.1-2.el8                   Stream-AppStream
+pcp-pmda-gfs2.x86_64                       5.2.1-2.el8                   Stream-AppStream
+pcp-pmda-gluster.x86_64                    5.2.1-2.el8                   Stream-AppStream
+pcp-pmda-gpfs.x86_64                       5.2.1-2.el8                   Stream-AppStream
+pcp-pmda-gpsd.x86_64                       5.2.1-2.el8                   Stream-AppStream
+pcp-pmda-haproxy.x86_64                    5.2.1-2.el8                   Stream-AppStream
+pcp-pmda-infiniband.x86_64                 5.2.1-2.el8                   Stream-AppStream
+pcp-pmda-json.x86_64                       5.2.1-2.el8                   Stream-AppStream
+pcp-pmda-libvirt.x86_64                    5.2.1-2.el8                   Stream-AppStream
+pcp-pmda-lio.x86_64                        5.2.1-2.el8                   Stream-AppStream
+pcp-pmda-lmsensors.x86_64                  5.2.1-2.el8                   Stream-AppStream
+pcp-pmda-logger.x86_64                     5.2.1-2.el8                   Stream-AppStream
+pcp-pmda-lustre.x86_64                     5.2.1-2.el8                   Stream-AppStream
+pcp-pmda-lustrecomm.x86_64                 5.2.1-2.el8                   Stream-AppStream
+pcp-pmda-mailq.x86_64                      5.2.1-2.el8                   Stream-AppStream
+pcp-pmda-memcache.x86_64                   5.2.1-2.el8                   Stream-AppStream
+pcp-pmda-mic.x86_64                        5.2.1-2.el8                   Stream-AppStream
+pcp-pmda-mounts.x86_64                     5.2.1-2.el8                   Stream-AppStream
+pcp-pmda-mssql.x86_64                      5.2.1-2.el8                   Stream-AppStream
+pcp-pmda-mysql.x86_64                      5.2.1-2.el8                   Stream-AppStream
+pcp-pmda-named.x86_64                      5.2.1-2.el8                   Stream-AppStream
+pcp-pmda-netcheck.x86_64                   5.2.1-2.el8                   Stream-AppStream
+pcp-pmda-netfilter.x86_64                  5.2.1-2.el8                   Stream-AppStream
+pcp-pmda-news.x86_64                       5.2.1-2.el8                   Stream-AppStream
+pcp-pmda-nfsclient.x86_64                  5.2.1-2.el8                   Stream-AppStream
+pcp-pmda-nginx.x86_64                      5.2.1-2.el8                   Stream-AppStream
+pcp-pmda-nvidia-gpu.x86_64                 5.2.1-2.el8                   Stream-AppStream
+pcp-pmda-openmetrics.x86_64                5.2.1-2.el8                   Stream-AppStream
+pcp-pmda-openvswitch.x86_64                5.2.1-2.el8                   Stream-AppStream
+pcp-pmda-oracle.x86_64                     5.2.1-2.el8                   Stream-AppStream
+pcp-pmda-pdns.x86_64                       5.2.1-2.el8                   Stream-AppStream
+pcp-pmda-perfevent.x86_64                  5.2.1-2.el8                   Stream-AppStream
+pcp-pmda-podman.x86_64                     5.2.1-2.el8                   Stream-AppStream
+pcp-pmda-postfix.x86_64                    5.2.1-2.el8                   Stream-AppStream
+pcp-pmda-postgresql.x86_64                 5.2.1-2.el8                   Stream-AppStream
+pcp-pmda-rabbitmq.x86_64                   5.2.1-2.el8                   Stream-AppStream
+pcp-pmda-redis.x86_64                      5.2.1-2.el8                   Stream-AppStream
+pcp-pmda-roomtemp.x86_64                   5.2.1-2.el8                   Stream-AppStream
+pcp-pmda-rpm.x86_64                        5.2.1-2.el8                   Stream-AppStream
+pcp-pmda-rsyslog.x86_64                    5.2.1-2.el8                   Stream-AppStream
+pcp-pmda-samba.x86_64                      5.2.1-2.el8                   Stream-AppStream
+pcp-pmda-sendmail.x86_64                   5.2.1-2.el8                   Stream-AppStream
+pcp-pmda-shping.x86_64                     5.2.1-2.el8                   Stream-AppStream
+pcp-pmda-slurm.x86_64                      5.2.1-2.el8                   Stream-AppStream
+pcp-pmda-smart.x86_64                      5.2.1-2.el8                   Stream-AppStream
+pcp-pmda-snmp.x86_64                       5.2.1-2.el8                   Stream-AppStream
+pcp-pmda-statsd.x86_64                     5.2.1-2.el8                   Stream-AppStream
+pcp-pmda-summary.x86_64                    5.2.1-2.el8                   Stream-AppStream
+pcp-pmda-systemd.x86_64                    5.2.1-2.el8                   Stream-AppStream
+pcp-pmda-trace.x86_64                      5.2.1-2.el8                   Stream-AppStream
+pcp-pmda-unbound.x86_64                    5.2.1-2.el8                   Stream-AppStream
+pcp-pmda-vmware.x86_64                     5.2.1-2.el8                   Stream-AppStream
+pcp-pmda-weblog.x86_64                     5.2.1-2.el8                   Stream-AppStream
+pcp-pmda-zimbra.x86_64                     5.2.1-2.el8                   Stream-AppStream
+pcp-pmda-zswap.x86_64                      5.2.1-2.el8                   Stream-AppStream
+pcp-selinux.x86_64                         5.2.1-2.el8                   Stream-AppStream
+pcp-system-tools.x86_64                    5.2.1-2.el8                   Stream-AppStream
+pcp-testsuite.x86_64                       5.2.1-2.el8                   Stream-AppStream
+pcp-zeroconf.x86_64                        5.2.1-2.el8                   Stream-AppStream
 pcre.i686                                  8.42-4.el8                    Stream-BaseOS
 pcre.x86_64                                8.42-4.el8                    Stream-BaseOS
 pcre-cpp.i686                              8.42-4.el8                    Stream-BaseOS
@@ -5342,10 +5342,10 @@ perl-Object-HashBase.noarch                0.008-1.module_el8.3.0+406+78614513
                                                                          Stream-AppStream
 perl-Object-HashBase-tools.noarch          0.008-1.module_el8.3.0+406+78614513
                                                                          Stream-AppStream
-perl-PCP-LogImport.x86_64                  5.1.1-3.el8                   Stream-AppStream
-perl-PCP-LogSummary.x86_64                 5.1.1-3.el8                   Stream-AppStream
-perl-PCP-MMV.x86_64                        5.1.1-3.el8                   Stream-AppStream
-perl-PCP-PMDA.x86_64                       5.1.1-3.el8                   Stream-AppStream
+perl-PCP-LogImport.x86_64                  5.2.1-2.el8                   Stream-AppStream
+perl-PCP-LogSummary.x86_64                 5.2.1-2.el8                   Stream-AppStream
+perl-PCP-MMV.x86_64                        5.2.1-2.el8                   Stream-AppStream
+perl-PCP-PMDA.x86_64                       5.2.1-2.el8                   Stream-AppStream
 perl-Package-Generator.noarch              1.106-12.module_el8.3.0+406+78614513
                                                                          Stream-AppStream
 perl-Params-Check.noarch                   1:0.38-396.module_el8.3.0+406+78614513
@@ -5663,43 +5663,43 @@ plexus-sec-dispatcher.noarch               1.4-29.module_el8.3.0+397+dd71f484
                                                                          Stream-AppStream
 plexus-utils.noarch                        3.3.0-3.module_el8.3.0+397+dd71f484
                                                                          Stream-AppStream
-plymouth.x86_64                            0.9.4-6.20200615git1e36e30.el8
+plymouth.x86_64                            0.9.4-7.20200615git1e36e30.el8
                                                                          Stream-AppStream
-plymouth-core-libs.i686                    0.9.4-6.20200615git1e36e30.el8
+plymouth-core-libs.i686                    0.9.4-7.20200615git1e36e30.el8
                                                                          Stream-AppStream
-plymouth-core-libs.x86_64                  0.9.4-6.20200615git1e36e30.el8
+plymouth-core-libs.x86_64                  0.9.4-7.20200615git1e36e30.el8
                                                                          Stream-AppStream
-plymouth-graphics-libs.i686                0.9.4-6.20200615git1e36e30.el8
+plymouth-graphics-libs.i686                0.9.4-7.20200615git1e36e30.el8
                                                                          Stream-AppStream
-plymouth-graphics-libs.x86_64              0.9.4-6.20200615git1e36e30.el8
+plymouth-graphics-libs.x86_64              0.9.4-7.20200615git1e36e30.el8
                                                                          Stream-AppStream
-plymouth-plugin-fade-throbber.x86_64       0.9.4-6.20200615git1e36e30.el8
+plymouth-plugin-fade-throbber.x86_64       0.9.4-7.20200615git1e36e30.el8
                                                                          Stream-AppStream
-plymouth-plugin-label.x86_64               0.9.4-6.20200615git1e36e30.el8
+plymouth-plugin-label.x86_64               0.9.4-7.20200615git1e36e30.el8
                                                                          Stream-AppStream
-plymouth-plugin-script.x86_64              0.9.4-6.20200615git1e36e30.el8
+plymouth-plugin-script.x86_64              0.9.4-7.20200615git1e36e30.el8
                                                                          Stream-AppStream
-plymouth-plugin-space-flares.x86_64        0.9.4-6.20200615git1e36e30.el8
+plymouth-plugin-space-flares.x86_64        0.9.4-7.20200615git1e36e30.el8
                                                                          Stream-AppStream
-plymouth-plugin-throbgress.x86_64          0.9.4-6.20200615git1e36e30.el8
+plymouth-plugin-throbgress.x86_64          0.9.4-7.20200615git1e36e30.el8
                                                                          Stream-AppStream
-plymouth-plugin-two-step.x86_64            0.9.4-6.20200615git1e36e30.el8
+plymouth-plugin-two-step.x86_64            0.9.4-7.20200615git1e36e30.el8
                                                                          Stream-AppStream
-plymouth-scripts.x86_64                    0.9.4-6.20200615git1e36e30.el8
+plymouth-scripts.x86_64                    0.9.4-7.20200615git1e36e30.el8
                                                                          Stream-AppStream
-plymouth-system-theme.x86_64               0.9.4-6.20200615git1e36e30.el8
+plymouth-system-theme.x86_64               0.9.4-7.20200615git1e36e30.el8
                                                                          Stream-AppStream
-plymouth-theme-charge.x86_64               0.9.4-6.20200615git1e36e30.el8
+plymouth-theme-charge.x86_64               0.9.4-7.20200615git1e36e30.el8
                                                                          Stream-AppStream
-plymouth-theme-fade-in.x86_64              0.9.4-6.20200615git1e36e30.el8
+plymouth-theme-fade-in.x86_64              0.9.4-7.20200615git1e36e30.el8
                                                                          Stream-AppStream
-plymouth-theme-script.x86_64               0.9.4-6.20200615git1e36e30.el8
+plymouth-theme-script.x86_64               0.9.4-7.20200615git1e36e30.el8
                                                                          Stream-AppStream
-plymouth-theme-solar.x86_64                0.9.4-6.20200615git1e36e30.el8
+plymouth-theme-solar.x86_64                0.9.4-7.20200615git1e36e30.el8
                                                                          Stream-AppStream
-plymouth-theme-spinfinity.x86_64           0.9.4-6.20200615git1e36e30.el8
+plymouth-theme-spinfinity.x86_64           0.9.4-7.20200615git1e36e30.el8
                                                                          Stream-AppStream
-plymouth-theme-spinner.x86_64              0.9.4-6.20200615git1e36e30.el8
+plymouth-theme-spinner.x86_64              0.9.4-7.20200615git1e36e30.el8
                                                                          Stream-AppStream
 pmdk-convert.x86_64                        1.7-1.el8                     Stream-AppStream
 pmempool.x86_64                            1.6.1-1.el8                   Stream-AppStream
@@ -5840,7 +5840,7 @@ python-nose-docs.noarch                    1.3.7-30.module_el8.3.0+478+7570e00c
                                                                          Stream-AppStream
 python-nss-doc.x86_64                      1.0.1-10.module_el8.3.0+454+67dccca4
                                                                          Stream-AppStream
-python-podman-api.noarch                   1.2.0-0.2.gitd0a45fe.module_el8.3.0+479+69e2ae26
+python-podman-api.noarch                   1.2.0-0.2.gitd0a45fe.module_el8.4.0+522+66908d0c
                                                                          Stream-AppStream
 python-psycopg2-doc.x86_64                 2.7.5-7.module_el8.3.0+478+7570e00c
                                                                          Stream-AppStream
@@ -6055,7 +6055,7 @@ python3-gobject.i686                       3.28.3-2.el8                  Stream-
 python3-gobject.x86_64                     3.28.3-2.el8                  Stream-AppStream
 python3-gobject-base.i686                  3.28.3-2.el8                  Stream-AppStream
 python3-gobject-base.x86_64                3.28.3-2.el8                  Stream-BaseOS
-python3-gpg.x86_64                         1.13.1-3.el8                  Stream-BaseOS
+python3-gpg.x86_64                         1.13.1-4.el8                  Stream-BaseOS
 python3-greenlet.x86_64                    0.4.13-4.el8                  Stream-AppStream
 python3-gssapi.x86_64                      1.5.1-5.el8                   Stream-AppStream
 python3-hawkey.x86_64                      0.48.0-5.el8                  Stream-BaseOS
@@ -6163,7 +6163,7 @@ python3-osa-common.noarch                  5.11.99-8.module_el8.1.0+210+a3d63f21
 python3-osad.noarch                        5.11.99-8.module_el8.1.0+210+a3d63f21
                                                                          Stream-AppStream
 python3-osbuild.noarch                     18-3.el8                      Stream-AppStream
-python3-pcp.x86_64                         5.1.1-3.el8                   Stream-AppStream
+python3-pcp.x86_64                         5.2.1-2.el8                   Stream-AppStream
 python3-perf.x86_64                        4.18.0-240.el8                Stream-BaseOS
 python3-pexpect.noarch                     4.3.1-3.el8                   Stream-AppStream
 python3-pid.noarch                         2.1.1-7.el8                   Stream-AppStream
@@ -6428,8 +6428,8 @@ qemu-kvm-core.x86_64                       15:2.12.0-99.module_el8.2.0+385+c644c
                                                                          Stream-AppStream
 qgnomeplatform.i686                        0.4-3.el8                     Stream-AppStream
 qgnomeplatform.x86_64                      0.4-3.el8                     Stream-AppStream
-qgpgme.i686                                1.13.1-3.el8                  Stream-AppStream
-qgpgme.x86_64                              1.13.1-3.el8                  Stream-AppStream
+qgpgme.i686                                1.13.1-4.el8                  Stream-AppStream
+qgpgme.x86_64                              1.13.1-4.el8                  Stream-AppStream
 qpdf.x86_64                                7.1.1-10.el8                  Stream-AppStream
 qpdf-doc.noarch                            7.1.1-10.el8                  Stream-AppStream
 qpdf-libs.i686                             7.1.1-10.el8                  Stream-AppStream
@@ -6448,23 +6448,23 @@ qt5-qt3d.x86_64                            5.12.5-2.el8                  Stream-
 qt5-qt3d-devel.i686                        5.12.5-2.el8                  Stream-AppStream
 qt5-qt3d-devel.x86_64                      5.12.5-2.el8                  Stream-AppStream
 qt5-qt3d-examples.x86_64                   5.12.5-2.el8                  Stream-AppStream
-qt5-qtbase.i686                            5.12.5-6.el8                  Stream-AppStream
-qt5-qtbase.x86_64                          5.12.5-6.el8                  Stream-AppStream
-qt5-qtbase-common.noarch                   5.12.5-6.el8                  Stream-AppStream
-qt5-qtbase-devel.i686                      5.12.5-6.el8                  Stream-AppStream
-qt5-qtbase-devel.x86_64                    5.12.5-6.el8                  Stream-AppStream
-qt5-qtbase-examples.i686                   5.12.5-6.el8                  Stream-AppStream
-qt5-qtbase-examples.x86_64                 5.12.5-6.el8                  Stream-AppStream
-qt5-qtbase-gui.i686                        5.12.5-6.el8                  Stream-AppStream
-qt5-qtbase-gui.x86_64                      5.12.5-6.el8                  Stream-AppStream
-qt5-qtbase-mysql.i686                      5.12.5-6.el8                  Stream-AppStream
-qt5-qtbase-mysql.x86_64                    5.12.5-6.el8                  Stream-AppStream
-qt5-qtbase-odbc.i686                       5.12.5-6.el8                  Stream-AppStream
-qt5-qtbase-odbc.x86_64                     5.12.5-6.el8                  Stream-AppStream
-qt5-qtbase-postgresql.i686                 5.12.5-6.el8                  Stream-AppStream
-qt5-qtbase-postgresql.x86_64               5.12.5-6.el8                  Stream-AppStream
-qt5-qtbase-private-devel.i686              5.12.5-6.el8                  Stream-AppStream
-qt5-qtbase-private-devel.x86_64            5.12.5-6.el8                  Stream-AppStream
+qt5-qtbase.i686                            5.12.5-8.el8                  Stream-AppStream
+qt5-qtbase.x86_64                          5.12.5-8.el8                  Stream-AppStream
+qt5-qtbase-common.noarch                   5.12.5-8.el8                  Stream-AppStream
+qt5-qtbase-devel.i686                      5.12.5-8.el8                  Stream-AppStream
+qt5-qtbase-devel.x86_64                    5.12.5-8.el8                  Stream-AppStream
+qt5-qtbase-examples.i686                   5.12.5-8.el8                  Stream-AppStream
+qt5-qtbase-examples.x86_64                 5.12.5-8.el8                  Stream-AppStream
+qt5-qtbase-gui.i686                        5.12.5-8.el8                  Stream-AppStream
+qt5-qtbase-gui.x86_64                      5.12.5-8.el8                  Stream-AppStream
+qt5-qtbase-mysql.i686                      5.12.5-8.el8                  Stream-AppStream
+qt5-qtbase-mysql.x86_64                    5.12.5-8.el8                  Stream-AppStream
+qt5-qtbase-odbc.i686                       5.12.5-8.el8                  Stream-AppStream
+qt5-qtbase-odbc.x86_64                     5.12.5-8.el8                  Stream-AppStream
+qt5-qtbase-postgresql.i686                 5.12.5-8.el8                  Stream-AppStream
+qt5-qtbase-postgresql.x86_64               5.12.5-8.el8                  Stream-AppStream
+qt5-qtbase-private-devel.i686              5.12.5-8.el8                  Stream-AppStream
+qt5-qtbase-private-devel.x86_64            5.12.5-8.el8                  Stream-AppStream
 qt5-qtcanvas3d.i686                        5.12.5-1.el8                  Stream-AppStream
 qt5-qtcanvas3d.x86_64                      5.12.5-1.el8                  Stream-AppStream
 qt5-qtcanvas3d-examples.x86_64             5.12.5-1.el8                  Stream-AppStream
@@ -7035,13 +7035,13 @@ spirv-tools.x86_64                         2020.5-1.20200803.git92a7165.el8
 spirv-tools-libs.x86_64                    2020.5-1.20200803.git92a7165.el8
                                                                          Stream-AppStream
 splix.x86_64                               2.0.1-0.36.20130902svn.el8    Stream-AppStream
-sqlite.i686                                3.26.0-11.el8                 Stream-BaseOS
-sqlite.x86_64                              3.26.0-11.el8                 Stream-BaseOS
-sqlite-devel.i686                          3.26.0-11.el8                 Stream-BaseOS
-sqlite-devel.x86_64                        3.26.0-11.el8                 Stream-BaseOS
-sqlite-doc.noarch                          3.26.0-11.el8                 Stream-BaseOS
-sqlite-libs.i686                           3.26.0-11.el8                 Stream-BaseOS
-sqlite-libs.x86_64                         3.26.0-11.el8                 Stream-BaseOS
+sqlite.i686                                3.26.0-12.el8                 Stream-BaseOS
+sqlite.x86_64                              3.26.0-12.el8                 Stream-BaseOS
+sqlite-devel.i686                          3.26.0-12.el8                 Stream-BaseOS
+sqlite-devel.x86_64                        3.26.0-12.el8                 Stream-BaseOS
+sqlite-doc.noarch                          3.26.0-12.el8                 Stream-BaseOS
+sqlite-libs.i686                           3.26.0-12.el8                 Stream-BaseOS
+sqlite-libs.x86_64                         3.26.0-12.el8                 Stream-BaseOS
 squashfs-tools.x86_64                      4.3-19.el8                    Stream-BaseOS
 squid.x86_64                               7:4.11-2.module_el8.3.0+449+5982fab0
                                                                          Stream-AppStream
@@ -7518,7 +7518,7 @@ thai-scalable-tlwgtypo-fonts.noarch        0.6.5-1.el8                   Stream-
 thai-scalable-umpush-fonts.noarch          0.6.5-1.el8                   Stream-AppStream
 thai-scalable-waree-fonts.noarch           0.6.5-1.el8                   Stream-AppStream
 theora-tools.x86_64                        1:1.1.1-21.el8                Stream-AppStream
-thunderbird.x86_64                         78.3.0-1.el8                  Stream-AppStream
+thunderbird.x86_64                         78.3.0-3.el8                  Stream-AppStream
 tibetan-machine-uni-fonts.noarch           1.901-20.el8                  Stream-AppStream
 tigervnc.x86_64                            1.10.1-7.el8                  Stream-AppStream
 tigervnc-icons.noarch                      1.10.1-7.el8                  Stream-AppStream
