@@ -6126,7 +6126,7 @@ firmware-myricom/buster 20190114-2 all
 firmware-netronome/buster 20190114-2 all
 firmware-netxen/buster 20190114-2 all
 firmware-qcom-media/buster 20190114-2 all
-firmware-qcom-soc/buster-backports 20200817-1~bpo10+1 all
+firmware-qcom-soc/buster-backports 20200918-1~bpo10+1 all
 firmware-qlogic/buster 20190114-2 all
 firmware-ralink/buster 20190114-2 all
 firmware-realtek/buster 20190114-2 all
