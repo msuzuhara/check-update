@@ -40641,7 +40641,7 @@ node-retry/buster 0.10.1-1 all
 node-rimraf/buster 2.6.2-1 all
 node-ripemd160/buster 2.0.2-3 all
 node-roadrunner/buster 1.1.0-1 all
-node-rollup-plugin-alias/buster-backports 1.5.2-3~bpo10+1 all
+node-rollup-plugin-alias/buster-backports 3.1.1+~2.2.0-2~bpo10+1 all
 node-rollup-plugin-babel/buster 3.0.3-2 all
 node-rollup-plugin-buble/buster 0.19.4-2 all
 node-rollup-plugin-commonjs/buster 9.2.0-3 all
@@ -42754,7 +42754,7 @@ php-mailparse/buster 3.0.3~dev20181093+2.1.7~dev20160128-1 amd64
 php-mapi/buster 8.7.0-3 amd64
 php-mapscript/buster-backports 7.6.1-1~bpo10+1 amd64
 php-mapscript-ng/buster-backports 7.6.1-1~bpo10+1 amd64
-php-mariadb-mysql-kbs/buster-backports 1.2.10-2~bpo10+1 all
+php-mariadb-mysql-kbs/buster-backports 1.2.11-1~bpo10+1 all
 php-markdown/buster 1.8.0-1 all
 php-masterminds-html5/buster-backports 2.7.3+dfsg-1~bpo10+1 all
 php-mbstring/buster 2:7.3+69 all
