@@ -28049,9 +28049,9 @@ libpam-cgm/xenial 0.39-2ubuntu5 amd64
 libpam-cgroup/xenial 0.41-7ubuntu1 amd64
 libpam-chroot/xenial 0.9-4.2 amd64
 libpam-ck-connector/xenial 0.4.6-5 amd64
-libpam-cracklib/xenial-updates 1.1.8-3.2ubuntu2.1 amd64
+libpam-cracklib/xenial-updates 1.1.8-3.2ubuntu2.3 amd64
 libpam-dbus/xenial 0.2.1-3 amd64
-libpam-doc/xenial-updates 1.1.8-3.2ubuntu2.1 all
+libpam-doc/xenial-updates 1.1.8-3.2ubuntu2.3 all
 libpam-duo/xenial 1.9.11-1 amd64
 libpam-dynalogin/xenial 1.0.0-3ubuntu3 amd64
 libpam-encfs/xenial 0.1.4.4-7 amd64
@@ -28069,8 +28069,8 @@ libpam-kwallet5/xenial-updates 4:5.5.5-0ubuntu1.3 amd64
 libpam-ldap/xenial 184-8.7ubuntu1 amd64
 libpam-ldapd/xenial 0.9.6-3 amd64
 libpam-mklocaluser/xenial 0.10 all
-libpam-modules/xenial-updates 1.1.8-3.2ubuntu2.1 amd64
-libpam-modules-bin/xenial-updates 1.1.8-3.2ubuntu2.1 amd64
+libpam-modules/xenial-updates 1.1.8-3.2ubuntu2.3 amd64
+libpam-modules-bin/xenial-updates 1.1.8-3.2ubuntu2.3 amd64
 libpam-mount/xenial 2.14-1.1 amd64
 libpam-mysql/xenial 0.7~RC1-4ubuntu2 amd64
 libpam-nufw/xenial 2.4.3-3.3build2 amd64
@@ -28090,7 +28090,7 @@ libpam-python/xenial 1.0.4-1 amd64
 libpam-python-doc/xenial 1.0.4-1 all
 libpam-radius-auth/xenial-updates 1.3.17-0ubuntu4.1 amd64
 libpam-rsbac/xenial 1.4.0-repack-0ubuntu5 amd64
-libpam-runtime/xenial-updates 1.1.8-3.2ubuntu2.1 all
+libpam-runtime/xenial-updates 1.1.8-3.2ubuntu2.3 all
 libpam-script/xenial 1.1.7-1 amd64
 libpam-securepass/xenial 0.4-2 amd64
 libpam-shield/xenial 0.9.6-1.2 amd64
@@ -28108,8 +28108,8 @@ libpam-ufpidentity/xenial 1.0-1 amd64
 libpam-unix2/xenial 1:2.6-2 amd64
 libpam-winbind/xenial-updates 2:4.3.11+dfsg-0ubuntu0.16.04.31 amd64
 libpam-yubico/xenial 2.20-1 amd64
-libpam0g/xenial-updates 1.1.8-3.2ubuntu2.1 amd64
-libpam0g-dev/xenial-updates 1.1.8-3.2ubuntu2.1 amd64
+libpam0g/xenial-updates 1.1.8-3.2ubuntu2.3 amd64
+libpam0g-dev/xenial-updates 1.1.8-3.2ubuntu2.3 amd64
 libpam4j-java/xenial-updates 1.4-2+deb8u1build0.16.04.1 all
 libpam4j-java-doc/xenial-updates 1.4-2+deb8u1build0.16.04.1 all
 libpandoc-elements-perl/xenial 0.15-1 all
@@ -55597,7 +55597,7 @@ sshfs/xenial 2.5-1ubuntu1 amd64
 sshfs-dbg/xenial 2.5-1ubuntu1 amd64
 sshguard/xenial 1.6.0-1 amd64
 sshpass/xenial 1.05-1 amd64
-sshuttle/xenial-updates 0.76-1ubuntu1 all
+sshuttle/xenial-updates 0.76-1ubuntu1.2 all
 ssl-cert/xenial 1.0.37 all
 ssl-cert-check/xenial 3.27-2 all
 ssldump/xenial 0.9b3-4.1ubuntu1 amd64
