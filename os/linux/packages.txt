@@ -8611,7 +8611,7 @@ gir1.2-playerctl-2.0/buster 2.0.1-1 amd64
 gir1.2-pluma-1.0/buster 1.20.4-1 amd64
 gir1.2-polkit-1.0/buster 0.105-25 amd64
 gir1.2-poppler-0.18/buster 0.71.0-5 amd64
-gir1.2-qmi-1.0/buster-backports 1.26.4-0.1~bpo10+1 amd64
+gir1.2-qmi-1.0/buster-backports 1.26.6-0.1~bpo10+1 amd64
 gir1.2-rb-3.0/buster 3.4.3-2 amd64
 gir1.2-rda-1.0/buster 0.0.5-1 amd64
 gir1.2-rest-0.7/buster 0.8.1-1 amd64
