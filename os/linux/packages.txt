@@ -1784,7 +1784,7 @@ bppsuite/buster 2.4.1-1 amd64
 bppsuite-examples/buster 2.4.1-1 all
 bpython/buster 0.17.1-1 all
 bpython3/buster 0.17.1-1 all
-bpytop/buster-backports 1.0.40-1~bpo10+1 all
+bpytop/buster-backports 1.0.42-1~bpo10+1 all
 br2684ctl/buster 1:2.5.1-2 amd64
 braa/buster 0.82-4 amd64
 brag/buster 1.4.1-2.1 all
@@ -11487,7 +11487,7 @@ homer-api-postgresql/buster 5.0.6+dfsg2-3.1 amd64
 homesick/buster 1.1.6-2 all
 hoogle/buster 5.0.17.3+dfsg1-5+b1 amd64
 hopenpgp-tools/buster 0.21.3-1 amd64
-hopm/buster-backports 1.1.7-1~bpo10+1 amd64
+hopm/buster-backports 1.1.8-1~bpo10+1 amd64
 horae/buster 071~svn537-2.1 all
 horgand/buster 1.14-7 amd64
 horgand-data/buster 1.14-7 all
@@ -54955,7 +54955,7 @@ systemd-cron/buster 1.5.14-2 amd64
 systemd-journal-remote/buster 241-7~deb10u4 amd64
 systemd-sysv/buster 241-7~deb10u4 amd64
 systemd-tests/buster 241-7~deb10u4 amd64
-systemd-timesyncd/buster-backports 246.6-1~bpo10+1 amd64
+systemd-timesyncd/buster-backports 246.6-2~bpo10+1 amd64
 systempreferences.app/buster 1.2.0-2+b5 amd64
 systempreferences.app-dbg/buster 1.2.0-2+b5 amd64
 systemsettings/buster 4:5.14.5-1.1 amd64
