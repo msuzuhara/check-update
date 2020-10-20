@@ -12267,7 +12267,6 @@ ipig/buster 0.0.r5-3 amd64
 ipip/buster 1.1.9+b1 amd64
 ipkungfu/buster 0.6.1-6.2 amd64
 ipmctl/buster-backports 02.00.00.3825+ds-1~bpo10+1 amd64
-ipmctl-monitor/buster-backports 02.00.00.3474+really01.00.00.3481-1~bpo10+1 amd64
 ipmitool/buster 1.8.18-6 amd64
 ipmiutil/buster 3.1.3-1 amd64
 ipolish/buster 20180621-1 all
@@ -14509,7 +14508,6 @@ libaqbanking-dev/buster 5.7.8-3 amd64
 libaqbanking-doc/buster 5.7.8-3 all
 libaqbanking35/buster 5.7.8-3 amd64
 libaqbanking35-plugins/buster 5.7.8-3 amd64
-libaqbanking43/buster-backports 5.99.43beta-2~bpo10+1 amd64
 libaqbanking44/buster-backports 6.2.5-1~bpo10+1 amd64
 libaqebics0/buster 5.7.8-3 amd64
 libaqhbci24/buster 5.7.8-3 amd64
@@ -16145,7 +16143,6 @@ libchild-perl/buster 0.013-1 all
 libchipcard-data/buster 5.1.0beta-3 all
 libchipcard-dev/buster 5.1.0beta-3 amd64
 libchipcard-libgwenhywfar60-plugins/buster 5.1.0beta-3 amd64
-libchipcard-libgwenhywfar78-plugins/buster-backports 5.1.4rc1-2~bpo10+1 amd64
 libchipcard-tools/buster 5.1.0beta-3 amd64
 libchipcard6/buster 5.1.0beta-3 amd64
 libchipmunk0d3/buster 6.1.5-1+b1 amd64
@@ -23138,7 +23135,6 @@ libgrpc++1/buster 1.16.1-1 amd64
 libgrpc-dev/buster 1.16.1-1 amd64
 libgrpc10/buster-backports 1.30.2-2~bpo10+1 amd64
 libgrpc6/buster 1.16.1-1 amd64
-libgrpc9/buster-backports 1.26.0-2~bpo10+1 amd64
 libgrss-dev/buster 0.7.0-2+b11 amd64
 libgrss0/buster 0.7.0-2+b11 amd64
 libgs-collections-java/buster 5.1.0-3 all
@@ -23351,8 +23347,6 @@ libguichan-allegro-0.8.1-1v5/buster 0.8.2-18 amd64
 libguichan-dev/buster 0.8.2-18 amd64
 libguichan-opengl-0.8.1-1v5/buster 0.8.2-18 amd64
 libguichan-sdl-0.8.1-1v5/buster 0.8.2-18 amd64
-libgulkan-0.13-0/buster-backports 0.13.2-2~bpo10+1 amd64
-libgulkan-0.14-0/buster-backports 0.14.0-2~bpo10+1 amd64
 libgulkan-0.15-0/buster-backports 0.15.1-2~bpo10+1 amd64
 libgulkan-dev/buster-backports 0.15.1-2~bpo10+1 amd64
 libgulkan-doc/buster-backports 0.15.1-2~bpo10+1 all
@@ -23413,8 +23407,6 @@ libgwenhywfar-data/buster 4.20.0-9 all
 libgwenhywfar-doc/buster 4.20.0-9 all
 libgwenhywfar60/buster 4.20.0-9 amd64
 libgwenhywfar60-dev/buster 4.20.0-9 amd64
-libgwenhywfar78/buster-backports 4.99.24rc8-1~bpo10+1 amd64
-libgwenhywfar78-dev/buster-backports 4.99.24rc8-1~bpo10+1 amd64
 libgwenhywfar79/buster-backports 5.4.0-1~bpo10+1 amd64
 libgwrap-runtime-dev/buster 1.9.15-3 amd64
 libgwrap-runtime2/buster 1.9.15-3 amd64
@@ -23425,7 +23417,6 @@ libgxps-dev/buster 0.3.1-1 amd64
 libgxps-doc/buster 0.3.1-1 all
 libgxps-utils/buster 0.3.1-1 amd64
 libgxps2/buster 0.3.1-1 amd64
-libgxr-0.13-0/buster-backports 0.13.2-2~bpo10+1 amd64
 libgxr-0.15-0/buster-backports 0.15.1-2~bpo10+1 amd64
 libgxr-dev/buster-backports 0.15.1-2~bpo10+1 amd64
 libgxw-dev/buster 0.36.1-1+b1 amd64
@@ -24158,7 +24149,6 @@ libipe7.2.9/buster 7.2.9-1 amd64
 libiperf-dev/buster 3.6-2 amd64
 libiperf0/buster 3.6-2 amd64
 libipmctl-dev/buster-backports 02.00.00.3825+ds-1~bpo10+1 amd64
-libipmctl3/buster-backports 02.00.00.3474+really01.00.00.3481-1~bpo10+1 amd64
 libipmctl4/buster-backports 02.00.00.3825+ds-1~bpo10+1 amd64
 libipmiconsole-dev/buster 1.6.3-1.1 amd64
 libipmiconsole2/buster 1.6.3-1.1 amd64
@@ -25680,9 +25670,9 @@ libkim-api-v2-fortran/buster 2.0~beta2.gita734d1-3 amd64
 libkim-api-v2-headers/buster 2.0~beta2.gita734d1-3 all
 libkim-api-v2-models/buster 2.0~beta2.gita734d1-3 amd64
 libkim-api2/buster-backports 2.1.3-5~bpo10+1 amd64
-libkimageannotator-common/buster-backports 0.3.2-1~bpo10+1 all
-libkimageannotator-dev/buster-backports 0.3.2-1~bpo10+1 amd64
-libkimageannotator0/buster-backports 0.3.2-1~bpo10+1 amd64
+libkimageannotator-common/buster-backports 0.3.2-2~bpo10+1 all
+libkimageannotator-dev/buster-backports 0.3.2-2~bpo10+1 amd64
+libkimageannotator0/buster-backports 0.3.2-2~bpo10+1 amd64
 libkimap4/buster 4:4.14.10-11 amd64
 libkimproxy4/buster 4:4.14.38-3 amd64
 libkinosearch1-perl/buster 1.01-4+b3 amd64
@@ -38870,6 +38860,7 @@ mysqmail-courier-logger/buster 0.4.9-10.2+b1 amd64
 mysqmail-dovecot-logger/buster 0.4.9-10.2+b1 amd64
 mysqmail-postfix-logger/buster 0.4.9-10.2+b1 amd64
 mysqmail-pure-ftpd-logger/buster 0.4.9-10.2+b1 amd64
+mystiq/buster-backports 20.03.23-2~bpo10+1 amd64
 mythes-ar/buster 1:6.2.0-1 all
 mythes-bg/buster 1:6.2.0-1 all
 mythes-ca/buster 1:6.2.0-1 all
@@ -40658,7 +40649,6 @@ node-unc-path-regex/buster 0.1.2-1 all
 node-underscore/buster 1.9.1~dfsg-1 all
 node-underscore.string/buster 3.3.4+dfsg-2 all
 node-unicode-12.0.0/buster 0~20190414+gitbf518e99-2 all
-node-unicode-12.1.0/buster-backports 0~20190709+git706d06c0-4~bpo10+1 all
 node-unicode-13.0.0/buster-backports 0~20200315+gitfc57d75a-5~bpo10+1 all
 node-unicode-canonical-property-names-ecmascript/buster 1.0.4-1 all
 node-unicode-loose-match/buster 2.5.0-1 all
@@ -41022,7 +41012,6 @@ nvidia-tesla-450-opencl-icd/buster-backports 450.51.06-2~bpo10+1 amd64
 nvidia-tesla-450-smi/buster-backports 450.51.06-2~bpo10+1 amd64
 nvidia-tesla-450-vdpau-driver/buster-backports 450.51.06-2~bpo10+1 amd64
 nvidia-tesla-450-vulkan-icd/buster-backports 450.51.06-2~bpo10+1 amd64
-nvidia-tesla-driver/buster-backports 418.116.00-3~bpo10+1 amd64
 nvidia-vdpau-driver/buster 418.152.00-1 amd64
 nvidia-visual-profiler/buster 9.2.148-7 amd64
 nvidia-vulkan-common/buster 418.152.00-1 amd64
@@ -50931,6 +50920,7 @@ r-cran-fasianoptions/buster 3042.82-1+b2 amd64
 r-cran-fassets/buster 3042.84-1+b1 amd64
 r-cran-fastcluster/buster 1.1.25-2 amd64
 r-cran-fastica/buster 1.2-1-1+b2 amd64
+r-cran-fastmap/buster-backports 1.0.1-2~bpo10+1 amd64
 r-cran-fastmatch/buster 1.1-0-2 amd64
 r-cran-fauxpas/buster 0.2.0+dfsg-1 all
 r-cran-fbasics/buster 3042.89-2+b1 amd64
@@ -51037,6 +51027,7 @@ r-cran-ipred/buster 0.9-8-1 amd64
 r-cran-irace/buster 3.1-1 all
 r-cran-irlba/buster 2.3.2-3+b1 amd64
 r-cran-iso/buster 0.0-17-1 amd64
+r-cran-isoband/buster-backports 0.2.2-1~bpo10+1 amd64
 r-cran-isocodes/buster 2019.02.13-1 all
 r-cran-isospec/buster 1.9.1-5 amd64
 r-cran-isoweek/buster 0.6-2-2 all
@@ -52982,6 +52973,7 @@ ruby-roxml/buster 4.0.0-1 all
 ruby-rpam-ruby19/buster 1.2.1-1+b4 amd64
 ruby-rpatricia/buster 1.0.1-1+b9 amd64
 ruby-rqrcode/buster 0.4.2-3 all
+ruby-rqrcode-core/buster-backports 0.1.2-1~bpo10+1 all
 ruby-rqrcode-rails3/buster 0.1.7-1 all
 ruby-rr/buster 1.2.1-2 all
 ruby-rrd/buster 1.7.1-2 amd64
@@ -57138,7 +57130,7 @@ voctomix-outcasts/buster 0.8.0-1 all
 vodovod/buster 1.10-4 amd64
 voikko-fi/buster 2.2-1.1 amd64
 vokoscreen/buster 2.5.0-2 amd64
-vokoscreen-ng/buster-backports 3.0.3-1~bpo10+1 amd64
+vokoscreen-ng/buster-backports 3.0.6-1~bpo10+1 amd64
 volatility/buster 2.6.1-1 all
 volatility-tools/buster 2.6.1-1 all
 volti/buster 0.2.3-7 all
