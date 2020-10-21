@@ -7043,8 +7043,8 @@ freetennis/focal 0.4.8-11 amd64
 freetennis-common/focal 0.4.8-11 all
 freetts/focal 1.2.2-6 all
 freetuxtv/focal 0.6.8~dfsg1-1build1 amd64
-freetype2-demos/focal 2.10.1-2 amd64
-freetype2-doc/focal 2.10.1-2 all
+freetype2-demos/focal-updates 2.10.1-2ubuntu0.1 amd64
+freetype2-doc/focal-updates 2.10.1-2ubuntu0.1 all
 freewnn-common/focal 1.1.1~a021+cvs20130302-7build1 all
 freewnn-cserver/focal 1.1.1~a021+cvs20130302-7build1 amd64
 freewnn-jserver/focal 1.1.1~a021+cvs20130302-7build1 amd64
@@ -20840,9 +20840,9 @@ libfreerdp-shadow2-2/focal-updates 2.2.0+dfsg1-0ubuntu0.20.04.1 amd64
 libfreerdp2-2/focal-updates 2.2.0+dfsg1-0ubuntu0.20.04.1 amd64
 libfreesrp-dev/focal 0.3.0-2build1 amd64
 libfreesrp0/focal 0.3.0-2build1 amd64
-libfreetype-dev/focal 2.10.1-2 amd64
-libfreetype6/focal 2.10.1-2 amd64
-libfreetype6-dev/focal 2.10.1-2 amd64
+libfreetype-dev/focal-updates 2.10.1-2ubuntu0.1 amd64
+libfreetype6/focal-updates 2.10.1-2ubuntu0.1 amd64
+libfreetype6-dev/focal-updates 2.10.1-2ubuntu0.1 amd64
 libfreexl-dev/focal 1.0.5-3 amd64
 libfreexl1/focal 1.0.5-3 amd64
 libfreezethaw-perl/focal 0.5001-2 all
@@ -28356,9 +28356,9 @@ liblaser-geometry-dev/focal 1.6.4-7build1 amd64
 liblaser-geometry0d/focal 1.6.4-7build1 amd64
 liblasi-dev/focal 1.1.0-2ubuntu2 amd64
 liblasi0/focal 1.1.0-2ubuntu2 amd64
-liblasso-perl/focal 2.6.0-7ubuntu1 amd64
-liblasso3/focal 2.6.0-7ubuntu1 amd64
-liblasso3-dev/focal 2.6.0-7ubuntu1 amd64
+liblasso-perl/focal-updates 2.6.0-7ubuntu1.1 amd64
+liblasso3/focal-updates 2.6.0-7ubuntu1.1 amd64
+liblasso3-dev/focal-updates 2.6.0-7ubuntu1.1 amd64
 liblastfm-fingerprint5-1/focal 1.0.9-1.1build1 amd64
 liblastfm-fingerprint5-dbg/focal 1.0.9-1.1build1 amd64
 liblastfm-java/focal 1:0.1.0-2 all
@@ -30688,8 +30688,8 @@ libnetpbm10/focal 2:10.0-15.3build1 amd64
 libnetpbm10-dev/focal 2:10.0-15.3build1 amd64
 libnetpbm9/focal 2:10.0-15.3build1 amd64
 libnetpbm9-dev/focal 2:10.0-15.3build1 amd64
-libnetplan-dev/focal-updates 0.99-0ubuntu3~20.04.2 amd64
-libnetplan0/focal-updates 0.99-0ubuntu3~20.04.2 amd64
+libnetplan-dev/focal-updates 0.100-0ubuntu4~20.04.2 amd64
+libnetplan0/focal-updates 0.100-0ubuntu4~20.04.2 amd64
 libnetsds-kannel-perl/focal 1.300-6 all
 libnetsds-perl/focal 1.301-3 all
 libnetsds-util-perl/focal 1.045-1 all
@@ -43518,7 +43518,7 @@ netpipe-openmpi/focal 3.7.2-8 amd64
 netpipe-pvm/focal 3.7.2-8 amd64
 netpipe-tcp/focal 3.7.2-8 amd64
 netpipes/focal 4.2-8build1 amd64
-netplan.io/focal-updates 0.99-0ubuntu3~20.04.2 amd64
+netplan.io/focal-updates 0.100-0ubuntu4~20.04.2 amd64
 netplug/focal 1.2.9.2-3 amd64
 netrek-client-cow/focal 3.3.1-4build1 amd64
 netrik/focal 1.16.1-2build3 amd64
@@ -45807,10 +45807,10 @@ open-isns-server/focal 0.97-3 amd64
 open-isns-utils/focal 0.97-3 amd64
 open-jtalk/focal 1.11-1build1 amd64
 open-jtalk-mecab-naist-jdic/focal 1.11-1build1 all
-open-vm-tools/focal-updates 2:11.1.0-2~ubuntu20.04.1 amd64
-open-vm-tools-desktop/focal-updates 2:11.1.0-2~ubuntu20.04.1 amd64
-open-vm-tools-dev/focal-updates 2:11.1.0-2~ubuntu20.04.1 amd64
-open-vm-tools-sdmp/focal-updates 2:11.1.0-2~ubuntu20.04.1 amd64
+open-vm-tools/focal-updates 2:11.1.5-1~ubuntu20.04.2 amd64
+open-vm-tools-desktop/focal-updates 2:11.1.5-1~ubuntu20.04.2 amd64
+open-vm-tools-dev/focal-updates 2:11.1.5-1~ubuntu20.04.2 amd64
+open-vm-tools-sdmp/focal-updates 2:11.1.5-1~ubuntu20.04.2 amd64
 openafs-client/focal 1.8.4~pre1-1ubuntu2 amd64
 openafs-dbserver/focal 1.8.4~pre1-1ubuntu2 amd64
 openafs-doc/focal 1.8.4~pre1-1ubuntu2 all
@@ -50771,7 +50771,7 @@ python3-langdetect/focal 1.0.7-4 all
 python3-lark/focal 0.8.1-1 all
 python3-lasagne/focal 0.1+git20181019.a61b76f-2build1 all
 python3-laser-geometry/focal 1.6.4-7build1 all
-python3-lasso/focal 2.6.0-7ubuntu1 amd64
+python3-lasso/focal-updates 2.6.0-7ubuntu1.1 amd64
 python3-latexcodec/focal 1.0.7-1 all
 python3-launchpadlib/focal 1.10.13-1 all
 python3-lazr.config/focal 2.2-2 all
@@ -56495,7 +56495,7 @@ secilc/focal 3.0-1build1 amd64
 secilc-doc/focal 3.0-1build1 all
 secpanel/focal 1:0.6.1-3 all
 secure-delete/focal 3.1-6ubuntu2 amd64
-secureboot-db/focal-updates 1.6~20.04.1 amd64
+secureboot-db/focal 1.5 amd64
 sed/focal 4.7-1 amd64
 seer/focal 1.1.4-2build2 amd64
 seetxt/focal 0.72-6 amd64
@@ -57546,6 +57546,7 @@ sunpinyin-data/focal 0.1.22+20170109-2 amd64
 sunpinyin-utils/focal 3.0.0~rc1+ds1-3build2 amd64
 sunxi-tools/focal 1.4.2+git20181114.6d598a-3 amd64
 sup/focal 20100519-1build1 amd64
+sup-mail/focal-updates 1.0-3~0ubuntu20.04.1 all
 super/focal 3.30.1-1 amd64
 supercat/focal 0.5.7-1 amd64
 supercollider/focal 1:3.10.0+repack-1ubuntu2 amd64
