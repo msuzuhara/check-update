@@ -35694,8 +35694,8 @@ libwnn6-1/buster 1.0.0-18 amd64
 libwnn6-dev/buster 1.0.0-18 amd64
 libwoff-dev/buster 1.0.2-1 amd64
 libwoff1/buster 1.0.2-1 amd64
-libwolfssl-dev/buster-backports 4.4.0+dfsg-2~bpo10+1 amd64
-libwolfssl24/buster-backports 4.4.0+dfsg-2~bpo10+1 amd64
+libwolfssl-dev/buster-backports 4.5.0+dfsg-4~bpo10+1 amd64
+libwolfssl24/buster-backports 4.5.0+dfsg-4~bpo10+1 amd64
 libwoodstox-java/buster 1:5.1.0-2 all
 libwordnet-querydata-perl/buster 1.49-1 all
 libwpd-0.10-10/buster 0.10.3-1 amd64
@@ -41714,7 +41714,7 @@ osspd-alsa/buster 1.3.2-11 amd64
 osspd-pulseaudio/buster 1.3.2-11 amd64
 ostinato/buster 0.9-2+b1 amd64
 ostree/buster 2019.1-1 amd64
-ostree-boot/buster-backports 2020.5-1~bpo10+1 amd64
+ostree-boot/buster-backports 2020.7-1~bpo10+1 amd64
 ostree-tests/buster 2019.1-1 amd64
 otags/buster 4.05.1-1 amd64
 otb-bin/buster 6.6.1+dfsg-1+b1 amd64
