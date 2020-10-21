@@ -7067,7 +7067,7 @@ freetennis/bionic 0.4.8-10build2 amd64
 freetennis-common/bionic 0.4.8-10build2 all
 freetts/bionic 1.2.2-5 all
 freetuxtv/bionic 0.6.8~dfsg1-1build1 amd64
-freetype2-demos/bionic 2.8.1-2ubuntu2 amd64
+freetype2-demos/bionic-updates 2.8.1-2ubuntu2.1 amd64
 freevial/bionic 1.3-2.1ubuntu1 all
 freewheeling/bionic 0.6-2.1 amd64
 freewnn-common/bionic 1.1.1~a021+cvs20130302-7 all
@@ -11935,7 +11935,7 @@ grub2-common/bionic-updates 2.02-2ubuntu8.18 amd64
 grub2-splashimages/bionic 1.0.1+nmu1 all
 grub2-themes-ubuntu-mate/bionic 0.3.7 all
 grun/bionic 0.9.3-2 amd64
-grunt/bionic 1.0.1-8 all
+grunt/bionic-updates 1.0.1-8ubuntu0.1 all
 gsalliere/bionic 0.10-3 all
 gsasl/bionic 1.8.0-8ubuntu3 amd64
 gsasl-dbg/bionic 1.8.0-8ubuntu3 amd64
@@ -21162,8 +21162,8 @@ libfreerdp-utils1.1/bionic-updates 1.1.0~git20140921.1.440916e+dfsg1-15ubuntu1.1
 libfreerdp2-2/bionic-updates 2.2.0+dfsg1-0ubuntu0.18.04.1 amd64
 libfreesrp-dev/bionic 0.3.0-2 amd64
 libfreesrp0/bionic 0.3.0-2 amd64
-libfreetype6/bionic 2.8.1-2ubuntu2 amd64
-libfreetype6-dev/bionic 2.8.1-2ubuntu2 amd64
+libfreetype6/bionic-updates 2.8.1-2ubuntu2.1 amd64
+libfreetype6-dev/bionic-updates 2.8.1-2ubuntu2.1 amd64
 libfreexl-dev/bionic 1.0.5-1 amd64
 libfreexl1/bionic 1.0.5-1 amd64
 libfreezethaw-perl/bionic 0.5001-1 all
@@ -60559,10 +60559,10 @@ quantlib-refman-html/bionic 1.12-1 all
 quantum-espresso/bionic 6.0-3.1 amd64
 quantum-espresso-data/bionic 6.0-3.1 all
 quarry/bionic 0.2.0.dfsg.1-4.1build1 amd64
-quassel/bionic-updates 1:0.12.4-3ubuntu1.18.04.2 amd64
-quassel-client/bionic-updates 1:0.12.4-3ubuntu1.18.04.2 amd64
-quassel-core/bionic-updates 1:0.12.4-3ubuntu1.18.04.2 amd64
-quassel-data/bionic-updates 1:0.12.4-3ubuntu1.18.04.2 all
+quassel/bionic-updates 1:0.12.4-3ubuntu1.18.04.3 amd64
+quassel-client/bionic-updates 1:0.12.4-3ubuntu1.18.04.3 amd64
+quassel-core/bionic-updates 1:0.12.4-3ubuntu1.18.04.3 amd64
+quassel-data/bionic-updates 1:0.12.4-3ubuntu1.18.04.3 all
 quaternion/bionic 0.0.5-1 amd64
 quelcom/bionic 0.4.0-13build1 amd64
 quickcal/bionic 2.1-1 all
