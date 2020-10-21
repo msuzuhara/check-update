@@ -5925,13 +5925,13 @@ flickrbackup/xenial 0.2-3.1 all
 flickrfs/xenial 1.3.9.1-9.2ubuntu2 all
 flight-of-the-amazon-queen/xenial 1.0.0-8 all
 flightcrew/xenial-updates 0.7.2+dfsg-6ubuntu0.1 amd64
-flightgear/xenial-updates 3.4.0-3ubuntu1 amd64
+flightgear/xenial-updates 3.4.0-3ubuntu1.1 amd64
 flightgear-data-ai/xenial 3.4.0+dfsg-1 all
 flightgear-data-aircrafts/xenial 3.4.0+dfsg-1 all
 flightgear-data-all/xenial 3.4.0+dfsg-1 all
 flightgear-data-base/xenial 3.4.0+dfsg-1 all
 flightgear-data-models/xenial 3.4.0+dfsg-1 all
-flightgear-dbg/xenial-updates 3.4.0-3ubuntu1 amd64
+flightgear-dbg/xenial-updates 3.4.0-3ubuntu1.1 amd64
 flim/xenial 1:1.14.9+0.20120428-13 all
 flintqs/xenial 20070817-1 amd64
 flip/xenial 1.20-2 amd64
@@ -6576,7 +6576,7 @@ freetennis/xenial 0.4.8-10build1 amd64
 freetennis-common/xenial 0.4.8-10build1 all
 freetts/xenial 1.2.2-3 all
 freetuxtv/xenial 0.6.6~dfsg1-1 amd64
-freetype2-demos/xenial-updates 2.6.1-0.1ubuntu2.4 amd64
+freetype2-demos/xenial-updates 2.6.1-0.1ubuntu2.5 amd64
 freevial/xenial 1.3-2 all
 freevo/xenial 1.9.2b2-4.2 all
 freevo-data/xenial 1.9.2b2-4.2 all
@@ -18301,8 +18301,8 @@ libfreerdp-plugins-standard-dbg/xenial-updates 1.1.0~git20140921.1.440916e+dfsg1
 libfreerdp-primitives1.1/xenial-updates 1.1.0~git20140921.1.440916e+dfsg1-5ubuntu1.4 amd64
 libfreerdp-rail1.1/xenial-updates 1.1.0~git20140921.1.440916e+dfsg1-5ubuntu1.4 amd64
 libfreerdp-utils1.1/xenial-updates 1.1.0~git20140921.1.440916e+dfsg1-5ubuntu1.4 amd64
-libfreetype6/xenial-updates 2.6.1-0.1ubuntu2.4 amd64
-libfreetype6-dev/xenial-updates 2.6.1-0.1ubuntu2.4 amd64
+libfreetype6/xenial-updates 2.6.1-0.1ubuntu2.5 amd64
+libfreetype6-dev/xenial-updates 2.6.1-0.1ubuntu2.5 amd64
 libfreexl-dev/xenial-updates 1.0.2-1ubuntu0.1 amd64
 libfreexl1/xenial-updates 1.0.2-1ubuntu0.1 amd64
 libfreexl1-dbg/xenial-updates 1.0.2-1ubuntu0.1 amd64
