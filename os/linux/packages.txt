@@ -3624,8 +3624,8 @@ crypt++el/bionic 2.94-3 all
 cryptcat/bionic 20031202-4build1 amd64
 cryptmount/bionic 5.2.4-1build1 amd64
 cryptol/bionic 2.4.0-3 amd64
-cryptsetup/bionic-updates 2:2.0.2-1ubuntu1.1 amd64
-cryptsetup-bin/bionic-updates 2:2.0.2-1ubuntu1.1 amd64
+cryptsetup/bionic-updates 2:2.0.2-1ubuntu1.2 amd64
+cryptsetup-bin/bionic-updates 2:2.0.2-1ubuntu1.2 amd64
 crystalcursors/bionic 1.1.1-14 all
 cs/bionic 2.0.0-1 all
 csb/bionic 1.2.5+dfsg-3 all
@@ -19071,8 +19071,8 @@ libcrypto-equality-clojure/bionic 1.0.0-1 all
 libcrypto-random-clojure/bionic 1.2.0-1 all
 libcryptokit-ocaml/bionic 1.11-1build1 amd64
 libcryptokit-ocaml-dev/bionic 1.11-1build1 amd64
-libcryptsetup-dev/bionic-updates 2:2.0.2-1ubuntu1.1 amd64
-libcryptsetup12/bionic-updates 2:2.0.2-1ubuntu1.1 amd64
+libcryptsetup-dev/bionic-updates 2:2.0.2-1ubuntu1.2 amd64
+libcryptsetup12/bionic-updates 2:2.0.2-1ubuntu1.2 amd64
 libcryptui-dev/bionic 3.12.2-5 amd64
 libcryptui-doc/bionic 3.12.2-5 all
 libcryptui0a/bionic 3.12.2-5 amd64
