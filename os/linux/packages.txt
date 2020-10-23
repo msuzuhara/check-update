@@ -13959,7 +13959,7 @@ libapache2-mod-apreq2/xenial 2.13-4ubuntu2 amd64
 libapache2-mod-auth-cas/xenial 1.0.9.1-4 amd64
 libapache2-mod-auth-gssapi/xenial 1.3.2-1 amd64
 libapache2-mod-auth-kerb/xenial 5.4-2.2 amd64
-libapache2-mod-auth-mellon/xenial 0.12.0-1 amd64
+libapache2-mod-auth-mellon/xenial-updates 0.12.0-2+deb9u1build0.16.04.1 amd64
 libapache2-mod-auth-memcookie/xenial 1.0.2-8 amd64
 libapache2-mod-auth-ntlm-winbind/xenial 0.0.0.lorikeet+svn+801-4 amd64
 libapache2-mod-auth-openid/xenial 0.8-1build1 amd64
@@ -17652,10 +17652,10 @@ libethumb-dev/xenial 1.8.6-2.5 amd64
 libethumb1/xenial 1.8.6-2.5 amd64
 libetonyek-0.1-1/xenial 0.1.6-1ubuntu1 amd64
 libetonyek-dev/xenial 0.1.6-1ubuntu1 amd64
-libetpan-dbg/xenial 1.6-1build1 amd64
-libetpan-dev/xenial 1.6-1build1 amd64
-libetpan-doc/xenial 1.6-1build1 all
-libetpan17/xenial 1.6-1build1 amd64
+libetpan-dbg/xenial-updates 1.6-1ubuntu0.1 amd64
+libetpan-dev/xenial-updates 1.6-1ubuntu0.1 amd64
+libetpan-doc/xenial-updates 1.6-1ubuntu0.1 all
+libetpan17/xenial-updates 1.6-1ubuntu0.1 amd64
 libetsf-io-dev/xenial 1.0.4-1~exp1.1 amd64
 libetsf-io-doc/xenial 1.0.4-1~exp1.1 all
 libeurodec1-dev/xenial 20061220+dfsg3-3 amd64
@@ -27053,7 +27053,7 @@ libnetsds-util-perl/xenial 1.044-4 all
 libnetsvcs-6.3.3/xenial 6.3.3+dfsg-1 amd64
 libnetsvcs-dev/xenial 6.3.3+dfsg-1 amd64
 libnettle6/xenial-updates 3.2-1ubuntu0.16.04.1 amd64
-libnetty-3.9-java/xenial 3.9.0.Final-1 all
+libnetty-3.9-java/xenial-updates 3.9.0.Final-1ubuntu0.1 all
 libnetty-java/xenial 1:4.0.34-1 all
 libnetty-tcnative-java/xenial 1.1.33.Fork14-1 all
 libnetty-tcnative-jni/xenial 1.1.33.Fork14-1 amd64
