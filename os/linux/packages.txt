@@ -1431,7 +1431,7 @@ bicyclerepair/buster 0.9-6.2 all
 bidiv/buster 1.5-6 amd64
 biff/buster 1:0.17.pre20000412-5.1 amd64
 big-cursor/buster 3.10 all
-biglybt/buster-backports 2.4.0.0-1~bpo10+1 all
+biglybt/buster-backports 2.5.0.0-1~bpo10+1 all
 bijiben/buster 3.30.3-2 amd64
 bilibop/buster 0.5.6 amd64
 bilibop-common/buster 0.5.6 amd64
@@ -5676,7 +5676,7 @@ fastahack/buster 0.0+git20160702.bbc645f+dfsg-6 amd64
 fastaq/buster 3.17.0-2 all
 fastboot/buster 1:8.1.0+r23-5 amd64
 fastd/buster 18-3 amd64
-fastd-doc/buster-backports 20-1~bpo10+1 all
+fastd-doc/buster-backports 21-1~bpo10+1 all
 fastdnaml/buster 1.2.2-14 amd64
 fastforward/buster 1:0.51-6 amd64
 fastjar/buster 2:0.98-6+b1 amd64
