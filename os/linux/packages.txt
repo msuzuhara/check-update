@@ -6873,8 +6873,8 @@ freedink-engine/buster 109.6-1 amd64
 freedm/buster 0.11.3-1 all
 freedom-maker/buster 0.23 all
 freedombox/buster 19.1 all
-freedombox-doc-en/buster-backports 20.15~bpo10+1 all
-freedombox-doc-es/buster-backports 20.15~bpo10+1 all
+freedombox-doc-en/buster-backports 20.16~bpo10+1 all
+freedombox-doc-es/buster-backports 20.16~bpo10+1 all
 freedombox-setup/buster 0.13.1 all
 freedoom/buster 0.11.3-1 all
 freedroid/buster 1.0.2+cvs040112-6 amd64
