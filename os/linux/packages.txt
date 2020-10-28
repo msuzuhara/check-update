@@ -8557,6 +8557,7 @@ gir1.2-gusb-1.0/buster 0.3.0-1 amd64
 gir1.2-gweather-3.0/buster 3.28.2-2 amd64
 gir1.2-gxps-0.1/buster 0.3.1-1 amd64
 gir1.2-handy-0.0/buster-backports 0.0.10-1~bpo10+1 amd64
+gir1.2-handy-1/buster-backports 1.0.0-2~bpo10+1 amd64
 gir1.2-harfbuzz-0.0/buster 2.3.1-1 amd64
 gir1.2-hinawa-2.0/buster 1.1.0-1 amd64
 gir1.2-hkl-5.0/buster 5.0.0.2456-1 amd64
@@ -11262,6 +11263,7 @@ hamster-time-tracker/buster-backports 3.0.2-3~bpo10+1 all
 handbrake/buster 1.2.2+ds1-1 amd64
 handbrake-cli/buster 1.2.2+ds1-1 amd64
 handlebars/buster 3:4.1.0-1+deb10u2 all
+handy-1-examples/buster-backports 1.0.0-2~bpo10+1 amd64
 hannah/buster 1.0-3+b1 amd64
 hannah-data/buster 1.0-3 all
 hannah-foo2zjs/buster 1:4 amd64
@@ -15402,6 +15404,7 @@ libbrlapi-java/buster 5.6-10+deb10u1 all
 libbrlapi-jni/buster 5.6-10+deb10u1 amd64
 libbrlapi0.6/buster 5.6-10+deb10u1 amd64
 libbrlapi0.7/buster-backports 6.0+dfsg-6~bpo10+1 amd64
+libbrlapi0.8/buster-backports 6.1+dfsg-2~bpo10+1 amd64
 libbroccoli-dev/buster 1.100-1 amd64
 libbroccoli5/buster 1.100-1 amd64
 libbrotli-dev/buster 1.0.7-2 amd64
@@ -23451,6 +23454,8 @@ libhamlib2-perl/buster 3.3-5 amd64
 libhamlib2-tcl/buster 3.3-5 amd64
 libhandy-0.0-0/buster-backports 0.0.10-1~bpo10+1 amd64
 libhandy-0.0-dev/buster-backports 0.0.10-1~bpo10+1 amd64
+libhandy-1-0/buster-backports 1.0.0-2~bpo10+1 amd64
+libhandy-1-dev/buster-backports 1.0.0-2~bpo10+1 amd64
 libhangul-data/buster 0.1.0+git20170815-2 all
 libhangul-dev/buster 0.1.0+git20170815-2 amd64
 libhangul1/buster 0.1.0+git20170815-2 amd64
@@ -52085,6 +52090,7 @@ ruby-aws-sdk-kms/buster-backports 1.24.0-3~bpo10+1 all
 ruby-aws-sdk-s3/buster-backports 1.48.0-3~bpo10+1 all
 ruby-aws-sigv4/buster-backports 1.1.0-2~bpo10+1 all
 ruby-axiom-types/buster 0.1.1-1 all
+ruby-azure-core/buster-backports 0.1.15-1~bpo10+1 all
 ruby-babosa/buster 1.0.2-2 all
 ruby-backbone-on-rails/buster 1.2.0.0-2 all
 ruby-backports/buster 3.11.1-2 all
@@ -52285,6 +52291,7 @@ ruby-dry-logic/buster-backports 1.0.5-2~bpo10+1 all
 ruby-dry-types/buster-backports 1.2.2-2~bpo10+1 all
 ruby-eb/buster 2.6-3+b8 amd64
 ruby-ecasound/buster 2.9.1-7 all
+ruby-ecma-re-validator/buster-backports 0.2.1-2~bpo10+1 all
 ruby-ed25519/buster 1.2.4-1 amd64
 ruby-eim-xml/buster 0.0.4-4 all
 ruby-ejs/buster 1.1.1-2 all
@@ -52468,6 +52475,7 @@ ruby-haml-contrib/buster 1.0.0.1-2 all
 ruby-haml-rails/buster 1.0.0-2 all
 ruby-hamlit/buster 2.9.2-2 amd64
 ruby-hamster/buster 3.0.0-2 all
+ruby-hana/buster-backports 1.3.6-2~bpo10+1 all
 ruby-handlebars-assets/buster 2:0.23.3+dfsg-2 all
 ruby-hangouts-chat/buster 0.0.5-2 all
 ruby-hashdiff/buster 0.2.3-1 all
@@ -53128,6 +53136,7 @@ ruby-thread-safe/buster 0.3.6-1 all
 ruby-thrift/buster-backports 0.11.0.0-2~bpo10+1 amd64
 ruby-tilt/buster 2.0.9-1 all
 ruby-timecop/buster 0.8.0-1 all
+ruby-timeliness/buster-backports 0.3.10-2~bpo10+1 all
 ruby-timers/buster 4.1.1-2 all
 ruby-timfel-krb5-auth/buster 0.8.3-2+b5 amd64
 ruby-tins/buster 1.1.0-1 all
@@ -53167,6 +53176,7 @@ ruby-unicorn-worker-killer/buster 0.4.4-1 all
 ruby-unindent/buster 1.0-3 all
 ruby-unleash/buster-backports 0.1.6-2~bpo10+1 all
 ruby-upr/buster 0.3.0-2 all
+ruby-uri-template/buster-backports 0.7.0-2~bpo10+1 all
 ruby-url-safe-base64/buster 0.2.2-1 all
 ruby-useragent/buster 0.16.8-1 all
 ruby-uuid/buster 2.3.9-1 all
