@@ -4244,7 +4244,7 @@ distccmon-gnome/xenial 3.1-6.2 amd64
 distmp3/xenial 0.1.9.ds1-4.6 all
 distributed-net/xenial 2.9111.520-2 amd64
 distro-info/xenial-updates 0.14ubuntu0.1 amd64
-distro-info-data/xenial-updates 0.28ubuntu0.15 all
+distro-info-data/xenial-updates 0.28ubuntu0.16 all
 disulfinder/xenial 1.2.11-5 amd64
 disulfinder-data/xenial 1.2.11-5 all
 dita-ot/xenial 1.5.3-1 all
@@ -57530,7 +57530,7 @@ typecatcher/xenial 0.2-2 all
 typespeed/xenial 0.6.5-2.1build1 amd64
 tz-converter/xenial 1.0.0-1ubuntu1 all
 tzc/xenial 2.6.15-5.3ubuntu1 amd64
-tzdata/xenial-updates 2020a-0ubuntu0.16.04 all
+tzdata/xenial-updates 2020d-0ubuntu0.16.04 all
 tzwatch/xenial 1.4.4-9ubuntu2 all
 u-boot-tools/xenial-updates 2016.01+dfsg1-2ubuntu5 amd64
 u1db-tools/xenial 13.10-6 amd64
