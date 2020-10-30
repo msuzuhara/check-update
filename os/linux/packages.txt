@@ -4479,7 +4479,7 @@ distcc-pump/bionic 3.1-6.3 amd64
 distccmon-gnome/bionic 3.1-6.3 amd64
 distributed-net/bionic 2.9112.521-1 amd64
 distro-info/bionic-updates 0.18ubuntu0.18.04.1 amd64
-distro-info-data/bionic-updates 0.37ubuntu0.8 all
+distro-info-data/bionic-updates 0.37ubuntu0.9 all
 disulfinder/bionic 1.2.11-7 amd64
 disulfinder-data/bionic 1.2.11-7 all
 dita-ot/bionic 1.5.3-2 all
