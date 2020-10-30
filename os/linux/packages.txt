@@ -4358,7 +4358,7 @@ distcc-pump/focal 3.3.3-2ubuntu1 amd64
 distccmon-gnome/focal 3.3.3-2ubuntu1 amd64
 distributed-net/focal 2.9112.521+arm64-1 amd64
 distro-info/focal 0.23ubuntu1 amd64
-distro-info-data/focal-updates 0.43ubuntu1.2 all
+distro-info-data/focal-updates 0.43ubuntu1.4 all
 disulfinder/focal 1.2.11-8build1 amd64
 disulfinder-data/focal 1.2.11-8build1 all
 dita-ot/focal 1.5.3+dfsg-1 all
@@ -5731,7 +5731,7 @@ fasta3-doc/focal 36.3.8h-2 all
 fastahack/focal 1.0.0+dfsg-5build1 amd64
 fastaq/focal 3.17.0-2 all
 fastboot/focal 1:8.1.0+r23-5ubuntu2 amd64
-fastd/focal 18-3build1 amd64
+fastd/focal-updates 18-3ubuntu0.1 amd64
 fastdnaml/focal 1.2.2-14 amd64
 fastep/focal 0.12-2 all
 fastforward/focal 1:0.51-6 amd64
@@ -59045,7 +59045,7 @@ typecatcher/focal 0.3-1.1 all
 typespeed/focal 0.6.5-2.1build3 amd64
 tz-converter/focal 1.0.1-1 all
 tzc/focal 2.6.15-5.4 amd64
-tzdata/focal-updates 2020a-0ubuntu0.20.04 all
+tzdata/focal-updates 2020d-0ubuntu0.20.04 all
 tzdiff/focal 1.1.1-2 all
 tzwatch/focal 1.4.4-11 all
 u-boot-menu/focal 4.0.1 all
