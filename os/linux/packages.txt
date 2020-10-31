@@ -39720,6 +39720,7 @@ linux-azure-tools-5.0.0-1035/bionic-updates 5.0.0-1035.37 amd64
 linux-azure-tools-5.0.0-1036/bionic-updates 5.0.0-1036.38 amd64
 linux-base/bionic-updates 4.5ubuntu1.2 all
 linux-base-sgx/bionic-updates 4.5ubuntu1.2 all
+linux-buildinfo-4.15.0-1005-dell300x/bionic-updates 4.15.0-1005.8 amd64
 linux-buildinfo-4.15.0-1007-oracle/bionic-updates 4.15.0-1007.9 amd64
 linux-buildinfo-4.15.0-1008-oracle/bionic-updates 4.15.0-1008.10 amd64
 linux-buildinfo-4.15.0-1009-oracle/bionic-updates 4.15.0-1009.11 amd64
@@ -40686,6 +40687,9 @@ linux-cloud-tools-virtual-hwe-16.04-edge/bionic-updates 4.15.0.122.109 amd64
 linux-cloud-tools-virtual-hwe-18.04/bionic-updates 5.4.0.52.57~18.04.46 amd64
 linux-cloud-tools-virtual-hwe-18.04-edge/bionic-updates 5.4.0.52.57~18.04.46 amd64
 linux-crashdump/bionic-updates 4.15.0.122.109 amd64
+linux-dell300x/bionic-updates 4.15.0.1005.7 amd64
+linux-dell300x-headers-4.15.0-1005/bionic-updates 4.15.0-1005.8 all
+linux-dell300x-tools-4.15.0-1005/bionic-updates 4.15.0-1005.8 amd64
 linux-doc/bionic-updates 4.15.0-99.100 all
 linux-firmware/bionic-updates 1.173.19 all
 linux-gcp/bionic-updates 5.4.0.1028.16 amd64
@@ -40989,6 +40993,7 @@ linux-gkeop-5.4-tools-5.4.0-1001/bionic-updates 5.4.0-1001.1 amd64
 linux-gkeop-5.4-tools-5.4.0-1003/bionic-updates 5.4.0-1003.3 amd64
 linux-gkeop-5.4-tools-common/bionic-updates 5.4.0-1003.3 all
 linux-headers-4.15.0-1004-oem/bionic 4.15.0-1004.5 amd64
+linux-headers-4.15.0-1005-dell300x/bionic-updates 4.15.0-1005.8 amd64
 linux-headers-4.15.0-1006-gcp/bionic 4.15.0-1006.6 amd64
 linux-headers-4.15.0-1006-oem/bionic-updates 4.15.0-1006.9 amd64
 linux-headers-4.15.0-1007-aws/bionic 4.15.0-1007.7 amd64
@@ -41778,6 +41783,7 @@ linux-headers-aws-lts-18.04/bionic-updates 4.15.0.1087.89 amd64
 linux-headers-azure/bionic-updates 5.4.0.1031.13 amd64
 linux-headers-azure-edge/bionic-updates 5.4.0.1031.13 amd64
 linux-headers-azure-lts-18.04/bionic-updates 4.15.0.1099.72 amd64
+linux-headers-dell300x/bionic-updates 4.15.0.1005.7 amd64
 linux-headers-gcp/bionic-updates 5.4.0.1028.16 amd64
 linux-headers-gcp-edge/bionic-updates 5.4.0.1028.16 amd64
 linux-headers-gcp-lts-18.04/bionic-updates 4.15.0.1086.104 amd64
@@ -41969,6 +41975,7 @@ linux-hwe-tools-5.3.0-67/bionic-updates 5.3.0-67.61 amd64
 linux-hwe-tools-5.3.0-68/bionic-updates 5.3.0-68.63 amd64
 linux-igd/bionic 1.0+cvs20070630-6 amd64
 linux-image-4.15.0-1004-oem/bionic 4.15.0-1004.5+signed1 amd64
+linux-image-4.15.0-1005-dell300x/bionic-updates 4.15.0-1005.8 amd64
 linux-image-4.15.0-1006-gcp/bionic 4.15.0-1006.6 amd64
 linux-image-4.15.0-1006-oem/bionic-updates 4.15.0-1006.9 amd64
 linux-image-4.15.0-1007-aws/bionic 4.15.0-1007.7 amd64
@@ -42667,6 +42674,7 @@ linux-image-aws-lts-18.04/bionic-updates 4.15.0.1087.89 amd64
 linux-image-azure/bionic-updates 5.4.0.1031.13 amd64
 linux-image-azure-edge/bionic-updates 5.4.0.1031.13 amd64
 linux-image-azure-lts-18.04/bionic-updates 4.15.0.1099.72 amd64
+linux-image-dell300x/bionic-updates 4.15.0.1005.7 amd64
 linux-image-extra-virtual/bionic-updates 4.15.0.122.109 amd64
 linux-image-extra-virtual-hwe-16.04/bionic-updates 4.15.0.122.109 amd64
 linux-image-extra-virtual-hwe-16.04-edge/bionic-updates 4.15.0.122.109 amd64
@@ -42699,6 +42707,7 @@ linux-image-oracle/bionic-updates 5.4.0.1028.12 amd64
 linux-image-oracle-edge/bionic-updates 5.4.0.1028.12 amd64
 linux-image-oracle-lts-18.04/bionic-updates 4.15.0.1057.67 amd64
 linux-image-unsigned-4.15.0-1004-oem/bionic 4.15.0-1004.5 amd64
+linux-image-unsigned-4.15.0-1005-dell300x/bionic-updates 4.15.0-1005.8 amd64
 linux-image-unsigned-4.15.0-1006-oem/bionic-updates 4.15.0-1006.9 amd64
 linux-image-unsigned-4.15.0-1007-oracle/bionic-updates 4.15.0-1007.9 amd64
 linux-image-unsigned-4.15.0-1008-oem/bionic-updates 4.15.0-1008.11 amd64
@@ -43384,6 +43393,7 @@ linux-lowlatency-hwe-16.04-edge/bionic-updates 4.15.0.122.109 amd64
 linux-lowlatency-hwe-18.04/bionic-updates 5.4.0.52.57~18.04.46 amd64
 linux-lowlatency-hwe-18.04-edge/bionic-updates 5.4.0.52.57~18.04.46 amd64
 linux-modules-4.15.0-1004-oem/bionic 4.15.0-1004.5 amd64
+linux-modules-4.15.0-1005-dell300x/bionic-updates 4.15.0-1005.8 amd64
 linux-modules-4.15.0-1006-gcp/bionic 4.15.0-1006.6 amd64
 linux-modules-4.15.0-1006-oem/bionic-updates 4.15.0-1006.9 amd64
 linux-modules-4.15.0-1007-aws/bionic 4.15.0-1007.7 amd64
@@ -45754,6 +45764,7 @@ linux-source-4.18.0/bionic-updates 4.18.0-25.26~18.04.1 all
 linux-source-5.0.0/bionic-updates 5.0.0-62.67 all
 linux-source-5.3.0/bionic-updates 5.3.0-68.63 all
 linux-tools-4.15.0-1004-oem/bionic 4.15.0-1004.5 amd64
+linux-tools-4.15.0-1005-dell300x/bionic-updates 4.15.0-1005.8 amd64
 linux-tools-4.15.0-1006-gcp/bionic 4.15.0-1006.6 amd64
 linux-tools-4.15.0-1006-oem/bionic-updates 4.15.0-1006.9 amd64
 linux-tools-4.15.0-1007-aws/bionic 4.15.0-1007.7 amd64
@@ -46503,6 +46514,7 @@ linux-tools-azure/bionic-updates 5.4.0.1031.13 amd64
 linux-tools-azure-edge/bionic-updates 5.4.0.1031.13 amd64
 linux-tools-azure-lts-18.04/bionic-updates 4.15.0.1099.72 amd64
 linux-tools-common/bionic-updates 4.15.0-99.100 all
+linux-tools-dell300x/bionic-updates 4.15.0.1005.7 amd64
 linux-tools-gcp/bionic-updates 5.4.0.1028.16 amd64
 linux-tools-gcp-edge/bionic-updates 5.4.0.1028.16 amd64
 linux-tools-gcp-lts-18.04/bionic-updates 4.15.0.1086.104 amd64
@@ -61196,7 +61208,7 @@ r8168-dkms/bionic-updates 8.045.08-2ubuntu1 all
 rabbit/bionic 2.2.1-2 all
 rabbit-mode/bionic 2.2.1-2 all
 rabbiter/bionic 2.0.4-2 all
-rabbitmq-server/bionic-updates 3.6.10-1ubuntu0.3 all
+rabbitmq-server/bionic-updates 3.6.10-1ubuntu0.4 all
 rabbitsign/bionic 2.1+dmca1-1build2 amd64
 rabbitvcs-cli/bionic 0.16-1.1 all
 rabbitvcs-core/bionic 0.16-1.1 all
@@ -66048,7 +66060,7 @@ typecatcher/bionic 0.3-1 all
 typespeed/bionic 0.6.5-2.1build2 amd64
 tz-converter/bionic 1.0.1-1 all
 tzc/bionic 2.6.15-5.4 amd64
-tzdata/bionic-updates 2020a-0ubuntu0.18.04 all
+tzdata/bionic-updates 2020d-0ubuntu0.18.04 all
 tzwatch/bionic 1.4.4-11 all
 u-boot-menu/bionic 2 all
 u-boot-tools/bionic-updates 2019.07+dfsg-1ubuntu4~18.04.1 amd64
