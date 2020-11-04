@@ -1784,7 +1784,7 @@ bppsuite/buster 2.4.1-1 amd64
 bppsuite-examples/buster 2.4.1-1 all
 bpython/buster 0.17.1-1 all
 bpython3/buster 0.17.1-1 all
-bpytop/buster-backports 1.0.42-1~bpo10+1 all
+bpytop/buster-backports 1.0.47-1~bpo10+1 all
 br2684ctl/buster 1:2.5.1-2 amd64
 braa/buster 0.82-4 amd64
 brag/buster 1.4.1-2.1 all
@@ -28393,7 +28393,7 @@ libnvblas9.2/buster 9.2.148-7 amd64
 libnvcuvid1/buster 418.152.00-1 amd64
 libnvgraph10/buster-backports 10.1.243-6~bpo10+1 amd64
 libnvgraph9.2/buster 9.2.148-7 amd64
-libnvidia-allocator1/buster-backports 450.66-1~bpo10+1 amd64
+libnvidia-allocator1/buster-backports 450.80.02-1~bpo10+1 amd64
 libnvidia-cbl/buster 418.152.00-1 amd64
 libnvidia-cfg1/buster 418.152.00-1 amd64
 libnvidia-compiler/buster 418.152.00-1 amd64
@@ -28430,7 +28430,7 @@ libnvidia-legacy-390xx-nvcuvid1/buster 390.138-1~deb10u1 amd64
 libnvidia-legacy-390xx-ptxjitcompiler1/buster 390.138-1~deb10u1 amd64
 libnvidia-ml-dev/buster-backports 10.1.243-6~bpo10+1 amd64
 libnvidia-ml1/buster 418.152.00-1 amd64
-libnvidia-ngx1/buster-backports 450.66-1~bpo10+1 amd64
+libnvidia-ngx1/buster-backports 450.80.02-1~bpo10+1 amd64
 libnvidia-opticalflow1/buster 418.152.00-1 amd64
 libnvidia-ptxjitcompiler1/buster 418.152.00-1 amd64
 libnvidia-rtcore/buster 418.152.00-1 amd64
@@ -51678,15 +51678,15 @@ remmina/buster 1.3.3+dfsg-2 amd64
 remmina-common/buster 1.3.3+dfsg-2 all
 remmina-dev/buster 1.3.3+dfsg-2 amd64
 remmina-plugin-exec/buster 1.3.3+dfsg-2 amd64
-remmina-plugin-kiosk/buster-backports 1.4.8+dfsg-1~bpo10+1 amd64
-remmina-plugin-kwallet/buster-backports 1.4.8+dfsg-1~bpo10+1 amd64
+remmina-plugin-kiosk/buster-backports 1.4.8+dfsg-2~bpo10+1 amd64
+remmina-plugin-kwallet/buster-backports 1.4.8+dfsg-2~bpo10+1 amd64
 remmina-plugin-nx/buster 1.3.3+dfsg-2 amd64
 remmina-plugin-rdp/buster 1.3.3+dfsg-2 amd64
 remmina-plugin-secret/buster 1.3.3+dfsg-2 amd64
 remmina-plugin-spice/buster 1.3.3+dfsg-2 amd64
 remmina-plugin-telepathy/buster 1.3.3+dfsg-2 amd64
 remmina-plugin-vnc/buster 1.3.3+dfsg-2 amd64
-remmina-plugin-www/buster-backports 1.4.8+dfsg-1~bpo10+1 amd64
+remmina-plugin-www/buster-backports 1.4.8+dfsg-2~bpo10+1 amd64
 remmina-plugin-xdmcp/buster 1.3.3+dfsg-2 amd64
 remote-logon-config-agent/buster 0.10-1 all
 remote-logon-service/buster 1.0.2.90-3 amd64
