@@ -117,7 +117,7 @@ account-plugin-yahoojp/xenial 3.12.11-0ubuntu3 amd64
 account-plugin-zephyr/xenial 3.12.11-0ubuntu3 amd64
 account-polld/xenial 0.1+16.04.20160308.1-0ubuntu1 amd64
 accounts-qml-module-doc/xenial 0.6+16.04.20151106-0ubuntu1 all
-accountsservice/xenial-updates 0.6.40-2ubuntu11.3 amd64
+accountsservice/xenial-updates 0.6.40-2ubuntu11.6 amd64
 accountsservice-ubuntu-schemas/xenial 0.0.5+16.04.20160307-0ubuntu1 all
 accountsservice-ubuntu-touch-schemas/xenial 0.0.5+16.04.20160307-0ubuntu1 all
 accountwizard/xenial-updates 4:15.12.3-0ubuntu1.1 amd64
@@ -8195,7 +8195,7 @@ gir1.2-a11yprofilemanager-0.1/xenial 0.1.10-0ubuntu3 amd64
 gir1.2-abiword-3.0/xenial-updates 3.0.1-6ubuntu0.16.04.1 amd64
 gir1.2-accountplugin-1.0/xenial 0.1.8+16.04.20160201-0ubuntu1 amd64
 gir1.2-accounts-1.0/xenial 1.21+16.04.20160222-0ubuntu1 amd64
-gir1.2-accountsservice-1.0/xenial-updates 0.6.40-2ubuntu11.3 amd64
+gir1.2-accountsservice-1.0/xenial-updates 0.6.40-2ubuntu11.6 amd64
 gir1.2-anjuta-3.0/xenial 2:3.18.2-1 amd64
 gir1.2-appindicator-0.1/xenial-updates 12.10.1+16.04.20170215-0ubuntu1 amd64
 gir1.2-appindicator3-0.1/xenial-updates 12.10.1+16.04.20170215-0ubuntu1 amd64
@@ -13629,10 +13629,10 @@ libaccounts-glib0/xenial 1.21+16.04.20160222-0ubuntu1 amd64
 libaccounts-qt-doc/xenial 1.14+16.04.20151106.1-0ubuntu1 all
 libaccounts-qt5-1/xenial 1.14+16.04.20151106.1-0ubuntu1 amd64
 libaccounts-qt5-dev/xenial 1.14+16.04.20151106.1-0ubuntu1 amd64
-libaccountsservice-dbg/xenial-updates 0.6.40-2ubuntu11.3 amd64
-libaccountsservice-dev/xenial-updates 0.6.40-2ubuntu11.3 amd64
-libaccountsservice-doc/xenial-updates 0.6.40-2ubuntu11.3 all
-libaccountsservice0/xenial-updates 0.6.40-2ubuntu11.3 amd64
+libaccountsservice-dbg/xenial-updates 0.6.40-2ubuntu11.6 amd64
+libaccountsservice-dev/xenial-updates 0.6.40-2ubuntu11.6 amd64
+libaccountsservice-doc/xenial-updates 0.6.40-2ubuntu11.6 all
+libaccountsservice0/xenial-updates 0.6.40-2ubuntu11.6 amd64
 libace-6.3.3/xenial 6.3.3+dfsg-1 amd64
 libace-dev/xenial 6.3.3+dfsg-1 amd64
 libace-doc/xenial 6.3.3+dfsg-1 all
@@ -34363,8 +34363,8 @@ libykpiv-dev/xenial 1.0.3-1 amd64
 libykpiv1/xenial 1.0.3-1 amd64
 libyojson-ocaml/xenial 1.2.3-1build1 amd64
 libyojson-ocaml-dev/xenial 1.2.3-1build1 amd64
-libytnef0/xenial 1.5-9 amd64
-libytnef0-dev/xenial 1.5-9 amd64
+libytnef0/xenial-updates 1.5-9ubuntu0.1 amd64
+libytnef0-dev/xenial-updates 1.5-9ubuntu0.1 amd64
 libyubikey-dev/xenial 1.13-1 amd64
 libyubikey0/xenial 1.13-1 amd64
 libz-mingw-w64/xenial 1.2.8+dfsg-2 all
@@ -47421,8 +47421,8 @@ python-crontab/xenial 1.9.3-2 all
 python-crypto/xenial-updates 2.6.1-6ubuntu0.16.04.3 amd64
 python-crypto-dbg/xenial-updates 2.6.1-6ubuntu0.16.04.3 amd64
 python-crypto-doc/xenial-updates 2.6.1-6ubuntu0.16.04.3 all
-python-cryptography/xenial-updates 1.2.3-1ubuntu0.2 amd64
-python-cryptography-doc/xenial-updates 1.2.3-1ubuntu0.2 all
+python-cryptography/xenial-updates 1.2.3-1ubuntu0.3 amd64
+python-cryptography-doc/xenial-updates 1.2.3-1ubuntu0.3 all
 python-cryptography-vectors/xenial 1.2.3-1 all
 python-cs/xenial 0.6.10-1 all
 python-csa/xenial 0.1.0-1.2 all
@@ -50582,7 +50582,7 @@ python3-croniter/xenial 0.3.8-1 all
 python3-crontab/xenial 1.9.3-2 all
 python3-crypto/xenial-updates 2.6.1-6ubuntu0.16.04.3 amd64
 python3-crypto-dbg/xenial-updates 2.6.1-6ubuntu0.16.04.3 amd64
-python3-cryptography/xenial-updates 1.2.3-1ubuntu0.2 amd64
+python3-cryptography/xenial-updates 1.2.3-1ubuntu0.3 amd64
 python3-cryptography-vectors/xenial 1.2.3-1 all
 python3-cs/xenial 0.6.10-1 all
 python3-csb/xenial 1.2.3+dfsg-2 all
