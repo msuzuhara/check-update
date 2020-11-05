@@ -64083,7 +64083,7 @@ sphinxtrain/bionic 1.0.8+5prealpha+1-1 amd64
 spice-client-glib-usb-acl-helper/bionic 0.34-1.1build1 amd64
 spice-client-gtk/bionic 0.34-1.1build1 amd64
 spice-html5/bionic-updates 0.1.7-2ubuntu1 all
-spice-vdagent/bionic 0.17.0-1ubuntu2 amd64
+spice-vdagent/bionic-updates 0.17.0-1ubuntu2.2 amd64
 spice-webdavd/bionic 2.2-2 amd64
 spigot/bionic 0.2017-01-15.gdad1bbc6-1 amd64
 spikeproxy/bionic 1.4.8-4.4 all
