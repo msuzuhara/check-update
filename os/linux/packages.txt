@@ -1772,7 +1772,7 @@ boxer/buster 1.3.0-2 all
 boxer-data/buster 10.7.6 all
 boxes/buster 1.3-1 amd64
 boxshade/buster 3.3.1-12 amd64
-bpfcc-introspection/buster-backports 0.16.0-2~bpo10+1 amd64
+bpfcc-introspection/buster-backports 0.16.0-2~bpo10+2 amd64
 bpfcc-lua/buster 0.8.0-4 amd64
 bpfcc-tools/buster 0.8.0-4 all
 bpftool/buster-backports 5.8.10-1~bpo10+1 amd64
@@ -37789,7 +37789,7 @@ matlab-gdf/buster 0.1.2-2.1 all
 matlab-support/buster 0.0.21 all
 matlab-support-dev/buster 0.0.21 all
 matlab2tikz/buster 1.1.0-6 all
-matrix-synapse/buster-backports 1.21.2-1~bpo10+1 all
+matrix-synapse/buster-backports 1.22.1-1~bpo10+1 all
 matrix-synapse-ldap3/buster 0.1.3-4 all
 matroxset/buster 0.4-9+b1 amd64
 maude/buster 2.7-2+b2 amd64
@@ -38391,7 +38391,7 @@ mongodb-dev/buster 2:1.1.3-3 all
 mongoose/buster 1:5.4.0+dfsg-1 amd64
 mongrel2-core/buster 1.12.0-2 amd64
 mongrel2-run/buster 1.12.0-2 all
-monit/buster-backports 1:5.26.0-1~bpo10+1 amd64
+monit/buster-backports 1:5.27.1-1~bpo10+1 amd64
 monitoring-plugins/buster 2.2-6 all
 monitoring-plugins-basic/buster 2.2-6 amd64
 monitoring-plugins-btrfs/buster 11-2 all
@@ -43077,7 +43077,7 @@ plink1.9/buster 1.90~b6.6-181012-1 amd64
 plinth/buster 19.1 all
 plip/buster 1.4.3~b+dfsg-2 all
 plm/buster 2.6+repack-3 all
-plocate/buster-backports 1.0.5-3~bpo10+1 amd64
+plocate/buster-backports 1.0.7-1~bpo10+1 amd64
 ploop/buster 1.15-6 amd64
 plopfolio.app/buster 0.1.0-7+b3 amd64
 plotdrop/buster 0.5.4-1 amd64
