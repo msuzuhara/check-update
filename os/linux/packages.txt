@@ -5945,6 +5945,7 @@ fh2odg/buster 0.9.6-2 amd64
 fheroes2-pkg/buster 0+svn20150122r3274-2-2 all
 fhist/buster 1.18-2 amd64
 fiche/buster 0.9.1-1 amd64
+fido2-tools/buster-backports 1.5.0-2~bpo10+1 amd64
 field3d-doc/buster 1.7.2-1 all
 field3d-tools/buster 1.7.2-1+b5 amd64
 fig2dev/buster 1:3.2.7a-5+deb10u3 amd64
@@ -13969,7 +13970,6 @@ libabw-dev/buster 0.1.2-1 amd64
 libaccess-modifier-checker-java/buster 1.16-1 all
 libaccessodf-java/buster 0.1.1~b-1 all
 libaccessors-perl/buster 1.01-2 all
-libaccinj64-10.1/buster-backports 10.1.243-6~bpo10+1 amd64
 libaccinj64-10.2/buster-backports 10.2.89-5~bpo10+1 amd64
 libaccinj64-9.2/buster 9.2.148-7 amd64
 libaccounts-glib-dev/buster 1.23-1 amd64
@@ -15409,7 +15409,7 @@ libbrlapi-dev/buster 5.6-10+deb10u1 amd64
 libbrlapi-java/buster 5.6-10+deb10u1 all
 libbrlapi-jni/buster 5.6-10+deb10u1 amd64
 libbrlapi0.6/buster 5.6-10+deb10u1 amd64
-libbrlapi0.8/buster-backports 6.1+dfsg-2~bpo10+1 amd64
+libbrlapi0.8/buster-backports 6.1+dfsg-3~bpo10+1 amd64
 libbroccoli-dev/buster 1.100-1 amd64
 libbroccoli5/buster 1.100-1 amd64
 libbrotli-dev/buster 1.0.7-2 amd64
@@ -16941,7 +16941,6 @@ libcublas10/buster-backports 10.2.89-5~bpo10+1 amd64
 libcublas9.2/buster 9.2.148-7 amd64
 libcublaslt10/buster-backports 10.2.89-5~bpo10+1 amd64
 libcuda1/buster 418.152.00-1 amd64
-libcudart10.1/buster-backports 10.1.243-6~bpo10+1 amd64
 libcudart10.2/buster-backports 10.2.89-5~bpo10+1 amd64
 libcudart9.2/buster 9.2.148-7 amd64
 libcudf-dev/buster 0.7-3+b2 amd64
@@ -16952,7 +16951,6 @@ libcufft10/buster-backports 10.2.89-5~bpo10+1 amd64
 libcufft9.2/buster 9.2.148-7 amd64
 libcufftw10/buster-backports 10.2.89-5~bpo10+1 amd64
 libcufftw9.2/buster 9.2.148-7 amd64
-libcuinj64-10.1/buster-backports 10.1.243-6~bpo10+1 amd64
 libcuinj64-10.2/buster-backports 10.2.89-5~bpo10+1 amd64
 libcuinj64-9.2/buster 9.2.148-7 amd64
 libcuneiform-dev/buster 1.1.0+dfsg-7 amd64
@@ -16976,7 +16974,6 @@ libcupt4-dev/buster 2.10.3 amd64
 libcupt4-doc/buster 2.10.3 all
 libcupti-dev/buster 9.2.148-7 amd64
 libcupti-doc/buster 9.2.148-7 all
-libcupti10.1/buster-backports 10.1.243-6~bpo10+1 amd64
 libcupti10.2/buster-backports 10.2.89-5~bpo10+1 amd64
 libcupti9.2/buster 9.2.148-7 amd64
 libcurand10/buster-backports 10.2.89-5~bpo10+1 amd64
@@ -18520,8 +18517,8 @@ libfastutil-java/buster 8.2.2-1 all
 libfastutil-java-doc/buster 8.2.2-1 all
 libfathom-dev/buster 1.0+git.20190120.0439ca-1 amd64
 libfathom1/buster 1.0+git.20190120.0439ca-1 amd64
-libfaudio-dev/buster-backports 20.04-2~bpo10+1 amd64
-libfaudio0/buster-backports 20.04-2~bpo10+1 amd64
+libfaudio-dev/buster-backports 20.11-1~bpo10+1 amd64
+libfaudio0/buster-backports 20.11-1~bpo10+1 amd64
 libfauhdli-dev/buster 20180504-2 amd64
 libfax-hylafax-client-perl/buster 1.02-3 all
 libfbclient2/buster 3.0.5.33100.ds4-2 amd64
@@ -18627,6 +18624,9 @@ libfftw3-mpi3/buster 3.3.8-2 amd64
 libfftw3-quad3/buster 3.3.8-2 amd64
 libfftw3-single3/buster 3.3.8-2 amd64
 libfgetdata6/buster 0.10.0-5+b1 amd64
+libfido2-1/buster-backports 1.5.0-2~bpo10+1 amd64
+libfido2-dev/buster-backports 1.5.0-2~bpo10+1 amd64
+libfido2-doc/buster-backports 1.5.0-2~bpo10+1 all
 libfield3d-dev/buster 1.7.2-1+b5 amd64
 libfield3d1.7/buster 1.7.2-1+b5 amd64
 libfieldslib-ocaml/buster 113.33.03-2+b1 amd64
@@ -28483,7 +28483,6 @@ libnvidia-tesla-450-rtcore/buster-backports 450.51.06-2~bpo10+1 amd64
 libnvjpeg10/buster-backports 10.2.89-5~bpo10+1 amd64
 libnvoptix1/buster 418.152.00-1 amd64
 libnvpair1linux/buster 0.7.12-2+deb10u2 amd64
-libnvrtc10.1/buster-backports 10.1.243-6~bpo10+1 amd64
 libnvrtc10.2/buster-backports 10.2.89-5~bpo10+1 amd64
 libnvrtc9.2/buster 9.2.148-7 amd64
 libnvtoolsext1/buster 9.2.148-7 amd64
@@ -29416,6 +29415,7 @@ libparanoid-perl/buster 2.06-1 all
 libparboiled-java/buster 1.1.7-2 all
 libpari-dev/buster 2.11.1-2 amd64
 libpari-gmp-tls6/buster 2.11.1-2 amd64
+libpari-gmp-tls7/buster-backports 2.13.0-2~bpo10+1 amd64
 libparistraceroute-dev/buster 0.93+git20160927-1 amd64
 libparistraceroute1/buster 0.93+git20160927-1 amd64
 libparlatype-dev/buster 1.5.6-1 amd64
@@ -30406,25 +30406,25 @@ libqes-dev/buster 0.2.8-1 amd64
 libqes0/buster 0.2.8-1 amd64
 libqfits-dev/buster 6.2.0-8+b2 amd64
 libqfits0/buster 6.2.0-8+b2 amd64
-libqgis-3d3.10.10/buster-backports 3.10.10+dfsg-1~bpo10+1 amd64
+libqgis-3d3.10.11/buster-backports 3.10.11+dfsg-1~bpo10+1 amd64
 libqgis-analysis2.18.28/buster 2.18.28+dfsg-2 amd64
-libqgis-analysis3.10.10/buster-backports 3.10.10+dfsg-1~bpo10+1 amd64
+libqgis-analysis3.10.11/buster-backports 3.10.11+dfsg-1~bpo10+1 amd64
 libqgis-app2.18.28/buster 2.18.28+dfsg-2 amd64
-libqgis-app3.10.10/buster-backports 3.10.10+dfsg-1~bpo10+1 amd64
+libqgis-app3.10.11/buster-backports 3.10.11+dfsg-1~bpo10+1 amd64
 libqgis-core2.18.28/buster 2.18.28+dfsg-2 amd64
-libqgis-core3.10.10/buster-backports 3.10.10+dfsg-1~bpo10+1 amd64
+libqgis-core3.10.11/buster-backports 3.10.11+dfsg-1~bpo10+1 amd64
 libqgis-customwidgets/buster 2.18.28+dfsg-2 amd64
 libqgis-dev/buster 2.18.28+dfsg-2 amd64
 libqgis-gui2.18.28/buster 2.18.28+dfsg-2 amd64
-libqgis-gui3.10.10/buster-backports 3.10.10+dfsg-1~bpo10+1 amd64
-libqgis-native3.10.10/buster-backports 3.10.10+dfsg-1~bpo10+1 amd64
+libqgis-gui3.10.11/buster-backports 3.10.11+dfsg-1~bpo10+1 amd64
+libqgis-native3.10.11/buster-backports 3.10.11+dfsg-1~bpo10+1 amd64
 libqgis-networkanalysis2.18.28/buster 2.18.28+dfsg-2 amd64
 libqgis-server2.18.28/buster 2.18.28+dfsg-2 amd64
-libqgis-server3.10.10/buster-backports 3.10.10+dfsg-1~bpo10+1 amd64
+libqgis-server3.10.11/buster-backports 3.10.11+dfsg-1~bpo10+1 amd64
 libqgisgrass7-2.18.28/buster 2.18.28+dfsg-2 amd64
-libqgisgrass7-3.10.10/buster-backports 3.10.10+dfsg-1~bpo10+1 amd64
+libqgisgrass7-3.10.11/buster-backports 3.10.11+dfsg-1~bpo10+1 amd64
 libqgispython2.18.28/buster 2.18.28+dfsg-2 amd64
-libqgispython3.10.10/buster-backports 3.10.10+dfsg-1~bpo10+1 amd64
+libqgispython3.10.11/buster-backports 3.10.11+dfsg-1~bpo10+1 amd64
 libqglviewer-dev-qt4/buster 2.6.3+dfsg2-3 amd64
 libqglviewer-dev-qt5/buster 2.6.3+dfsg2-3 amd64
 libqglviewer-doc/buster 2.6.3+dfsg2-3 all
@@ -37789,7 +37789,7 @@ matlab-gdf/buster 0.1.2-2.1 all
 matlab-support/buster 0.0.21 all
 matlab-support-dev/buster 0.0.21 all
 matlab2tikz/buster 1.1.0-6 all
-matrix-synapse/buster-backports 1.22.1-1~bpo10+1 all
+matrix-synapse/buster-backports 1.22.1-2~bpo10+1 all
 matrix-synapse-ldap3/buster 0.1.3-4 all
 matroxset/buster 0.4-9+b1 amd64
 maude/buster 2.7-2+b2 amd64
@@ -38781,8 +38781,8 @@ musescore-common/buster 2.3.2+dfsg2-7~deb10u1 all
 musescore-general-soundfont/buster 0.1.4-1 all
 musescore-general-soundfont-lossless/buster 0.1.4-1 all
 musescore-general-soundfont-small/buster 0.1.4-1 all
-musescore3/buster-backports 3.2.3+dfsg1-4~bpo10+1 amd64
-musescore3-common/buster-backports 3.2.3+dfsg1-4~bpo10+1 all
+musescore3/buster-backports 3.2.3+dfsg1-7~bpo10+1 amd64
+musescore3-common/buster-backports 3.2.3+dfsg1-7~bpo10+1 all
 music-bin/buster 1.0.7-4+b1 amd64
 music-doc/buster 1.0.7-4 all
 music123/buster 16.4-3+b1 amd64
@@ -45188,6 +45188,7 @@ python-iptables-doc/buster 0.13.0-1 all
 python-iptcdata/buster 1.0.5-2.1 amd64
 python-ipy/buster 1:0.83-1 all
 python-ipykernel/buster 4.9.0-1 all
+python-ipyparallel-doc/buster-backports 6.3.0-2~bpo10+1 all
 python-ipython/buster 5.8.0-1 all
 python-ipython-doc/buster 5.8.0-1 all
 python-ipython-genutils/buster 0.2.0-1 all
@@ -47512,6 +47513,7 @@ python3-asttokens/buster 1.1.13-2 all
 python3-async-generator/buster 1.10-1 all
 python3-async-generator-doc/buster 1.10-1 all
 python3-async-timeout/buster 3.0.1-1 all
+python3-asyncpg/buster-backports 0.20.1-1~bpo10+1 amd64
 python3-asyncssh/buster 1.12.2-1 all
 python3-atomicwrites/buster 1.1.5-2 all
 python3-attr/buster 18.2.0-1 all
@@ -48430,6 +48432,7 @@ python3-ipfix/buster 0.9.7-1 all
 python3-iptables/buster 0.13.0-1+b1 amd64
 python3-ipy/buster 1:0.83-1 all
 python3-ipykernel/buster 4.9.0-1 all
+python3-ipyparallel/buster-backports 6.3.0-2~bpo10+1 all
 python3-ipython/buster 5.8.0-1 all
 python3-ipython-genutils/buster 0.2.0-1 all
 python3-ipywidgets/buster 6.0.0-4 all
@@ -49462,8 +49465,8 @@ python3-pyzabbix/buster 0.7.4-1 all
 python3-pyzfs/buster-backports 0.8.4-2~bpo10+1 amd64
 python3-q/buster 2.6-1.1 all
 python3-q-text-as-data/buster 1.7.4+2018.12.21+git+28f776ed46-1 all
-python3-qgis/buster-backports 3.10.10+dfsg-1~bpo10+1 amd64
-python3-qgis-common/buster-backports 3.10.10+dfsg-1~bpo10+1 all
+python3-qgis/buster-backports 3.10.11+dfsg-1~bpo10+1 amd64
+python3-qgis-common/buster-backports 3.10.11+dfsg-1~bpo10+1 all
 python3-qinlingclient/buster 2.0.0-2 all
 python3-qpack/buster 0.0.17-1+b1 amd64
 python3-qpid-proton/buster 0.22.0-3 amd64
@@ -51664,6 +51667,7 @@ redmine/buster-backports 4.0.7-1~bpo10+1 all
 redmine-mysql/buster-backports 4.0.7-1~bpo10+1 all
 redmine-pgsql/buster-backports 4.0.7-1~bpo10+1 all
 redmine-sqlite/buster-backports 4.0.7-1~bpo10+1 all
+rednotebook/buster-backports 2.20+ds-1.1~bpo10+1 all
 redshift/buster 1.12-2 amd64
 redshift-gtk/buster 1.12-2 all
 redsocks/buster 0.5-2 amd64
@@ -53410,6 +53414,7 @@ samtools-test/buster 1.9-4 all
 sandboxgamemaker/buster 2.8.2+dfsg-1+b3 amd64
 sandsifter/buster 1.03-2 amd64
 sane/buster 1.0.14-13+b1 amd64
+sane-airscan/buster-backports 0.99.19-1~bpo10+1 amd64
 sane-utils/buster 1.0.27-3.2 amd64
 sanitizer/buster 1.76-5 all
 sanlock/buster 3.6.0-3 amd64
@@ -58592,7 +58597,7 @@ yudit-doc/buster 2.9.6-8 all
 yui-compressor/buster 2.4.8-2 all
 yum/buster 3.4.3-3 all
 yum-utils/buster 1.1.31-4 all
-yuview/buster-backports 2.7-1~bpo10+1 amd64
+yuview/buster-backports 2.8-1~bpo10+1 amd64
 yydebug/buster 1.1.0-11 all
 z-push/buster 2.4.5-2 all
 z-push-backend-caldav/buster 2.4.5-2 all
