@@ -2833,8 +2833,8 @@ cloog-ppl/xenial 0.16.1-6 amd64
 cloop-utils/xenial 3.14.1.2ubuntu1 amd64
 closure-compiler/xenial 20130227+dfsg1-8 all
 closure-linter/xenial 2.3.19-1 all
-cloud-guest-utils/xenial-updates 0.27-0ubuntu25.1 all
-cloud-image-utils/xenial-updates 0.27-0ubuntu25.1 all
+cloud-guest-utils/xenial-updates 0.27-0ubuntu25.2 all
+cloud-image-utils/xenial-updates 0.27-0ubuntu25.2 all
 cloud-init/xenial-updates 20.3-2-g371b392c-0ubuntu1~16.04.1 all
 cloud-initramfs-copymods/xenial-updates 0.27ubuntu1.6 all
 cloud-initramfs-dyn-netconf/xenial-updates 0.27ubuntu1.6 all
@@ -2843,8 +2843,8 @@ cloud-initramfs-rescuevol/xenial-updates 0.27ubuntu1.6 all
 cloud-initramfs-rooturl/xenial-updates 0.27ubuntu1.6 all
 cloud-initramfs-updateroot/xenial-updates 0.27ubuntu1.6 all
 cloud-sptheme-common/xenial 1.6-1build1 all
-cloud-utils/xenial-updates 0.27-0ubuntu25.1 all
-cloud-utils-euca/xenial-updates 0.27-0ubuntu25.1 all
+cloud-utils/xenial-updates 0.27-0ubuntu25.2 all
+cloud-utils-euca/xenial-updates 0.27-0ubuntu25.2 all
 cloudprint/xenial 0.14-5 all
 cloudprint-service/xenial 0.14-5 all
 clsync/xenial 0.4.1-1 amd64
