@@ -1446,13 +1446,13 @@ bin86/buster 0.16.17-3.3 amd64
 binaryen/buster 68-1 amd64
 binclock/buster 1.5-6+b1 amd64
 bind9/buster 1:9.11.5.P4+dfsg-5.1+deb10u2 amd64
-bind9-dev/buster-backports 1:9.16.6-2~bpo10+1 amd64
-bind9-dnsutils/buster-backports 1:9.16.6-2~bpo10+1 amd64
+bind9-dev/buster-backports 1:9.16.8-1~bpo10+1 amd64
+bind9-dnsutils/buster-backports 1:9.16.8-1~bpo10+1 amd64
 bind9-doc/buster 1:9.11.5.P4+dfsg-5.1+deb10u2 all
 bind9-dyndb-ldap/buster 11.1-5 amd64
 bind9-host/buster 1:9.11.5.P4+dfsg-5.1+deb10u2 amd64
-bind9-libs/buster-backports 1:9.16.6-2~bpo10+1 amd64
-bind9-utils/buster-backports 1:9.16.6-2~bpo10+1 amd64
+bind9-libs/buster-backports 1:9.16.8-1~bpo10+1 amd64
+bind9-utils/buster-backports 1:9.16.8-1~bpo10+1 amd64
 bind9utils/buster 1:9.11.5.P4+dfsg-5.1+deb10u2 amd64
 bindechexascii/buster 0.0+20140524.git7dcd86-4 amd64
 bindfs/buster 1.13.10-1 amd64
@@ -1772,7 +1772,7 @@ boxer/buster 1.3.0-2 all
 boxer-data/buster 10.7.6 all
 boxes/buster 1.3-1 amd64
 boxshade/buster 3.3.1-12 amd64
-bpfcc-introspection/buster-backports 0.16.0-2~bpo10+2 amd64
+bpfcc-introspection/buster-backports 0.17.0-7~bpo10+1 amd64
 bpfcc-lua/buster 0.8.0-4 amd64
 bpfcc-tools/buster 0.8.0-4 all
 bpftool/buster-backports 5.8.10-1~bpo10+1 amd64
