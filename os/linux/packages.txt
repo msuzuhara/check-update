@@ -7341,7 +7341,7 @@ galera-arbitrator-3/buster 25.3.25-2 amd64
 galera-arbitrator-4/buster-backports 26.4.5-1~bpo10+1 amd64
 galileo/buster 0.5.1-6 all
 galileo-daemon/buster 0.5.1-6 all
-gallery-dl/buster-backports 1.15.2-1~bpo10+1 all
+gallery-dl/buster-backports 1.15.3-1~bpo10+1 all
 galleta/buster 1.0+20040505-10 amd64
 galois/buster 0.6-1 amd64
 galternatives/buster 1.0.4 all
