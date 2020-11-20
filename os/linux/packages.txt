@@ -1715,8 +1715,8 @@ fipscheck-devel.i686                       1.4.1-6.el7                   base
 fipscheck-devel.x86_64                     1.4.1-6.el7                   base   
 fipscheck-lib.i686                         1.4.1-6.el7                   base   
 fipscheck-lib.x86_64                       1.4.1-6.el7                   base   
-firefox.i686                               78.4.0-1.el7.centos           updates
-firefox.x86_64                             78.4.0-1.el7.centos           updates
+firefox.i686                               78.4.1-1.el7.centos           updates
+firefox.x86_64                             78.4.1-1.el7.centos           updates
 firewall-applet.noarch                     0.6.3-12.el7                  updates
 firewall-config.noarch                     0.6.3-12.el7                  updates
 firewalld.noarch                           0.6.3-12.el7                  updates
@@ -1895,12 +1895,12 @@ gdk-pixbuf2.x86_64                         2.36.12-3.el7                 base
 gdk-pixbuf2-devel.i686                     2.36.12-3.el7                 base   
 gdk-pixbuf2-devel.x86_64                   2.36.12-3.el7                 base   
 gdk-pixbuf2-tests.x86_64                   2.36.12-3.el7                 base   
-gdm.i686                                   1:3.28.2-25.el7               updates
-gdm.x86_64                                 1:3.28.2-25.el7               updates
-gdm-devel.i686                             1:3.28.2-25.el7               updates
-gdm-devel.x86_64                           1:3.28.2-25.el7               updates
-gdm-pam-extensions-devel.i686              1:3.28.2-25.el7               updates
-gdm-pam-extensions-devel.x86_64            1:3.28.2-25.el7               updates
+gdm.i686                                   1:3.28.2-26.el7               updates
+gdm.x86_64                                 1:3.28.2-26.el7               updates
+gdm-devel.i686                             1:3.28.2-26.el7               updates
+gdm-devel.x86_64                           1:3.28.2-26.el7               updates
+gdm-pam-extensions-devel.i686              1:3.28.2-26.el7               updates
+gdm-pam-extensions-devel.x86_64            1:3.28.2-26.el7               updates
 gedit.i686                                 2:3.28.1-3.el7                base   
 gedit.x86_64                               2:3.28.1-3.el7                base   
 gedit-devel.i686                           2:3.28.1-3.el7                base   
@@ -2185,7 +2185,7 @@ gnome-settings-daemon.i686                 3.28.1-8.el7                  base
 gnome-settings-daemon.x86_64               3.28.1-8.el7                  base   
 gnome-settings-daemon-devel.i686           3.28.1-8.el7                  base   
 gnome-settings-daemon-devel.x86_64         3.28.1-8.el7                  base   
-gnome-shell.x86_64                         3.28.3-30.el7                 base   
+gnome-shell.x86_64                         3.28.3-32.el7                 updates
 gnome-shell-extension-alternate-tab.noarch 3.28.1-14.el7                 base   
 gnome-shell-extension-apps-menu.noarch     3.28.1-14.el7                 base   
 gnome-shell-extension-auto-move-windows.noarch
@@ -6339,7 +6339,7 @@ mgetty.x86_64                              1.1.36-28.el7                 base
 mgetty-sendfax.x86_64                      1.1.36-28.el7                 base   
 mgetty-viewfax.x86_64                      1.1.36-28.el7                 base   
 mgetty-voice.x86_64                        1.1.36-28.el7                 base   
-microcode_ctl.x86_64                       2:2.1-73.el7                  base   
+microcode_ctl.x86_64                       2:2.1-73.2.el7_9              updates
 migrationtools.noarch                      47-15.el7                     base   
 minicom.x86_64                             2.6.2-5.el7                   base   
 minizip.i686                               1.2.7-18.el7                  base   
@@ -6458,10 +6458,10 @@ mtx.x86_64                                 1.3.12-14.el7                 base
 munge-maven-plugin.noarch                  1.0-2.el7                     base   
 munge-maven-plugin-javadoc.noarch          1.0-2.el7                     base   
 mutt.x86_64                                5:1.5.21-29.el7               base   
-mutter.i686                                3.28.3-28.el7                 updates
-mutter.x86_64                              3.28.3-28.el7                 updates
-mutter-devel.i686                          3.28.3-28.el7                 updates
-mutter-devel.x86_64                        3.28.3-28.el7                 updates
+mutter.i686                                3.28.3-30.el7                 updates
+mutter.x86_64                              3.28.3-30.el7                 updates
+mutter-devel.i686                          3.28.3-30.el7                 updates
+mutter-devel.x86_64                        3.28.3-30.el7                 updates
 mvapich2-2.0.i686                          2.0a-9.el7                    base   
 mvapich2-2.0.x86_64                        2.0a-9.el7                    base   
 mvapich2-2.0-devel.i686                    2.0a-9.el7                    base   
