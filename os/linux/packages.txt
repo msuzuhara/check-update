@@ -57178,7 +57178,7 @@ voctomix-outcasts/buster 0.8.0-1 all
 vodovod/buster 1.10-4 amd64
 voikko-fi/buster 2.2-1.1 amd64
 vokoscreen/buster 2.5.0-2 amd64
-vokoscreen-ng/buster-backports 3.0.6-1~bpo10+1 amd64
+vokoscreen-ng/buster-backports 3.0.7-1~bpo10+1 amd64
 volatility/buster 2.6.1-1 all
 volatility-tools/buster 2.6.1-1 all
 volti/buster 0.2.3-7 all
