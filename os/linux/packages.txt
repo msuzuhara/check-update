@@ -43364,7 +43364,7 @@ mustang-plug/focal 1.2-3build1 amd64
 mustang-testdata/focal 3.2.3-3build1 all
 mutextrace/focal 0.1.4-1build1 amd64
 mutrace/focal 0.2.0-3 amd64
-mutt/focal-updates 1.13.2-1ubuntu0.2 amd64
+mutt/focal-updates 1.13.2-1ubuntu0.3 amd64
 mutt-vc-query/focal 004-1 amd64
 muttdown/focal 0.3.4-1 all
 mutter/focal-updates 3.36.6-1ubuntu0.20.04.2 amd64
