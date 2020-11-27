@@ -4816,7 +4816,7 @@ ebview/focal 0.3.6.2-2ubuntu1 amd64
 ec2-ami-tools/focal 1.4.0.9-0ubuntu2 all
 ec2-api-tools/focal 1.6.14.1-0ubuntu1 all
 ec2-hibinit-agent/focal-updates 1.0.0-0ubuntu9.1 all
-ec2-instance-connect/focal 1.1.12+dfsg1-0ubuntu3 all
+ec2-instance-connect/focal-updates 1.1.12+dfsg1-0ubuntu3.20.04.0 all
 ecaccess/focal 4.0.1-1 all
 ecasound/focal 2.9.3-2 amd64
 ecasound-doc/focal 2.9.3-2 all
@@ -9107,7 +9107,7 @@ gir1.2-ido3-0.1/focal 13.10.0+17.04.20161028-0ubuntu2 amd64
 gir1.2-inputpad-1.0/focal 1.0.3-4 amd64
 gir1.2-isocodes-1.2/focal 1.2.2-2 amd64
 gir1.2-itl-1.0/focal 0.3-1 amd64
-gir1.2-javascriptcoregtk-4.0/focal-updates 2.28.4-0ubuntu0.20.04.1 amd64
+gir1.2-javascriptcoregtk-4.0/focal-updates 2.30.3-0ubuntu0.20.04.1 amd64
 gir1.2-jcat-1.0/focal 0.1.0-2 amd64
 gir1.2-json-1.0/focal 1.4.4-2ubuntu2 amd64
 gir1.2-jsonrpc-1.0/focal 3.34.0-1 amd64
@@ -9190,7 +9190,7 @@ gir1.2-urfkill-glib0/focal 0.6.0~20150318.103828.5539c0d.1-0ubuntu6 amd64
 gir1.2-v-sim-1.0/focal 3.7.2-8build1 amd64
 gir1.2-vips-8.0/focal 8.9.1-2 amd64
 gir1.2-vte-2.91/focal-updates 0.60.3-0ubuntu1~20.04 amd64
-gir1.2-webkit2-4.0/focal-updates 2.28.4-0ubuntu0.20.04.1 amd64
+gir1.2-webkit2-4.0/focal-updates 2.30.3-0ubuntu0.20.04.1 amd64
 gir1.2-wnck-1.0/focal 1:2.30.7-5.1ubuntu1 amd64
 gir1.2-wnck-3.0/focal 3.36.0-1 amd64
 gir1.2-xapp-1.0/focal 1.6.10-2 amd64
@@ -26846,9 +26846,9 @@ libjavascript-minifier-perl/focal 1.14-1 all
 libjavascript-minifier-xs-perl/focal 0.11-1build5 amd64
 libjavascript-packer-perl/focal 2.05-1 all
 libjavascript-rpc-perl/focal 0.10-1.3 all
-libjavascriptcoregtk-4.0-18/focal-updates 2.28.4-0ubuntu0.20.04.1 amd64
-libjavascriptcoregtk-4.0-bin/focal-updates 2.28.4-0ubuntu0.20.04.1 amd64
-libjavascriptcoregtk-4.0-dev/focal-updates 2.28.4-0ubuntu0.20.04.1 amd64
+libjavascriptcoregtk-4.0-18/focal-updates 2.30.3-0ubuntu0.20.04.1 amd64
+libjavascriptcoregtk-4.0-bin/focal-updates 2.30.3-0ubuntu0.20.04.1 amd64
+libjavascriptcoregtk-4.0-dev/focal-updates 2.30.3-0ubuntu0.20.04.1 amd64
 libjavassist-java/focal 1:3.26.0-1 all
 libjavassist-java-doc/focal 1:3.26.0-1 all
 libjavatuples-java/focal 1.2-1 all
@@ -38646,10 +38646,10 @@ libwebjars-locator-java/focal 0.32-1 all
 libwebkdc-perl/focal 4.7.0-7build1 all
 libwebkit2-sharp-4.0-cil/focal 2.10.9+git20160917-1.1 amd64
 libwebkit2-sharp-4.0-cil-dev/focal 2.10.9+git20160917-1.1 amd64
-libwebkit2gtk-4.0-37/focal-updates 2.28.4-0ubuntu0.20.04.1 amd64
-libwebkit2gtk-4.0-37-gtk2/focal-updates 2.28.4-0ubuntu0.20.04.1 all
-libwebkit2gtk-4.0-dev/focal-updates 2.28.4-0ubuntu0.20.04.1 amd64
-libwebkit2gtk-4.0-doc/focal-updates 2.28.4-0ubuntu0.20.04.1 all
+libwebkit2gtk-4.0-37/focal-updates 2.30.3-0ubuntu0.20.04.1 amd64
+libwebkit2gtk-4.0-37-gtk2/focal-updates 2.30.3-0ubuntu0.20.04.1 all
+libwebkit2gtk-4.0-dev/focal-updates 2.30.3-0ubuntu0.20.04.1 amd64
+libwebkit2gtk-4.0-doc/focal-updates 2.30.3-0ubuntu0.20.04.1 all
 libwebp-dev/focal 0.6.1-2 amd64
 libwebp6/focal 0.6.1-2 amd64
 libwebpdemux2/focal 0.6.1-2 amd64
@@ -50269,7 +50269,7 @@ python3-distorm3/focal 3.4.1-4 all
 python3-distributed/focal 1.25.0+ds.1-1 all
 python3-distro/focal 1.4.0-1 all
 python3-distro-info/focal 0.23ubuntu1 all
-python3-distupgrade/focal-updates 1:20.04.28 all
+python3-distupgrade/focal-updates 1:20.04.29 all
 python3-distutils/focal-updates 3.8.5-1~20.04.1 all
 python3-distutils-extra/focal 2.43 all
 python3-dj-database-url/focal 0.5.0-2 all
@@ -57204,9 +57204,9 @@ snap-aligner/focal 1.0~beta.18+dfsg-3build1 amd64
 snap-confine/focal-updates 2.47.1+20.04 amd64
 snap-templates/focal 1.0.0.2-3build2 amd64
 snapclient/focal 0.18.1-1build1 amd64
-snapcraft/focal 3.0ubuntu1 all
-snapcraft-examples/focal 3.0ubuntu1 all
-snapcraft-parser/focal 3.0ubuntu1 all
+snapcraft/focal-updates 3.0ubuntu1.1 all
+snapcraft-examples/focal-updates 3.0ubuntu1.1 all
+snapcraft-parser/focal-updates 3.0ubuntu1.1 all
 snapd/focal-updates 2.47.1+20.04 amd64
 snapd-glib-tests/focal 1.57-0ubuntu3 amd64
 snapd-xdg-open/focal-updates 2.47.1+20.04 amd64
@@ -59366,9 +59366,9 @@ ubuntu-packaging-guide-pdf-pt-br/focal 1.0.2 all
 ubuntu-packaging-guide-pdf-ru/focal 1.0.2 all
 ubuntu-packaging-guide-pdf-uk/focal 1.0.2 all
 ubuntu-policy/focal 3.8.2.0ubuntu3 all
-ubuntu-release-upgrader-core/focal-updates 1:20.04.28 all
-ubuntu-release-upgrader-gtk/focal-updates 1:20.04.28 all
-ubuntu-release-upgrader-qt/focal-updates 1:20.04.28 all
+ubuntu-release-upgrader-core/focal-updates 1:20.04.29 all
+ubuntu-release-upgrader-gtk/focal-updates 1:20.04.29 all
+ubuntu-release-upgrader-qt/focal-updates 1:20.04.29 all
 ubuntu-report/focal 1.6.1 amd64
 ubuntu-restricted-addons/focal 26 amd64
 ubuntu-restricted-extras/focal 67 amd64
@@ -60405,7 +60405,7 @@ webhook/focal 2.6.9-1 amd64
 webhttrack/focal 3.49.2-1build1 amd64
 webhttrack-common/focal 3.49.2-1build1 all
 webissues/focal 1.1.5-6build1 amd64
-webkit2gtk-driver/focal-updates 2.28.4-0ubuntu0.20.04.1 amd64
+webkit2gtk-driver/focal-updates 2.30.3-0ubuntu0.20.04.1 amd64
 weblint-perl/focal 2.32+dfsg-1 all
 webmagick/focal 2.02-11 all
 weborf/focal 0.16-1 amd64
@@ -60940,7 +60940,7 @@ xdg-desktop-portal-kde/focal-updates 5.18.5-0ubuntu0.1 amd64
 xdg-desktop-portal-tests/focal 1.6.0-1 amd64
 xdg-user-dirs/focal 0.17-2ubuntu1 amd64
 xdg-user-dirs-gtk/focal 0.10-3 amd64
-xdg-utils/focal 1.1.3-2ubuntu1 all
+xdg-utils/focal-updates 1.1.3-2ubuntu1.20.04.1 all
 xdiagnose/focal 3.8.9 all
 xdiskusage/focal 1.48-10.1build2 amd64
 xdm/focal 1:1.1.11-3ubuntu2 amd64
