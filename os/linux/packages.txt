@@ -49506,7 +49506,7 @@ python3-pyxb-bundles-dc/buster 1.2.6+dfsg-2 all
 python3-pyxb-bundles-saml20/buster 1.2.6+dfsg-2 all
 python3-pyxb-bundles-wssplat/buster 1.2.6+dfsg-2 all
 python3-pyzabbix/buster 0.7.4-1 all
-python3-pyzfs/buster-backports 0.8.4-2~bpo10+1 amd64
+python3-pyzfs/buster-backports 0.8.5-2~bpo10+1 amd64
 python3-q/buster 2.6-1.1 all
 python3-q-text-as-data/buster 1.7.4+2018.12.21+git+28f776ed46-1 all
 python3-qgis/buster-backports 3.10.11+dfsg-1~bpo10+1 amd64
@@ -50300,7 +50300,7 @@ pywps-doc/buster 4.2.1-1 all
 pywps-wsgi/buster 4.2.1-1 all
 pyxplot/buster 0.9.2-8 amd64
 pyxplot-doc/buster 0.9.2-8 all
-pyzfs-doc/buster-backports 0.8.4-2~bpo10+1 all
+pyzfs-doc/buster-backports 0.8.5-2~bpo10+1 all
 pyzo/buster 4.4.3-1.2 all
 pyzo-doc/buster 4.4.3-1.2 all
 pyzor/buster 1:1.0.0-3 all
