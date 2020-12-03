@@ -829,7 +829,7 @@ centos-bookmarks.noarch                    7-1.el7                       base
 centos-indexhtml.noarch                    7-9.el7.centos                base   
 centos-logos.noarch                        70.0.6-3.el7.centos           base   
 centos-packager.noarch                     0.5.5-2.el7.centos            extras 
-centos-release.x86_64                      7-9.2009.0.el7.centos         base   
+centos-release.x86_64                      7-9.2009.1.el7.centos         updates
 centos-release-ansible-27.noarch           1-1.el7                       extras 
 centos-release-ansible-28.noarch           1-1.el7                       extras 
 centos-release-ansible-29.noarch           1-1.el7                       extras 
@@ -1466,7 +1466,7 @@ elfutils-libelf-devel-static.i686          0.176-5.el7                   base
 elfutils-libelf-devel-static.x86_64        0.176-5.el7                   base   
 elfutils-libs.i686                         0.176-5.el7                   base   
 elfutils-libs.x86_64                       0.176-5.el7                   base   
-elinks.x86_64                              0.12-0.37.pre6.el7            base   
+elinks.x86_64                              0.12-0.37.pre6.el7.0.1        updates
 elrepo-release.noarch                      7.0-5.el7.elrepo              extras 
 emacs.x86_64                               1:24.3-23.el7                 base   
 emacs-a2ps.x86_64                          4.14-23.el7                   base   
