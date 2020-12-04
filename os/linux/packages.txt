@@ -64378,9 +64378,9 @@ snap/bionic 2013-11-29-8 amd64
 snap-aligner/bionic 1.0~beta.18+dfsg-2 amd64
 snap-confine/bionic-updates 2.48+18.04 amd64
 snap-templates/bionic 1.0.0.0-4 amd64
-snapcraft/bionic-updates 2.43.1+18.04 all
-snapcraft-examples/bionic-updates 2.43.1+18.04 all
-snapcraft-parser/bionic-updates 2.43.1+18.04 all
+snapcraft/bionic-updates 2.43.1+18.04.1 all
+snapcraft-examples/bionic-updates 2.43.1+18.04.1 all
+snapcraft-parser/bionic-updates 2.43.1+18.04.1 all
 snapd/bionic-updates 2.48+18.04 amd64
 snapd-glib-tests/bionic-updates 1.49-0ubuntu0.18.04.2 amd64
 snapd-xdg-open/bionic-updates 2.48+18.04 amd64
