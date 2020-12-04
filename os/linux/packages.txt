@@ -6876,8 +6876,8 @@ freedink-engine/buster 109.6-1 amd64
 freedm/buster 0.11.3-1 all
 freedom-maker/buster 0.23 all
 freedombox/buster 19.1 all
-freedombox-doc-en/buster-backports 20.18.1~bpo10+1 all
-freedombox-doc-es/buster-backports 20.18.1~bpo10+1 all
+freedombox-doc-en/buster-backports 20.19~bpo10+1 all
+freedombox-doc-es/buster-backports 20.19~bpo10+1 all
 freedombox-setup/buster 0.13.1 all
 freedoom/buster 0.11.3-1 all
 freedroid/buster 1.0.2+cvs040112-6 amd64
@@ -7343,7 +7343,7 @@ galera-arbitrator-3/buster 25.3.25-2 amd64
 galera-arbitrator-4/buster-backports 26.4.5-1~bpo10+1 amd64
 galileo/buster 0.5.1-6 all
 galileo-daemon/buster 0.5.1-6 all
-gallery-dl/buster-backports 1.15.3-1~bpo10+1 all
+gallery-dl/buster-backports 1.15.4-1~bpo10+1 all
 galleta/buster 1.0+20040505-10 amd64
 galois/buster 0.6-1 amd64
 galternatives/buster 1.0.4 all
@@ -26294,7 +26294,7 @@ liblouis-bin/buster 3.8.0-2 amd64
 liblouis-data/buster 3.8.0-2 all
 liblouis-dev/buster 3.8.0-2 amd64
 liblouis17/buster 3.8.0-2 amd64
-liblouis20/buster-backports 3.15.0-1~bpo10+1 amd64
+liblouis20/buster-backports 3.16.0-1~bpo10+1 amd64
 liblouisutdml-bin/buster 2.7.0-5+b1 amd64
 liblouisutdml-data/buster 2.7.0-5 all
 liblouisutdml-dev/buster 2.7.0-5+b1 amd64
@@ -52352,7 +52352,7 @@ ruby-docile/buster 1.1.5-2 all
 ruby-docker-api/buster 1.22.2-1 all
 ruby-domain-name/buster 0.5.20160216-2 all
 ruby-doorkeeper/buster 4.4.2-1 all
-ruby-doorkeeper-openid-connect/buster-backports 1.6.3-2~bpo10+1 all
+ruby-doorkeeper-openid-connect/buster-backports 1.7.4-2~bpo10+1 all
 ruby-dotenv/buster 2.4.0-1 all
 ruby-dry-configurable/buster-backports 0.9.0-2~bpo10+1 all
 ruby-dry-container/buster-backports 0.7.2-2~bpo10+1 all
