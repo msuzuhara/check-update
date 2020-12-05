@@ -10572,6 +10572,7 @@ golang-gosqlite-dev/buster 0.0~hg20130601-1 all
 golang-grpc-gateway/buster 1.6.4-2+b11 amd64
 golang-guestfs-dev/buster 1:1.40.2-2 all
 golang-honnef-go-augeas-dev/buster 0.0~git20161110.0.ca62e35-1 all
+golang-honnef-go-tools-dev/buster-backports 2020.1-4~bpo10+1 all
 golang-layeh-gopher-luar-dev/buster 1.0.4-1 all
 golang-libgeoip-dev/buster 0.0~git20140312.0.c78e8bd-1 all
 golang-logrus-dev/buster 1.3.0-1 all
@@ -15119,10 +15120,18 @@ libblis2/buster 0.5.1-11 amd64
 libblis2-openmp/buster 0.5.1-11 amd64
 libblis2-pthread/buster 0.5.1-11 amd64
 libblis2-serial/buster 0.5.1-11 amd64
+libblis3/buster-backports 0.8.0-1~bpo10+1 amd64
+libblis3-openmp/buster-backports 0.8.0-1~bpo10+1 amd64
+libblis3-pthread/buster-backports 0.8.0-1~bpo10+1 amd64
+libblis3-serial/buster-backports 0.8.0-1~bpo10+1 amd64
 libblis64-2/buster 0.5.1-11 amd64
 libblis64-2-openmp/buster 0.5.1-11 amd64
 libblis64-2-pthread/buster 0.5.1-11 amd64
 libblis64-2-serial/buster 0.5.1-11 amd64
+libblis64-3/buster-backports 0.8.0-1~bpo10+1 amd64
+libblis64-3-openmp/buster-backports 0.8.0-1~bpo10+1 amd64
+libblis64-3-pthread/buster-backports 0.8.0-1~bpo10+1 amd64
+libblis64-3-serial/buster-backports 0.8.0-1~bpo10+1 amd64
 libblis64-dev/buster 0.5.1-11 amd64
 libblis64-openmp-dev/buster 0.5.1-11 amd64
 libblis64-pthread-dev/buster 0.5.1-11 amd64
@@ -33059,6 +33068,8 @@ libsimavr2/buster 1.6+dfsg-1 amd64
 libsimavrparts1/buster 1.6+dfsg-1 amd64
 libsimbody-dev/buster 3.6.1+dfsg-7 amd64
 libsimbody3.6/buster 3.6.1+dfsg-7 amd64
+libsimdjson-dev/buster-backports 0.6.1-2~bpo10+1 amd64
+libsimdjson4/buster-backports 0.6.1-2~bpo10+1 amd64
 libsimgear-dev/buster 1:2018.3.2+dfsg-5 amd64
 libsimgrid-dev/buster 3.21+dfsg-4 amd64
 libsimgrid3.21/buster 3.21+dfsg-4 amd64
@@ -34686,9 +34697,10 @@ libtpm-unseal1/buster 1.3.9.1-0.2 amd64
 libtrace-tools/buster 3.0.21-1+b2 amd64
 libtrace3/buster 3.0.21-1+b2 amd64
 libtrace3-dev/buster 3.0.21-1+b2 amd64
-libtraceevent-dev/buster-backports 5.8.10-1~bpo10+1 amd64
-libtraceevent1/buster-backports 5.8.10-1~bpo10+1 amd64
-libtraceevent1-plugin/buster-backports 5.8.10-1~bpo10+1 amd64
+libtraceevent-dev/buster-backports 1:1.1.0-2~bpo10+1 amd64
+libtraceevent-doc/buster-backports 1:1.1.0-2~bpo10+1 all
+libtraceevent1/buster-backports 1:1.1.0-2~bpo10+1 amd64
+libtraceevent1-plugin/buster-backports 1:1.1.0-2~bpo10+1 amd64
 libtracker-control-2.0-0/buster 2.1.8-2 amd64
 libtracker-control-2.0-dev/buster 2.1.8-2 amd64
 libtracker-control-doc/buster 2.1.8-2 all
@@ -36869,10 +36881,13 @@ linux-image-5.8.0-0.bpo.2-amd64-unsigned/buster-backports 5.8.10-1~bpo10+1 amd64
 linux-image-5.8.0-0.bpo.2-cloud-amd64/buster-backports 5.8.10-1~bpo10+1 amd64
 linux-image-5.8.0-0.bpo.2-cloud-amd64-dbg/buster-backports 5.8.10-1~bpo10+1 amd64
 linux-image-5.8.0-0.bpo.2-cloud-amd64-unsigned/buster-backports 5.8.10-1~bpo10+1 amd64
+linux-image-5.9.0-0.bpo.2-amd64/buster-backports 5.9.6-1~bpo10+1 amd64
 linux-image-5.9.0-0.bpo.2-amd64-dbg/buster-backports 5.9.6-1~bpo10+1 amd64
 linux-image-5.9.0-0.bpo.2-amd64-unsigned/buster-backports 5.9.6-1~bpo10+1 amd64
+linux-image-5.9.0-0.bpo.2-cloud-amd64/buster-backports 5.9.6-1~bpo10+1 amd64
 linux-image-5.9.0-0.bpo.2-cloud-amd64-dbg/buster-backports 5.9.6-1~bpo10+1 amd64
 linux-image-5.9.0-0.bpo.2-cloud-amd64-unsigned/buster-backports 5.9.6-1~bpo10+1 amd64
+linux-image-5.9.0-0.bpo.2-rt-amd64/buster-backports 5.9.6-1~bpo10+1 amd64
 linux-image-5.9.0-0.bpo.2-rt-amd64-dbg/buster-backports 5.9.6-1~bpo10+1 amd64
 linux-image-5.9.0-0.bpo.2-rt-amd64-unsigned/buster-backports 5.9.6-1~bpo10+1 amd64
 linux-image-amd64/buster 4.19+105+deb10u6 amd64
@@ -48019,6 +48034,7 @@ python3-django-postorius/buster 1.2.4-1 all
 python3-django-pyscss/buster 2.0.2-8 all
 python3-django-python3-ldap/buster 0.11.2-1 all
 python3-django-q/buster 1.0.1-1 all
+python3-django-qr-code/buster-backports 2.0.1-1~bpo10+1 all
 python3-django-ranged-response/buster 0.2.0-1 all
 python3-django-recurrence/buster 1.8.2-1 all
 python3-django-redis/buster 4.10.0-1 all
@@ -49684,7 +49700,7 @@ python3-searchlightclient/buster 1.3.0-2 all
 python3-searx/buster 0.15.0+dfsg1-1 all
 python3-seccomp/buster 2.3.3-4 amd64
 python3-secretstorage/buster 2.3.1-2 all
-python3-segno/buster-backports 1.3.1-2~bpo10+1 all
+python3-segno/buster-backports 1.3.1-3~bpo10+1 all
 python3-segyio/buster 1.8.3-1 amd64
 python3-selenium/buster 3.14.1+dfsg1-1 all
 python3-selinux/buster 2.8-1+b1 amd64
@@ -52121,6 +52137,7 @@ ruby-amazon-ec2/buster 0.9.17-3 all
 ruby-ami/buster 2.4.0-1 all
 ruby-amq-protocol/buster 2.3.0-1 all
 ruby-amqp/buster 1.6.0-1 all
+ruby-android-key-attestation/buster-backports 0.3.0-2~bpo10+1 all
 ruby-ansi/buster 1.5.0-1 all
 ruby-apollo-upload-server/buster-backports 2.0.3-1~bpo10+1 all
 ruby-appraisal/buster 0.5.1-2 all
@@ -53083,6 +53100,7 @@ ruby-rubocop-rspec/buster 1.22.2-1 all
 ruby-ruby-engine/buster 1.0.1-2 all
 ruby-ruby-parser/buster-backports 3.11.0-4~bpo10+1 all
 ruby-ruby-version/buster 1.0.1-2 all
+ruby-ruby2-keywords/buster-backports 0.0.2-2~bpo10+1 all
 ruby-ruby2ruby/buster 2.4.1-1 all
 ruby-rubymail/buster 1.1.3-2 all
 ruby-rubymail-doc/buster 1.1.3-2 all
