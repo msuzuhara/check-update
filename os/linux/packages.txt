@@ -1,12 +1,12 @@
 389-ds-base.x86_64                         1.4.3.8-5.module_el8.3.0+473+53682548
                                                                          Stream-AppStream
-389-ds-base-devel.x86_64                   1.4.2.4-10.module_el8.2.0+489+38ed056a
+389-ds-base-devel.x86_64                   1.4.3.8-5.module_el8.3.0+473+53682548
                                                                          AppStream
-389-ds-base-legacy-tools.x86_64            1.4.2.4-10.module_el8.2.0+489+38ed056a
+389-ds-base-legacy-tools.x86_64            1.4.3.8-5.module_el8.3.0+473+53682548
                                                                          AppStream
 389-ds-base-libs.x86_64                    1.4.3.8-5.module_el8.3.0+473+53682548
                                                                          Stream-AppStream
-389-ds-base-snmp.x86_64                    1.4.2.4-10.module_el8.2.0+489+38ed056a
+389-ds-base-snmp.x86_64                    1.4.3.8-5.module_el8.3.0+473+53682548
                                                                          AppStream
 CUnit.i686                                 2.1.3-17.el8                  Stream-AppStream
 CUnit.x86_64                               2.1.3-17.el8                  Stream-AppStream
@@ -529,11 +529,12 @@ celt051.x86_64                             0.5.1.3-15.el8                Stream-
 centos-backgrounds.noarch                  80.5-2.el8                    Stream-AppStream
 centos-gpg-keys.noarch                     1:8-2.el8                     Stream-BaseOS
 centos-indexhtml.noarch                    8.0-0.el8                     Stream-AppStream
+centos-linux-release.noarch                8.3-1.2011.el8                BaseOS 
+centos-linux-repos.noarch                  8-2.el8                       BaseOS 
 centos-logos.x86_64                        80.5-2.el8                    Stream-AppStream
 centos-logos-httpd.noarch                  80.5-2.el8                    Stream-AppStream
 centos-logos-ipa.noarch                    80.5-2.el8                    Stream-AppStream
 centos-obsolete-packages.noarch            8-4                           BaseOS 
-centos-release.x86_64                      8.2-2.2004.0.2.el8            BaseOS 
 centos-release-advanced-virtualization.noarch
                                            1.0-1.el8                     Stream-extras
 centos-release-ansible-29.noarch           1-2.el8                       Stream-extras
@@ -546,23 +547,19 @@ centos-release-gluster8.noarch             1.0-1.el8                     extras
 centos-release-messaging.noarch            1-2.el8                       Stream-extras
 centos-release-nfs-ganesha28.noarch        1.0-3.el8                     Stream-extras
 centos-release-nfs-ganesha30.noarch        1.0-2.el8                     Stream-extras
-centos-release-nfv-common.noarch           1-2.el8                       extras 
-centos-release-nfv-extras.noarch           1-2.el8                       extras 
-centos-release-nfv-openvswitch.noarch      1-2.el8                       extras 
+centos-release-nfv-common.noarch           1-1.el8                       extras 
+centos-release-nfv-openvswitch.noarch      1-1.el8                       extras 
 centos-release-openstack-train.noarch      2-1.el8                       Stream-extras
 centos-release-openstack-ussuri.noarch     1-3.el8                       Stream-extras
-centos-release-openstack-victoria.noarch   1-1.el8                       extras 
 centos-release-opstools.noarch             1-10.el8                      Stream-extras
 centos-release-ovirt44.noarch              1.0-1.el8                     extras 
 centos-release-qpid-proton.noarch          1-2.el8                       Stream-extras
 centos-release-rabbitmq-38.noarch          1-2.el8                       Stream-extras
 centos-release-samba411.noarch             1.0-1.el8                     extras 
 centos-release-samba412.noarch             1.0-1.el8                     extras 
-centos-release-samba413.noarch             1.0-1.el8                     extras 
 centos-release-storage-common.noarch       2-2.el8                       Stream-extras
 centos-release-stream.x86_64               8.1-1.1911.0.7.el8            Stream-extras
 centos-release-virt-common.noarch          1-2.el8                       Stream-extras
-centos-repos.x86_64                        8.2-2.2004.0.2.el8            BaseOS 
 centos-stream-release.noarch               8.4-1.el8                     Stream-BaseOS
 centos-stream-repos.noarch                 8-2.el8                       Stream-BaseOS
 certmonger.x86_64                          0.79.7-15.el8                 Stream-AppStream
@@ -1438,11 +1435,9 @@ git-daemon.x86_64                          2.27.0-1.el8                  Stream-
 git-email.noarch                           2.27.0-1.el8                  Stream-AppStream
 git-gui.noarch                             2.27.0-1.el8                  Stream-AppStream
 git-instaweb.noarch                        2.27.0-1.el8                  Stream-AppStream
-git-instaweb.x86_64                        2.18.4-2.el8_2                AppStream
 git-lfs.x86_64                             2.11.0-2.el8                  Stream-AppStream
 git-subtree.x86_64                         2.27.0-1.el8                  Stream-AppStream
 git-svn.noarch                             2.27.0-1.el8                  Stream-AppStream
-git-svn.x86_64                             2.18.4-2.el8_2                AppStream
 gitk.noarch                                2.27.0-1.el8                  Stream-AppStream
 gitweb.noarch                              2.27.0-1.el8                  Stream-AppStream
 gjs.i686                                   1.56.2-5.el8                  Stream-AppStream
@@ -1780,7 +1775,6 @@ gnome-shell-extension-windowsNavigator.noarch
 gnome-shell-extension-workspace-indicator.noarch
                                            3.32.1-11.el8                 Stream-AppStream
 gnome-software.x86_64                      3.36.1-4.el8                  Stream-AppStream
-gnome-software-editor.x86_64               3.30.6-3.el8                  AppStream
 gnome-system-monitor.x86_64                3.28.2-1.el8                  Stream-AppStream
 gnome-terminal.x86_64                      3.28.3-2.el8                  Stream-AppStream
 gnome-terminal-nautilus.x86_64             3.28.3-2.el8                  Stream-AppStream
@@ -2476,8 +2470,6 @@ ipa-healthcheck.noarch                     0.4-6.module_el8.3.0+482+9e103aab
                                                                          Stream-AppStream
 ipa-healthcheck-core.noarch                0.4-6.module_el8.3.0+482+9e103aab
                                                                          Stream-AppStream
-ipa-idoverride-memberof-plugin.x86_64      0.0.4-6.module_el8.2.0+374+0d2d74a1
-                                                                         AppStream
 ipa-python-compat.noarch                   4.8.7-12.module_el8.3.0+514+e7703106
                                                                          Stream-AppStream
 ipa-selinux.noarch                         4.8.7-12.module_el8.3.0+514+e7703106
@@ -2589,8 +2581,11 @@ java-1.8.0-openjdk-accessibility.x86_64    1:1.8.0.272.b10-4.el8         Stream-
 java-1.8.0-openjdk-demo.x86_64             1:1.8.0.272.b10-4.el8         Stream-AppStream
 java-1.8.0-openjdk-devel.x86_64            1:1.8.0.272.b10-4.el8         Stream-AppStream
 java-1.8.0-openjdk-headless.x86_64         1:1.8.0.272.b10-4.el8         Stream-AppStream
+java-1.8.0-openjdk-headless-slowdebug.x86_64
+                                           1:1.8.0.272.b10-3.el8_3       AppStream
 java-1.8.0-openjdk-javadoc.noarch          1:1.8.0.272.b10-4.el8         Stream-AppStream
 java-1.8.0-openjdk-javadoc-zip.noarch      1:1.8.0.272.b10-4.el8         Stream-AppStream
+java-1.8.0-openjdk-slowdebug.x86_64        1:1.8.0.272.b10-3.el8_3       AppStream
 java-1.8.0-openjdk-src.x86_64              1:1.8.0.272.b10-4.el8         Stream-AppStream
 java-11-openjdk.x86_64                     1:11.0.9.11-3.el8             Stream-AppStream
 java-11-openjdk-demo.x86_64                1:11.0.9.11-3.el8             Stream-AppStream
@@ -2819,7 +2814,6 @@ langpacks-zh_CN.noarch                     1.0-12.el8                    Stream-
 langpacks-zh_TW.noarch                     1.0-12.el8                    Stream-AppStream
 langpacks-zu.noarch                        1.0-12.el8                    Stream-AppStream
 langtable.noarch                           0.0.51-4.el8                  Stream-AppStream
-langtable-data.noarch                      0.0.38-5.el8                  AppStream
 lapack.i686                                3.8.0-8.el8                   Stream-AppStream
 lapack.x86_64                              3.8.0-8.el8                   Stream-AppStream
 lapack64.x86_64                            3.8.0-8.el8                   Stream-AppStream
@@ -3676,7 +3670,6 @@ libreoffice-emailmerge.x86_64              1:6.4.7.2-3.el8               Stream-
 libreoffice-filters.x86_64                 1:6.4.7.2-3.el8               Stream-AppStream
 libreoffice-gdb-debug-support.x86_64       1:6.4.7.2-3.el8               Stream-AppStream
 libreoffice-graphicfilter.x86_64           1:6.4.7.2-3.el8               Stream-AppStream
-libreoffice-gtk2.x86_64                    1:6.0.6.1-20.el8              AppStream
 libreoffice-gtk3.x86_64                    1:6.4.7.2-3.el8               Stream-AppStream
 libreoffice-help-ar.x86_64                 1:6.4.7.2-3.el8               Stream-AppStream
 libreoffice-help-bg.x86_64                 1:6.4.7.2-3.el8               Stream-AppStream
@@ -4657,16 +4650,6 @@ nbdkit-gzip-plugin.x86_64                  1.16.2-4.module_el8.4.0+547+a85d02ba
                                                                          Stream-AppStream
 nbdkit-linuxdisk-plugin.x86_64             1.16.2-4.module_el8.4.0+547+a85d02ba
                                                                          Stream-AppStream
-nbdkit-plugin-gzip.x86_64                  1.4.2-5.module_el8.2.0+320+13f867d7
-                                                                         AppStream
-nbdkit-plugin-python-common.x86_64         1.4.2-5.module_el8.2.0+320+13f867d7
-                                                                         AppStream
-nbdkit-plugin-python3.x86_64               1.4.2-5.module_el8.2.0+320+13f867d7
-                                                                         AppStream
-nbdkit-plugin-vddk.x86_64                  1.4.2-5.module_el8.2.0+320+13f867d7
-                                                                         AppStream
-nbdkit-plugin-xz.x86_64                    1.4.2-5.module_el8.2.0+320+13f867d7
-                                                                         AppStream
 nbdkit-python-plugin.x86_64                1.16.2-4.module_el8.4.0+547+a85d02ba
                                                                          Stream-AppStream
 nbdkit-server.x86_64                       1.16.2-4.module_el8.4.0+547+a85d02ba
@@ -5032,7 +5015,7 @@ pcp-libs.i686                              5.2.1-2.el8                   Stream-
 pcp-libs.x86_64                            5.2.1-2.el8                   Stream-AppStream
 pcp-libs-devel.i686                        5.2.1-2.el8                   Stream-AppStream
 pcp-libs-devel.x86_64                      5.2.1-2.el8                   Stream-AppStream
-pcp-manager.x86_64                         5.0.2-5.el8                   AppStream
+pcp-manager.x86_64                         5.1.1-3.el8                   AppStream
 pcp-parfait-agent.noarch                   0.5.4-2.module_el8.2.0+312+c24e3294
                                                                          Stream-AppStream
 pcp-pmda-activemq.x86_64                   5.2.1-2.el8                   Stream-AppStream
@@ -7100,7 +7083,6 @@ sssd.x86_64                                2.3.0-9.el8                   Stream-
 sssd-ad.x86_64                             2.3.0-9.el8                   Stream-BaseOS
 sssd-client.i686                           2.3.0-9.el8                   Stream-BaseOS
 sssd-client.x86_64                         2.3.0-9.el8                   Stream-BaseOS
-sssd-common.i686                           2.2.3-20.el8                  BaseOS 
 sssd-common.x86_64                         2.3.0-9.el8                   Stream-BaseOS
 sssd-common-pac.x86_64                     2.3.0-9.el8                   Stream-BaseOS
 sssd-dbus.x86_64                           2.3.0-9.el8                   Stream-BaseOS
@@ -7575,7 +7557,6 @@ tigervnc-icons.noarch                      1.11.0-1.el8                  Stream-
 tigervnc-license.noarch                    1.11.0-1.el8                  Stream-AppStream
 tigervnc-selinux.noarch                    1.11.0-1.el8                  Stream-AppStream
 tigervnc-server.x86_64                     1.11.0-1.el8                  Stream-AppStream
-tigervnc-server-applet.noarch              1.9.0-15.el8_1                AppStream
 tigervnc-server-minimal.x86_64             1.11.0-1.el8                  Stream-AppStream
 tigervnc-server-module.x86_64              1.11.0-1.el8                  Stream-AppStream
 time.x86_64                                1.9-3.el8                     Stream-BaseOS
@@ -7799,8 +7780,6 @@ webkit2gtk3-jsc.i686                       2.30.2-2.el8                  Stream-
 webkit2gtk3-jsc.x86_64                     2.30.2-2.el8                  Stream-AppStream
 webkit2gtk3-jsc-devel.i686                 2.30.2-2.el8                  Stream-AppStream
 webkit2gtk3-jsc-devel.x86_64               2.30.2-2.el8                  Stream-AppStream
-webkit2gtk3-plugin-process-gtk2.i686       2.24.4-2.el8_1                AppStream
-webkit2gtk3-plugin-process-gtk2.x86_64     2.24.4-2.el8_1                AppStream
 webrtc-audio-processing.i686               0.3-9.el8                     Stream-AppStream
 webrtc-audio-processing.x86_64             0.3-9.el8                     Stream-AppStream
 wget.x86_64                                1.19.5-10.el8                 Stream-AppStream
