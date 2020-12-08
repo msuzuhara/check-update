@@ -1715,8 +1715,8 @@ fipscheck-devel.i686                       1.4.1-6.el7                   base
 fipscheck-devel.x86_64                     1.4.1-6.el7                   base   
 fipscheck-lib.i686                         1.4.1-6.el7                   base   
 fipscheck-lib.x86_64                       1.4.1-6.el7                   base   
-firefox.i686                               78.4.1-1.el7.centos           updates
-firefox.x86_64                             78.4.1-1.el7.centos           updates
+firefox.i686                               78.5.0-1.el7.centos           updates
+firefox.x86_64                             78.5.0-1.el7.centos           updates
 firewall-applet.noarch                     0.6.3-12.el7                  updates
 firewall-config.noarch                     0.6.3-12.el7                  updates
 firewalld.noarch                           0.6.3-12.el7                  updates
@@ -9820,7 +9820,7 @@ thai-scalable-tlwgtypo-fonts.noarch        0.5.0-7.el7                   base
 thai-scalable-umpush-fonts.noarch          0.5.0-7.el7                   base   
 thai-scalable-waree-fonts.noarch           0.5.0-7.el7                   base   
 theora-tools.x86_64                        1:1.1.1-8.el7                 base   
-thunderbird.x86_64                         78.4.0-1.el7.centos           updates
+thunderbird.x86_64                         78.5.0-1.el7.centos           updates
 tibetan-machine-uni-fonts.noarch           1.901-12.el7                  base   
 tigervnc.x86_64                            1.8.0-22.el7                  updates
 tigervnc-icons.noarch                      1.8.0-22.el7                  updates
