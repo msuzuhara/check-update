@@ -15041,7 +15041,7 @@ ldapvi/focal 1.7-10build3 amd64
 ldb-tools/focal-updates 2:2.0.10-0ubuntu0.20.04.2 amd64
 ldc/focal 1:1.20.1-1 amd64
 ldh-gui-suite/focal 0.1~20190927-5 all
-ldirectord/focal 1:4.5.0-2ubuntu2 all
+ldirectord/focal-updates 1:4.5.0-2ubuntu2.1 all
 ldm/focal-updates 2:2.18.06-1+deb10u1build0.20.04.1 amd64
 ldm-edubuntu-theme/focal 2:2.0.47 all
 ldm-kubuntu-theme/focal 2:2.0.47 all
@@ -40019,6 +40019,7 @@ linux-buildinfo-5.6.0-1032-oem/focal-updates 5.6.0-1032.33 amd64
 linux-buildinfo-5.6.0-1033-oem/focal-updates 5.6.0-1033.35 amd64
 linux-buildinfo-5.6.0-1034-oem/focal-updates 5.6.0-1034.36 amd64
 linux-buildinfo-5.6.0-1035-oem/focal-updates 5.6.0-1035.37 amd64
+linux-buildinfo-5.6.0-1036-oem/focal-updates 5.6.0-1036.39 amd64
 linux-buildinfo-5.8.0-23-generic/focal-updates 5.8.0-23.24~20.04.1 amd64
 linux-buildinfo-5.8.0-23-lowlatency/focal-updates 5.8.0-23.24~20.04.1 amd64
 linux-buildinfo-5.8.0-25-generic/focal-updates 5.8.0-25.26~20.04.1 amd64
@@ -40279,6 +40280,7 @@ linux-headers-5.6.0-1032-oem/focal-updates 5.6.0-1032.33 amd64
 linux-headers-5.6.0-1033-oem/focal-updates 5.6.0-1033.35 amd64
 linux-headers-5.6.0-1034-oem/focal-updates 5.6.0-1034.36 amd64
 linux-headers-5.6.0-1035-oem/focal-updates 5.6.0-1035.37 amd64
+linux-headers-5.6.0-1036-oem/focal-updates 5.6.0-1036.39 amd64
 linux-headers-5.8.0-23-generic/focal-updates 5.8.0-23.24~20.04.1 amd64
 linux-headers-5.8.0-23-lowlatency/focal-updates 5.8.0-23.24~20.04.1 amd64
 linux-headers-5.8.0-25-generic/focal-updates 5.8.0-25.26~20.04.1 amd64
@@ -40305,7 +40307,7 @@ linux-headers-lowlatency-hwe-18.04-edge/focal-updates 5.4.0.56.59 amd64
 linux-headers-lowlatency-hwe-20.04/focal-updates 5.4.0.56.59 amd64
 linux-headers-lowlatency-hwe-20.04-edge/focal-updates 5.8.0.31.33~20.04.18 amd64
 linux-headers-oem/focal-updates 5.4.0.56.59 amd64
-linux-headers-oem-20.04/focal-updates 5.6.0.1035.31 amd64
+linux-headers-oem-20.04/focal-updates 5.6.0.1036.33 amd64
 linux-headers-oem-osp1/focal-updates 5.4.0.56.59 amd64
 linux-headers-oracle/focal-updates 5.4.0.1030.27 amd64
 linux-headers-virtual/focal-updates 5.4.0.56.59 amd64
@@ -40442,6 +40444,7 @@ linux-image-5.6.0-1032-oem/focal-updates 5.6.0-1032.33 amd64
 linux-image-5.6.0-1033-oem/focal-updates 5.6.0-1033.35 amd64
 linux-image-5.6.0-1034-oem/focal-updates 5.6.0-1034.36 amd64
 linux-image-5.6.0-1035-oem/focal-updates 5.6.0-1035.37 amd64
+linux-image-5.6.0-1036-oem/focal-updates 5.6.0-1036.39 amd64
 linux-image-5.8.0-23-generic/focal-updates 5.8.0-23.24~20.04.1 amd64
 linux-image-5.8.0-23-lowlatency/focal-updates 5.8.0-23.24~20.04.1 amd64
 linux-image-5.8.0-25-generic/focal-updates 5.8.0-25.26~20.04.1 amd64
@@ -40473,7 +40476,7 @@ linux-image-lowlatency-hwe-18.04-edge/focal-updates 5.4.0.56.59 amd64
 linux-image-lowlatency-hwe-20.04/focal-updates 5.4.0.56.59 amd64
 linux-image-lowlatency-hwe-20.04-edge/focal-updates 5.8.0.31.33~20.04.18 amd64
 linux-image-oem/focal-updates 5.4.0.56.59 amd64
-linux-image-oem-20.04/focal-updates 5.6.0.1035.31 amd64
+linux-image-oem-20.04/focal-updates 5.6.0.1036.33 amd64
 linux-image-oem-osp1/focal-updates 5.4.0.56.59 amd64
 linux-image-oracle/focal-updates 5.4.0.1030.27 amd64
 linux-image-unsigned-5.4.0-1009-gcp/focal 5.4.0-1009.9 amd64
@@ -40570,6 +40573,7 @@ linux-image-unsigned-5.6.0-1032-oem/focal-updates 5.6.0-1032.33 amd64
 linux-image-unsigned-5.6.0-1033-oem/focal-updates 5.6.0-1033.35 amd64
 linux-image-unsigned-5.6.0-1034-oem/focal-updates 5.6.0-1034.36 amd64
 linux-image-unsigned-5.6.0-1035-oem/focal-updates 5.6.0-1035.37 amd64
+linux-image-unsigned-5.6.0-1036-oem/focal-updates 5.6.0-1036.39 amd64
 linux-image-unsigned-5.8.0-23-generic/focal-updates 5.8.0-23.24~20.04.1 amd64
 linux-image-unsigned-5.8.0-23-lowlatency/focal-updates 5.8.0-23.24~20.04.1 amd64
 linux-image-unsigned-5.8.0-25-generic/focal-updates 5.8.0-25.26~20.04.1 amd64
@@ -40750,6 +40754,7 @@ linux-modules-5.6.0-1032-oem/focal-updates 5.6.0-1032.33 amd64
 linux-modules-5.6.0-1033-oem/focal-updates 5.6.0-1033.35 amd64
 linux-modules-5.6.0-1034-oem/focal-updates 5.6.0-1034.36 amd64
 linux-modules-5.6.0-1035-oem/focal-updates 5.6.0-1035.37 amd64
+linux-modules-5.6.0-1036-oem/focal-updates 5.6.0-1036.39 amd64
 linux-modules-5.8.0-23-generic/focal-updates 5.8.0-23.24~20.04.1 amd64
 linux-modules-5.8.0-23-lowlatency/focal-updates 5.8.0-23.24~20.04.1 amd64
 linux-modules-5.8.0-25-generic/focal-updates 5.8.0-25.26~20.04.1 amd64
@@ -41207,6 +41212,7 @@ linux-modules-nvidia-450-5.6.0-1032-oem/focal-updates 5.6.0-1032.33 amd64
 linux-modules-nvidia-450-5.6.0-1033-oem/focal-updates 5.6.0-1033.35 amd64
 linux-modules-nvidia-450-5.6.0-1034-oem/focal-updates 5.6.0-1034.36 amd64
 linux-modules-nvidia-450-5.6.0-1035-oem/focal-updates 5.6.0-1035.37 amd64
+linux-modules-nvidia-450-5.6.0-1036-oem/focal-updates 5.6.0-1036.39 amd64
 linux-modules-nvidia-450-5.8.0-23-generic/focal-updates 5.8.0-23.24~20.04.1 amd64
 linux-modules-nvidia-450-5.8.0-23-lowlatency/focal-updates 5.8.0-23.24~20.04.1 amd64
 linux-modules-nvidia-450-5.8.0-25-generic/focal-updates 5.8.0-25.26~20.04.1 amd64
@@ -41226,7 +41232,7 @@ linux-modules-nvidia-450-generic-hwe-20.04-edge/focal-updates 5.8.0-31.33~20.04.
 linux-modules-nvidia-450-lowlatency/focal-updates 5.4.0-56.62 amd64
 linux-modules-nvidia-450-lowlatency-hwe-20.04/focal-updates 5.4.0-56.62 amd64
 linux-modules-nvidia-450-lowlatency-hwe-20.04-edge/focal-updates 5.8.0-31.33~20.04.1 amd64
-linux-modules-nvidia-450-oem-20.04/focal-updates 5.6.0-1035.37 amd64
+linux-modules-nvidia-450-oem-20.04/focal-updates 5.6.0-1036.39 amd64
 linux-modules-nvidia-450-oracle/focal-updates 5.4.0-1030.32 amd64
 linux-modules-nvidia-450-server-5.4.0-48-generic/focal-updates 5.4.0-48.52 amd64
 linux-modules-nvidia-450-server-5.4.0-48-lowlatency/focal-updates 5.4.0-48.52 amd64
@@ -41266,6 +41272,7 @@ linux-modules-nvidia-455-5.4.0-56-generic/focal-updates 5.4.0-56.62 amd64
 linux-modules-nvidia-455-5.4.0-56-lowlatency/focal-updates 5.4.0-56.62 amd64
 linux-modules-nvidia-455-5.6.0-1034-oem/focal-updates 5.6.0-1034.36 amd64
 linux-modules-nvidia-455-5.6.0-1035-oem/focal-updates 5.6.0-1035.37 amd64
+linux-modules-nvidia-455-5.6.0-1036-oem/focal-updates 5.6.0-1036.39 amd64
 linux-modules-nvidia-455-5.8.0-29-generic/focal-updates 5.8.0-29.31~20.04.1 amd64
 linux-modules-nvidia-455-5.8.0-29-lowlatency/focal-updates 5.8.0-29.31~20.04.1 amd64
 linux-modules-nvidia-455-5.8.0-31-generic/focal-updates 5.8.0-31.33~20.04.1 amd64
@@ -41279,10 +41286,10 @@ linux-modules-nvidia-455-generic-hwe-20.04-edge/focal-updates 5.8.0-31.33~20.04.
 linux-modules-nvidia-455-lowlatency/focal-updates 5.4.0-56.62 amd64
 linux-modules-nvidia-455-lowlatency-hwe-20.04/focal-updates 5.4.0-56.62 amd64
 linux-modules-nvidia-455-lowlatency-hwe-20.04-edge/focal-updates 5.8.0-31.33~20.04.1 amd64
-linux-modules-nvidia-455-oem-20.04/focal-updates 5.6.0-1035.37 amd64
+linux-modules-nvidia-455-oem-20.04/focal-updates 5.6.0-1036.39 amd64
 linux-modules-nvidia-455-oracle/focal-updates 5.4.0-1030.32 amd64
 linux-oem/focal-updates 5.4.0.56.59 amd64
-linux-oem-20.04/focal-updates 5.6.0.1035.31 amd64
+linux-oem-20.04/focal-updates 5.6.0.1036.33 amd64
 linux-oem-5.6-headers-5.6.0-1007/focal 5.6.0-1007.7 all
 linux-oem-5.6-headers-5.6.0-1008/focal-updates 5.6.0-1008.8 all
 linux-oem-5.6-headers-5.6.0-1010/focal-updates 5.6.0-1010.10 all
@@ -41301,6 +41308,7 @@ linux-oem-5.6-headers-5.6.0-1032/focal-updates 5.6.0-1032.33 all
 linux-oem-5.6-headers-5.6.0-1033/focal-updates 5.6.0-1033.35 all
 linux-oem-5.6-headers-5.6.0-1034/focal-updates 5.6.0-1034.36 all
 linux-oem-5.6-headers-5.6.0-1035/focal-updates 5.6.0-1035.37 all
+linux-oem-5.6-headers-5.6.0-1036/focal-updates 5.6.0-1036.39 all
 linux-oem-5.6-tools-5.6.0-1007/focal 5.6.0-1007.7 amd64
 linux-oem-5.6-tools-5.6.0-1008/focal-updates 5.6.0-1008.8 amd64
 linux-oem-5.6-tools-5.6.0-1010/focal-updates 5.6.0-1010.10 amd64
@@ -41319,8 +41327,9 @@ linux-oem-5.6-tools-5.6.0-1032/focal-updates 5.6.0-1032.33 amd64
 linux-oem-5.6-tools-5.6.0-1033/focal-updates 5.6.0-1033.35 amd64
 linux-oem-5.6-tools-5.6.0-1034/focal-updates 5.6.0-1034.36 amd64
 linux-oem-5.6-tools-5.6.0-1035/focal-updates 5.6.0-1035.37 amd64
+linux-oem-5.6-tools-5.6.0-1036/focal-updates 5.6.0-1036.39 amd64
 linux-oem-5.6-tools-common/focal-updates 5.6.0-1017.17 all
-linux-oem-5.6-tools-host/focal-updates 5.6.0-1035.37 all
+linux-oem-5.6-tools-host/focal-updates 5.6.0-1036.39 all
 linux-oem-osp1/focal-updates 5.4.0.56.59 amd64
 linux-oem-osp1-tools-host/focal-updates 5.4.0.56.59 amd64
 linux-oem-tools-host/focal-updates 5.4.0.56.59 amd64
@@ -41490,6 +41499,7 @@ linux-tools-5.6.0-1032-oem/focal-updates 5.6.0-1032.33 amd64
 linux-tools-5.6.0-1033-oem/focal-updates 5.6.0-1033.35 amd64
 linux-tools-5.6.0-1034-oem/focal-updates 5.6.0-1034.36 amd64
 linux-tools-5.6.0-1035-oem/focal-updates 5.6.0-1035.37 amd64
+linux-tools-5.6.0-1036-oem/focal-updates 5.6.0-1036.39 amd64
 linux-tools-5.8.0-23-generic/focal-updates 5.8.0-23.24~20.04.1 amd64
 linux-tools-5.8.0-23-lowlatency/focal-updates 5.8.0-23.24~20.04.1 amd64
 linux-tools-5.8.0-25-generic/focal-updates 5.8.0-25.26~20.04.1 amd64
@@ -41518,7 +41528,7 @@ linux-tools-lowlatency-hwe-18.04-edge/focal-updates 5.4.0.56.59 amd64
 linux-tools-lowlatency-hwe-20.04/focal-updates 5.4.0.56.59 amd64
 linux-tools-lowlatency-hwe-20.04-edge/focal-updates 5.8.0.31.33~20.04.18 amd64
 linux-tools-oem/focal-updates 5.4.0.56.59 amd64
-linux-tools-oem-20.04/focal-updates 5.6.0.1035.31 amd64
+linux-tools-oem-20.04/focal-updates 5.6.0.1036.33 amd64
 linux-tools-oem-osp1/focal-updates 5.4.0.56.59 amd64
 linux-tools-oracle/focal-updates 5.4.0.1030.27 amd64
 linux-tools-virtual/focal-updates 5.4.0.56.59 amd64
@@ -46062,6 +46072,9 @@ oem-stella.cmit-meowth-meta/focal-updates 20.04~ubuntu1 all
 oem-stella.cmit-pinsir-meta/focal-updates 20.04~ubuntu1 all
 oem-stella.cmit-rhyhorn-meta/focal-updates 20.04~ubuntu1 all
 oem-stella.cmit-staryu-meta/focal-updates 20.04~ubuntu1 all
+oem-sutton.bachman-baker-meta/focal-updates 20.04~ubuntu1 all
+oem-sutton.bachman-baldhere-meta/focal-updates 20.04~ubuntu1 all
+oem-sutton.bachman-bale-meta/focal-updates 20.04~ubuntu1 all
 oem-sutton.bachman-banaing-meta/focal-updates 20.04~ubuntu1 all
 oem-sutton.bachman-banner-meta/focal-updates 20.04~ubuntu1 all
 oem-sutton.newell-ace-meta/focal-updates 20.04~ubuntu1 all
@@ -54849,7 +54862,7 @@ residualvm/focal 0.3.1+dfsg-2build1 amd64
 residualvm-data/focal 0.3.1+dfsg-2build1 all
 resolvconf/focal 1.82 all
 resolvconf-admin/focal 0.3-1 amd64
-resource-agents/focal 1:4.5.0-2ubuntu2 amd64
+resource-agents/focal-updates 1:4.5.0-2ubuntu2.1 amd64
 resource-agents-paf/focal 2.3~rc2-1 all
 restartd/focal 0.2.3-1build1 amd64
 restic/focal 0.9.6+ds-2 amd64
