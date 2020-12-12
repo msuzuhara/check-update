@@ -39814,8 +39814,8 @@ node-d3-transition/buster 1.1.0-2 all
 node-d3-voronoi/buster 1.1.2-2 all
 node-d3-zoom/buster 1.6.0-2 all
 node-daemon/buster 1.1.0-1 all
-node-dagre-d3-renderer/buster-backports 0.5.8+dfsg-2~bpo10+1 all
-node-dagre-layout/buster-backports 0.8.8-5~bpo10+1 all
+node-dagre-d3-renderer/buster-backports 0.6.4+dfsg-1~bpo10+1 all
+node-dagre-layout/buster-backports 0.8.8+really0.8.5+dfsg-1~bpo10+1 all
 node-dargs/buster 6.0.0-1 all
 node-dashdash/buster 1.14.1-2 all
 node-databank/buster 0.19.1-1 all
