@@ -37870,7 +37870,7 @@ matlab-gdf/buster 0.1.2-2.1 all
 matlab-support/buster 0.0.21 all
 matlab-support-dev/buster 0.0.21 all
 matlab2tikz/buster 1.1.0-6 all
-matrix-synapse/buster-backports 1.23.0-1~bpo10+1 all
+matrix-synapse/buster-backports 1.24.0-1~bpo10+1 all
 matrix-synapse-ldap3/buster 0.1.3-4 all
 matroxset/buster 0.4-9+b1 amd64
 maude/buster 2.7-2+b2 amd64
