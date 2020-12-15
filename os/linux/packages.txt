@@ -6446,6 +6446,7 @@ fonts-kalapi/buster 1.0-3 all
 fonts-kanjistrokeorders/buster 4.002~dfsg-1 all
 fonts-karla/buster 20160111-1 all
 fonts-karmilla/buster 016+git20181118-2 all
+fonts-katex/buster-backports 0.10.2+dfsg-4~bpo10+1 all
 fonts-kaushanscript/buster 1.02-2 all
 fonts-khmeros/buster 5.0-7 all
 fonts-kiloji/buster 1:2.1.0-23 all
@@ -9289,6 +9290,7 @@ go-bindata/buster 3.0.7+git20151023.72.a0ff256-3+b11 amd64
 go-cve-dictionary/buster 0.3.1-1+b20 amd64
 go-dep/buster 0.5.1+really0.5.0-1 amd64
 go-exploitdb/buster 0.0~git20181130.7c961e7-1+b21 amd64
+go-internal/buster-backports 1.6.2-1~bpo10+1 amd64
 go-md2man/buster 1.0.8+ds-1+b10 amd64
 go-mtpfs/buster 0.0~git20180209.d6f8f3c-1 amd64
 go-org/buster-backports 1.3.2-1~bpo10+1 amd64
@@ -9542,6 +9544,7 @@ golang-github-alecthomas-assert-dev/buster 0.0~git20170929.405dbfe-1 all
 golang-github-alecthomas-chroma-dev/buster 0.6.3+really0.6.2-1 all
 golang-github-alecthomas-colour-dev/buster 0.0~git20160524.60882d9-1 all
 golang-github-alecthomas-kong-dev/buster 0.1.15-1 all
+golang-github-alecthomas-kong-hcl-dev/buster-backports 0.2.0-2~bpo10+1 all
 golang-github-alecthomas-repr-dev/buster 0.0~git20181024.d37bc2a-2 all
 golang-github-alecthomas-units-dev/buster 0.0~git20151022.0.2efee85-4 all
 golang-github-aleksi-pointer-dev/buster 1.0.0+git20180620.11deede-1 all
@@ -9584,7 +9587,9 @@ golang-github-beorn7-perks-dev/buster 0.0~git20160804.0.4c0e845-1 all
 golang-github-bep-debounce-dev/buster 1.2.0+really1.1.0-1 all
 golang-github-bep-gitmap-dev/buster 1.0.0-1 all
 golang-github-bep-go-tocss-dev/buster 0.6.0-1 all
+golang-github-bep-golibsass-dev/buster-backports 0.7.0-1~bpo10+1 all
 golang-github-bep-inflect-dev/buster 0.0~git20160408.0.b896c45-2 all
+golang-github-bep-tmc-dev/buster-backports 0.5.1-2~bpo10+1 all
 golang-github-bgentry-go-netrc-dev/buster 0.0~git20140422.0.9fd32a8-1 all
 golang-github-bgentry-speakeasy-dev/buster 0.1.0-1 all
 golang-github-biogo-hts-dev/buster 1.0.1+dfsg1-2 all
@@ -9665,6 +9670,7 @@ golang-github-coreos-pkg-dev/buster 3-1 all
 golang-github-couchbase-ghistogram-dev/buster 0.0.0+git20170308.21.d910dd0-5 all
 golang-github-couchbase-moss-dev/buster 0.0~git20170914.0.07c86e8-4 all
 golang-github-cpuguy83-go-md2man-dev/buster 1.0.8+ds-1 all
+golang-github-cpuguy83-go-md2man-v2-dev/buster-backports 2.0.0+ds-5~bpo10+1 all
 golang-github-ctdk-chefcrypto-dev/buster 0.2.0-1 all
 golang-github-ctdk-go-trie-dev/buster 0.0~git20161027.0.6443fbc-1 all
 golang-github-ctdk-goiardi-dev/buster 0.11.9-3 all
@@ -10168,6 +10174,7 @@ golang-github-ngaut-log-dev/buster 0.0~git20170307.0.d2af3a6-4 all
 golang-github-ngaut-pools-dev/buster 0.0~git20141008.0.6352e00-4 all
 golang-github-ngaut-sync2-dev/buster 0.0~git20141008.0.7a24ed7-6 all
 golang-github-nicksnyder-go-i18n-dev/buster 1.10.0-2 all
+golang-github-nicksnyder-go-i18n.v2-dev/buster-backports 2.1.1-2~bpo10+1 all
 golang-github-nightlyone-lockfile-dev/buster 0.0~git20170804.6a197d5-1 all
 golang-github-niklasfasching-go-org-dev/buster-backports 1.3.2-1~bpo10+1 all
 golang-github-nkovacs-streamquote-dev/buster-backports 1.0.0-2~bpo10+1 all
@@ -10266,6 +10273,7 @@ golang-github-robfig-config-dev/buster 0.0~git20141208-4 all
 golang-github-robfig-cron-dev/buster 1+git20160914.40.783cfcb-2 all
 golang-github-robfig-pathtree-dev/buster 0.0~git20140121-3 all
 golang-github-rogpeppe-fastuuid-dev/buster 0.0~git20150106.0.6724a57-2 all
+golang-github-rogpeppe-go-internal-dev/buster-backports 1.6.2-1~bpo10+1 all
 golang-github-rs-xid-dev/buster 1.1-4 all
 golang-github-rsc-letsencrypt-dev/buster 0.0~git20160929.0.76104d2-4 all
 golang-github-rubenv-sql-migrate-dev/buster-backports 0.0~git20191213.0633851-2~bpo10+1 all
@@ -10459,6 +10467,7 @@ golang-github-yosssi-ace-dev/buster 0.0.5-3 all
 golang-github-yosssi-ace-proxy-dev/buster 0.0~git20141007.0.ecd9b78-5 all
 golang-github-yosssi-gohtml-dev/buster 0.0~git20180130.97fbf36-1 all
 golang-github-yuin-goldmark-dev/buster-backports 1.2.1-1~bpo10+1 all
+golang-github-yuin-goldmark-highlighting-dev/buster-backports 0.0~git20200218.d1af22c-1~bpo10+1 all
 golang-github-yuin-gopher-lua-dev/buster 0.0~git20170915.0.eb1c729-3 all
 golang-github-zenazn-goji-dev/buster 1.0+git20170812.c05078c-4 all
 golang-github-ziutek-mymysql-dev/buster-backports 1.5.4+git20170206.23.0582bcf-2~bpo10+1 all
@@ -12838,6 +12847,7 @@ kate/buster 4:18.08.0-1 amd64
 kate-data/buster 4:4.14.3-5 all
 kate5-data/buster 4:18.08.0-1 all
 katepart/buster 4:4.14.3-5 amd64
+katex/buster-backports 0.10.2+dfsg-4~bpo10+1 all
 katomic/buster 4:18.04.1-1 amd64
 kawari8/buster 8.2.8-8+b2 amd64
 kazam/buster 1.4.5-2.1 all
@@ -13998,6 +14008,7 @@ libaccess-modifier-checker-java/buster 1.16-1 all
 libaccessodf-java/buster 0.1.1~b-1 all
 libaccessors-perl/buster 1.01-2 all
 libaccinj64-10.2/buster-backports 10.2.89-5~bpo10+1 amd64
+libaccinj64-11.1/buster-backports 11.1.1-3~bpo10+1 amd64
 libaccinj64-9.2/buster 9.2.148-7 amd64
 libaccounts-glib-dev/buster 1.23-1 amd64
 libaccounts-glib-doc/buster 1.23-1 all
@@ -14464,6 +14475,7 @@ libapacheds-i18n-java/buster 2.0.0~M24-3 all
 libapacheds-java/buster 2.0.0~M24-3 all
 libapacheds-kerberos-codec-java/buster 2.0.0~M24-3 all
 libapertium3-3.5-1/buster 3.5.2-1 amd64
+libapk-parser-java/buster-backports 2.6.10+ds-3~bpo10+1 all
 libapksig-java/buster 0.8-2 all
 libapophenia2/buster 1.0+ds-7+b13 amd64
 libapophenia2-dev/buster 1.0+ds-7+b13 amd64
@@ -15064,6 +15076,7 @@ libbiblio-thesaurus-perl/buster 0.43-2 all
 libbibutils-dev/buster 6.2-1 amd64
 libbibutils6/buster 6.2-1 amd64
 libbidi-clojure/buster 2.1.2-2 all
+libbigdoc-java/buster-backports 0.3.0-2~bpo10+1 all
 libbin-prot-ocaml/buster 113.33.03-4 amd64
 libbin-prot-ocaml-dev/buster 113.33.03-4 amd64
 libbind-config-parser-perl/buster 0.01-1 all
@@ -16978,20 +16991,24 @@ libctypes-ocaml/buster 0.7.0-1+b1 amd64
 libctypes-ocaml-dev/buster 0.7.0-1+b1 amd64
 libcub-dev/buster-backports 1.9.10-1-1~bpo10+1 all
 libcublas10/buster-backports 10.2.89-5~bpo10+1 amd64
+libcublas11/buster-backports 11.1.1-3~bpo10+1 amd64
 libcublas9.2/buster 9.2.148-7 amd64
 libcublaslt10/buster-backports 10.2.89-5~bpo10+1 amd64
+libcublaslt11/buster-backports 11.1.1-3~bpo10+1 amd64
 libcuda1/buster 418.152.00-1 amd64
 libcudart10.2/buster-backports 10.2.89-5~bpo10+1 amd64
+libcudart11.0/buster-backports 11.1.1-3~bpo10+1 amd64
 libcudart9.2/buster 9.2.148-7 amd64
 libcudf-dev/buster 0.7-3+b2 amd64
 libcudf-ocaml-dev/buster 0.7-3+b2 amd64
 libcue-dev/buster 2.2.1-2 amd64
 libcue2/buster 2.2.1-2 amd64
-libcufft10/buster-backports 10.2.89-5~bpo10+1 amd64
+libcufft10/buster-backports 11.1.1-3~bpo10+1 amd64
 libcufft9.2/buster 9.2.148-7 amd64
-libcufftw10/buster-backports 10.2.89-5~bpo10+1 amd64
+libcufftw10/buster-backports 11.1.1-3~bpo10+1 amd64
 libcufftw9.2/buster 9.2.148-7 amd64
 libcuinj64-10.2/buster-backports 10.2.89-5~bpo10+1 amd64
+libcuinj64-11.1/buster-backports 11.1.1-3~bpo10+1 amd64
 libcuinj64-9.2/buster 9.2.148-7 amd64
 libcuneiform-dev/buster 1.1.0+dfsg-7 amd64
 libcuneiform0/buster 1.1.0+dfsg-7 amd64
@@ -17015,8 +17032,9 @@ libcupt4-doc/buster 2.10.3 all
 libcupti-dev/buster 9.2.148-7 amd64
 libcupti-doc/buster 9.2.148-7 all
 libcupti10.2/buster-backports 10.2.89-5~bpo10+1 amd64
+libcupti11.1/buster-backports 11.1.1-3~bpo10+1 amd64
 libcupti9.2/buster 9.2.148-7 amd64
-libcurand10/buster-backports 10.2.89-5~bpo10+1 amd64
+libcurand10/buster-backports 11.1.1-3~bpo10+1 amd64
 libcurand9.2/buster 9.2.148-7 amd64
 libcurator-client-java/buster 2.7.1-2 all
 libcurator-discovery-java/buster 2.7.1-2 all
@@ -17041,9 +17059,12 @@ libcurses-ui-perl/buster 0.9609-1 all
 libcurses-widgets-perl/buster 1.997-7 all
 libcurvesapi-java/buster 1.05-1 all
 libcusolver10/buster-backports 10.2.89-5~bpo10+1 amd64
+libcusolver11/buster-backports 11.1.1-3~bpo10+1 amd64
 libcusolver9.2/buster 9.2.148-7 amd64
 libcusolvermg10/buster-backports 10.2.89-5~bpo10+1 amd64
+libcusolvermg11/buster-backports 11.1.1-3~bpo10+1 amd64
 libcusparse10/buster-backports 10.2.89-5~bpo10+1 amd64
+libcusparse11/buster-backports 11.1.1-3~bpo10+1 amd64
 libcusparse9.2/buster 9.2.148-7 amd64
 libcutl-1.10/buster 1.10.0+ds1-3+b1 amd64
 libcutl-dev/buster 1.10.0+ds1-3+b1 amd64
@@ -18784,6 +18805,7 @@ libfinance-qif-perl/buster 3.02-1 all
 libfinance-quote-perl/buster 1.47-1 all
 libfinance-quotehist-perl/buster 1.27-1 all
 libfinance-streamer-perl/buster 1.10-3 all
+libfinbin-java/buster-backports 0.6.2-3~bpo10+1 all
 libfind-lib-perl/buster 1.04-1 all
 libfindbin-libs-perl/buster 2.190.02-1 all
 libfindbugs-annotations-java/buster 3.1.0~preview2-3 all
@@ -24393,6 +24415,7 @@ libjansi-native-java/buster 1.8-1 all
 libjansson-dev/buster 2.12-1 amd64
 libjansson-doc/buster 2.12-1 all
 libjansson4/buster 2.12-1 amd64
+libjarchivelib-java/buster-backports 1.1.0-1~bpo10+1 all
 libjargs-java/buster 1.0.0-4 all
 libjargs-java-doc/buster 1.0.0-4 all
 libjarjar-java/buster 1.4+svn142-10 all
@@ -24455,6 +24478,7 @@ libjaxws-java/buster 2.3.0.2-1 all
 libjaylink-dev/buster 0.1.0-1 amd64
 libjaylink0/buster 0.1.0-1 amd64
 libjazzy-java/buster 0.5.2-1 all
+libjbbp-java/buster-backports 2.0.2-3~bpo10+1 all
 libjbcrypt-java/buster 0.4-2 all
 libjbig-dev/buster 2.1-3.1+b2 amd64
 libjbig0/buster 2.1-3.1+b2 amd64
@@ -24912,6 +24936,7 @@ libjs-jssip-bundle/buster 0.6.34-5 all
 libjs-jstimezonedetect/buster 1.0.6-2 all
 libjs-jstorage/buster 0.3.1-1 all
 libjs-jsxc/buster 3.0.0+dfsg3-2 all
+libjs-katex/buster-backports 0.10.2+dfsg-4~bpo10+1 all
 libjs-knowl/buster 0~20160130-1 all
 libjs-languages4translatewiki/buster 0.1.3-1 all
 libjs-leaflet/buster 1.4.0~dfsg-5 all
@@ -24948,6 +24973,7 @@ libjs-n3/buster 1.0.4-1 all
 libjs-node-forge/buster 0.8.1~dfsg-1 all
 libjs-objectpath/buster 1.2.1-2 all
 libjs-openlayers/buster 2.13.1+ds2-6 all
+libjs-pdf/buster-backports 2.6.347+dfsg-3~bpo10+1 all
 libjs-perfect-scrollbar/buster 1.4.0-2 all
 libjs-pie/buster 1.0.0+dfsg-2 all
 libjs-pie-doc/buster 1.0.0+dfsg-2 all
@@ -26463,6 +26489,8 @@ liblz-dev/buster 1.11-3 amd64
 liblz1/buster 1.11-3 amd64
 liblz4-1/buster 1.8.3-1 amd64
 liblz4-dev/buster 1.8.3-1 amd64
+liblz4-java/buster-backports 1.5.1-2~bpo10+1 all
+liblz4-jni/buster-backports 1.5.1-2~bpo10+1 amd64
 liblz4-tool/buster 1.8.3-1 all
 liblzf-dev/buster-backports 3.6-2~bpo10+1 amd64
 liblzf1/buster-backports 3.6-2~bpo10+1 amd64
@@ -28340,28 +28368,39 @@ libnova-dev-bin/buster 0.16-4 amd64
 libnozzle-dev/buster 1.8-2 amd64
 libnozzle1/buster 1.8-2 amd64
 libnppc10/buster-backports 10.2.89-5~bpo10+1 amd64
+libnppc11/buster-backports 11.1.1-3~bpo10+1 amd64
 libnppc9.2/buster 9.2.148-7 amd64
 libnppial10/buster-backports 10.2.89-5~bpo10+1 amd64
+libnppial11/buster-backports 11.1.1-3~bpo10+1 amd64
 libnppial9.2/buster 9.2.148-7 amd64
 libnppicc10/buster-backports 10.2.89-5~bpo10+1 amd64
+libnppicc11/buster-backports 11.1.1-3~bpo10+1 amd64
 libnppicc9.2/buster 9.2.148-7 amd64
 libnppicom10/buster-backports 10.2.89-5~bpo10+1 amd64
 libnppicom9.2/buster 9.2.148-7 amd64
 libnppidei10/buster-backports 10.2.89-5~bpo10+1 amd64
+libnppidei11/buster-backports 11.1.1-3~bpo10+1 amd64
 libnppidei9.2/buster 9.2.148-7 amd64
 libnppif10/buster-backports 10.2.89-5~bpo10+1 amd64
+libnppif11/buster-backports 11.1.1-3~bpo10+1 amd64
 libnppif9.2/buster 9.2.148-7 amd64
 libnppig10/buster-backports 10.2.89-5~bpo10+1 amd64
+libnppig11/buster-backports 11.1.1-3~bpo10+1 amd64
 libnppig9.2/buster 9.2.148-7 amd64
 libnppim10/buster-backports 10.2.89-5~bpo10+1 amd64
+libnppim11/buster-backports 11.1.1-3~bpo10+1 amd64
 libnppim9.2/buster 9.2.148-7 amd64
 libnppist10/buster-backports 10.2.89-5~bpo10+1 amd64
+libnppist11/buster-backports 11.1.1-3~bpo10+1 amd64
 libnppist9.2/buster 9.2.148-7 amd64
 libnppisu10/buster-backports 10.2.89-5~bpo10+1 amd64
+libnppisu11/buster-backports 11.1.1-3~bpo10+1 amd64
 libnppisu9.2/buster 9.2.148-7 amd64
 libnppitc10/buster-backports 10.2.89-5~bpo10+1 amd64
+libnppitc11/buster-backports 11.1.1-3~bpo10+1 amd64
 libnppitc9.2/buster 9.2.148-7 amd64
 libnpps10/buster-backports 10.2.89-5~bpo10+1 amd64
+libnpps11/buster-backports 11.1.1-3~bpo10+1 amd64
 libnpps9.2/buster 9.2.148-7 amd64
 libnproc-ocaml-dev/buster 0.5.1-2+b4 amd64
 libnpth-mingw-w64-dev/buster 1.6-1 all
@@ -28446,6 +28485,7 @@ libnusoap-php/buster 0.9.5-3 all
 libnutclient-dev/buster 2.7.4-8 amd64
 libnutclient0/buster 2.7.4-8 amd64
 libnvblas10/buster-backports 10.2.89-5~bpo10+1 amd64
+libnvblas11/buster-backports 11.1.1-3~bpo10+1 amd64
 libnvblas9.2/buster 9.2.148-7 amd64
 libnvcuvid1/buster 418.152.00-1 amd64
 libnvgraph10/buster-backports 10.2.89-5~bpo10+1 amd64
@@ -28485,7 +28525,7 @@ libnvidia-legacy-390xx-ifr1/buster 390.138-1~deb10u1 amd64
 libnvidia-legacy-390xx-ml1/buster 390.138-1~deb10u1 amd64
 libnvidia-legacy-390xx-nvcuvid1/buster 390.138-1~deb10u1 amd64
 libnvidia-legacy-390xx-ptxjitcompiler1/buster 390.138-1~deb10u1 amd64
-libnvidia-ml-dev/buster-backports 10.2.89-5~bpo10+1 amd64
+libnvidia-ml-dev/buster-backports 11.1.1-3~bpo10+1 amd64
 libnvidia-ml1/buster 418.152.00-1 amd64
 libnvidia-ngx1/buster-backports 450.80.02-1~bpo10+1 amd64
 libnvidia-opticalflow1/buster 418.152.00-1 amd64
@@ -28527,9 +28567,11 @@ libnvidia-tesla-450-opticalflow1/buster-backports 450.51.06-2~bpo10+1 amd64
 libnvidia-tesla-450-ptxjitcompiler1/buster-backports 450.51.06-2~bpo10+1 amd64
 libnvidia-tesla-450-rtcore/buster-backports 450.51.06-2~bpo10+1 amd64
 libnvjpeg10/buster-backports 10.2.89-5~bpo10+1 amd64
+libnvjpeg11/buster-backports 11.1.1-3~bpo10+1 amd64
 libnvoptix1/buster 418.152.00-1 amd64
 libnvpair1linux/buster 0.7.12-2+deb10u2 amd64
 libnvrtc10.2/buster-backports 10.2.89-5~bpo10+1 amd64
+libnvrtc11.1/buster-backports 11.1.1-3~bpo10+1 amd64
 libnvrtc9.2/buster 9.2.148-7 amd64
 libnvtoolsext1/buster 9.2.148-7 amd64
 libnvtt-bin/buster 2.0.8-1+dfsg-8.1+b3 amd64
@@ -30284,6 +30326,7 @@ libproxool-java/buster 0.9.1-10 all
 libproxy-cil-dev/buster 0.4.15-5+deb10u1 all
 libproxy-dev/buster 0.4.15-5+deb10u1 amd64
 libproxy-tools/buster 0.4.15-5+deb10u1 amd64
+libproxy-vole-java/buster-backports 1.0.3-3~bpo10+1 all
 libproxy0.4-cil/buster 0.4.15-5+deb10u1 all
 libproxy1-plugin-gsettings/buster 0.4.15-5+deb10u1 amd64
 libproxy1-plugin-kconfig/buster 0.4.15-5+deb10u1 amd64
@@ -33102,6 +33145,8 @@ libsimgrid3.21/buster 3.21+dfsg-4 amd64
 libsimple-http-java/buster 4.1.21-1 all
 libsimple-http-java-doc/buster 4.1.21-1 all
 libsimple-validation-java/buster 0.9-2 all
+libsimple-xml-java/buster-backports 2.7.1-3~bpo10+1 all
+libsimple-xml-java-doc/buster-backports 2.7.1-3~bpo10+1 all
 libsimpleini-dev/buster 4.17+dfsg-5+b1 amd64
 libsimpleini1/buster 4.17+dfsg-5+b1 amd64
 libsimpleitk1-dev/buster 1.0.1-3 amd64
@@ -34956,6 +35001,7 @@ libu2f-host0/buster 1.1.9-1 amd64
 libu2f-server-dev/buster 1.1.0-2 amd64
 libu2f-server0/buster 1.1.0-2 amd64
 libu2f-udev/buster 1.1.9-1 all
+libuber-pom-java/buster-backports 1.0.3-2~bpo10+1 all
 libubertooth-dev/buster 2018.12.R1-2 amd64
 libubertooth1/buster 2018.12.R1-2 amd64
 libubsan0/buster 7.4.0-6 amd64
@@ -36609,6 +36655,7 @@ libzia/buster 4.09-1 amd64
 libzia-dev/buster 4.09-1 amd64
 libzim-dev/buster 4.0.4-5 amd64
 libzim4/buster 4.0.4-5 amd64
+libzim6/buster-backports 6.3.0-2~bpo10+1 amd64
 libzinnia-dev/buster 0.06-4 amd64
 libzinnia-doc/buster 0.06-4 all
 libzinnia0/buster 0.06-4 amd64
@@ -36802,6 +36849,7 @@ lilypond/buster 2.19.81+really-2.18.2-13+deb10u1 amd64
 lilypond-data/buster 2.19.81+really-2.18.2-13+deb10u1 all
 lilypond-doc/buster 2.19.81+really-2.18.2-13+deb10u1 all
 lilypond-doc-html/buster 2.19.81+really-2.18.2-13+deb10u1 all
+lilypond-doc-html-ca/buster-backports 2.20.0-4~bpo10+1 all
 lilypond-doc-html-cs/buster 2.19.81+really-2.18.2-13+deb10u1 all
 lilypond-doc-html-de/buster 2.19.81+really-2.18.2-13+deb10u1 all
 lilypond-doc-html-es/buster 2.19.81+really-2.18.2-13+deb10u1 all
@@ -36810,14 +36858,17 @@ lilypond-doc-html-hu/buster 2.19.81+really-2.18.2-13+deb10u1 all
 lilypond-doc-html-it/buster 2.19.81+really-2.18.2-13+deb10u1 all
 lilypond-doc-html-ja/buster 2.19.81+really-2.18.2-13+deb10u1 all
 lilypond-doc-html-nl/buster 2.19.81+really-2.18.2-13+deb10u1 all
+lilypond-doc-html-pt/buster-backports 2.20.0-4~bpo10+1 all
 lilypond-doc-html-zh/buster 2.19.81+really-2.18.2-13+deb10u1 all
 lilypond-doc-pdf/buster 2.19.81+really-2.18.2-13+deb10u1 all
+lilypond-doc-pdf-ca/buster-backports 2.20.0-4~bpo10+1 all
 lilypond-doc-pdf-de/buster 2.19.81+really-2.18.2-13+deb10u1 all
 lilypond-doc-pdf-es/buster 2.19.81+really-2.18.2-13+deb10u1 all
 lilypond-doc-pdf-fr/buster 2.19.81+really-2.18.2-13+deb10u1 all
 lilypond-doc-pdf-hu/buster 2.19.81+really-2.18.2-13+deb10u1 all
 lilypond-doc-pdf-it/buster 2.19.81+really-2.18.2-13+deb10u1 all
 lilypond-doc-pdf-nl/buster 2.19.81+really-2.18.2-13+deb10u1 all
+lilypond-fonts/buster-backports 2.20.0-4~bpo10+1 all
 lilyterm/buster 0.9.9.4+git20150208.f600c0-5 amd64
 lime-forensics-dkms/buster 1.8.1-1 all
 limereg/buster 1.4.1-4+b1 amd64
@@ -38057,6 +38108,8 @@ mediainfo-gui/buster 18.12-2 amd64
 mediathekview/buster 13.2.1-3 all
 mediawiki/buster 1:1.31.10-1~deb10u1 all
 mediawiki-classes/buster 1:1.31.10-1~deb10u1 all
+mediawiki-extension-youtube/buster-backports 1.9.3~git20200711.0f87a53-3~bpo10+1 all
+mediawiki-skin-greystuff/buster-backports 1.0.8~git20200711.479faf1-3~bpo10+1 all
 mediawiki2latex/buster 7.33-1 amd64
 mediawiki2latexguipyqt/buster 1.5-1 all
 medit/buster 1.2.0-3 amd64
@@ -39457,6 +39510,7 @@ node-amdefine/buster 1.0.1-1 all
 node-ansi/buster 0.3.0-3 all
 node-ansi-align/buster 2.0.0-1 all
 node-ansi-color-table/buster 1.0.0-1 all
+node-ansi-colors/buster-backports 4.1.1-2~bpo10+1 all
 node-ansi-escapes/buster 3.0.0-1 all
 node-ansi-font/buster 0.0.2-1 all
 node-ansi-regex/buster 3.0.0-1 all
@@ -40218,6 +40272,7 @@ node-leaflet-hash/buster 0.2.1-2 all
 node-leaflet-image/buster 0.4.0~dfsg-1 all
 node-leaflet.markercluster/buster 1.4.1~dfsg-3 all
 node-less/buster 1.6.3~dfsg-3 all
+node-less-loader/buster-backports 5.0.1-2~bpo10+1 all
 node-leveldown/buster 1.5.0+dfsg-3+b1 amd64
 node-leven/buster 2.1.0-2 all
 node-levn/buster 0.3.0+dfsg-1 all
@@ -40275,6 +40330,7 @@ node-meow/buster 3.7.0-1 all
 node-merge/buster 1.2.0-2 all
 node-merge-descriptors/buster 1.0.1-2 all
 node-merge-stream/buster 1.0.1-2 all
+node-mermaid/buster-backports 8.7.0+ds+~cs27.17.17-2~bpo10+1 all
 node-mess/buster 0.1.2-1 all
 node-methods/buster 1.1.0-1 all
 node-mgrs/buster 0.0.3-3 all
@@ -40285,6 +40341,7 @@ node-mime/buster 2.4.0-1 all
 node-mime-types/buster 2.1.21-1 all
 node-mimic-fn/buster 1.1.0-1 all
 node-mimic-response/buster 1.0.0-1 all
+node-mini-css-extract-plugin/buster-backports 1.3.1-2~bpo10+1 all
 node-minimalistic-crypto-utils/buster 1.0.1-2 all
 node-minimatch/buster 3.0.4-3 all
 node-minimist/buster 1.2.0-1+deb10u1 all
@@ -40945,10 +41002,10 @@ nsd/buster 4.1.26-1 amd64
 nsf/buster 2.2.0-1 amd64
 nsf-dev/buster 2.2.0-1 amd64
 nsf-shells/buster 2.2.0-1 all
-nsight-compute/buster-backports 10.2.89-5~bpo10+1 amd64
-nsight-compute-target/buster-backports 10.2.89-5~bpo10+1 amd64
-nsight-systems/buster-backports 10.2.89-5~bpo10+1 amd64
-nsight-systems-target/buster-backports 10.2.89-5~bpo10+1 amd64
+nsight-compute/buster-backports 11.1.1-3~bpo10+1 amd64
+nsight-compute-target/buster-backports 11.1.1-3~bpo10+1 amd64
+nsight-systems/buster-backports 11.1.1-3~bpo10+1 amd64
+nsight-systems-target/buster-backports 11.1.1-3~bpo10+1 amd64
 nsis/buster 3.04-1 amd64
 nsis-common/buster 3.04-1 all
 nsis-doc/buster 3.04-1 all
@@ -41034,8 +41091,8 @@ nvidia-cuda-doc/buster 9.2.148-7 all
 nvidia-cuda-gdb/buster 9.2.148-7 amd64
 nvidia-cuda-mps/buster 418.152.00-1 amd64
 nvidia-cuda-toolkit/buster 9.2.148-7 amd64
-nvidia-cuda-toolkit-doc/buster-backports 10.2.89-5~bpo10+1 all
-nvidia-cuda-toolkit-gcc/buster-backports 10.2.89-5~bpo10+1 amd64
+nvidia-cuda-toolkit-doc/buster-backports 11.1.1-3~bpo10+1 all
+nvidia-cuda-toolkit-gcc/buster-backports 11.1.1-3~bpo10+1 amd64
 nvidia-detect/buster 418.152.00-1 amd64
 nvidia-driver/buster 418.152.00-1 amd64
 nvidia-driver-bin/buster 418.152.00-1 amd64
@@ -42228,6 +42285,7 @@ pdd/buster 1.3.1-1 all
 pdepend/buster 2.5.2-1 all
 pdf-presenter-console/buster 4.3.2-1 amd64
 pdf-redact-tools/buster 0.1.2-1 all
+pdf.js-common/buster-backports 2.6.347+dfsg-3~bpo10+1 all
 pdf2djvu/buster 0.9.12-1+b1 amd64
 pdf2svg/buster 0.2.3-1 amd64
 pdfarranger/buster 1.1.1-1 all
@@ -42660,8 +42718,8 @@ php-mail/buster 1.3.0-1 all
 php-mail-mime/buster 1.10.2-0.1 all
 php-mailparse/buster 3.0.3~dev20181093+2.1.7~dev20160128-1 amd64
 php-mapi/buster 8.7.0-3 amd64
-php-mapscript/buster-backports 7.6.1-1~bpo10+1 amd64
-php-mapscript-ng/buster-backports 7.6.1-1~bpo10+1 amd64
+php-mapscript/buster-backports 7.6.2-1~bpo10+1 amd64
+php-mapscript-ng/buster-backports 7.6.2-1~bpo10+1 amd64
 php-mariadb-mysql-kbs/buster-backports 1.2.11-1~bpo10+1 all
 php-markdown/buster 1.8.0-1 all
 php-masterminds-html5/buster-backports 2.7.4+dfsg-1~bpo10+1 all
@@ -42683,6 +42741,7 @@ php-net-ftp/buster 1:1.4.0-2 all
 php-net-idna2/buster 0.1.1-1 all
 php-net-imap/buster 1:1.1.3-2 all
 php-net-ipv6/buster 1.3.0b4-1 all
+php-net-ldap2/buster-backports 2.2.0-4~bpo10+1 all
 php-net-nntp/buster 1.5.0-2 all
 php-net-publicsuffix/buster 0.2-1 all
 php-net-sieve/buster 1.4.1-1 all
@@ -48765,7 +48824,7 @@ python3-mapbox-vector-tile/buster 0.5.0+ds-6 all
 python3-mapi/buster 8.7.0-3 amd64
 python3-mapnik/buster 1:0.0~20180723-588fc9062-2 amd64
 python3-mapproxy/buster 1.11.0-3+deb10u1 all
-python3-mapscript/buster-backports 7.6.1-1~bpo10+1 amd64
+python3-mapscript/buster-backports 7.6.2-1~bpo10+1 amd64
 python3-marathon/buster 0.9.0-2 all
 python3-marisa/buster 0.2.5-2+b1 amd64
 python3-markdown/buster 3.0.1-3 all
@@ -48949,6 +49008,7 @@ python3-nosexcover/buster 1.0.11-1.1 all
 python3-notebook/buster 5.7.8-1 all
 python3-notify2/buster 0.3-3 all
 python3-notmuch/buster 0.28.4-1 all
+python3-notmuch2/buster-backports 0.31.2-3~bpo10+2 amd64
 python3-nototools/buster-backports 0.2.0-1.1~bpo10+1 all
 python3-nova/buster 2:18.1.0-6 all
 python3-novaclient/buster 2:11.0.0-2 all
@@ -56145,7 +56205,7 @@ tor-arm/buster 2.1.0-2 all
 tor-geoipdb/buster 0.3.5.12-1 all
 tora/buster 2.1.3-4 amd64
 tora-dbg/buster 2.1.3-4 amd64
-torbrowser-launcher/buster-backports 0.3.2-14~bpo10+1 amd64
+torbrowser-launcher/buster-backports 0.3.3-3~bpo10+1 amd64
 torch-core-free/buster 20171127 amd64
 torch-trepl/buster 0~20170619-ge5e17e3-7 all
 torcs/buster 1.3.7+dfsg-4 amd64
