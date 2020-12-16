@@ -151,6 +151,7 @@ anaconda-user-help.noarch                  1:8.3.3-1.el8.centos          AppStre
 anaconda-widgets.i686                      33.16.3.26-2.el8.centos       AppStream
 anaconda-widgets.x86_64                    33.16.3.26-2.el8.centos       AppStream
 annobin.x86_64                             9.23-1.el8                    AppStream
+annobin-annocheck.x86_64                   9.23-1.el8                    AppStream
 ansible-freeipa.noarch                     0.1.12-6.el8                  AppStream
 ant.noarch                                 1.10.5-1.module_el8.0.0+47+197dca37
                                                                          AppStream
@@ -202,10 +203,12 @@ aspell.x86_64                              12:0.60.6.1-21.el8            AppStre
 aspell-en.x86_64                           50:2017.08.24-2.el8           AppStream
 aspnetcore-runtime-3.0.x86_64              3.0.3-1.el8_1                 AppStream
 aspnetcore-runtime-3.1.x86_64              3.1.10-1.el8_3                AppStream
-aspnetcore-runtime-5.0.x86_64              5.0.0-0.6.preview8.el8        AppStream
+aspnetcore-runtime-5.0.x86_64              5.0.0-0.8.0201202git337413b.el8_3
+                                                                         AppStream
 aspnetcore-targeting-pack-3.0.x86_64       3.0.3-1.el8_1                 AppStream
 aspnetcore-targeting-pack-3.1.x86_64       3.1.10-1.el8_3                AppStream
-aspnetcore-targeting-pack-5.0.x86_64       5.0.0-0.6.preview8.el8        AppStream
+aspnetcore-targeting-pack-5.0.x86_64       5.0.0-0.8.0201202git337413b.el8_3
+                                                                         AppStream
 at.x86_64                                  3.1.20-11.el8                 BaseOS 
 at-spi2-atk.i686                           2.26.2-1.el8                  AppStream
 at-spi2-atk.x86_64                         2.26.2-1.el8                  AppStream
@@ -714,7 +717,7 @@ crontabs.noarch                            1.11-16.20150630git.el8       BaseOS
 crun.x86_64                                0.14.1-2.module_el8.3.0+475+c50ce30b
                                                                          AppStream
 crypto-policies.noarch                     20200713-1.git51d1222.el8     BaseOS 
-crypto-policies-scripts.noarch             20200713-1.git51d1222.el8     AppStream
+crypto-policies-scripts.noarch             20200713-1.git51d1222.el8     BaseOS 
 cryptsetup.x86_64                          2.3.3-2.el8                   BaseOS 
 cryptsetup-devel.i686                      2.3.3-2.el8                   AppStream
 cryptsetup-devel.x86_64                    2.3.3-2.el8                   AppStream
@@ -868,30 +871,38 @@ dos2unix.x86_64                            7.4.0-3.el8                   BaseOS
 dosfstools.x86_64                          4.1-6.el8                     BaseOS 
 dotconf.i686                               1.3-18.el8                    AppStream
 dotconf.x86_64                             1.3-18.el8                    AppStream
-dotnet.x86_64                              5.0.100-0.6.preview8.el8      AppStream
+dotnet.x86_64                              5.0.100-0.8.0201202git337413b.el8_3
+                                                                         AppStream
 dotnet-apphost-pack-3.0.x86_64             3.0.3-1.el8_1                 AppStream
 dotnet-apphost-pack-3.1.x86_64             3.1.10-1.el8_3                AppStream
-dotnet-apphost-pack-5.0.x86_64             5.0.0-0.6.preview8.el8        AppStream
-dotnet-host.x86_64                         5.0.0-0.6.preview8.el8        AppStream
+dotnet-apphost-pack-5.0.x86_64             5.0.0-0.8.0201202git337413b.el8_3
+                                                                         AppStream
+dotnet-host.x86_64                         5.0.0-0.8.0201202git337413b.el8_3
+                                                                         AppStream
 dotnet-host-fxr-2.1.x86_64                 2.1.22-1.el8                  AppStream
 dotnet-hostfxr-3.0.x86_64                  3.0.3-1.el8_1                 AppStream
 dotnet-hostfxr-3.1.x86_64                  3.1.10-1.el8_3                AppStream
-dotnet-hostfxr-5.0.x86_64                  5.0.0-0.6.preview8.el8        AppStream
+dotnet-hostfxr-5.0.x86_64                  5.0.0-0.8.0201202git337413b.el8_3
+                                                                         AppStream
 dotnet-runtime-2.1.x86_64                  2.1.22-1.el8                  AppStream
 dotnet-runtime-3.0.x86_64                  3.0.3-1.el8_1                 AppStream
 dotnet-runtime-3.1.x86_64                  3.1.10-1.el8_3                AppStream
-dotnet-runtime-5.0.x86_64                  5.0.0-0.6.preview8.el8        AppStream
+dotnet-runtime-5.0.x86_64                  5.0.0-0.8.0201202git337413b.el8_3
+                                                                         AppStream
 dotnet-sdk-2.1.x86_64                      2.1.518-1.el8                 AppStream
 dotnet-sdk-2.1.5xx.x86_64                  2.1.518-1.el8                 AppStream
 dotnet-sdk-3.0.x86_64                      3.0.103-1.el8_1               AppStream
 dotnet-sdk-3.1.x86_64                      3.1.110-1.el8_3               AppStream
-dotnet-sdk-5.0.x86_64                      5.0.100-0.6.preview8.el8      AppStream
+dotnet-sdk-5.0.x86_64                      5.0.100-0.8.0201202git337413b.el8_3
+                                                                         AppStream
 dotnet-targeting-pack-3.0.x86_64           3.0.3-1.el8_1                 AppStream
 dotnet-targeting-pack-3.1.x86_64           3.1.10-1.el8_3                AppStream
-dotnet-targeting-pack-5.0.x86_64           5.0.0-0.6.preview8.el8        AppStream
+dotnet-targeting-pack-5.0.x86_64           5.0.0-0.8.0201202git337413b.el8_3
+                                                                         AppStream
 dotnet-templates-3.0.x86_64                3.0.103-1.el8_1               AppStream
 dotnet-templates-3.1.x86_64                3.1.110-1.el8_3               AppStream
-dotnet-templates-5.0.x86_64                5.0.100-0.6.preview8.el8      AppStream
+dotnet-templates-5.0.x86_64                5.0.100-0.8.0201202git337413b.el8_3
+                                                                         AppStream
 dovecot.x86_64                             1:2.3.8-4.el8                 AppStream
 dovecot-mysql.x86_64                       1:2.3.8-4.el8                 AppStream
 dovecot-pgsql.x86_64                       1:2.3.8-4.el8                 AppStream
@@ -1003,8 +1014,8 @@ expat-devel.i686                           2.2.5-4.el8                   BaseOS
 expat-devel.x86_64                         2.2.5-4.el8                   BaseOS 
 expect.x86_64                              5.45.4-5.el8                  BaseOS 
 fabtests.x86_64                            1.10.0-1.el8                  AppStream
-fapolicyd.x86_64                           1.0-3.el8_3.2                 AppStream
-fapolicyd-selinux.noarch                   1.0-3.el8_3.2                 AppStream
+fapolicyd.x86_64                           1.0-3.el8_3.3                 AppStream
+fapolicyd-selinux.noarch                   1.0-3.el8_3.3                 AppStream
 farstream02.i686                           0.2.8-2.el8                   AppStream
 farstream02.x86_64                         0.2.8-2.el8                   AppStream
 fcoe-utils.x86_64                          1.0.32-7.el8                  BaseOS 
@@ -1078,7 +1089,7 @@ fio.x86_64                                 3.19-3.el8                    AppStre
 fipscheck.x86_64                           1.5.0-4.el8                   BaseOS 
 fipscheck-lib.i686                         1.5.0-4.el8                   BaseOS 
 fipscheck-lib.x86_64                       1.5.0-4.el8                   BaseOS 
-firefox.x86_64                             78.3.0-1.el8                  AppStream
+firefox.x86_64                             78.5.0-1.el8_3                AppStream
 firewall-applet.noarch                     0.8.2-2.el8                   AppStream
 firewall-config.noarch                     0.8.2-2.el8                   AppStream
 firewalld.noarch                           0.8.2-2.el8                   BaseOS 
@@ -1196,6 +1207,62 @@ gcc-gdb-plugin.i686                        8.3.1-5.1.el8                 AppStre
 gcc-gdb-plugin.x86_64                      8.3.1-5.1.el8                 AppStream
 gcc-gfortran.x86_64                        8.3.1-5.1.el8                 AppStream
 gcc-offload-nvptx.x86_64                   8.3.1-5.1.el8                 AppStream
+gcc-toolset-10.x86_64                      10.0-0.el8                    AppStream
+gcc-toolset-10-binutils.x86_64             2.35-5.el8                    AppStream
+gcc-toolset-10-binutils-devel.i686         2.35-5.el8                    AppStream
+gcc-toolset-10-binutils-devel.x86_64       2.35-5.el8                    AppStream
+gcc-toolset-10-build.x86_64                10.0-0.el8                    AppStream
+gcc-toolset-10-dyninst.x86_64              10.1.0-2.el8                  AppStream
+gcc-toolset-10-dyninst-devel.i686          10.1.0-2.el8                  AppStream
+gcc-toolset-10-dyninst-devel.x86_64        10.1.0-2.el8                  AppStream
+gcc-toolset-10-elfutils-debuginfod-client.i686
+                                           0.180-1.el8                   AppStream
+gcc-toolset-10-elfutils-debuginfod-client.x86_64
+                                           0.180-1.el8                   AppStream
+gcc-toolset-10-elfutils-debuginfod-client-devel.i686
+                                           0.180-1.el8                   AppStream
+gcc-toolset-10-elfutils-debuginfod-client-devel.x86_64
+                                           0.180-1.el8                   AppStream
+gcc-toolset-10-elfutils-devel.i686         0.180-1.el8                   AppStream
+gcc-toolset-10-elfutils-devel.x86_64       0.180-1.el8                   AppStream
+gcc-toolset-10-elfutils-libelf.i686        0.180-1.el8                   AppStream
+gcc-toolset-10-elfutils-libelf.x86_64      0.180-1.el8                   AppStream
+gcc-toolset-10-elfutils-libelf-devel.i686  0.180-1.el8                   AppStream
+gcc-toolset-10-elfutils-libelf-devel.x86_64
+                                           0.180-1.el8                   AppStream
+gcc-toolset-10-elfutils-libs.i686          0.180-1.el8                   AppStream
+gcc-toolset-10-elfutils-libs.x86_64        0.180-1.el8                   AppStream
+gcc-toolset-10-gcc.x86_64                  10.2.1-2.el8                  AppStream
+gcc-toolset-10-gcc-gdb-plugin.x86_64       10.2.1-2.el8                  AppStream
+gcc-toolset-10-gdb-doc.noarch              9.2-2.el8                     AppStream
+gcc-toolset-10-gdb-gdbserver.x86_64        9.2-2.el8                     AppStream
+gcc-toolset-10-libasan-devel.i686          10.2.1-2.el8                  AppStream
+gcc-toolset-10-libasan-devel.x86_64        10.2.1-2.el8                  AppStream
+gcc-toolset-10-libatomic-devel.i686        10.2.1-2.el8                  AppStream
+gcc-toolset-10-libatomic-devel.x86_64      10.2.1-2.el8                  AppStream
+gcc-toolset-10-libitm-devel.i686           10.2.1-2.el8                  AppStream
+gcc-toolset-10-libitm-devel.x86_64         10.2.1-2.el8                  AppStream
+gcc-toolset-10-liblsan-devel.x86_64        10.2.1-2.el8                  AppStream
+gcc-toolset-10-libstdc++-docs.x86_64       10.2.1-2.el8                  AppStream
+gcc-toolset-10-libtsan-devel.x86_64        10.2.1-2.el8                  AppStream
+gcc-toolset-10-libubsan-devel.i686         10.2.1-2.el8                  AppStream
+gcc-toolset-10-libubsan-devel.x86_64       10.2.1-2.el8                  AppStream
+gcc-toolset-10-make-devel.i686             1:4.2.1-1.el8                 AppStream
+gcc-toolset-10-make-devel.x86_64           1:4.2.1-1.el8                 AppStream
+gcc-toolset-10-runtime.x86_64              10.0-0.el8                    AppStream
+gcc-toolset-10-strace.x86_64               5.7-1.el8                     AppStream
+gcc-toolset-10-systemtap.x86_64            4.3-7.el8                     AppStream
+gcc-toolset-10-systemtap-client.x86_64     4.3-7.el8                     AppStream
+gcc-toolset-10-systemtap-devel.i686        4.3-7.el8                     AppStream
+gcc-toolset-10-systemtap-devel.x86_64      4.3-7.el8                     AppStream
+gcc-toolset-10-systemtap-initscript.x86_64 4.3-7.el8                     AppStream
+gcc-toolset-10-systemtap-runtime.x86_64    4.3-7.el8                     AppStream
+gcc-toolset-10-systemtap-sdt-devel.i686    4.3-7.el8                     AppStream
+gcc-toolset-10-systemtap-sdt-devel.x86_64  4.3-7.el8                     AppStream
+gcc-toolset-10-systemtap-server.x86_64     4.3-7.el8                     AppStream
+gcc-toolset-10-valgrind.x86_64             1:3.16.0-3.el8                AppStream
+gcc-toolset-10-valgrind-devel.i686         1:3.16.0-3.el8                AppStream
+gcc-toolset-10-valgrind-devel.x86_64       1:3.16.0-3.el8                AppStream
 gcc-toolset-9.x86_64                       9.0-4.el8                     AppStream
 gcc-toolset-9-annobin.x86_64               9.08-4.el8                    AppStream
 gcc-toolset-9-binutils.x86_64              2.32-17.el8_1                 AppStream
@@ -1337,6 +1404,7 @@ gfbgraph.x86_64                            0.2.3-6.el8                   AppStre
 gfs2-utils.x86_64                          3.2.0-9.el8                   BaseOS 
 ghc-srpm-macros.noarch                     1.4.2-7.el8                   AppStream
 ghostscript.x86_64                         9.25-7.el8                    AppStream
+ghostscript-x11.x86_64                     9.25-7.el8                    AppStream
 giflib.i686                                5.1.4-3.el8                   AppStream
 giflib.x86_64                              5.1.4-3.el8                   AppStream
 gimp.x86_64                                2:2.8.22-15.module_el8.0.0+36+bb6a76a2
@@ -1360,6 +1428,7 @@ git-daemon.x86_64                          2.27.0-1.el8                  AppStre
 git-email.noarch                           2.27.0-1.el8                  AppStream
 git-gui.noarch                             2.27.0-1.el8                  AppStream
 git-instaweb.noarch                        2.27.0-1.el8                  AppStream
+git-lfs.x86_64                             2.11.0-2.el8                  AppStream
 git-subtree.x86_64                         2.27.0-1.el8                  AppStream
 git-svn.noarch                             2.27.0-1.el8                  AppStream
 gitk.noarch                                2.27.0-1.el8                  AppStream
@@ -1918,6 +1987,11 @@ graphite2-devel.i686                       1.3.10-10.el8                 AppStre
 graphite2-devel.x86_64                     1.3.10-10.el8                 AppStream
 graphviz.i686                              2.40.1-40.el8                 AppStream
 graphviz.x86_64                            2.40.1-40.el8                 AppStream
+greenboot.x86_64                           0.11-1.el8                    AppStream
+greenboot-grub2.x86_64                     0.11-1.el8                    AppStream
+greenboot-reboot.x86_64                    0.11-1.el8                    AppStream
+greenboot-rpm-ostree-grub2.x86_64          0.11-1.el8                    AppStream
+greenboot-status.x86_64                    0.11-1.el8                    AppStream
 grep.x86_64                                3.1-6.el8                     BaseOS 
 grilo.i686                                 0.3.6-2.el8                   AppStream
 grilo.x86_64                               0.3.6-2.el8                   AppStream
@@ -2499,11 +2573,8 @@ java-1.8.0-openjdk-accessibility.x86_64    1:1.8.0.272.b10-3.el8_3       AppStre
 java-1.8.0-openjdk-demo.x86_64             1:1.8.0.272.b10-3.el8_3       AppStream
 java-1.8.0-openjdk-devel.x86_64            1:1.8.0.272.b10-3.el8_3       AppStream
 java-1.8.0-openjdk-headless.x86_64         1:1.8.0.272.b10-3.el8_3       AppStream
-java-1.8.0-openjdk-headless-slowdebug.x86_64
-                                           1:1.8.0.272.b10-3.el8_3       AppStream
 java-1.8.0-openjdk-javadoc.noarch          1:1.8.0.272.b10-3.el8_3       AppStream
 java-1.8.0-openjdk-javadoc-zip.noarch      1:1.8.0.272.b10-3.el8_3       AppStream
-java-1.8.0-openjdk-slowdebug.x86_64        1:1.8.0.272.b10-3.el8_3       AppStream
 java-1.8.0-openjdk-src.x86_64              1:1.8.0.272.b10-3.el8_3       AppStream
 java-11-openjdk.x86_64                     1:11.0.9.11-2.el8_3           AppStream
 java-11-openjdk-demo.x86_64                1:11.0.9.11-2.el8_3           AppStream
@@ -2513,6 +2584,7 @@ java-11-openjdk-javadoc.x86_64             1:11.0.9.11-2.el8_3           AppStre
 java-11-openjdk-javadoc-zip.x86_64         1:11.0.9.11-2.el8_3           AppStream
 java-11-openjdk-jmods.x86_64               1:11.0.9.11-2.el8_3           AppStream
 java-11-openjdk-src.x86_64                 1:11.0.9.11-2.el8_3           AppStream
+java-11-openjdk-static-libs.x86_64         1:11.0.9.11-2.el8_3           AppStream
 java-atk-wrapper.x86_64                    0.33.2-6.el8                  AppStream
 javapackages-filesystem.noarch             5.3.0-1.module_el8.0.0+11+5b8c10bd
                                                                          AppStream
@@ -2551,6 +2623,7 @@ jomolhari-fonts.noarch                     0.003-24.el8                  AppStre
 jose.x86_64                                10-2.el8                      AppStream
 jq.i686                                    1.5-12.el8                    AppStream
 jq.x86_64                                  1.5-12.el8                    AppStream
+js-d3-flame-graph.noarch                   3.0.2-2.el8                   AppStream
 json-c.i686                                0.13.1-0.2.el8                BaseOS 
 json-c.x86_64                              0.13.1-0.2.el8                BaseOS 
 json-glib.i686                             1.4.4-1.el8                   BaseOS 
@@ -4351,6 +4424,7 @@ mcelog.x86_64                              3:166-0.el8                   BaseOS
 mcpp.x86_64                                2.7.2-20.el8                  AppStream
 mcstrans.x86_64                            2.9-2.el8                     BaseOS 
 mdadm.x86_64                               4.1-14.el8                    BaseOS 
+mdevctl.noarch                             0.61-3.el8                    AppStream
 meanwhile.i686                             1.1.0-23.el8                  AppStream
 meanwhile.x86_64                           1.1.0-23.el8                  AppStream
 mecab.x86_64                               0.996-1.module_el8.2.0+493+63b41e36.9
@@ -4362,7 +4436,7 @@ mecab-ipadic-EUCJP.x86_64                  2.7.0.20070801-16.module_el8.2.0+493+
 media-player-info.noarch                   23-2.el8                      AppStream
 memcached.x86_64                           1.5.22-2.el8                  AppStream
 memkind.x86_64                             1.10.0-10.el8                 AppStream
-memstrack.x86_64                           0.1.11-1.el8                  AppStream
+memstrack.x86_64                           0.1.11-1.el8                  BaseOS 
 memtest86+.x86_64                          5.01-19.el8                   BaseOS 
 mercurial.x86_64                           4.8.2-1.module_el8.0.0+40+715dddeb
                                                                          AppStream
@@ -4404,7 +4478,7 @@ mesa-vulkan-drivers.i686                   20.1.4-1.el8                  AppStre
 mesa-vulkan-drivers.x86_64                 20.1.4-1.el8                  AppStream
 metacity.i686                              3.28.0-1.el8                  AppStream
 metacity.x86_64                            3.28.0-1.el8                  AppStream
-microcode_ctl.x86_64                       4:20200609-2.el8              BaseOS 
+microcode_ctl.x86_64                       4:20200609-2.20201027.1.el8_3 BaseOS 
 microdnf.x86_64                            3.4.0-1.el8                   BaseOS 
 minicom.x86_64                             2.7.1-9.el8                   BaseOS 
 mksh.x86_64                                56c-5.el8                     BaseOS 
@@ -4590,6 +4664,7 @@ net-snmp-devel.i686                        1:5.8-17.el8                  AppStre
 net-snmp-devel.x86_64                      1:5.8-17.el8                  AppStream
 net-snmp-libs.i686                         1:5.8-17.el8                  BaseOS 
 net-snmp-libs.x86_64                       1:5.8-17.el8                  BaseOS 
+net-snmp-perl.x86_64                       1:5.8-17.el8                  AppStream
 net-snmp-utils.x86_64                      1:5.8-17.el8                  AppStream
 net-tools.x86_64                           2.0-0.52.20160912git.el8      BaseOS 
 netcf.x86_64                               0.2.8-12.module_el8.3.0+555+a55c8938
@@ -4603,7 +4678,8 @@ netlabel_tools.x86_64                      0.30.0-3.el8                  BaseOS
 netpbm.i686                                10.82.00-6.el8                AppStream
 netpbm.x86_64                              10.82.00-6.el8                AppStream
 netpbm-progs.x86_64                        10.82.00-6.el8                AppStream
-netstandard-targeting-pack-2.1.x86_64      5.0.100-0.6.preview8.el8      AppStream
+netstandard-targeting-pack-2.1.x86_64      5.0.100-0.8.0201202git337413b.el8_3
+                                                                         AppStream
 nettle.i686                                3.4.1-2.el8                   BaseOS 
 nettle.x86_64                              3.4.1-2.el8                   BaseOS 
 nettle-devel.i686                          3.4.1-2.el8                   AppStream
@@ -4639,6 +4715,7 @@ nm-connection-editor.x86_64                1.18.0-2.el8                  AppStre
 nmap.x86_64                                2:7.70-5.el8                  AppStream
 nmap-ncat.x86_64                           2:7.70-5.el8                  AppStream
 nmstate.noarch                             0.3.4-13.el8_3                AppStream
+nmstate-plugin-ovsdb.noarch                0.3.4-13.el8_3                AppStream
 nodejs.x86_64                              1:14.11.0-1.module_el8.3.0+516+516d0fc0
                                                                          AppStream
 nodejs-devel.x86_64                        1:14.11.0-1.module_el8.3.0+516+516d0fc0
@@ -4816,6 +4893,7 @@ osbuild.noarch                             18-3.el8                      AppStre
 osbuild-composer.x86_64                    20.1-1.el8                    AppStream
 osbuild-composer-worker.x86_64             20.1-1.el8                    AppStream
 osbuild-ostree.noarch                      18-3.el8                      AppStream
+osbuild-selinux.noarch                     18-3.el8                      AppStream
 oscap-anaconda-addon.noarch                1.1.1-5.el8                   AppStream
 osinfo-db.noarch                           20200813-1.el8                AppStream
 osinfo-db-tools.x86_64                     1.8.0-1.el8                   AppStream
@@ -5219,6 +5297,7 @@ perl-MRO-Compat.noarch                     0.13-5.module_el8.3.0+406+78614513
                                                                          AppStream
 perl-Mail-DKIM.noarch                      0.54-1.el8                    AppStream
 perl-Mail-SPF.noarch                       2.9.0-15.el8                  AppStream
+perl-Mail-Sender.noarch                    1:0.903-7.el8                 AppStream
 perl-MailTools.noarch                      2.20-2.el8                    AppStream
 perl-Math-BigInt.noarch                    1:1.9998.18-1.module_el8.3.0+406+78614513
                                                                          AppStream
@@ -5535,6 +5614,8 @@ pipewire-doc.x86_64                        0.3.6-1.el8                   AppStre
 pipewire-libs.i686                         0.3.6-1.el8                   AppStream
 pipewire-libs.x86_64                       0.3.6-1.el8                   AppStream
 pipewire-utils.x86_64                      0.3.6-1.el8                   AppStream
+pipewire0.2-devel.i686                     0.2.7-6.el8                   AppStream
+pipewire0.2-devel.x86_64                   0.2.7-6.el8                   AppStream
 pipewire0.2-libs.i686                      0.2.7-6.el8                   AppStream
 pipewire0.2-libs.x86_64                    0.2.7-6.el8                   AppStream
 pixman.i686                                0.38.4-1.el8                  AppStream
@@ -5920,6 +6001,7 @@ python3-blivet.noarch                      1:3.2.2-6.el8                 AppStre
 python3-blockdev.x86_64                    2.24-1.el8                    AppStream
 python3-boom.noarch                        1.2-2.el8                     BaseOS 
 python3-brlapi.x86_64                      0.6.7-28.el8                  AppStream
+python3-brotli.x86_64                      1.0.6-2.el8                   AppStream
 python3-bson.x86_64                        3.6.1-11.module_el8.3.0+562+e162826a
                                                                          AppStream
 python3-bytesize.x86_64                    1.4-3.el8                     AppStream
@@ -6030,6 +6112,8 @@ python3-libdnf.x86_64                      0.48.0-5.el8                  BaseOS
 python3-libguestfs.x86_64                  1:1.40.2-25.module_el8.3.0+555+a55c8938
                                                                          AppStream
 python3-libipa_hbac.x86_64                 2.3.0-9.el8                   BaseOS 
+python3-libmodulemd.x86_64                 2.9.4-2.el8                   AppStream
+python3-libmount.x86_64                    2.32.1-24.el8                 AppStream
 python3-libnbd.x86_64                      1.2.2-1.module_el8.3.0+555+a55c8938
                                                                          AppStream
 python3-libnl3.x86_64                      3.5.0-1.el8                   BaseOS 
@@ -6189,6 +6273,7 @@ python3-simpleline.noarch                  1.1.1-2.el8                   AppStre
 python3-six.noarch                         1.11.0-8.el8                  BaseOS 
 python3-slip.noarch                        0.6.4-11.el8                  BaseOS 
 python3-slip-dbus.noarch                   0.6.4-11.el8                  BaseOS 
+python3-solv.x86_64                        0.7.11-1.el8                  BaseOS 
 python3-spacewalk-abrt.noarch              2.8.3-5.module_el8.1.0+210+a3d63f21
                                                                          AppStream
 python3-spacewalk-backend-libs.noarch      2.8.48-4.module_el8.1.0+210+a3d63f21
@@ -6232,6 +6317,7 @@ python3-wheel.noarch                       1:0.31.1-2.module_el8.3.0+562+e162826
                                                                          AppStream
 python3-wheel-wheel.noarch                 1:0.31.1-2.module_el8.3.0+562+e162826a
                                                                          AppStream
+python3-wx-siplib.x86_64                   4.19.19-2.el8                 AppStream
 python3-yubico.noarch                      1.3.2-9.module_el8.3.0+514+e7703106
                                                                          AppStream
 python36.x86_64                            3.6.8-2.module_el8.3.0+562+e162826a
@@ -6942,7 +7028,6 @@ spice-gtk3-devel.x86_64                    0.38-3.el8                    AppStre
 spice-gtk3-vala.x86_64                     0.38-3.el8                    AppStream
 spice-protocol.noarch                      0.14.2-1.el8                  AppStream
 spice-qxl-wddm-dod.noarch                  0.20-1.el8                    AppStream
-spice-qxl-xddm.noarch                      0.1-24.el8.2                  AppStream
 spice-server.i686                          0.14.3-3.el8                  AppStream
 spice-server.x86_64                        0.14.3-3.el8                  AppStream
 spice-streaming-agent.x86_64               0.3-2.el8                     AppStream
@@ -7436,7 +7521,8 @@ thai-scalable-tlwgtypo-fonts.noarch        0.6.5-1.el8                   AppStre
 thai-scalable-umpush-fonts.noarch          0.6.5-1.el8                   AppStream
 thai-scalable-waree-fonts.noarch           0.6.5-1.el8                   AppStream
 theora-tools.x86_64                        1:1.1.1-21.el8                AppStream
-thunderbird.x86_64                         78.4.0-1.el8_3                AppStream
+thermald.x86_64                            1.9.1-2.el8                   AppStream
+thunderbird.x86_64                         78.5.1-1.el8_3                AppStream
 tibetan-machine-uni-fonts.noarch           1.901-20.el8                  AppStream
 tigervnc.x86_64                            1.10.1-7.el8                  AppStream
 tigervnc-icons.noarch                      1.10.1-7.el8                  AppStream
@@ -7519,6 +7605,7 @@ udica.noarch                               0.2.2-1.module_el8.3.0+475+c50ce30b
                                                                          AppStream
 udisks2.x86_64                             2.9.0-3.el8                   AppStream
 udisks2-iscsi.x86_64                       2.9.0-3.el8                   AppStream
+udisks2-lsm.x86_64                         2.9.0-3.el8                   AppStream
 udisks2-lvm2.x86_64                        2.9.0-3.el8                   AppStream
 unbound.x86_64                             1.7.3-14.el8                  AppStream
 unbound-devel.i686                         1.7.3-14.el8                  AppStream
@@ -7571,6 +7658,7 @@ usb_modeswitch-data.noarch                 20191128-1.el8                BaseOS
 usbguard.i686                              0.7.8-7.el8                   AppStream
 usbguard.x86_64                            0.7.8-7.el8                   AppStream
 usbguard-dbus.x86_64                       0.7.8-7.el8                   AppStream
+usbguard-notifier.x86_64                   0.7.8-7.el8                   AppStream
 usbguard-selinux.noarch                    0.7.8-7.el8                   AppStream
 usbguard-tools.x86_64                      0.7.8-7.el8                   AppStream
 usbmuxd.x86_64                             1.1.0-13.el8                  AppStream
