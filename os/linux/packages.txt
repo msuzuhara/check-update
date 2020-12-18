@@ -58293,7 +58293,7 @@ unsort/xenial 1.2.1-1 amd64
 untex/xenial 1:1.2-5 amd64
 unworkable/xenial 0.53-3 amd64
 unyaffs/xenial 0.9.6-1 amd64
-unzip/xenial 6.0-20ubuntu1 amd64
+unzip/xenial-updates 6.0-20ubuntu1.1 amd64
 uoa-integration-tests/xenial 0.2+15.04.20150413.3-0ubuntu1 all
 update-inetd/xenial 4.43 all
 update-manager/xenial-updates 1:16.04.17 all
