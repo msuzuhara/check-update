@@ -7346,7 +7346,7 @@ galera-arbitrator-3/buster 25.3.25-2 amd64
 galera-arbitrator-4/buster-backports 26.4.5-1~bpo10+1 amd64
 galileo/buster 0.5.1-6 all
 galileo-daemon/buster 0.5.1-6 all
-gallery-dl/buster-backports 1.15.4-1~bpo10+1 all
+gallery-dl/buster-backports 1.16.0-1~bpo10+1 all
 galleta/buster 1.0+20040505-10 amd64
 galois/buster 0.6-1 amd64
 galternatives/buster 1.0.4 all
@@ -43217,7 +43217,7 @@ plink1.9/buster 1.90~b6.6-181012-1 amd64
 plinth/buster 19.1+deb10u1 all
 plip/buster 1.4.3~b+dfsg-2 all
 plm/buster 2.6+repack-3 all
-plocate/buster-backports 1.0.7-1~bpo10+1 amd64
+plocate/buster-backports 1.1.2-2~bpo10+1 amd64
 ploop/buster 1.15-6 amd64
 plopfolio.app/buster 0.1.0-7+b3 amd64
 plotdrop/buster 0.5.4-1 amd64
