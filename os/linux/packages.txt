@@ -42741,7 +42741,7 @@ php-net-ftp/buster 1:1.4.0-2 all
 php-net-idna2/buster 0.1.1-1 all
 php-net-imap/buster 1:1.1.3-2 all
 php-net-ipv6/buster 1.3.0b4-1 all
-php-net-ldap2/buster-backports 2.2.0-4~bpo10+1 all
+php-net-ldap2/buster-backports 2.2.0-5~bpo10+1 all
 php-net-nntp/buster 1.5.0-2 all
 php-net-publicsuffix/buster 0.2-1 all
 php-net-sieve/buster 1.4.1-1 all
@@ -51851,15 +51851,15 @@ remmina/buster 1.3.3+dfsg-2 amd64
 remmina-common/buster 1.3.3+dfsg-2 all
 remmina-dev/buster 1.3.3+dfsg-2 amd64
 remmina-plugin-exec/buster 1.3.3+dfsg-2 amd64
-remmina-plugin-kiosk/buster-backports 1.4.8+dfsg-2~bpo10+2 amd64
-remmina-plugin-kwallet/buster-backports 1.4.8+dfsg-2~bpo10+2 amd64
+remmina-plugin-kiosk/buster-backports 1.4.10+dfsg-1~bpo10+1 amd64
+remmina-plugin-kwallet/buster-backports 1.4.10+dfsg-1~bpo10+1 amd64
 remmina-plugin-nx/buster 1.3.3+dfsg-2 amd64
 remmina-plugin-rdp/buster 1.3.3+dfsg-2 amd64
 remmina-plugin-secret/buster 1.3.3+dfsg-2 amd64
 remmina-plugin-spice/buster 1.3.3+dfsg-2 amd64
 remmina-plugin-telepathy/buster 1.3.3+dfsg-2 amd64
 remmina-plugin-vnc/buster 1.3.3+dfsg-2 amd64
-remmina-plugin-www/buster-backports 1.4.8+dfsg-2~bpo10+2 amd64
+remmina-plugin-www/buster-backports 1.4.10+dfsg-1~bpo10+1 amd64
 remmina-plugin-xdmcp/buster 1.3.3+dfsg-2 amd64
 remote-logon-config-agent/buster 0.10-1 all
 remote-logon-service/buster 1.0.2.90-3 amd64
