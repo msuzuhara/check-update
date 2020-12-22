@@ -4503,6 +4503,7 @@ dovecot-antispam/buster 2.0+20171229-1+b4 amd64
 dovecot-auth-lua/buster 1:2.3.4.1-5+deb10u4 amd64
 dovecot-core/buster 1:2.3.4.1-5+deb10u4 amd64
 dovecot-dev/buster 1:2.3.4.1-5+deb10u4 amd64
+dovecot-fts-xapian/buster-backports 1.4.4-1~bpo10+1 amd64
 dovecot-gssapi/buster 1:2.3.4.1-5+deb10u4 amd64
 dovecot-imapd/buster 1:2.3.4.1-5+deb10u4 amd64
 dovecot-ldap/buster 1:2.3.4.1-5+deb10u4 amd64
@@ -5689,6 +5690,7 @@ fastp/buster 0.19.6+dfsg-1 amd64
 fastqc/buster 0.11.8+dfsg-2 all
 fastqtl/buster 2.184+dfsg-6+b1 amd64
 fastqtl-doc/buster 2.184+dfsg-6 all
+fasttrack-archive-keyring/buster-backports 2020.12.07~bpo10+1 all
 fasttree/buster 2.1.10-2 amd64
 fastx-toolkit/buster 0.0.14-6 amd64
 fatattr/buster 1.0.1-14 amd64
@@ -25772,6 +25774,7 @@ libkiten-dev/buster 4:17.08.3-1 amd64
 libkiten5/buster 4:17.08.3-1 amd64
 libkiwix-dev/buster 3.1.1-1 amd64
 libkiwix3/buster 3.1.1-1 amd64
+libkiwix9/buster-backports 9.4.1+dfsg-1~bpo10+1 amd64
 libkjsapi4/buster 4:4.14.38-3 amd64
 libkjsembed4/buster 4:4.14.38-3 amd64
 libkkc-common/buster 0.3.5-4 all
@@ -42742,6 +42745,7 @@ php-net-idna2/buster 0.1.1-1 all
 php-net-imap/buster 1:1.1.3-2 all
 php-net-ipv6/buster 1.3.0b4-1 all
 php-net-ldap2/buster-backports 2.2.0-5~bpo10+1 all
+php-net-ldap3/buster-backports 1.1.3-2~bpo10+1 all
 php-net-nntp/buster 1.5.0-2 all
 php-net-publicsuffix/buster 0.2-1 all
 php-net-sieve/buster 1.4.1-1 all
@@ -58421,6 +58425,7 @@ xpaint-dev/buster 2.9.1.4-3.2+b1 amd64
 xpat2/buster 1.07-20 amd64
 xpdf/buster 3.04-13 amd64
 xpenguins/buster 2.2-11 amd64
+xperia-flashtool/buster-backports 0.9.31+ds-2~bpo10+1 all
 xphoon/buster 20000613+0-7 amd64
 xpilot-extra/buster 4.7.3 all
 xpilot-ng/buster 1:4.7.3-2.3 all
@@ -58850,6 +58855,7 @@ zhcon/buster 1:0.2.6-16 amd64
 zhcon-data/buster 1:0.2.6-16 all
 zile/buster 2.4.14-7+b1 amd64
 zim/buster 0.68-1 all
+zim-tools/buster-backports 2.1.0-1~bpo10+1 amd64
 zimpl/buster 3.3.6-1 amd64
 zimwriterfs/buster 1.2-1 amd64
 zinnia-utils/buster 0.06-4 amd64
