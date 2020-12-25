@@ -17281,7 +17281,7 @@ libdatetime-incomplete-perl/buster 0.08-1 all
 libdatetime-locale-perl/buster 1:1.23-1 all
 libdatetime-perl/buster 2:1.50-1+b1 amd64
 libdatetime-set-perl/buster 0.3900-1 all
-libdatetime-timezone-perl/buster-updates 1:2.23-1+2020d all
+libdatetime-timezone-perl/buster-updates 1:2.23-1+2020e all
 libdatetime-timezone-systemv-perl/buster 0.010-1 all
 libdatetime-timezone-tzfile-perl/buster 0.011-1 all
 libdatetime-tiny-perl/buster 1.07-1 all
@@ -56617,7 +56617,7 @@ txwinrm/buster 1.3.3-1 all
 typespeed/buster 0.6.5-2.1+b3 amd64
 tz-converter/buster 1.0.1-1 all
 tzc/buster 2.6.15-5.4 amd64
-tzdata/buster-updates 2020d-0+deb10u1 all
+tzdata/buster-updates 2020e-0+deb10u1 all
 tzdiff/buster 1.0-1 all
 tzwatch/buster 1.4.4-11 all
 u-boot-menu/buster 3 all
