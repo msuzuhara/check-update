@@ -36727,8 +36727,8 @@ libzvbi-doc/buster 0.2.35-16 all
 libzvbi0/buster 0.2.35-16 amd64
 libzxcvbn-dev/buster 2.4+dfsg-2 amd64
 libzxcvbn0/buster 2.4+dfsg-2 amd64
-libzxingcore-dev/buster-backports 1.1.0-1~bpo10+1 amd64
-libzxingcore1/buster-backports 1.1.0-1~bpo10+1 amd64
+libzxingcore-dev/buster-backports 1.1.1-2~bpo10+1 amd64
+libzxingcore1/buster-backports 1.1.1-2~bpo10+1 amd64
 libzypp-bin/buster 17.7.0-1+b1 amd64
 libzypp-common/buster 17.7.0-1 all
 libzypp-config/buster 17.7.0-1 all
