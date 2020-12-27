@@ -7517,15 +7517,15 @@ gammu-smsd/buster 1.40.0-1 amd64
 ganeti/buster 2.16.0-5 all
 ganeti-2.15/buster 2.15.2-15 all
 ganeti-2.16/buster 2.16.0-5 all
-ganeti-3.0/buster-backports 3.0.0~rc1-2~bpo10+1 all
+ganeti-3.0/buster-backports 3.0.0-1~bpo10+1 all
 ganeti-doc/buster 2.16.0-5 all
 ganeti-haskell-2.15/buster 2.15.2-15 amd64
 ganeti-haskell-2.16/buster 2.16.0-5 amd64
-ganeti-haskell-3.0/buster-backports 3.0.0~rc1-2~bpo10+1 amd64
+ganeti-haskell-3.0/buster-backports 3.0.0-1~bpo10+1 amd64
 ganeti-htools/buster 2.16.0-5 all
 ganeti-htools-2.15/buster 2.15.2-15 amd64
 ganeti-htools-2.16/buster 2.16.0-5 amd64
-ganeti-htools-3.0/buster-backports 3.0.0~rc1-2~bpo10+1 amd64
+ganeti-htools-3.0/buster-backports 3.0.0-1~bpo10+1 amd64
 ganeti-instance-debootstrap/buster 0.16-6 all
 ganeti-os-noop/buster 0.2-4 all
 ganeti-testsuite/buster 2.16.0-5 all
@@ -58425,7 +58425,7 @@ xpaint-dev/buster 2.9.1.4-3.2+b1 amd64
 xpat2/buster 1.07-20 amd64
 xpdf/buster 3.04-13 amd64
 xpenguins/buster 2.2-11 amd64
-xperia-flashtool/buster-backports 0.9.31+ds-2~bpo10+1 all
+xperia-flashtool/buster-backports 0.9.31+ds-3~bpo10+1 all
 xphoon/buster 20000613+0-7 amd64
 xpilot-extra/buster 4.7.3 all
 xpilot-ng/buster 1:4.7.3-2.3 all
