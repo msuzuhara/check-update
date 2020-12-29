@@ -13203,6 +13203,8 @@ kiten/buster 4:17.08.3-1 amd64
 kitty/buster 0.13.3-1 amd64
 kitty-doc/buster 0.13.3-1 all
 kitty-terminfo/buster 0.13.3-1 all
+kiwix/buster-backports 2.0.5-2~bpo10+1 amd64
+kiwix-tools/buster-backports 3.1.2-2~bpo10+1 amd64
 kjots/buster 4:5.0.2-1+b2 amd64
 kjumpingcube/buster 4:18.04.1-1 amd64
 klatexformula/buster 4.0.0-4 amd64
@@ -51818,7 +51820,7 @@ redmine/buster-backports 4.0.7-1~bpo10+1 all
 redmine-mysql/buster-backports 4.0.7-1~bpo10+1 all
 redmine-pgsql/buster-backports 4.0.7-1~bpo10+1 all
 redmine-sqlite/buster-backports 4.0.7-1~bpo10+1 all
-rednotebook/buster-backports 2.20+ds-1.1~bpo10+1 all
+rednotebook/buster-backports 2.21+ds-1~bpo10+1 all
 redshift/buster 1.12-2 amd64
 redshift-gtk/buster 1.12-2 all
 redsocks/buster 0.5-2 amd64
