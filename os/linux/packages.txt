@@ -15462,7 +15462,7 @@ libbrlapi-dev/buster 5.6-10+deb10u1 amd64
 libbrlapi-java/buster 5.6-10+deb10u1 all
 libbrlapi-jni/buster 5.6-10+deb10u1 amd64
 libbrlapi0.6/buster 5.6-10+deb10u1 amd64
-libbrlapi0.8/buster-backports 6.1+dfsg-3~bpo10+1 amd64
+libbrlapi0.8/buster-backports 6.2+dfsg-1~bpo10+1 amd64
 libbroccoli-dev/buster 1.100-1 amd64
 libbroccoli5/buster 1.100-1 amd64
 libbrotli-dev/buster 1.0.7-2 amd64
